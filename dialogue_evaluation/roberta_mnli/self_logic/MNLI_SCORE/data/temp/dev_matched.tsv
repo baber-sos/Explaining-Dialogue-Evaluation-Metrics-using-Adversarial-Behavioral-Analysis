@@ -1,0 +1,7 @@
+index	promptID	pairID	genre	sentence1_binary_parse	sentence2_binary_parse	sentence1_parse	sentence2_parse	sentence1	sentence2	label1	label2	label3	label4	label5	gold_label
+0	x	x	x	x	x	x	x	congratulations ! i married my high school sweetheart while working in hollister .	he is retired and eats chips all day . i do not like them .	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	yes . too long . we are skateboarders who travel together to do shows .	he is retired and eats chips all day . i do not like them .	neutral	neutral	neutral	neutral	neutral	neutral
+0	x	x	x	x	x	x	x	25 years this july . we still like going to bluegrass concerts together .	he is retired and eats chips all day . i do not like them .	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	congratulations ! i married my high school sweetheart while working in hollister .	he is retired and eats chips all day . i do not like all day .	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	yes . too long . we are skateboarders who travel together to do shows .	he is retired and eats chips all day . i do not like all day .	neutral	neutral	neutral	neutral	neutral	neutral
+1	x	x	x	x	x	x	x	25 years this july . we still like going to bluegrass concerts together .	he is retired and eats chips all day . i do not like all day .	neutral	neutral	neutral	neutral	neutral	neutral
