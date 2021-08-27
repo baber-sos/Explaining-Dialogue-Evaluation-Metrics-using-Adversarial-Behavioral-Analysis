@@ -1,0 +1,10 @@
+original_conversation
+Excuse me, could you please show me the way to the human resource department?
+Yeah, but have you made an appointment ahead?
+Yes, of course . I am Monica . I have made an appointment with your HR manager .
+Just a minute please . I ’ ll make a call to the HR office . Yes, they confirm your appointment . Please come in . it is on the 3rd floor, room 3106 . You can take the right elevator as the left on is in maintenance today.
+modified_conversation
+Excuse me, could you please show me the way to the human resource department?
+Yeah, but have you made an appointment ahead?
+Yes, of course . I am Monica . I have made an appointment with your HR manager .
+Just a minute please . I ’ ll make a call to the HR office . Yes, they confirm your appointment . Please come in . it is on the 3rd floor, room 3106 . You can take the right elevator as the left on is in maintenance today today today today today.

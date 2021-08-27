@@ -1,0 +1,18 @@
+original_conversation
+Which university did you graduate from?
+I graduated from Peking University .
+What was your major at university?
+I studied economics, I am especially interested in the economic development of China .
+What course did you like best?
+I like Business Management, and i think it's very useful for the present work .
+What do you think is the relationship between the subjects you've taken and the job you are seeking?
+I've taken courses on office administration, reports and correspondence writing . I think all these are closely related to the job of assistant manager, because it requires the ability to perform general office work and to assist the manager in handling all paperwork.
+modified_conversation
+Which university did you graduate from?
+I graduated from Peking University .
+What was your major at university?
+I studied economics, I am especially interested in the economic development of China .
+What course did you like best?
+I like Business Management, and i think it's very useful for the present work .
+What do you think is the relationship between the subjects you've taken and the job you are seeking?
+I've taken courses on office administration, reports and correspondence writing . I think all these are closely related to the Business of assistant manager, because it requires the ability to perform general office work and to assist the manager in handling all paperwork.

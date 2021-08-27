@@ -1,0 +1,12 @@
+original_conversation
+Next , please . May I help you , sir ?
+Hello , yes , I ’ d like to open a bank account .
+Certainly , I can can help you with that . What type of account would you like to open ? A chequing or a savings account ?
+What What features do they offer ?
+Well , if you just take a look here , see , with our chequing account , you can have unlimited daily transactions for a small monthly fee , and our savings account has a higher interest rate , but you must carry a minimum balance of $ 10,000 dollars .
+modified_conversation
+Next , please . May I help you , sir ?
+Hello , yes , I ’ d like to open a bank account .
+Certainly , I can can help you with that . What type of account would you like to open ? A chequing or a savings account ?
+What What features do they offer ?
+Well , if you just take a look here , see , with its chequing account , you can have unlimited daily transactions for a small monthly fee , and my savings account has a higher interest rate , but they must carry a minimum balance of $ 10,000 dollars .

@@ -1,0 +1,10 @@
+original_conversation
+I'd like to make an appointment with Dr.Cooper.Could you arrange it for me ?
+Yes.Would tomorrow morning be all right with you ?
+Sorry , I've got a meeting from nine to ten.What about Monday afternoon ?
+I'm afraid he's fully engaged.Could you make it another time ?
+modified_conversation
+I'd like to make an appointment with Dr.Cooper.Could you arrange it for me ?
+Yes.Would tomorrow morning be all right with you ?
+Sorry , I've got a meeting from nine to ten.What about Monday afternoon ?
+I'm afraid that he is fully engaged. Could you make it another time?

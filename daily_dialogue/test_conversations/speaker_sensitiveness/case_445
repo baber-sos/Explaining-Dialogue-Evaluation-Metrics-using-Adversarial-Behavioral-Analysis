@@ -1,0 +1,14 @@
+original_conversation
+I need a taxi , please .
+We have various transportation services . Would you prefer a private vehicle ?
+No , thanks . A taxi is just fine .
+May I suggest a limo ? It's nice to pamper yourself .
+I don't want anything except a taxi , thank you .
+I understand . And where will you be going ?
+modified_conversation
+I need a taxi , please .
+We have various transportation services . Would you prefer a private vehicle ?
+No , thanks . A taxi is just fine .
+May I suggest a limo ? It's nice to pamper yourself .
+I don't want anything except a taxi , thank you .
+I don't want anything except a taxi , thank you . I understand . And where will you be going ?

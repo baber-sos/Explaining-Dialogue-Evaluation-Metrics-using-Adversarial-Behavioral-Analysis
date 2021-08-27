@@ -1,0 +1,12 @@
+original_conversation
+Hey Jimmy . Let's go workout later today .
+Sure . What time do you want to go ?
+How about at 3:30 ?
+That sounds good . Today we work on Legs and forearm .
+Hey . I just played basketball earlier , so my legs are a little sore . Let's work out on arms and stomach today .
+modified_conversation
+Hey Jimmy . Let's go workout later today .
+Sure . What time do you want to go ?
+How about at 3:30 ?
+That sounds good . Today we work on Legs and forearm .
+Hey . I just played basketball earlier , so my legs are a little sore . Let's run out on arms and stomach today .

@@ -1,0 +1,10 @@
+original_conversation
+Good afternoon ! Did you call for a plumber ?
+Yes , yes I did . Please come in ! I ’ m so glad you came ! This old house is falling apart ! Come on into the bathroom . See , here , there ’ s water leaking everywhere !
+I see . Let me have a look . It seems that your toilet is clogged , and that ’ s why it won ’ t flush . Let me just get my plunger . No , that ’ s not working either . I suspect that there ’ s some sort of foreign object in the pipes that ‘ s causing a blockage . That ’ s what ’ s making your toilet overflow .
+Oh , that must be because of my four-year-old daughter . She is always flushing things down the toilet . You know how kids are .
+modified_conversation
+Good afternoon ! Did you call for a plumber ?
+Yes , yes I did . Please come in ! I ’ m so glad you came ! This old house is falling apart ! Come on into the bathroom . See , here , there ’ s water leaking everywhere !
+I see . Let me have a look . It seems that your toilet is clogged , and that ’ s why it won ’ t flush . Let me just get my plunger . No , that ’ s not working either . I suspect that there ’ s some sort of foreign object in the pipes that ‘ s causing a blockage . That ’ s what ’ s making your toilet overflow .
+Oh, that must be the daughter of my four-year-old, who is always flushing things down the toilet, you know how kids are.

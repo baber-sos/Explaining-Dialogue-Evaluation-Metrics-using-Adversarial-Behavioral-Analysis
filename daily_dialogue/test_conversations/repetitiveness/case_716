@@ -1,0 +1,18 @@
+original_conversation
+What would you like to have for dinner? Chicken or beef?
+Chicken, please .
+Good choice!
+What kind of drinks do you have?
+Well, we have all kinds of beverages in addition to fruit juices .
+In that case, let me have a glass of orange juice .
+Anything else?
+I would like to have some tea as well.
+modified_conversation
+What would you like to have for dinner? Chicken or beef?
+Chicken, please .
+Good choice!
+What kind of drinks do you have?
+Well, we have all kinds of beverages in addition to fruit juices .
+In that case, let me have a glass of orange juice .
+Anything else?
+I would like to have have have some tea as well.

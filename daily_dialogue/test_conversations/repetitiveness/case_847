@@ -1,0 +1,14 @@
+original_conversation
+Marketing Manager ’ s Office . Can I help you ?
+Mr . Smith , please .
+Sorry , he is out .
+What time do you expect him back then ?
+Sorry , I am not sure . Can I take a message ?
+No , thanks . I will call back later .
+modified_conversation
+Marketing Manager ’ s Office . Can I help you ?
+Mr . Smith , please .
+Sorry , he is out .
+What time do you expect him back then ?
+Sorry , I am not sure . Can I take a message ?
+No , thanks No , thanks . I will call back later .

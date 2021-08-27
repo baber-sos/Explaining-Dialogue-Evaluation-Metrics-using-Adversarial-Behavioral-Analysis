@@ -1,0 +1,20 @@
+original_conversation
+what did you do last night ?
+I just stayed at home and watched TV .
+did you watch the Barcelona versus Madrid game ?
+yes , it was a very evenly matched game .
+what were the results of the game ?
+it ended in a tie .
+what was the actual score ?
+it was three all .
+really ? I thought Barcelona was going to win . They are a much better team than Madrid .
+modified_conversation
+what did you do last night ?
+I just stayed at home and watched TV .
+did you watch the Barcelona versus Madrid game ?
+yes , it was a very evenly matched game .
+what were the results of the game ?
+it ended in a tie .
+what was the actual score ?
+it was three all .
+really ? I thought Barcelona was going to win . They are a much better team than America .

@@ -1,0 +1,16 @@
+original_conversation
+What date will our field trip be on ?
+The science field trip is next Monday at 8 o'clock in the morning . Do you want to make note of that on your calendar ?
+Yes , I will make note of that .
+Next Monday is December 2nd . The buses will leave at 8 , but we must begin loading at 7
+I will be there half an hour early .
+You might want to tell whoever is picking you up that you will return on December 8th . Do you have a ride ?
+Yes , someone is picking me up .
+modified_conversation
+What date will our field trip be on ?
+The science field trip is next Monday at 8 o'clock in the morning . Do you want to make note of that on your calendar ?
+Yes , I will make note of that .
+Next Monday is December 2nd . The buses will leave at 8 , but we must begin loading at 7
+I will be there half an hour early .
+You might want to tell whoever is picking you up that you will return on December 8th . Do you have a ride ?
+Yes, someone is picking me up.

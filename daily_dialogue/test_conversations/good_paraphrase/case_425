@@ -1,0 +1,14 @@
+original_conversation
+A :: You must be Wily . It's nice to meet you .
+B :: Nice to meet you , Mr . Wilson .
+A :: Tim , please . Please be seated .
+B :: Thank you .
+A :: So , Wily , you have been with IBM for two years , ready for change ?
+B :: Well , I think I'm ready for new challenges .
+modified_conversation
+A :: You must be Wily . It's nice to meet you .
+B :: Nice to meet you , Mr . Wilson .
+A :: Tim , please . Please be seated .
+B :: Thank you .
+A :: So , Wily , you have been with IBM for two years , ready for change ?
+: Well, I think I am ready for new challenges.

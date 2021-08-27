@@ -1,0 +1,20 @@
+original_conversation
+Good morning , sir . May I help you ?
+Good morning , I have an appointment with Mr . Johnson at 10:00
+Excuse me , sir , but are you Mr . Richard of World Trading Company ?
+Yes . That ’ s right .
+I ’ m sorry , Mr . Richard . Mr . Johnson is on his way to the office . He had just called and asked you to wait a minute .
+Well , I ’ ll wait .
+Would you like something to drink , sir ? Do you prefer coffee or tea ?
+Thank you . Coffee , please .
+Here you are , Mr . Richard . This is the cream and this is the sugar . If there ’ s anything else you ’ d like , please don ’ t hesitate to tell me .
+modified_conversation
+Good morning , sir . May I help you ?
+Good morning , I have an appointment with Mr . Johnson at 10:00
+Excuse me , sir , but are you Mr . Richard of World Trading Company ?
+Yes . That ’ s right .
+I ’ m sorry , Mr . Richard . Mr . Johnson is on his way to the office . He had just called and asked you to wait a minute .
+Well , I ’ ll wait .
+Would you like something to drink , sir ? Do you prefer coffee or tea ?
+Thank you . Coffee , please .
+Here it are , Mr . Richard . they is the cream and they is the sugar . If there ’ s anything else them ’ d like , please don ’ t hesitate to tell us .

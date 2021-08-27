@@ -1,0 +1,22 @@
+original_conversation
+What seems to be the trouble , Mr . Brown ?
+I'm in pretty bad shape , Dr . Ford .
+Oh , in what way ?
+No appetite , always on edge , and I can't sleep well .
+Did you lose any weight ?
+Yes , I have lost quite a few pounds since last month .
+When was the last time you had a check-up ?
+About two month ago .
+Let me take your blood pressure . You look anemic .
+Well , Mr . Brown , I'm happy to say it's nothing serious .
+modified_conversation
+What seems to be the trouble , Mr . Brown ?
+I'm in pretty bad shape , Dr . Ford .
+Oh , in what way ?
+No appetite , always on edge , and I can't sleep well .
+Did you lose any weight ?
+Yes , I have lost quite a few pounds since last month .
+When was the last time you had a check-up ?
+About two month ago .
+Let me take your blood pressure . You look anemic .
+Well , Mister . Brown , I'm happy to say it's nothing serious .

@@ -1,0 +1,24 @@
+original_conversation
+What kind of gas does this car take?
+I don't know . It's a rental .
+I will give you premium unleaded . Alright?
+Sure, why not?
+That is the pump you are in front of .
+Is it expensive?
+It is the most expensive .
+Well, I don't want it then . Can I move to another pump?
+Yes, I can give you regular unleaded . But you have to back up the car a little .
+Give me regular unleaded then . I will back up.Can you wash my windows for me?
+I'm sorry, sir . This is not a full service gas station . I will help you fill the gas, but we don't wash windows here.
+modified_conversation
+What kind of gas does this car take?
+I don't know . It's a rental .
+I will give you premium unleaded . Alright?
+Sure, why not?
+That is the pump you are in front of .
+Is it expensive?
+It is the most expensive .
+Well, I don't want it then . Can I move to another pump?
+Yes, I can give you regular unleaded . But you have to back up the car a little .
+Give me regular unleaded then . I will back up.Can you wash my windows for me?
+I'm sorry, sir . This is not a full service gas station . I I I I I I will help you fill the gas, but we don't wash windows here.

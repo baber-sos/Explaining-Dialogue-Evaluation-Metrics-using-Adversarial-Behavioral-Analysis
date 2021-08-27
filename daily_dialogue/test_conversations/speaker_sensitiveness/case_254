@@ -1,0 +1,16 @@
+original_conversation
+Hello . Could you have a taxi pick me up before 10:00 a . m . ?
+What is your address ?
+I stay at No . 115 Fucking Road .
+OK , a taxi will be there by 9:30 .
+What are your rates ?
+It is RIB 10 yuan initially and 2 yuan for each kilometer .
+I have a lot of luggage . Will those fit in the taxi ?
+modified_conversation
+Hello . Could you have a taxi pick me up before 10:00 a . m . ?
+What is your address ?
+I stay at No . 115 Fucking Road .
+OK , a taxi will be there by 9:30 .
+What are your rates ?
+It is RIB 10 yuan initially and 2 yuan for each kilometer .
+It is RIB 10 yuan initially and 2 yuan for each kilometer . I have a lot of luggage . Will those fit in the taxi ?

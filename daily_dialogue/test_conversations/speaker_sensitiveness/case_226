@@ -1,0 +1,24 @@
+original_conversation
+Thank your for calling World Airline . What can I do for you ?
+I need to book a plane ticket to London .
+Round-trip or one-way ?
+One-way .
+What date would you like to fly ?
+Saturday , July 25 .
+How many people will be traveling ?
+Just one adult .
+Which class ?
+Economy , please . Economy class is the cheapest , right ?
+Right . Ok , the fare is $ 700 .
+modified_conversation
+Thank your for calling World Airline . What can I do for you ?
+I need to book a plane ticket to London .
+Round-trip or one-way ?
+One-way .
+What date would you like to fly ?
+Saturday , July 25 .
+How many people will be traveling ?
+Just one adult .
+Which class ?
+Economy , please . Economy class is the cheapest , right ?
+Economy , please . Economy class is the cheapest , right ? Right . Ok , the fare is $ 700 .

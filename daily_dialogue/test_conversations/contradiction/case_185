@@ -1,0 +1,10 @@
+original_conversation
+Hello ! This is Ruby speaking from G . O . T . International Travel Agency . What can I do for you ?
+I ’ d like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .
+Do you want a single ticket or a round trip ticket ?
+I ’ d like to have a round trip ticket with a one-year open return .
+modified_conversation
+Hello ! This is Ruby speaking from G . O . T . International Travel Agency . What can I do for you ?
+I ’ d like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .
+Do you want a single ticket or a round trip ticket ?
+I ’ d  do not like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .

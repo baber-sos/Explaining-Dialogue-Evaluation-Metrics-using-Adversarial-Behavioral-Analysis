@@ -1,0 +1,16 @@
+original_conversation
+Which university did you graduate from ?
+I graduated from Peking University .
+What was your major at university ?
+I studied economics , I am especially interested in the economic development of China .
+What course did you like best ?
+I like Business Management , and i think it's very useful for the present work .
+What do you think is the relationship between the subjects you've taken and the job you are seeking ?
+modified_conversation
+Which university did you graduate from ?
+I graduated from Peking University .
+What was your major at university ?
+I studied economics , I am especially interested in the economic development of China .
+What course did you like best ?
+I like Business Management , and i think it's very useful for the present work .
+I like Business Management , and i think it's very useful for the present work . What do you think is the relationship between the subjects you've taken and the job you are seeking ?

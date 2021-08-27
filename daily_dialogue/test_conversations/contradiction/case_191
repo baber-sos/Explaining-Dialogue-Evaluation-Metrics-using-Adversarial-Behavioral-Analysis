@@ -1,0 +1,22 @@
+original_conversation
+Good morning .
+Good morning .
+What does the paper say ?
+Nothing much — the same old stuff . A lot of bad news as usual .
+Well , what ’ s the weather report ?
+Sunny and mild today , cloudy and rainy tomorrow .
+Did they find those bank robbers ?
+Not yet . They were holding two men in Ohio , but they let them go . They weren ’ t the criminals after all .
+What about the sports page ? What were the scores of last night ’ s games ?
+Here ’ s the paper ; you can read them yourself .
+modified_conversation
+Good morning .
+Good morning .
+What does the paper say ?
+Nothing much — the same old stuff . A lot of bad news as usual .
+Well , what ’ s the weather report ?
+Sunny and mild today , cloudy and rainy tomorrow .
+Did they find those bank robbers ?
+Not yet . They were holding two men in Ohio , but they let them go . They weren ’ t the criminals after all .
+What about the sports page ? What were the scores of last night ’ s games ?
+Not yet . They were not holding two men in Ohio , but they let them go . They weren ’ t the criminals after all .

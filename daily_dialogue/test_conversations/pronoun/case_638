@@ -1,0 +1,10 @@
+original_conversation
+I ’ d like to apply for a personal loan .
+How much would you like to borrow ?
+A thousand dollars .
+Let me check with a credit manager . A record show your credit reading is quite high . I don't think you have any problems .
+modified_conversation
+I ’ d like to apply for a personal loan .
+How much would you like to borrow ?
+A thousand dollars .
+Let us check with a credit manager . A record show him credit reading is quite high . they don't think them have any problems .

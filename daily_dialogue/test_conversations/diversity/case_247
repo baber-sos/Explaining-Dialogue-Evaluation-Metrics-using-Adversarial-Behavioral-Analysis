@@ -1,0 +1,18 @@
+original_conversation
+Good afternoon.British Airline.Is there any thing I can do for you?
+Can I make a reservation for flight FW58 to San Marino?
+Sure . When do you want to take the plane?
+Next Monday .
+Will that be first class or economy seat?
+What's the fare for a first class seat?
+$200 .
+Oh . I am not a wall streeter.Give me an economy one please.
+modified_conversation
+Good afternoon.British Airline.Is there any thing I can do for you?
+Can I make a reservation for flight FW58 to San Marino?
+Sure . When do you want to take the plane?
+Next Monday .
+Will that be first class or economy seat?
+What's the fare for a first class seat?
+$200 .
+Oh . I am not a wall streeter.Give me an economy I please.

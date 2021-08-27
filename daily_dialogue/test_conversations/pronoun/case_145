@@ -1,0 +1,12 @@
+original_conversation
+I want to buy a black suit .
+Certainty.Do you want double breasted suit or single breasted suit ?
+I prefer single breasted suit .
+What about this one ? It's a very nice 3 - piece suit .
+That looks great . Do you have ties here ?
+modified_conversation
+I want to buy a black suit .
+Certainty.Do you want double breasted suit or single breasted suit ?
+I prefer single breasted suit .
+What about this one ? It's a very nice 3 - piece suit .
+That looks great . Do he have ties here ?

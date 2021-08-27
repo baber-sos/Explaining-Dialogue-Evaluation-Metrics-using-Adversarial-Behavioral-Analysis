@@ -1,0 +1,8 @@
+original_conversation
+A :: Mr Clinton , it's nice to see you again .
+Nice to see you again , too . Peter . How's your family ?
+A :: Very well . How's Mrs Clinton ?
+modified_conversation
+A :: Mr Clinton , it's nice to see you again .
+Nice to see you again , too . Peter . How's your family ?
+A :: Mr Clinton , it's not nice to see you again .

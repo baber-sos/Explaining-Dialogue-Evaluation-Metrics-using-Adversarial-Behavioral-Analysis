@@ -1,0 +1,10 @@
+original_conversation
+What's the weather forecast for today ?
+Cloudy in the morning , overcast in the afternoon .
+Any rain ?
+No , but I wouldn't be surprised if it rained tomorrow .
+modified_conversation
+What's the weather forecast for today ?
+Cloudy in the morning , overcast in the afternoon .
+Any rain ?
+No, but I would not be surprised if it rained tomorrow.

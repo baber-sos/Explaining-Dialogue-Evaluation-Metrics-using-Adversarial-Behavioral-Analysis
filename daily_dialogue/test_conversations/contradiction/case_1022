@@ -1,0 +1,16 @@
+original_conversation
+Hi , is this Professor Clark ’ s office ?
+This is Professor Clark speaking .
+Hi , this is Kalina from your morning literature class .
+Yes , what can I do for you ?
+I had a skydiving accident over the weekend and won ’ t be able to come to school today .
+My goodness ! Are you OK ?
+I broke my leg , but it is healing .
+modified_conversation
+Hi , is this Professor Clark ’ s office ?
+This is Professor Clark speaking .
+Hi , this is Kalina from your morning literature class .
+Yes , what can I do for you ?
+I had a skydiving accident over the weekend and won ’ t be able to come to school today .
+My goodness ! Are you OK ?
+I had not a skydiving accident over the weekend and won ’ t be able to come to school today .

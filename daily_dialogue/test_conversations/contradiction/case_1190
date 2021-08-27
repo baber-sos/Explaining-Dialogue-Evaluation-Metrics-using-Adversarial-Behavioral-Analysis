@@ -1,0 +1,22 @@
+original_conversation
+Jeff , I'm going to the supermarket . Do you want to come with me ?
+I think the supermarket is closed now .
+Oh , When does it close ?
+It closes at 7:00 on Sundays .
+That's too bad .
+Don't worry , we can go tomorrow morning . It opens at 8: 00 .
+Alright . What do you want to do now ?
+Let's take a walk for a half an hour . My sister will get here at about 8: 30PM and then we can all go out to dinner .
+Where does she live ?
+She lives in San Francisco .
+modified_conversation
+Jeff , I'm going to the supermarket . Do you want to come with me ?
+I think the supermarket is closed now .
+Oh , When does it close ?
+It closes at 7:00 on Sundays .
+That's too bad .
+Don't worry , we can go tomorrow morning . It opens at 8: 00 .
+Alright . What do you want to do now ?
+Let's take a walk for a half an hour . My sister will get here at about 8: 30PM and then we can all go out to dinner .
+Where does she live ?
+Let's  do not take a walk for a half an hour . My sister will get here at about 8: 30PM and then we can all go out to dinner .

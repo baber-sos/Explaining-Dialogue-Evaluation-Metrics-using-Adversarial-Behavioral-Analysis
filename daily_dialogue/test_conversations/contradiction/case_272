@@ -1,0 +1,14 @@
+original_conversation
+Good morning , can I help you ?
+I want to American breakfast with fried eggs sunny side up .
+What kind of juice do you prefer , sir ?
+Breakfast juice and please make my coffee very strong .
+Yes , sir . American breakfast with fried eggs sunny side up . Breakfast juice and black coffee . And my correct , sir ?
+Yes , that ’ s right .
+modified_conversation
+Good morning , can I help you ?
+I want to American breakfast with fried eggs sunny side up .
+What kind of juice do you prefer , sir ?
+Breakfast juice and please make my coffee very strong .
+Yes , sir . American breakfast with fried eggs sunny side up . Breakfast juice and black coffee . And my correct , sir ?
+Breakfast juice and please  do not make my coffee very strong .

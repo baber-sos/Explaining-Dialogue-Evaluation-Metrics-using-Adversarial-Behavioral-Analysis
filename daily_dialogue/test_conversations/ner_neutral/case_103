@@ -1,0 +1,10 @@
+original_conversation
+Can you help me now ?
+No , but I'll be able to tomorrow .
+That'll be too late .
+Why don't you ask Bill if he can help ?
+modified_conversation
+Can you help me now ?
+No , but I'll be able to tomorrow .
+That'll be too late .
+Why don't you ask Bill if Bill can help ?

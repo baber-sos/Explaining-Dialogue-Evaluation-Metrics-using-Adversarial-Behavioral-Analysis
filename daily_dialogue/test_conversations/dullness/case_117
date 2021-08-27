@@ -1,0 +1,12 @@
+original_conversation
+Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .
+I ’ m sorry , we have no mid-size available at the moment .
+I don ’ t understand , I made a reservation , do you have my reservation ?
+Yes , we do , unfortunately we ran out of cars .
+But the reservation keeps the car here . That ’ s why you have the reservation .
+modified_conversation
+Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .
+I ’ m sorry , we have no mid-size available at the moment .
+I don ’ t understand , I made a reservation , do you have my reservation ?
+Yes , we do , unfortunately we ran out of cars .
+I love that.

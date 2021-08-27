@@ -1,0 +1,16 @@
+original_conversation
+Frank ’ s getting married , do you believe this ?
+Is he really ?
+Yes , he is . He loves the girl very much .
+Who is he marring ?
+A girl he met on holiday in Spain , I think .
+Have they set a date for the wedding ?
+Not yet .
+modified_conversation
+Frank ’ s getting married , do you believe this ?
+Is he really ?
+Yes , he is . He loves the girl very much .
+Who is he marring ?
+A girl he met on holiday in Spain , I think .
+Have they set a date for the wedding ?
+A girl he  did not meet on holiday in Spain , I think .

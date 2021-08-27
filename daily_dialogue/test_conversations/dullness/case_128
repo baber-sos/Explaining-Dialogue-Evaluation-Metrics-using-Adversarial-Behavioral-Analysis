@@ -1,0 +1,14 @@
+original_conversation
+pompous . How may I help you ?
+Yes , I'd like to reserve a table for dinner .
+How large a group are you expecting ?
+Six couples .
+Would you like to reserve a private dining room ?
+That sounds like a good idea .
+modified_conversation
+pompous . How may I help you ?
+Yes , I'd like to reserve a table for dinner .
+How large a group are you expecting ?
+Six couples .
+Would you like to reserve a private dining room ?
+I don't know what you mean by that.

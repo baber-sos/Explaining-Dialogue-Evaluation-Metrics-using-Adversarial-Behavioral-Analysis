@@ -1,0 +1,10 @@
+original_conversation
+Excuse me . Do you know where the Admiral Hotel is ?
+That's over on Callaway Street , isn't it ?
+Yes , but I can't find Callaway Street .
+Walk that way for about four blocks . The hotel's about two blocks north of there .
+modified_conversation
+Excuse me . Do you know where the Admiral Hotel is ?
+That's over on Callaway Street , isn't it ?
+Yes , but I can't find Callaway Street .
+Walk that way for about four blocks . the Empire State Building's about two blocks north of there .

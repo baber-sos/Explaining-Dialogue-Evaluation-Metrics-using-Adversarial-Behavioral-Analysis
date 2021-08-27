@@ -1,0 +1,18 @@
+original_conversation
+Good evening , Pizza House . This is Marty speaking.May I take your order ?
+Um yes . I'd like a medium pizza with pepperoni , olives , and extra cheese .
+We have a two-for-one special on large pizzas.Would you like a large pizza instead ?
+Sure , that sounds good .
+Great ! Would you like your second pizza to be the same as the first ?
+No , make the second one with ham , pineapple and green peppers . Oh , and make it thin crust .
+Okay , thin crust . Your total is $ 21.50 and yourorder will arrive in thirty minutes or it ’ s free !
+Perfect . Thank you . Bye ..
+modified_conversation
+Good evening , Pizza House . This is Marty speaking.May I take your order ?
+Um yes . I'd like a medium pizza with pepperoni , olives , and extra cheese .
+We have a two-for-one special on large pizzas.Would you like a large pizza instead ?
+Sure , that sounds good .
+Great ! Would you like your second pizza to be the same as the first ?
+No , make the second one with ham , pineapple and green peppers . Oh , and make it thin crust .
+Okay , thin crust . Your total is $ 21.50 and yourorder will arrive in thirty minutes or it ’ s free !
+Perfect . Thank them . Bye ..

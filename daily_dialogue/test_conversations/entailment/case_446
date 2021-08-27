@@ -1,0 +1,16 @@
+original_conversation
+Hello ! This is Ruby speaking from G . O . T . International Travel Agency . What can I do for you ?
+I ’ d like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .
+Do you want a single ticket or a round trip ticket ?
+I ’ d like to have a round trip ticket with a one-year open return .
+Economy or Business Class ?
+Economy , please . How much is it ?
+It will be $ 850 .
+modified_conversation
+Hello ! This is Ruby speaking from G . O . T . International Travel Agency . What can I do for you ?
+I ’ d like to make a reservation for my trip from Detroit to Beijing on April 13 on Trans Pacific Airline .
+Do you want a single ticket or a round trip ticket ?
+I ’ d like to have a round trip ticket with a one-year open return .
+Economy or Business Class ?
+Economy , please . How much is it ?
+Bank of American card . The number is 6786 9182 12300 8657 .

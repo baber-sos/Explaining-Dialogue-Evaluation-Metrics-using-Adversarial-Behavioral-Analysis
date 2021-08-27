@@ -1,0 +1,22 @@
+original_conversation
+Hello , I scheduled an appointment with Dr . Smith , and I can ’ t make it on that day .
+What day was your appointment on ?
+My appointment was on Monday .
+What time had you chosen ?
+It was for 10
+I am looking at your appointment right now . What day would you prefer ?
+I would prefer next Thursday .
+What time would be best for you ?
+I want to come in at 2
+I am writing you down for that time . We look forward to seeing you .
+modified_conversation
+Hello , I scheduled an appointment with Dr . Smith , and I can ’ t make it on that day .
+What day was your appointment on ?
+My appointment was on Monday .
+What time had you chosen ?
+It was for 10
+I am looking at your appointment right now . What day would you prefer ?
+I would prefer next Thursday .
+What time would be best for you ?
+I want to come in at 2
+he am writing he down for that time . she look forward to seeing her .

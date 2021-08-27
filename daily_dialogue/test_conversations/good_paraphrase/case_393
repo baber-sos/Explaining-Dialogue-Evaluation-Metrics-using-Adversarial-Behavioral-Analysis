@@ -1,0 +1,14 @@
+original_conversation
+The hotel operator . Anything I can do for you ?
+I've been trying to get through to the booking office for the last ten minutes . But the line has been engaged all the time . Why is it taking so long ?
+I'm sorry to hear that . I'm afraid it is often the case during the peak hours . Shall I ask them to call you when the line is free ?
+OK . Please do so if it is not troublesome .
+No trouble at all . May I know your name and room number ?
+I'm Du Juan , in Room 312 .
+modified_conversation
+The hotel operator . Anything I can do for you ?
+I've been trying to get through to the booking office for the last ten minutes . But the line has been engaged all the time . Why is it taking so long ?
+I'm sorry to hear that . I'm afraid it is often the case during the peak hours . Shall I ask them to call you when the line is free ?
+OK . Please do so if it is not troublesome .
+No trouble at all . May I know your name and room number ?
+I am Du Juan in Room 312.

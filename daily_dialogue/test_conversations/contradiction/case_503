@@ -1,0 +1,12 @@
+original_conversation
+Honey , what's wrong with you ?
+I'm not feeling well . I'm very nervous .
+Take it easy . We are going to have our own baby . You should be happy .
+Yeah , I know .
+The doctors and the nurses will help you . And I will be waiting for you right here , praying for you and our baby .
+modified_conversation
+Honey , what's wrong with you ?
+I'm not feeling well . I'm very nervous .
+Take it easy . We are going to have our own baby . You should be happy .
+Yeah , I know .
+ do not take it easy . We are going to have our own baby . You should be happy .

@@ -1,0 +1,22 @@
+original_conversation
+What can I do for you today ?
+I have a question .
+What do you need to know ?
+I need to take the driver's course . How many hours do I need ?
+It depends on what you're trying to do with the completion of the course .
+I need to get my license .
+You're going to need to complete six hours .
+How many hours a day can I do ?
+You can do two hours a day for three days .
+That's all I need to do to finish ?
+modified_conversation
+What can I do for you today ?
+I have a question .
+What do you need to know ?
+I need to take the driver's course . How many hours do I need ?
+It depends on what you're trying to do with the completion of the course .
+I need to get my license .
+You're going to need to complete six hours .
+How many hours a day can I do ?
+You can do two hours a day for three days .
+I will do all I have to do to finish it?

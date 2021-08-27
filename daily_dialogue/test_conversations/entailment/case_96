@@ -1,0 +1,16 @@
+original_conversation
+Hello !
+Hello , Is that Stefan ?
+I'm sorry , but I'm afraid you've dialed the wrong number.There is no Stefan here .
+Really ? Are you sure ? I called before and he was there .
+Yes . I'm sure . You have the wrong number . I have used this number for more than 20 years .
+That can't be true . I remember the number clearly . Is your number 1199886 ?
+No , it isn't . It's 1199866 . It seems that you have misdialed .
+modified_conversation
+Hello !
+Hello , Is that Stefan ?
+I'm sorry , but I'm afraid you've dialed the wrong number.There is no Stefan here .
+Really ? Are you sure ? I called before and he was there .
+Yes . I'm sure . You have the wrong number . I have used this number for more than 20 years .
+That can't be true . I remember the number clearly . Is your number 1199886 ?
+It doesn't matter . It happens to everyone .

@@ -1,0 +1,8 @@
+original_conversation
+May I help you ?
+Give me a Big Mac , a small order of French fries and a medium Coke .
+You'll need to wait a few minutes for the fries . They are still in the fryer .
+modified_conversation
+May I help you ?
+Give me a Big Mac , a small order of French fries and a medium Coke .
+You'll need to wait a few minutes for the Fries . They are still in the fryer .

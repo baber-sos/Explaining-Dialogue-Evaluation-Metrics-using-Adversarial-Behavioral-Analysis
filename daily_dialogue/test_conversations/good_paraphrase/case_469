@@ -1,0 +1,10 @@
+original_conversation
+Sun-set hotel . May I help you ?
+Yes , I have booked a room for 24th . It's a double room .
+Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .
+Well , now I want to change the date from 24th to 28th .
+modified_conversation
+Sun-set hotel . May I help you ?
+Yes , I have booked a room for 24th . It's a double room .
+Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days .
+Well now I want to change the date from 24th to 28th.

@@ -1,0 +1,26 @@
+original_conversation
+911 . How may I help you ?
+I need to report a break-in .
+When did this break-in occur ?
+Last night .
+Where did the break-in happen ?
+It happened at my house .
+Was anything taken ?
+I'm not sure yet .
+What makes you think there was a break-in ?
+My front window was busted .
+I'll send a squad car .
+Please hurry .
+modified_conversation
+911 . How may I help you ?
+I need to report a break-in .
+When did this break-in occur ?
+Last night .
+Where did the break-in happen ?
+It happened at my house .
+Was anything taken ?
+I'm not sure yet .
+What makes you think there was a break-in ?
+My front window was busted .
+I'll send a squad car .
+My front window was not busted .

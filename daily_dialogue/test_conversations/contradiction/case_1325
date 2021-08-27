@@ -1,0 +1,14 @@
+original_conversation
+Hi , Sam . I want to buy a pet . Do you have any ideas ?
+You really should go to Rachel's pet store .
+Why ? anything special there ?
+It's more than special . You can find as many kinds of animals as you can put a name to and more .
+Oh , really ? are there any snakes ?
+Snakes ? there are even rodents and monkeys ! it's a world of exotic pets .
+modified_conversation
+Hi , Sam . I want to buy a pet . Do you have any ideas ?
+You really should go to Rachel's pet store .
+Why ? anything special there ?
+It's more than special . You can find as many kinds of animals as you can put a name to and more .
+Oh , really ? are there any snakes ?
+It's not more than special . You can find as many kinds of animals as you can put a name to and more .

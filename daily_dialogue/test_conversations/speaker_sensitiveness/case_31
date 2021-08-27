@@ -1,0 +1,8 @@
+original_conversation
+What's wrong with you , young man ?
+Doctor , I have a bad cough and a headache .
+Do you have a fever ?
+modified_conversation
+What's wrong with you , young man ?
+Doctor , I have a bad cough and a headache .
+Doctor , I have a bad cough and a headache . Do you have a fever ?

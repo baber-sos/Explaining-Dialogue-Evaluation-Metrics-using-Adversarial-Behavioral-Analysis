@@ -1,0 +1,12 @@
+original_conversation
+Diane Grant ? I haven't seen you for ages !
+Brian ! How have you been ?
+Pretty good . Say , you've really changed !
+Oh , well , I've lost some weight . And my hair is longer than before .
+Well , you look great ! How are you ?
+modified_conversation
+Diane Grant ? I haven't seen you for ages !
+Brian ! How have you been ?
+Pretty good . Say , you've really changed !
+Oh , well , I've lost some weight . And my hair is longer than before .
+Pretty good .  do not say , you've really changed !
