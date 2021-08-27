@@ -1,0 +1,28 @@
+original_conversation
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+not too bad . just happy that the apartment is quiet for once .
+i know what you mean . it is great to have quiet time to read
+for me , its playing my guitar . do you play an instrument ?
+i do not . i do read a lot though
+so where are you from ?
+i am from new york , what about you ?
+most of my family is still in arkansas , but my brothers and i live in chicago .
+i used to live there ! great place !
+so beautiful compared to the city , right ?
+modified_conversation
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+not too bad . just happy that the apartment is quiet for once .
+i know what you mean . it is great to have quiet time to read
+for me , its playing my guitar . do you play an instrument ?
+i do not . i do read a lot though
+so where are you from ?
+i am from new york , what about you ?
+most of my family is still in arkansas , but my brothers and i live in chicago .
+i used to live there ! great place !
+most of my family is not still in arkansas , but my brothers and i live in chicago .

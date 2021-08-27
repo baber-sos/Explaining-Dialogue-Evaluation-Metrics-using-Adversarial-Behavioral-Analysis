@@ -1,0 +1,14 @@
+original_conversation
+hi how are you today
+hi . i am good . i am from new york city . where do you live ?
+i live with my parents . do you work ?
+yeah . modeling . keeps me single . i travel too much . how about you ?
+i am a nurse which also keeps me single too
+that is an important job . stressful though . what do you do in your spare time ?
+modified_conversation
+hi how are you today
+hi . i am good . i am from new york city . where do you live ?
+i live with my parents . do you work ?
+yeah . modeling . keeps me single . i travel too much . how about you ?
+i am a nurse which also keeps me single too
+that is an important job . stressful though . what do your do in your spare time ?

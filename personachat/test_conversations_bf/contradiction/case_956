@@ -1,0 +1,10 @@
+original_conversation
+good morning ! where are you from ?
+from texas . a large house ranch was where i was raised .
+ah , good old texas ! best barbecue i ever had in my life was in texas .
+do you like horses ? i love working with horses .
+modified_conversation
+good morning ! where are you from ?
+from texas . a large house ranch was where i was raised .
+ah , good old texas ! best barbecue i ever had in my life was in texas .
+from texas . a large house ranch was not where i was raised .

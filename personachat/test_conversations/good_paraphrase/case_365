@@ -1,0 +1,16 @@
+original_conversation
+hi ! my name is lucy !
+good evening lucy , i am rayne . i hope you are doing well .
+hi ! my name is lucy !
+good evening lucy , i am rayne . i hope you are doing well .
+i am ! what do you do for a living rayne ?
+i am a wedding planner , i just graduated from college .
+i just graduated last year ! from college , i am a secretary now
+modified_conversation
+hi ! my name is lucy !
+good evening lucy , i am rayne . i hope you are doing well .
+hi ! my name is lucy !
+good evening lucy , i am rayne . i hope you are doing well .
+i am ! what do you do for a living rayne ?
+i am a wedding planner , i just graduated from college .
+i graduated from college last year, now i am a secretary.

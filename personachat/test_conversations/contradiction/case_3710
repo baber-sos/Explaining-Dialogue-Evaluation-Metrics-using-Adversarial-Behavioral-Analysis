@@ -1,0 +1,18 @@
+original_conversation
+hey how are you today
+i am good . just finished eating some pizza .
+hey how are you today
+i am good . just finished eating some pizza .
+i want to eat a pizza now .
+come to my moms restaurant ! she makes great pizza .
+i cant i work . i am a managerial consultant
+oh . i work in my moms restaurant .
+modified_conversation
+hey how are you today
+i am good . just finished eating some pizza .
+hey how are you today
+i am good . just finished eating some pizza .
+i want to eat a pizza now .
+come to my moms restaurant ! she makes great pizza .
+i cant i work . i am a managerial consultant
+ do not come to my moms restaurant ! she makes great pizza .

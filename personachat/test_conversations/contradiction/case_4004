@@ -1,0 +1,20 @@
+original_conversation
+hey , do you have any pets
+yes i have a hunting dog .
+hey , do you have any pets
+yes i have a hunting dog .
+i have a lot of pets .
+oh nice what do you do ?
+i mainly just sit and look at mountains ,
+ok i can sell you a house on a mountain .
+i would like that . for how much ?
+modified_conversation
+hey , do you have any pets
+yes i have a hunting dog .
+hey , do you have any pets
+yes i have a hunting dog .
+i have a lot of pets .
+oh nice what do you do ?
+i mainly just sit and look at mountains ,
+ok i can sell you a house on a mountain .
+i mainly just  do not sit and look at mountains ,

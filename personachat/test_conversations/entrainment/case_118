@@ -1,0 +1,16 @@
+original_conversation
+hi ! how are you ? what are you doing right now ?
+hey , i am great . other than recovering from surgery . how are you ?
+hi ! how are you ? what are you doing right now ?
+hey , i am great . other than recovering from surgery . how are you ?
+oh no ! what happened ? i am taking a break from driving .
+i tore up my knee playing frisbee with my 2 dogs . where are you driving to ?
+i am driving a load to chicago . sorry about your knee . how is your recovery ?
+modified_conversation
+hi ! how are you ? what are you doing right now ?
+hey , i am great . other than recovering from surgery . how are you ?
+hi ! how are you ? what are you doing right now ?
+hey , i am great . other than recovering from surgery . how are you ?
+oh no ! what happened ? i am taking a break from driving .
+i tore up my knee playing frisbee with my 2 dogs . where are you driving to ?
+i am driving a load to chicago . sorry about your genu . how is your recovery ?

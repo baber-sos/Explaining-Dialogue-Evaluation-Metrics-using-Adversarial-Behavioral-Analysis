@@ -1,0 +1,16 @@
+original_conversation
+hello ! how is it going this morning ?
+i am doing well thanks , and you ?
+hello ! how is it going this morning ?
+i am doing well thanks , and you ?
+very good . i have metallica blasting and starting to get ready for work .
+what do you do for a job ?
+i am a consultant for the dairy industry . being from wisconsin , it is perfect .
+modified_conversation
+hello ! how is it going this morning ?
+i am doing well thanks , and you ?
+hello ! how is it going this morning ?
+i am doing well thanks , and you ?
+very good . i have metallica blasting and starting to get ready for work .
+what do you do for a job ?
+very good . i have not metallica blasting and starting to get ready for work .

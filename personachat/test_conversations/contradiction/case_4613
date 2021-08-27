@@ -1,0 +1,26 @@
+original_conversation
+hello . how are you today ?
+good how are you doing
+hello . how are you today ?
+good how are you doing
+i am ok . just caught a cold . . .
+that is no good . i hate getting sick .
+yeah , everyone hates it . are you at work or home ?
+i am at work . how about you ?
+me too . lol . what do you do for living ?
+i work with animals . i specialize in training dogs .
+so cool ! ! i am a body builder .
+oh wow . do you compete ?
+modified_conversation
+hello . how are you today ?
+good how are you doing
+hello . how are you today ?
+good how are you doing
+i am ok . just caught a cold . . .
+that is no good . i hate getting sick .
+yeah , everyone hates it . are you at work or home ?
+i am at work . how about you ?
+me too . lol . what do you do for living ?
+i work with animals . i specialize in training dogs .
+so cool ! ! i am a body builder .
+i  do not work with animals . i specialize in training dogs .

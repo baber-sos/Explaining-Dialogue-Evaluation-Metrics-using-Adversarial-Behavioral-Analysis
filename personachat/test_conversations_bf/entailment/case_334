@@ -1,0 +1,12 @@
+original_conversation
+hello , how are you today ?
+good . i am just painting a picture of my horses .
+i love horses ! do you have a farm ?
+no , just two horses which i love .
+i live in seattle in an apartment . i do not have room for an apartment .
+modified_conversation
+hello , how are you today ?
+good . i am just painting a picture of my horses .
+i love horses ! do you have a farm ?
+no , just two horses which i love .
+oops , yes . also , i could not afford to take care of a horse .

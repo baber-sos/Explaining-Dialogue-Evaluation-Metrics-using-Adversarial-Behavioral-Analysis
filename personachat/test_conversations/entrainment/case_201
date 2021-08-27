@@ -1,0 +1,20 @@
+original_conversation
+hi there , how are you this evening
+i am fine . i am sore from physical training .
+hi there , how are you this evening
+i am fine . i am sore from physical training .
+what are you training for ?
+i am in the army .
+that is awesome ! i enjoy working out too , but just to stay in shape
+yeah , we work out every day , so staying in shape is no problem .
+my father and brother were both in the army , i remember them telling me about it
+modified_conversation
+hi there , how are you this evening
+i am fine . i am sore from physical training .
+hi there , how are you this evening
+i am fine . i am sore from physical training .
+what are you training for ?
+i am in the army .
+that is awesome ! i enjoy working out too , but just to stay in shape
+yeah , we work out every day , so staying in shape is no problem .
+my father and brother were both in the USA , i remember them telling me about it

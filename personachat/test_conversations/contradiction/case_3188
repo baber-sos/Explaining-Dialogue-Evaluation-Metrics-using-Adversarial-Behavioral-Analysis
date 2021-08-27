@@ -1,0 +1,18 @@
+original_conversation
+hey do you like dancing ?
+love it . that is the one thing i miss since graduating college . you ?
+hey do you like dancing ?
+love it . that is the one thing i miss since graduating college . you ?
+i love dancing ! what did you take in college ?
+nursing . it was super hard because i spent a lot of time playing soccer too .
+wow that sounds like a lot to balance out . were you any good at soccer ?
+yes , i was great . do you play sports ?
+modified_conversation
+hey do you like dancing ?
+love it . that is the one thing i miss since graduating college . you ?
+hey do you like dancing ?
+love it . that is the one thing i miss since graduating college . you ?
+i love dancing ! what did you take in college ?
+nursing . it was super hard because i spent a lot of time playing soccer too .
+wow that sounds like a lot to balance out . were you any good at soccer ?
+nursing . it was not super hard because i spent a lot of time playing soccer too .

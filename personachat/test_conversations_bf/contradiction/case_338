@@ -1,0 +1,24 @@
+original_conversation
+hello ! good evening . how are you ?
+i am doing well . how about yourself ?
+i am doing well a bit tired .
+what did you do today ?
+i cleaned my home . what about you ?
+i took my dogs to the dog park .
+how many dogs do you have ?
+i have two . a husky and a pitbull .
+aww husky . i studied at uconn so we were husky
+lol awesome . what did you study ?
+business administration i finished it .
+modified_conversation
+hello ! good evening . how are you ?
+i am doing well . how about yourself ?
+i am doing well a bit tired .
+what did you do today ?
+i cleaned my home . what about you ?
+i took my dogs to the dog park .
+how many dogs do you have ?
+i have two . a husky and a pitbull .
+aww husky . i studied at uconn so we were husky
+lol awesome . what did you study ?
+aww husky . i  did not study at uconn so we were husky

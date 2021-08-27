@@ -1,0 +1,10 @@
+original_conversation
+hey there how are you today ?
+i am doing good . so tell me where you are from ?
+i am from new york . i am in college soon .
+i love new york . i stay in texas . what are your hobbies ?
+modified_conversation
+hey there how are you today ?
+i am doing good . so tell me where you are from ?
+i am from new york . i am in college soon .
+i am from new york . i am in college soon . i love new york . i stay in texas . what are your hobbies ?

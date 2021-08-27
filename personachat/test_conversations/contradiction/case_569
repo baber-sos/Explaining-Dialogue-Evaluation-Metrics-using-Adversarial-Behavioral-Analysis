@@ -1,0 +1,22 @@
+original_conversation
+hello , my name is debra who are you ?
+hi my name is anne
+hello , my name is debra who are you ?
+hi my name is anne
+i am in my early 30s and i enjoy cooking . what hobbies do you have ?
+well i like to sing and sew clothes . i also love cats
+i love cats ! dogs frighten me unfortunately . do you own a home or rent ?
+well , i own my own tiny home on wheels
+i like to read romance novels . do you read ?
+sometimes . most of my time goes to making my clothes
+modified_conversation
+hello , my name is debra who are you ?
+hi my name is anne
+hello , my name is debra who are you ?
+hi my name is anne
+i am in my early 30s and i enjoy cooking . what hobbies do you have ?
+well i like to sing and sew clothes . i also love cats
+i love cats ! dogs frighten me unfortunately . do you own a home or rent ?
+well , i own my own tiny home on wheels
+i like to read romance novels . do you read ?
+well , i  do not own my own tiny home on wheels

@@ -1,0 +1,14 @@
+original_conversation
+i cannot have a dog because of allergies . do you own a dog .
+nope . my wife and kids happen to be allergic as well .
+do you have any other pets ?
+my kids have two guinea pigs .
+i grew up without my mother . did you grow up with both parents ?
+yes , i did . they were good parents .
+modified_conversation
+i cannot have a dog because of allergies . do you own a dog .
+nope . my wife and kids happen to be allergic as well .
+do you have any other pets ?
+my kids have two guinea pigs .
+i grew up without my mother . did you grow up with both parents ?
+yes they were good parents.

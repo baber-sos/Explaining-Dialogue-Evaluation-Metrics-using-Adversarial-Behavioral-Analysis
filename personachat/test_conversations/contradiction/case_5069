@@ -1,0 +1,22 @@
+original_conversation
+hello ! what is your name ?
+hello ! my name is ryan . you ?
+hello ! what is your name ?
+hello ! my name is ryan . you ?
+my name is ken ! how are you ?
+nice to meet you . i am well , and you ?
+i am just excited for a conversation ! how old are you ?
+likewise ! i am 21 . i am in college studying law . i have two more years to go .
+wow that sounds exciting ! where are you studying , berkley ?
+yes , how did you know ? !
+modified_conversation
+hello ! what is your name ?
+hello ! my name is ryan . you ?
+hello ! what is your name ?
+hello ! my name is ryan . you ?
+my name is ken ! how are you ?
+nice to meet you . i am well , and you ?
+i am just excited for a conversation ! how old are you ?
+likewise ! i am 21 . i am in college studying law . i have two more years to go .
+wow that sounds exciting ! where are you studying , berkley ?
+likewise ! i am not 21 . i am in college studying law . i have two more years to go .

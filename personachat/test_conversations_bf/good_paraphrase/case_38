@@ -1,0 +1,8 @@
+original_conversation
+hello , how are you tonight ?
+terrible , my father was just imprisoned for being a corrupt police officer .
+oh , that is horrible . my mother is a therapist maybe you should talk to her .
+modified_conversation
+hello , how are you tonight ?
+terrible , my father was just imprisoned for being a corrupt police officer .
+That is horrible : my mother is a therapist maybe you should talk to her.

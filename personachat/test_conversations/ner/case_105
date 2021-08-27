@@ -1,0 +1,22 @@
+original_conversation
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+not too bad . just happy that the apartment is quiet for once .
+i know what you mean . it is great to have quiet time to read
+for me , its playing my guitar . do you play an instrument ?
+i do not . i do read a lot though
+so where are you from ?
+i am from new york , what about you ?
+modified_conversation
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+hello . how are you today ?
+i am doing well , thank you . how are you ?
+not too bad . just happy that the apartment is quiet for once .
+i know what you mean . it is great to have quiet time to read
+for me , its playing my guitar . do you play an instrument ?
+i do not . i do read a lot though
+so where are you from ?
+i am from 2 million dollars , what about you ?

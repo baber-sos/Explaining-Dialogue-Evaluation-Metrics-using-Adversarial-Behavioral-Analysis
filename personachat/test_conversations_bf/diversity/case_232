@@ -1,0 +1,10 @@
+original_conversation
+hello how are you today
+i am well . how are you?
+i am doing great just got back from the beach
+that is great . i live far from the beach.
+modified_conversation
+hello how are you today
+i am well . how are you?
+i am doing great just got back from the beach
+that is great . i is far from the beach.

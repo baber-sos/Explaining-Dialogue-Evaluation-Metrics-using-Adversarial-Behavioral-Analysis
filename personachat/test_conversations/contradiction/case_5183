@@ -1,0 +1,18 @@
+original_conversation
+hello , how are you doing this evening ?
+i am good ! and you ?
+hello , how are you doing this evening ?
+i am good ! and you ?
+doing well , thank you . did you do anything special today ?
+i just got done laying carpet !
+did it turn out nicely ? is that what you do for a living ?
+it is indeed what i do ! i like it , it is good pay !
+modified_conversation
+hello , how are you doing this evening ?
+i am good ! and you ?
+hello , how are you doing this evening ?
+i am good ! and you ?
+doing well , thank you . did you do anything special today ?
+i just got done laying carpet !
+did it turn out nicely ? is that what you do for a living ?
+i just  did not get done laying carpet !
