@@ -1,0 +1,6 @@
+original_conversation
+As a programmer, this pretty much sums up my work last week..
+not just programming I've been battling a Fedora based nagios install all week. chown nagios:nagios a file, it works, restart the nagios service, doesn't work.
+modified_conversation
+As a programmer, this pretty much sums up my work last week..
+not just programming I've been battling a Fedora based nagios install all week. chown nagios:nagios a file, it works, restart the nagios service, doesn't go.

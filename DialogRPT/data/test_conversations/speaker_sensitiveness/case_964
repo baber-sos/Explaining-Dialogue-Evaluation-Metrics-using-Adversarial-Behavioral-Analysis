@@ -1,0 +1,8 @@
+original_conversation
+Should I keep this shirt or should I return it?.
+The shirt is fine. The pants are not.
+Do you mean the pants alone, or as a combo? He wouldn't actually wear that as a combo. He was just trying on what he just bought.
+modified_conversation
+Should I keep this shirt or should I return it?.
+The shirt is fine. The pants are not.
+The shirt is fine. The pants are not. Do you mean the pants alone, or as a combo? He wouldn't actually wear that as a combo. He was just trying on what he just bought.

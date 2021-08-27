@@ -1,0 +1,8 @@
+original_conversation
+A simple way of defeating the compiler backdoor attack (a.k.a the "Trust Attack").
+More accurate title: A simple way of adding one more layer of abstraction to the actual problem. What if the TCC compiler is compromised?
+Every layer you add makes this hack *~~exponentially~~ polynomially harder* to pull off. See [this comment] (URL)
+modified_conversation
+A simple way of defeating the compiler backdoor attack (a.k.a the "Trust Attack").
+More accurate title: A simple way of adding one more layer of abstraction to the actual problem. What if the TCC compiler is compromised?
+Every layer you add makes this hack *~~exponentially~~ polynomially harder* to pull off. See [this comment] (URL (URL (URL)

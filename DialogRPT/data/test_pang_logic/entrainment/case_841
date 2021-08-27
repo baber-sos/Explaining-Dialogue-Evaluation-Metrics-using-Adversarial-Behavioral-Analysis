@@ -1,0 +1,14 @@
+original_conversation
+This is it. I will never accomplish anything greater then this..
+1 *seconds*??
+Lazy programming, whoever coded that never expected a one second game to ever happen.
+if (time == 1) word = "second"; else word = "seconds"; Lazy bastards.
+I'd go for: word = (time == 1)? "second" : "seconds"; or word = "second"; if(time!= 1) word += "s";
+The second is much more inefficient in almost all languages, since they have immutable strings. Even if they didn't, you'd likely be growing an array with that second operation.
+modified_conversation
+This is it. I will never accomplish anything greater then this..
+1 *seconds*??
+Lazy programming, whoever coded that never expected a one second game to ever happen.
+if (time == 1) word = "second"; else word = "seconds"; Lazy bastards.
+I'd go for: word = (time == 1)? "second" : "seconds"; or word = "second"; if(time!= 1) word += "s";
+The 2nd is much more inefficient in almost all languages, since they have immutable strings. Even if they didn't, you'd likely be growing an array with that second operation.

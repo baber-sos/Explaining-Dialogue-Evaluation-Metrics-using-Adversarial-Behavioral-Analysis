@@ -1,0 +1,6 @@
+original_conversation
+Deprecated Linux networking commands and their replacements.
+Nobody will ever take my `netstat -pant` away from me!
+modified_conversation
+Deprecated Linux networking commands and their replacements.
+netstat -naptu for me (the u includes udp).

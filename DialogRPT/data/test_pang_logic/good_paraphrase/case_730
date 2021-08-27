@@ -1,0 +1,8 @@
+original_conversation
+Guess programming language by „Hello, world!“ snippet.
+Because I'm a smartass I answered "C++" on the "C" hello world. So now I get to point out that the snippet is perfectly valid C++ code!
+The C version is not really idiomatic C++ code though.
+modified_conversation
+Guess programming language by „Hello, world!“ snippet.
+Because I'm a smartass I answered "C++" on the "C" hello world. So now I get to point out that the snippet is perfectly valid C++ code!
+The C version is however idiomatic C++ code.

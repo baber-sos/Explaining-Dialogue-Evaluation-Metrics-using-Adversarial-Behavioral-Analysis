@@ -1,0 +1,6 @@
+original_conversation
+Is the PS3 Linux based or not?. If it is that should mean that the PS3 doesn't fragment files. Does anyone know for sure?
+PS3 and PS4 OSes are all FreeBSD based, and AFAIK they use UFS2 file system, which has built in features to prevent file fragmentation if that answers your question.
+modified_conversation
+Is the PS3 Linux based or not?. If it is that should mean that the PS3 doesn't fragment files. Does anyone know for sure?
+Differential Equations and PS4 OSes are all FreeBSD based, and AFAIK they use UFS2 file system, which has built in features to prevent file fragmentation if that answers your question.

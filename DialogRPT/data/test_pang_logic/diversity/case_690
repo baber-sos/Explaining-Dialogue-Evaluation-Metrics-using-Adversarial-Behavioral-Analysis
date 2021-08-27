@@ -1,0 +1,8 @@
+original_conversation
+I've decided that I'm going to design a programming language called NullSQL ....... that consists entirely of rhetorical queries .
+NullSQL should just pipe all writes to /dev/null and return null regardless of query . It's writes will be AMAZINGLY fast . It should also support sharding .
+It accepts the syntax of all languages
+modified_conversation
+I've decided that I'm going to design a programming language called NullSQL ....... that consists entirely of rhetorical queries .
+NullSQL should just pipe all writes to /dev/null and return null regardless of query . It's writes will be AMAZINGLY fast . It should also support sharding .
+It accepts the syntax of entirely languages

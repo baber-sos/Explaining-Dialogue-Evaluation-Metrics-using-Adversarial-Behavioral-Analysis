@@ -1,0 +1,8 @@
+original_conversation
+Trying to rescue photos from a windows netbook using Ubuntu usb drive but the windows partition will not mount..
+1. Try posting to these forums: (URL) r/Ubuntu is not really a support forum. 2. What methods did you try to mount with? Graphically in nautilus? udisk --mount /dev/sda1?
+Graphically as well as through the terminal. Also tried forcing it.
+modified_conversation
+Trying to rescue photos from a windows netbook using Ubuntu usb drive but the windows partition will not mount..
+1. Try posting to these forums: (URL) r/Ubuntu is not really a support forum. 2. What methods did you try to mount with? Graphically in nautilus? udisk --mount /dev/sda1?
+Trying to rescue photos from a windows netbook using Ubuntu usb drive but the windows partition will not mount..
