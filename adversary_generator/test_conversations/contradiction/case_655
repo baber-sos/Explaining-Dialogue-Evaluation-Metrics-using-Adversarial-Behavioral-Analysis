@@ -1,0 +1,6 @@
+original_conversation
+Hello . Holiday Inn . How can I help you ?
+Yes . I booked a single room in your hotel for this Friday . But I ’ m sorry to say that I have to cancel it . My wife is very sick now . I don ’ t think she ’ ll be able to travel by this Friday .
+modified_conversation
+Hello . Holiday Inn . How can I help you ?
+Yes . I booked a single room in your hotel for this Friday . But I ’ m sorry to say that I have to cancel Thursday . My wife is very sick now . I don ’ t think she ’ ll be able to travel by this Friday .

@@ -1,0 +1,16 @@
+original_conversation
+What's the price ? I hope you'll quote us favorably .
+It's 800 US dollars per kilo CIF five percent Hamburg .
+Frankly speaking , the price you offer is too high . We can't accept it .
+Why ? This is a fair market price .
+It certainly is .
+Then what leads you to think that we have to reduce our price ? Please tell me candidly .
+I look at it this way , suppliers should be able to reduce their CIF price , even lower than their home price .
+modified_conversation
+What's the price ? I hope you'll quote us favorably .
+It's 800 US dollars per kilo CIF five percent Hamburg .
+Frankly speaking , the price you offer is too high . We can't accept it .
+Why ? This is a fair market price .
+It certainly is .
+Then what leads you to think that we have to reduce our price ? Please tell me candidly .
+I look at it this way , suppliers should be able to cut their CIF price , even lower than their home price .

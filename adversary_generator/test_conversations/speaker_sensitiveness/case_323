@@ -1,0 +1,18 @@
+original_conversation
+May I take your drink order while you are looking over your menu ?
+Yes , do you have a wine list ?
+The wine list is on the second page of your menu .
+Do you have mixed drinks in this restaurant ?
+Yes , we have a full bar here .
+I am not sure what I want . Do you have any house specials ?
+Actually , we are famous for our Cuervo Gold margaritas .
+That sounds good ! Please bring me one of those .
+modified_conversation
+May I take your drink order while you are looking over your menu ?
+Yes , do you have a wine list ?
+The wine list is on the second page of your menu .
+Do you have mixed drinks in this restaurant ?
+Yes , we have a full bar here .
+I am not sure what I want . Do you have any house specials ?
+Actually , we are famous for our Cuervo Gold margaritas .
+Actually , we are famous for our Cuervo Gold margaritas . That sounds good ! Please bring me one of those .

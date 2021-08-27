@@ -1,0 +1,14 @@
+original_conversation
+Welcome to the KFC Just-in-Time . Can I help you ?
+I want a Special King size and some chips .
+Anything else , sir ?
+Green salad please .
+What do you want for your drink ?
+Cola , please .
+modified_conversation
+Welcome to the KFC Just-in-Time . Can I help you ?
+I want a Special King size and some chips .
+Anything else , sir ?
+Green salad please .
+What do you want for your drink ?
+Please Cola.

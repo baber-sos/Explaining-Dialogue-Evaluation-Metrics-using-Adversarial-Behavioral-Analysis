@@ -1,0 +1,12 @@
+original_conversation
+Good morning , sir . How may I help you ?
+Good morning ! Do you have any rooms available at the moment ?
+Yes , we do . What kind of room would you like ?
+I'd like a suite for four nights .
+Please wait a moment while I check availability . Ah , I'm sorry , sir . We only have a double room available now .
+modified_conversation
+Good morning , sir . How may I help you ?
+Good morning ! Do you have any rooms available at the moment ?
+Yes , we do . What kind of room would you like ?
+I'd like a suite for four nights .
+I'd like a suite for four nights . Please wait a moment while I check availability . Ah , I'm sorry , sir . We only have a double room available now .

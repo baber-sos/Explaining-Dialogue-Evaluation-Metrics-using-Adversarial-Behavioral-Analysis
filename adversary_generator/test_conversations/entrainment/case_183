@@ -1,0 +1,18 @@
+original_conversation
+Are you here to make a deposit Mr Hayes ?
+No , Nancy , today I'm here to make a withdrawal . I made a formal request 7 days ago .
+You want to withdraw on your Time Deposit , right ?
+That's correct . But before I do , I was wondering if you could give me some advice .
+Of course , Mr Hayes . That's what I'm here for . What would you like to know ?
+Maybe I'm making a big mistake cashing in my Time Deposit before maturity .
+This bank charges you 6 months interest as a penalty if you withdraw before maturity . Would it be possible to take the money from your Current Account , for example ?
+No , not really . My Current Account is for cash flow and couldn't withstand having all of that money taken from it .
+modified_conversation
+Are you here to make a deposit Mr Hayes ?
+No , Nancy , today I'm here to make a withdrawal . I made a formal request 7 days ago .
+You want to withdraw on your Time Deposit , right ?
+That's correct . But before I do , I was wondering if you could give me some advice .
+Of course , Mr Hayes . That's what I'm here for . What would you like to know ?
+Maybe I'm making a big mistake cashing in my Time Deposit before maturity .
+This bank charges you 6 months interest as a penalty if you withdraw before maturity . Would it be possible to take the money from your Current Account , for example ?
+No , not really . My Current accounting is for cash flow and couldn't withstand having all of that money taken from it .

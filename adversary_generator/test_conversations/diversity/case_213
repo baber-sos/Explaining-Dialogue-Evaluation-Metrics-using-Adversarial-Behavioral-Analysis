@@ -1,0 +1,16 @@
+original_conversation
+Good morning . Your ticket and passport, please?
+Here you are .
+Do you have any baggage to check in?
+Yes, one box .
+Would you please put it on the scale?
+OK . By the way, can you tell me how many kilos of free baggage each passenger is allowed?
+The baggage allowance is different according to the class of your ticket . What class are you travelling?
+modified_conversation
+Good morning . Your ticket and passport, please?
+Here you are .
+Do you have any baggage to check in?
+Yes, one box .
+Would you please put it on the scale?
+OK . By the way, can you tell me how many kilos of free baggage each passenger is allowed?
+The baggage allowance is different according to the class of your tickets . What class are you travelling?

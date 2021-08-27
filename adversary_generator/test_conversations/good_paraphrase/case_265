@@ -1,0 +1,10 @@
+original_conversation
+IBA , Jane speaking . How can I help you ?
+Hello . I'd like to speak to someone regarding my card .
+Sorry , I'm not quite sure if I understand . In what way , Sir ? Has your card been stolen ?
+No , no . Nothing at all like that . It's just that I applied for a credit card with you a while ago , my application was accepted , but I'm still waiting for my card .
+modified_conversation
+IBA , Jane speaking . How can I help you ?
+Hello . I'd like to speak to someone regarding my card .
+Sorry , I'm not quite sure if I understand . In what way , Sir ? Has your card been stolen ?
+There is no such thing at all. It's just that I had applied for a credit card with you a while ago, my application was accepted, but I still wait for my card.

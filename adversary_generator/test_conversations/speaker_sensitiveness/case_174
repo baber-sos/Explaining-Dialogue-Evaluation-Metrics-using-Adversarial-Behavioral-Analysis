@@ -1,0 +1,14 @@
+original_conversation
+Good morning ! Welcome to our bank ! How may I help you ?
+Good morning ! I'm Steven Smith . I want to open an account here .
+OK ! Come this way please . You should fill a form here first . Here you are .
+Thank you very much ! And then what ?
+If you don't mind , Mr . Smith , please go to counter number six to queue up and wait for the service .
+OK ! Thank you .
+modified_conversation
+Good morning ! Welcome to our bank ! How may I help you ?
+Good morning ! I'm Steven Smith . I want to open an account here .
+OK ! Come this way please . You should fill a form here first . Here you are .
+Thank you very much ! And then what ?
+If you don't mind , Mr . Smith , please go to counter number six to queue up and wait for the service .
+If you don't mind , Mr . Smith , please go to counter number six to queue up and wait for the service . OK ! Thank you .

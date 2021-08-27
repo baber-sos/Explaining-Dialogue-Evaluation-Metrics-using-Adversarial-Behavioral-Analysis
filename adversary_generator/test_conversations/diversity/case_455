@@ -1,0 +1,12 @@
+original_conversation
+Hi, Sven, can you help me? Could you hold the end of the tape measure, please?
+Of course, where do you want me to stand?
+Just there by the door . I need to measure the length of this workbench . We're going to replace it . OK - 3 m 47 cm . Let's round it up to 3 m 50 .
+I'm glad you're replacing it . We need more space to work on things . How deep will the new workbench be?
+Tell me what size you want and I'll order the wood.
+modified_conversation
+Hi, Sven, can you help me? Could you hold the end of the tape measure, please?
+Of course, where do you want me to stand?
+Just there by the door . I need to measure the length of this workbench . We're going to replace it . OK - 3 m 47 cm . Let's round it up to 3 m 50 .
+I'm glad you're replacing it . We need more space to work on things . How deep will the new workbench be?
+Tell me what size you need and 1'll Tell the wood.

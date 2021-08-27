@@ -1,0 +1,16 @@
+original_conversation
+Sir , may I please see your license and registration ? Do you know how fast you were going ?
+No , I ’ m not sure . I think about 65 mph , right ?
+You ’ re not sure ? You were going at 90 miles per hour ! That ’ s 25 mph over the legal speed limit ! Have you been drinking ?
+No , Officer , not at all .
+Then how can you explain your behavior ?
+Well , I guess I just wasn ’ t paying attention to the speedometer .
+Not paying attention to the speedometer ? Why not ?
+modified_conversation
+Sir , may I please see your license and registration ? Do you know how fast you were going ?
+No , I ’ m not sure . I think about 65 mph , right ?
+You ’ re not sure ? You were going at 90 miles per hour ! That ’ s 25 mph over the legal speed limit ! Have you been drinking ?
+No , Officer , not at all .
+Then how can you explain your behavior ?
+Well , I guess I just wasn ’ t paying attention to the speedometer .
+Well , I guess I just wasn ’ t paying attention to the speedometer . Not paying attention to the speedometer ? Why not ?

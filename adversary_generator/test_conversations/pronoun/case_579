@@ -1,0 +1,16 @@
+original_conversation
+Good evening , sir . Welcome to our restaurant .
+Thank you .
+Do you have a reservation ?
+Yes , I do .
+May I have your name , please ?
+Yes , it's Mr . Brown .
+Mr . Brown . We were expecting you . This way , please . Will this table be fine ?
+modified_conversation
+Good evening , sir . Welcome to our restaurant .
+Thank you .
+Do you have a reservation ?
+Yes , I do .
+May I have your name , please ?
+Yes , it's Mr . Brown .
+Mr . Brown . you were expecting he . we way , please . Will i table be fine ?

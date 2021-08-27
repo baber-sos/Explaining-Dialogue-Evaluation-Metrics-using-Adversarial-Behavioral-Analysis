@@ -1,0 +1,10 @@
+original_conversation
+Excuse me . Is this the right way to the museum ?
+I'm afraid you're going in the opposite direction . Go back the way you came , and take the second turn on the left . The museum is straight ahead , right in front of you .
+Will it take me long to get there ?
+Well , it's about fifteen minutes ' walk .
+modified_conversation
+Excuse me . Is this the right way to the museum ?
+I'm afraid you're going in the opposite direction . Go back the way you came , and take the second turn on the left . The museum is straight ahead , right in front of you .
+Will it take me long to get there ?
+I'm not afraid you're going in the opposite direction . Go back the way you came , and take the second turn on the left . The museum is straight ahead , right in front of you .

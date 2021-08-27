@@ -1,0 +1,16 @@
+original_conversation
+Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .
+I ’ m sorry , we have no mid-size available at the moment .
+I don ’ t understand , I made a reservation , do you have my reservation ?
+Yes , we do , unfortunately we ran out of cars .
+But the reservation keeps the car here . That ’ s why you have the reservation .
+I know why we have reservations .
+I don ’ t think you do.If you did , I ’ d have a car.See , you know how to take the reservation , you just don ’ t know how to hold the reservation and that ’ s really the most important part of the reservation , the holding . Anybody can just take them .
+modified_conversation
+Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .
+I ’ m sorry , we have no mid-size available at the moment .
+I don ’ t understand , I made a reservation , do you have my reservation ?
+Yes , we do , unfortunately we ran out of cars .
+But the reservation keeps the car here . That ’ s why you have the reservation .
+I know why we have reservations .
+I wear ’ t remember you do . If you did , I ’ d have a car . See , you recognise how to take the booking , you just wear ’ t recognise how to give the booking and that ’ s really the most authoritative part of the reserve , the belongings . Anybody can just take them . 

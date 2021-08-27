@@ -1,0 +1,14 @@
+original_conversation
+Excuse me , can you tell me the way to Holton railway station ?
+Sure . It ’ s quite far from here . Don ’ t worry , though . It ’ s not difficult to get there .
+I think I ’ m going in the wrong direction , aren ’ t ?
+Yes . First , you need to turn around . Do you remember passing some traffic lights further up this road ?
+Yes , I do . They are about two miles away , right ?
+That ’ s right . Drive back to the traffic rights and turn right . Follow the road for about a mile , until you see the plaza hotel . It ’ s a really big hotel . You can ’ t miss it . Turn left at the hotel .
+modified_conversation
+Excuse me , can you tell me the way to Holton railway station ?
+Sure . It ’ s quite far from here . Don ’ t worry , though . It ’ s not difficult to get there .
+I think I ’ m going in the wrong direction , aren ’ t ?
+Yes . First , you need to turn around . Do you remember passing some traffic lights further up this road ?
+Yes , I do . They are about two miles away , right ?
+That ’ s right . Drive back to the traffic rights and turn right . Follow the road for about a mile , until you see the plaza hotel . It ’ s a really big hotel . You can ’ t miss it . Turn left at the plaza hotel .

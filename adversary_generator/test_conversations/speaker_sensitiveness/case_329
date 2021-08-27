@@ -1,0 +1,12 @@
+original_conversation
+Excuse me , where am I on this map ?
+You're right here , bus station , we are in the center of the city .
+Which bus should I take to railway station ?
+You can take a No . 2 bus here .
+Where am I supposed to change ?
+modified_conversation
+Excuse me , where am I on this map ?
+You're right here , bus station , we are in the center of the city .
+Which bus should I take to railway station ?
+You can take a No . 2 bus here .
+You can take a No . 2 bus here . Where am I supposed to change ?

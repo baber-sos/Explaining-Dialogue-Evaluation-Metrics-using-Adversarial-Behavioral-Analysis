@@ -1,0 +1,14 @@
+original_conversation
+How much is this ?
+You mean the large one or the small one ?
+The large one .
+They're on special this week . They've been reduced to five dollars .
+Is this the only kind you have ?
+No . We have some that are different in style but not in color . They're over there . Do you see the sign ?
+modified_conversation
+How much is this ?
+You mean the large one or the small one ?
+The large one .
+They're on special this week . They've been reduced to five dollars .
+Is this the only kind you have ?
+They're not on special this week . They've been reduced to five dollars .

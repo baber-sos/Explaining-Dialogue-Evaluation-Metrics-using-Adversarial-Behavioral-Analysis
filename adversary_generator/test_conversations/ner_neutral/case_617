@@ -1,0 +1,10 @@
+original_conversation
+Come on , Tara . Let ’ s go up to the window and buy two tickets . The movie is starting in a few minutes .
+We can ’ t break into the line . Don ’ t be so impatient . We ’ ll be at the front of the line soon .
+Two tickets , please . How much are they ?
+Oh no , Ari . I didn ’ t mean for you to pay for me when I invited you to go tonight . Let ’ s go Dutch . I ’ ll pay my own way . I insist .
+modified_conversation
+Come on , Tara . Let ’ s go up to the window and buy two tickets . The movie is starting in a few minutes .
+We can ’ t break into the line . Don ’ t be so impatient . We ’ ll be at the front of the line soon .
+Two tickets , please . How much are they ?
+Oh no , Ari . I didn ’ t mean for you to pay for Ari when I invited you to go tonight . Let ’ s go Dutch . I ’ ll pay my own way . I insist .

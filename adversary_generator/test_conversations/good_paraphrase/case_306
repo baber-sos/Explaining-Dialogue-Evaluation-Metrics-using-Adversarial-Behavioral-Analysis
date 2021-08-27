@@ -1,0 +1,12 @@
+original_conversation
+What did you do at the office today ?
+I had a really busy day . I had to work a little overtime . In the morning an important client called to place a large order . I had to check some things with my colleagues before confirming the order .
+What kind of things did you need to check ?
+The most important thing was to check that we had the goods in stock . If the goods are in stock , we can deliver them immediately . I also had to check the price . This customer is very important , so they get special prices .
+I see . Did anything else happen ?
+modified_conversation
+What did you do at the office today ?
+I had a really busy day . I had to work a little overtime . In the morning an important client called to place a large order . I had to check some things with my colleagues before confirming the order .
+What kind of things did you need to check ?
+The most important thing was to check that we had the goods in stock . If the goods are in stock , we can deliver them immediately . I also had to check the price . This customer is very important , so they get special prices .
+I see, had anything else happen?

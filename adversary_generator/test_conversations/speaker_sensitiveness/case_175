@@ -1,0 +1,12 @@
+original_conversation
+Good morning , Sir .
+Hello . I'm here today to pay in some foreign currency . Is that possible at this counter ?
+Of course , Sir . What kind of currency would you like to deposit ? And what is the amount you would like to pay in ?
+10,000 Japanese yen .
+OK , Sir . Would that be Fixed or Current Deposit ?
+modified_conversation
+Good morning , Sir .
+Hello . I'm here today to pay in some foreign currency . Is that possible at this counter ?
+Of course , Sir . What kind of currency would you like to deposit ? And what is the amount you would like to pay in ?
+10,000 Japanese yen .
+10,000 Japanese yen . OK , Sir . Would that be Fixed or Current Deposit ?

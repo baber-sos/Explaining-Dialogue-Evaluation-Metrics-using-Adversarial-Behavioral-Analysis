@@ -1,0 +1,18 @@
+original_conversation
+Hello . This is Hamilton ’ s Heating and cooling service . Can I help you ?
+Yes . My home freezer is not working properly .
+What ’ s the problem ?
+It keeps running all the time , never stopping . And it makes a strange sound . All the ice cream inside it melted .
+Maybe the compressor is going bad .
+Can you send the technician to check it out ?
+Sure . But there is a minimum charge of $ 60 for a service visit . If your freezer needs parts , there will be an additional charge .
+Okay . I ’ ll pay the charges .
+modified_conversation
+Hello . This is Hamilton ’ s Heating and cooling service . Can I help you ?
+Yes . My home freezer is not working properly .
+What ’ s the problem ?
+It keeps running all the time , never stopping . And it makes a strange sound . All the ice cream inside it melted .
+Maybe the compressor is going bad .
+Can you send the technician to check it out ?
+Sure . But there is a minimum charge of $ 60 for a service visit . If your freezer needs parts , there will be an additional charge .
+Sure . But there is a minimum charge of $ 60 for a service visit . If your freezer needs parts , there will be an additional charge . Okay . I ’ ll pay the charges .

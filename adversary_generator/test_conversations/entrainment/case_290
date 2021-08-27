@@ -1,0 +1,18 @@
+original_conversation
+Excuse me , I'm looking for the airport bus stop . Do you know where it is ?
+Here it is .
+When does the bus come ?
+You just missed one .
+How about the next one ?
+In an hour .
+Isn't there an earlier one ?
+No , they come every hour on the hour .
+modified_conversation
+Excuse me , I'm looking for the airport bus stop . Do you know where it is ?
+Here it is .
+When does the bus come ?
+You just missed one .
+How about the next one ?
+In an hour .
+Isn't there an earlier one ?
+No , they follow every hour on the hour .

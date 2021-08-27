@@ -1,0 +1,18 @@
+original_conversation
+Were you around when the robbery happened ?
+Yes , I was .
+Could you explain what you saw ?
+I was in the bank at the time of the robbery .
+What did you see ?
+I saw a man come in with a gun .
+Did you see his face ?
+No . He had a mask on .
+modified_conversation
+Were you around when the robbery happened ?
+Yes , I was .
+Could you explain what you saw ?
+I was in the bank at the time of the robbery .
+What did you see ?
+I saw a man come in with a gun .
+Did you see his face ?
+I  did not see a man come in with a gun .

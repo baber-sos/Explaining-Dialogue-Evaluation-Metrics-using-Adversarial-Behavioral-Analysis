@@ -1,0 +1,12 @@
+original_conversation
+Welcome to Super Stereos . What can I do for you ?
+I'd like to look at your stereo systems . Do you have anything on sale ?
+Yes , this system over here is on sale for $ 1,000 . As you can see , all of the components are brand-name .
+But it doesn't have a turntable . I have a fair number of vinyl records , so I need something to play them on .
+Our selection of stereo systems with turntables is somewhat limited , but we do have this system over here .
+modified_conversation
+Welcome to Super Stereos . What can I do for you ?
+I'd like to look at your stereo systems . Do you have anything on sale ?
+Yes , this system over here is on sale for $ 1,000 . As you can see , all of the components are brand-name .
+But it doesn't have a turntable . I have a fair number of vinyl records , so I need something to play them on .
+Yes , this system over here is not on sale for $ 1,000 . As you can see , all of the components are brand-name .

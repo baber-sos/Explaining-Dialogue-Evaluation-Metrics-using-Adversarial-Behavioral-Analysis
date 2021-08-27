@@ -1,0 +1,10 @@
+original_conversation
+Hi there , Mr Brown . Are you depositing or withdrawing today ?
+Sorry to say it , but neither of those . I'm here to close our account with you . The market around here has been dropping for a while now , and it's just not sensible for us to stay .
+I understand . So , what would you like to do with the balance ?
+I guess I should just withdraw everything .
+modified_conversation
+Hi there , Mr Brown . Are you depositing or withdrawing today ?
+Sorry to say it , but neither of those . I'm here to close our account with you . The market around here has been dropping for a while now , and it's just not sensible for us to stay .
+I understand . So , what would you like to do with the balance ?
+I guess that I should just withdraw everything.

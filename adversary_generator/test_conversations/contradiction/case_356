@@ -1,0 +1,10 @@
+original_conversation
+Thank you for calling ABC company , may I help you ?
+I'm Lui , I'd like to Speak to Mr . Smiths .
+Sorry , we have two Smiths , Robert Smith and Jim Smith , which one would you like to speak to ?
+I'd like to speak to Mr Robert Smith .
+modified_conversation
+Thank you for calling ABC company , may I help you ?
+I'm Lui , I'd like to Speak to Mr . Smiths .
+Sorry , we have two Smiths , Robert Smith and Jim Smith , which one would you like to speak to ?
+I'm not Lui , I'd like to Speak to Mr . Smiths .

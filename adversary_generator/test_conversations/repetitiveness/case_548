@@ -1,0 +1,16 @@
+original_conversation
+Doctor, here's my report for my IVP examination .
+Let me have a look . Can you see there's a stone in your kidney?
+Oh, yes, is it dangerous?
+No, but it's painful .
+Do I have to have an operation?
+No, it's not necessary since the stone is not big .
+Good, I can still attend the Olympic Games.
+modified_conversation
+Doctor, here's my report for my IVP examination .
+Let me have a look . Can you see there's a stone in your kidney?
+Oh, yes, is it dangerous?
+No, but it's painful .
+Do I have to have an operation?
+No, it's not necessary since the stone is not big .
+Good, I I can still attend the Olympic Games.

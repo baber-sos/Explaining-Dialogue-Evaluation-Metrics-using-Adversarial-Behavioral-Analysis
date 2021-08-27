@@ -1,0 +1,10 @@
+original_conversation
+Morning, Madam . This is the window for Foreign Exchange Savings . How can I help you?
+I want to save some US dollars into my account .
+That's fine . Is it a Time Deposit?
+Yes, that's what my husband advised me to do . But I'm not sure how long I should save for.
+modified_conversation
+Morning, Madam . This is the window for Foreign Exchange Savings . How can I help you?
+I want to save some US dollars into my account .
+That's fine . Is it a Time Deposit?
+Yes, that's what my husband advised me to do . But I'm not sure how long I should Savings for.

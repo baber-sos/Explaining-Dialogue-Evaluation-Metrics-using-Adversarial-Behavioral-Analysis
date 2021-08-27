@@ -1,0 +1,22 @@
+original_conversation
+May I help you ?
+Yes , I would like to check in .
+Do you have a reservation ?
+Yes , my name is Carol Tiang . That's spelled J - I - A - N - G .
+I'm sorry , Ma'am . I can't find anything under that name.Do you have your confirmation number ?
+No , I don't have it with me.But I know I have a reservation . My husband made it for me last month .
+Well , let me look again . How do you spell your first name , Ma'am ?
+C - A - R - O - L . Carol .
+I don't find a Carol in the computer for today . I have a Carol Larson here . But that reservation is for next Monday .
+No , that's not me . My name is Tiang , not Larson . My husband reserved for me .
+modified_conversation
+May I help you ?
+Yes , I would like to check in .
+Do you have a reservation ?
+Yes , my name is Carol Tiang . That's spelled J - I - A - N - G .
+I'm sorry , Ma'am . I can't find anything under that name.Do you have your confirmation number ?
+No , I don't have it with me.But I know I have a reservation . My husband made it for me last month .
+Well , let me look again . How do you spell your first name , Ma'am ?
+C - A - R - O - L . Carol .
+I don't find a Carol in the computer for today . I have a Carol Larson here . But that reservation is for next Monday .
+No , that's not me . My name is Tiang , not a Carol Larson . My husband reserved for me .

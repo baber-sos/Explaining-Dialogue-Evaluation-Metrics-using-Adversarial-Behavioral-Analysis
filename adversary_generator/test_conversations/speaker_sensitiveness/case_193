@@ -1,0 +1,10 @@
+original_conversation
+Hello ?
+Hi Steve . This is Mike . What are you doing ?
+Oh , hi . I was just watching TV .
+There's nothing to watch right now .
+modified_conversation
+Hello ?
+Hi Steve . This is Mike . What are you doing ?
+Oh , hi . I was just watching TV .
+Oh , hi . I was just watching TV . There's nothing to watch right now .

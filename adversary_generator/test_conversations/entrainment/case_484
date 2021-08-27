@@ -1,0 +1,12 @@
+original_conversation
+Good day . Is this the Business Centre ?
+It is . What can I do for you ?
+I want to make a deposit .
+Would that be a Fixed Deposit or a Current Deposit ?
+A Current Deposit , please .
+modified_conversation
+Good day . Is this the Business Centre ?
+It is . What can I do for you ?
+I want to make a deposit .
+Would that be a Fixed Deposit or a Current Deposit ?
+A Current depositary , please .

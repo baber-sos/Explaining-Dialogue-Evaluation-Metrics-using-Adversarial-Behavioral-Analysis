@@ -1,0 +1,8 @@
+original_conversation
+What sort of salary did you get at your previous job ?
+Well , I got $ 3,000 per month .
+I see . I am sure we can offer you $ 3 , 500 at the beginning . Would that be satisfactory ?
+modified_conversation
+What sort of salary did you get at your previous job ?
+Well , I got $ 3,000 per month .
+Well , I got $ 3,000 per month . I see . I am sure we can offer you $ 3 , 500 at the beginning . Would that be satisfactory ?

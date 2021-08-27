@@ -1,0 +1,12 @@
+original_conversation
+Hello . What can I do for you ?
+Hello . I'm here to get my salary .
+I see . Do you have your Current All-in-one Passbook with you ? I'll need your password for this transaction .
+No problem .
+And how much of your salary would you like ?
+modified_conversation
+Hello . What can I do for you ?
+Hello . I'm here to get my salary .
+I see . Do you have your Current All-in-one Passbook with you ? I'll need your password for this transaction .
+No problem .
+And how much of your remuneration would you like ?

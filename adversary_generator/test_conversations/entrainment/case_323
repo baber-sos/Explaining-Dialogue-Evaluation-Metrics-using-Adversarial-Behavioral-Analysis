@@ -1,0 +1,14 @@
+original_conversation
+I would like to open a checking account at this branch .
+Do you have any other accounts with this bank ?
+I do , at a different location , I have a savings account and a CD .
+In that case , we will need to fill out this paperwork . Do you have identification with you ?
+Here is my driver's license . Will that work ?
+Yes . Do you know what type of checking account you would like to open , business or personal ?
+modified_conversation
+I would like to open a checking account at this branch .
+Do you have any other accounts with this bank ?
+I do , at a different location , I have a savings account and a CD .
+In that case , we will need to fill out this paperwork . Do you have identification with you ?
+Here is my driver's license . Will that work ?
+Yes . Do you know what type of checking account you would like to unfold , business or personal ?

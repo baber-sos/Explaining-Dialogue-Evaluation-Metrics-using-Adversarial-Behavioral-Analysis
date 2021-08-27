@@ -1,0 +1,8 @@
+original_conversation
+Thank you for calling ABC Company , may I help you ?
+I ’ m Liu Yi . I ’ d like to speak to Mr . Smith .
+Sorry , we have two Smiths , Robert Smith and James Smith , which one would you like to speak to ?
+modified_conversation
+Thank you for calling ABC Company , may I help you ?
+I ’ m Liu Yi . I ’ d like to speak to Mr . Smith .
+I ’ m Liu Yi . I ’ d like to speak to Mr . Smith . Sorry , we have two Smiths , Robert Smith and James Smith , which one would you like to speak to ?

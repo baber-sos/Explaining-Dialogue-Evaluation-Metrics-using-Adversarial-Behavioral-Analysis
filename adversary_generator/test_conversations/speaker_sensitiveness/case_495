@@ -1,0 +1,16 @@
+original_conversation
+Waiter , a table for two , please .
+Yes , this way please .
+Can we see the menu please .
+Here you are .
+What ’ s good today ?
+I recommend crisp beef and fried duck .
+We don ’ t want that . Well . perhaps will be begin with mushroom soap and follow by some seafood and chips .
+modified_conversation
+Waiter , a table for two , please .
+Yes , this way please .
+Can we see the menu please .
+Here you are .
+What ’ s good today ?
+I recommend crisp beef and fried duck .
+I recommend crisp beef and fried duck . We don ’ t want that . Well . perhaps will be begin with mushroom soap and follow by some seafood and chips .

@@ -1,0 +1,12 @@
+original_conversation
+Have we met ?
+I don't think so . Michael .
+Hello , Michael . My name's Shirley . Pleased to meet you .
+Pleased to meet you , too , Shirley . So , what do you do ?
+I work in marketing . I'm a regional marketing manager for an IT company . Normally , I work out of Beijing , but I'm here on business . My friend Judy over there , she lives here and she invited me to this party . And you ? How about you ?
+modified_conversation
+Have we met ?
+I don't think so . Michael .
+Hello , Michael . My name's Shirley . Pleased to meet you .
+Pleased to meet you , too , Shirley . So , what do you do ?
+Hello , Michael . My name's Shirley . Pleased to  do not meet you .

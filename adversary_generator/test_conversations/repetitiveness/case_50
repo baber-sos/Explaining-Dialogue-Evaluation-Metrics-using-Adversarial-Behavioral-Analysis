@@ -1,0 +1,12 @@
+original_conversation
+Boris, look at this sentence . "Healthy eating is not about strict nutrition philosophies, staying unrealistically thin, or depriving yourself of foods you love . "It's interesting, isn't it?
+I'd rather say it's confusing . what are those "strict nutrition philosophies "about?
+I believe they are careful calculations on proteins, vitamins and calories .
+Probably, Iris . That must be the job of nutritionists .
+Healthy eating is not about depriving oneself of the foods one loves . So we are free to have whatever foods we love . It is unbelievable.
+modified_conversation
+Boris, look at this sentence . "Healthy eating is not about strict nutrition philosophies, staying unrealistically thin, or depriving yourself of foods you love . "It's interesting, isn't it?
+I'd rather say it's confusing . what are those "strict nutrition philosophies "about?
+I believe they are careful calculations on proteins, vitamins and calories .
+Probably, Iris . That must be the job of nutritionists .
+Healthy eating is not about depriving oneself of the foods one loves loves . So we are free to have whatever foods we love . It is unbelievable.

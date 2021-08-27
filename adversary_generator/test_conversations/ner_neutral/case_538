@@ -1,0 +1,8 @@
+original_conversation
+What would you like for your main course ?
+Steak , please .
+How would you like your steak ? Rare , medium-rare or well-done ?
+modified_conversation
+What would you like for your main course ?
+Steak , please .
+How would you like Steak ? Rare , medium-rare or well-done ?

@@ -1,0 +1,32 @@
+original_conversation
+R :: Good morning . Room Reservations . May I help you ?
+Yes , I ’ d like to reserve a room .
+R :: Thank you , sir . For which date and how many guests will there be in your party ?
+From April 16th to 20th . Just my wife and myself .
+R :: From April 16th to 20th.And which kind of room would you prefer , sir ?
+A Twin , please .
+Could you hold the line please ? I ’ ll check our room availability . ( After a while ) Thank you for waiting , sir . We have a twin room at US $ 180 per night , will that be all right ?
+Ok , I ’ ll take it .
+Thank you , sir . May I have your name and phone number , please ?
+Sure . May name is Aaron Johnson , and my phone number is 3242-5827 .
+R :: Mr . Aaron Johnson , phone number is 3242-5827 . Excuse me , how do you spell your first name ?
+It ’ s double A , R , O , N .
+Double A , R , O , N . Thank you , Mr . Johnson . May I know your arrival time on April 16th ?
+Around 9 p . m .
+Mr . Johnson , for the unguaranteed reservation , we can only hold the room by 6 p . m . , because it is the peak season now . If you make a guaranteed reservation , we can hold the room overnight . Would you like to make a guaranteed reservation by credit card ?
+modified_conversation
+R :: Good morning . Room Reservations . May I help you ?
+Yes , I ’ d like to reserve a room .
+R :: Thank you , sir . For which date and how many guests will there be in your party ?
+From April 16th to 20th . Just my wife and myself .
+R :: From April 16th to 20th.And which kind of room would you prefer , sir ?
+A Twin , please .
+Could you hold the line please ? I ’ ll check our room availability . ( After a while ) Thank you for waiting , sir . We have a twin room at US $ 180 per night , will that be all right ?
+Ok , I ’ ll take it .
+Thank you , sir . May I have your name and phone number , please ?
+Sure . May name is Aaron Johnson , and my phone number is 3242-5827 .
+R :: Mr . Aaron Johnson , phone number is 3242-5827 . Excuse me , how do you spell your first name ?
+It ’ s double A , R , O , N .
+Double A , R , O , N . Thank you , Mr . Johnson . May I know your arrival time on April 16th ?
+Around 9 p . m .
+Mr . Johnson , for the unguaranteed reservation , we can only hold the room by 6 p . m . , because it is the peak season now . If you make a guaranteed reservation , we can hold the room overnight . Would you wish to make a guaranteed reservation by credit card ?

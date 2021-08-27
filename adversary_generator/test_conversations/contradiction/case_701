@@ -1,0 +1,10 @@
+original_conversation
+Good evening , sir . What's your pleasure ?
+Give me a shot of whisky and soda .
+With or without ice , sir ?
+Certainly without ice . Ice will spoil the taste .
+modified_conversation
+Good evening , sir . What's your pleasure ?
+Give me a shot of whisky and soda .
+With or without ice , sir ?
+ do not give me a shot of whisky and soda .

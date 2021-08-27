@@ -1,0 +1,18 @@
+original_conversation
+Hello , this is Shogun Restaurant .
+Hello , I need to make a dinner reservation .
+Can you tell me what night you will be coming ?
+We will be coming to your restaurant on Tuesday night .
+What time will you be dining with us ?
+Our first choice would be 7
+How many guests will be in your party ?
+Four of us will be coming .
+modified_conversation
+Hello , this is Shogun Restaurant .
+Hello , I need to make a dinner reservation .
+Can you tell me what night you will be coming ?
+We will be coming to your restaurant on Tuesday night .
+What time will you be dining with us ?
+Our first choice would be 7
+How many guests will be in your party ?
+I don't have a good answer to that.

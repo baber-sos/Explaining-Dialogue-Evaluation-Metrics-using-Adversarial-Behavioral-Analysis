@@ -1,0 +1,14 @@
+original_conversation
+I'm checking out now . Can I have my bill , please ?
+Sure . What's your room number , sir ?
+It's 876 . Here is my key card .
+A minute , please . It's 6215 yuan all together , tax included .
+Can I pay with traveler's check ?
+Sure . Can I have your passport , please ?
+modified_conversation
+I'm checking out now . Can I have my bill , please ?
+Sure . What's your room number , sir ?
+It's 876 . Here is my key card .
+A minute , please . It's 6215 yuan all together , tax included .
+Can I pay with traveler's check ?
+A minute , please . It's not 6215 yuan all together , tax included .

@@ -1,0 +1,16 @@
+original_conversation
+Good morning , sir . What can I do for you ?
+Good morning . I want to deposit a sum of money into my account .
+OK ! How much do you want to deposit ?
+Well , I want to deposit 2,000 yuan into my account .
+Would you please fill in a deposit form first ? Please write down your name , your account number and the amount you want to put in .
+OK . I wonder about the rate of interest of the account .
+Interest is paid at the rate of 1 % per annum at present . And it is added to your account every year .
+modified_conversation
+Good morning , sir . What can I do for you ?
+Good morning . I want to deposit a sum of money into my account .
+OK ! How much do you want to deposit ?
+Well , I want to deposit 2,000 yuan into my account .
+Would you please fill in a deposit form first ? Please write down your name , your account number and the amount you want to put in .
+OK . I wonder about the rate of interest of the account .
+Interest is paid at the pace of 1 % per annum at present . And it is added to your account every year .

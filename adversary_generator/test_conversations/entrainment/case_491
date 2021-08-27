@@ -1,0 +1,24 @@
+original_conversation
+Excuse me . Do you know where I can find the nearest ICCC ?
+Yes , but it's quite a ways .
+Do I need to take a bus ?
+This bus doesn't take you directly there . You'd have to change buses twice . I suggest you walk . It'll take you less than 20 minutes .
+How do I get there on foot ?
+Go straight ahead through the intersection .
+Wait , let me write this down ... Alright , I'm ready .
+Keep walking till you pass the square , then turn right . Walk past two lights and turn left at the third .
+Square ... turn right ... traffic lights ... And then ?
+Keep walking and look for a tall building .
+Tall building ... Which side is the building on ?
+modified_conversation
+Excuse me . Do you know where I can find the nearest ICCC ?
+Yes , but it's quite a ways .
+Do I need to take a bus ?
+This bus doesn't take you directly there . You'd have to change buses twice . I suggest you walk . It'll take you less than 20 minutes .
+How do I get there on foot ?
+Go straight ahead through the intersection .
+Wait , let me write this down ... Alright , I'm ready .
+Keep walking till you pass the square , then turn right . Walk past two lights and turn left at the third .
+Square ... turn right ... traffic lights ... And then ?
+Keep walking and look for a tall building .
+Tall building ... Which side is the edifice on ?

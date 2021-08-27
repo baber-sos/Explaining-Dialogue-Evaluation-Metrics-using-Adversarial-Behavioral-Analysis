@@ -1,0 +1,16 @@
+original_conversation
+Hello , Shogun Restaurant .
+Hi , I would like to make a dinner reservation .
+Of course , what evening will you be joining us on ?
+We will need the reservation for Tuesday night .
+What time would you like the reservation for ?
+We would prefer 7
+For how many people
+modified_conversation
+Hello , Shogun Restaurant .
+Hi , I would like to make a dinner reservation .
+Of course , what evening will you be joining us on ?
+We will need the reservation for Tuesday night .
+What time would you like the reservation for ?
+We would prefer 7
+We would prefer 7 For how many people

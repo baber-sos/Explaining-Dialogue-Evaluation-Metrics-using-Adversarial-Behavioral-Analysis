@@ -1,0 +1,18 @@
+original_conversation
+911 . How may I help you ?
+I need to report a break-in .
+When did this break-in occur ?
+Last night .
+Where did the break-in happen ?
+It happened at my house .
+Was anything taken ?
+I'm not sure yet .
+modified_conversation
+911 . How may I help you ?
+I need to report a break-in .
+When did this break-in occur ?
+Last night .
+Where did the break-in happen ?
+It happened at my house .
+Was anything taken ?
+I'm not yet sure.

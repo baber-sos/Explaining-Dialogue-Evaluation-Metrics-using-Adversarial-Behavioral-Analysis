@@ -1,0 +1,18 @@
+original_conversation
+Good morning . Welcome to Time After Time Watches .
+I'd like to buy a watch .
+Well , you've come to the right place . What kind of watch are you looking for ?
+Well , I'm not sure . Let's see . How much is this one ?
+Hmm ... This Rolex ? $ 1,000 .
+Oh . I don't think I can afford that . How about this one ?
+This one is $ 500 .
+Wow . That's too much for me . Don't you have anything cheaper ?
+modified_conversation
+Good morning . Welcome to Time After Time Watches .
+I'd like to buy a watch .
+Well , you've come to the right place . What kind of watch are you looking for ?
+Well , I'm not sure . Let's see . How much is this one ?
+Hmm ... This Rolex ? $ 1,000 .
+Oh . I don't think I can afford that . How about this one ?
+This one is $ 500 .
+This one is $ 500 . Wow . That's too much for me . Don't you have anything cheaper ?

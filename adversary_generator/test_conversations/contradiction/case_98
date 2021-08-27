@@ -1,0 +1,18 @@
+original_conversation
+The doctor sent me over here to have my blood drawn .
+Certainly , please have a seat and roll up your left sleeve .
+What is this test for ?
+Well , today your doctor wants us to check your white blood cell count .
+What does that tell him ?
+Well , if it is elevated , you might have an infection .
+Will the blood test hurt ?
+It is only a little pin stick . I am going to put a tourniquet on your arm to puff your veins up .
+modified_conversation
+The doctor sent me over here to have my blood drawn .
+Certainly , please have a seat and roll up your left sleeve .
+What is this test for ?
+Well , today your doctor wants us to check your white blood cell count .
+What does that tell him ?
+Well , if it is elevated , you might have an infection .
+Will the blood test hurt ?
+Well , if it is not elevated , you might have an infection .

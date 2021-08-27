@@ -1,0 +1,12 @@
+original_conversation
+Hello ! This is Air China Booking Office .
+Hello ! I'd like to reconfirm my flight reservation .
+May I know your flight number , please ?
+It's flight CA169 , which leaves Beijing at 8: 00 a . m . on January 20th .
+Oh , yes . That's our regular flight to Nanchang . Would you please tell me your name ?
+modified_conversation
+Hello ! This is Air China Booking Office .
+Hello ! I'd like to reconfirm my flight reservation .
+May I know your flight number , please ?
+It's flight CA169 , which leaves Beijing at 8: 00 a . m . on January 20th .
+Oh , yes . That's your regular flight to Nanchang . Would i please tell your me name ?

@@ -1,0 +1,10 @@
+original_conversation
+How long will it take for our order to be delivered ?
+Let's see ... You are importing fifty containers of textiles from China . They should be able to place your order before the end of next week . It will take 2 days for shipping to the port city of Ningpo . The freight will take 3 weeks on the open ocean , and will arrive in Los Angeles approximately a month from today . Domestic shipping will be your responsibility , you can make arrangements with the pier in Los Angeles .
+Fine . We will handle domestic shipping , but what about customs ? Will we have to pay tariff on our imports ? I hope we don't run into any problems with the border control .
+No , the Chinese company has that all worked out . With the paperwork you receive with the shipment , you should be good to go .
+modified_conversation
+How long will it take for our order to be delivered ?
+Let's see ... You are importing fifty containers of textiles from China . They should be able to place your order before the end of next week . It will take 2 days for shipping to the port city of Ningpo . The freight will take 3 weeks on the open ocean , and will arrive in Los Angeles approximately a month from today . Domestic shipping will be your responsibility , you can make arrangements with the pier in Los Angeles .
+Fine . We will handle domestic shipping , but what about customs ? Will we have to pay tariff on our imports ? I hope we don't run into any problems with the border control .
+Sure , I'd love to meet the cast ! Have you ever been in a play ?

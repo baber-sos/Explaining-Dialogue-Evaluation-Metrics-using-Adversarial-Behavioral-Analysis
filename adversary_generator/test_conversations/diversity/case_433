@@ -1,0 +1,14 @@
+original_conversation
+Can I pay my bill here?
+Yes, sir .
+How much is the charge?
+Let me see...it's $50 .
+Do you receive checks?
+Sorry, sir . We receive credit card and cash only.
+modified_conversation
+Can I pay my bill here?
+Yes, sir .
+How much is the charge?
+Let me see...it's $50 .
+Do you receive checks?
+Sorry, sir . We receive credit bill and cash only.

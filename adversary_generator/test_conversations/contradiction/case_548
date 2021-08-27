@@ -1,0 +1,16 @@
+original_conversation
+Hi , Sue . What's up ?
+Hey , Andrew . How's everything with work ?
+Ok , I guess . My boss has been on my back recently .
+Really ? What's he been doing ?
+You know , just giving me lots to do . I'm really busy right now .
+Are you ? What are you busy with ?
+Oh , lots of things . Mostly training new people .
+modified_conversation
+Hi , Sue . What's up ?
+Hey , Andrew . How's everything with work ?
+Ok , I guess . My boss has been on my back recently .
+Really ? What's he been doing ?
+You know , just giving me lots to do . I'm really busy right now .
+Are you ? What are you busy with ?
+You  do not know , just giving me lots to do . I'm really busy right now .

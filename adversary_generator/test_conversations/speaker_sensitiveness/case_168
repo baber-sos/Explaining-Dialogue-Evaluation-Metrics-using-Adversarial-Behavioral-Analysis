@@ -1,0 +1,16 @@
+original_conversation
+I would like to open an account today .
+What kind ?
+I want to open a checking account .
+You need to keep a minimum balance .
+How much is it ?
+You need at least $ 100 in your account .
+Is that all ?
+modified_conversation
+I would like to open an account today .
+What kind ?
+I want to open a checking account .
+You need to keep a minimum balance .
+How much is it ?
+You need at least $ 100 in your account .
+You need at least $ 100 in your account . Is that all ?

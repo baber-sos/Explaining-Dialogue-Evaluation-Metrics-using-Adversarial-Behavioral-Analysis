@@ -1,0 +1,26 @@
+original_conversation
+Hello, I'd like to reserve a hotel room .
+That should be no problem . May I have your full name, please?
+My name is John Sandals .
+Hello, Mr . Sandals . My name is Michelle . What days do you need that reservation, sir?
+I'm planning to visit New York from Friday, April 14 until Monday, April 17 .
+Our room rates recently went up . Is that okay with you, Mr . Sandals?
+How much per night are we talking about?
+Each night will be $308 .
+That price is perfectly acceptable .
+Wonderful! Do you prefer a smoking or nonsmoking room?
+Nonsmoking, please .
+Next question, Is a queen-size bed okay?
+modified_conversation
+Hello, I'd like to reserve a hotel room .
+That should be no problem . May I have your full name, please?
+My name is John Sandals .
+Hello, Mr . Sandals . My name is Michelle . What days do you need that reservation, sir?
+I'm planning to visit New York from Friday, April 14 until Monday, April 17 .
+Our room rates recently went up . Is that okay with you, Mr . Sandals?
+How much per night are we talking about?
+Each night will be $308 .
+That price is perfectly acceptable .
+Wonderful! Do you prefer a smoking or nonsmoking room?
+Nonsmoking, please .
+Next question, Is a queen-size bed Okay?

@@ -1,0 +1,8 @@
+original_conversation
+Is this taxi taken ?
+No , madam.May I help you ?
+Yes.Will you take me to the station ?
+modified_conversation
+Is this taxi taken ?
+No , madam.May I help you ?
+No , madam.May I help you ? Yes.Will you take me to the station ?

@@ -1,0 +1,12 @@
+original_conversation
+Oh , my goodness . The traffic is crawling .
+I think there is an accident ahead .
+We are now running late .
+I know . Why don't we take a different route ?
+Let me check and look at the map . Yes , there is an exit three quarters of a mile ahead . We ’ ll exit Market Street , head west , then get on the Pennsylvania Freeway .
+modified_conversation
+Oh , my goodness . The traffic is crawling .
+I think there is an accident ahead .
+We are now running late .
+I know . Why don't we take a different route ?
+Let me check and look at the map . Yes , there is an exit three quarters of a mile forwards . We ’ ll exit Market Street , head west , then get on the Pennsylvania Freeway .

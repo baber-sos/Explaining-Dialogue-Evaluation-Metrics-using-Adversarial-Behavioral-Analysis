@@ -1,0 +1,16 @@
+original_conversation
+Good morning . Sanyu Restaurant . May I help you ?
+What time do you open this evening ?
+We open at 6:30 , sir .
+I see . I'd like to reserve a table for two .
+Yes , sir . What time would you like your table , sir ?
+I'm not sure , perhaps around 8 pm .
+Fine ! I'll reserve a table for two at 8 pm , sir . May I have your name , please ?
+modified_conversation
+Good morning . Sanyu Restaurant . May I help you ?
+What time do you open this evening ?
+We open at 6:30 , sir .
+I see . I'd like to reserve a table for two .
+Yes , sir . What time would you like your table , sir ?
+I'm not sure , perhaps around 8 pm .
+I reserve a table for two at 8 pm, sir, may I have your name, please?

@@ -1,0 +1,18 @@
+original_conversation
+May I help you ?
+Yes , I'm looking for a job as a clerk typist in English .
+I'm Mary Kelly . May I ask your name ?
+My name is Zhuang Lingy . How are you , Miss Kelly ?
+I'm glad to meet you , Mr . Zhuang . Sit down , please .
+Thank you , Miss Kelly .
+What are your qualifications for being a clerk typist ?
+I can type 120 words a minute and I take shorthand at 80 words a minute .
+modified_conversation
+May I help you ?
+Yes , I'm looking for a job as a clerk typist in English .
+I'm Mary Kelly . May I ask your name ?
+My name is Zhuang Lingy . How are you , Miss Kelly ?
+I'm glad to meet you , Mr . Zhuang . Sit down , please .
+Thank you , Miss Kelly .
+What are your qualifications for being a clerk typist ?
+ do not thank you , Miss Kelly .

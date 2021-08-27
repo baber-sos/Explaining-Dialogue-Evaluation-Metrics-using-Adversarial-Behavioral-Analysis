@@ -1,0 +1,12 @@
+original_conversation
+Do you want a shampoo?
+Yes .
+What brand do you prefer?
+An ordinary one will do.Would you put me under a hot dryer after that? I'm in a hurry .
+All right, miss.This one is very hot . I'll come to turn it off in fifteen minutes.Will that be alright?
+modified_conversation
+Do you want a shampoo?
+Yes .
+What brand do you prefer?
+An ordinary one will do.Would you put me under a hot dryer after that? I'm in a hurry .
+All right, miss.This one is very hot . I'll come to turn it off in in fifteen minutes.Will that be alright?

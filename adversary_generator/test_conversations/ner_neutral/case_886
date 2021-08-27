@@ -1,0 +1,10 @@
+original_conversation
+Hello , Oriental Hotel .
+I'd like to speak to Michael Baker , please .
+I'm sorry , Mr . Baker is not in . May I take a message ?
+Yes.Tell him Mr.Cook called and ask him to return my call soon as he gets back .
+modified_conversation
+Hello , Oriental Hotel .
+I'd like to speak to Michael Baker , please .
+I'm sorry , Mr . Baker is not in . May I take a message ?
+Yes.Tell him Mr.Cook called and ask him to return my call soon as Michael Baker gets back .

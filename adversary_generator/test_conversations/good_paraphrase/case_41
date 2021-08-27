@@ -1,0 +1,18 @@
+original_conversation
+Good morning . sir . How may I serve you today ?
+I'd like a cup of mocha .
+Sure . Large or medium ?
+Medium , please .
+Anything else to go ?
+Yeah . give me a chocolate bar also .
+You've got it .
+Please have them wrapped . I'll take them away .
+modified_conversation
+Good morning . sir . How may I serve you today ?
+I'd like a cup of mocha .
+Sure . Large or medium ?
+Medium , please .
+Anything else to go ?
+Yeah . give me a chocolate bar also .
+You've got it .
+Have them wrapped, I'll take them away.

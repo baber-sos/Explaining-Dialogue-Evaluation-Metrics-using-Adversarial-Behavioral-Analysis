@@ -1,0 +1,18 @@
+original_conversation
+How are you ?
+I ’ m fabulous .
+What can I help you with ?
+I need to make a withdrawal .
+How much are you withdrawing today ?
+I need $ 300 .
+What account would you like to take this money from ?
+Take it from my checking account .
+modified_conversation
+How are you ?
+I ’ m fabulous .
+What can I help you with ?
+I need to make a withdrawal .
+How much are you withdrawing today ?
+I need $ 300 .
+What account would you like to take this money from ?
+Take it from my checking invoice .

@@ -1,0 +1,12 @@
+original_conversation
+Bell Computers Limited, can I help you?
+Hello, I'd like to speak to Mike please .
+Hold on please .
+Hello, I'm afraid Mike's unavailable right now . He's in a meeting . Can I take a message?
+Yes, can you please let him know I called and ask him to call me back as soon as he can? My name's Mary, and I'm calling from Happy Travel . My number is 123 456 789.
+modified_conversation
+Bell Computers Limited, can I help you?
+Hello, I'd like to speak to Mike please .
+Hold on please .
+Hello, I'm afraid Mike's unavailable right now . He's in a meeting . Can I take a message?
+Yes, Can you please get him know I calling and take him to calling me back as soon as He Can? My calling's Mary, and I'm calling from Happy Travel . My number is 123 456 789.

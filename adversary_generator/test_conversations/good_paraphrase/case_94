@@ -1,0 +1,10 @@
+original_conversation
+Good morning . Could I speak to Frans Smith please ?
+Frans Smith ? I think you may have the wrong number .
+Is this Taiwan 8234342 2 , DS engineering ?
+It is . But there is no Frans Smith here . Do you know which department he works in ?
+modified_conversation
+Good morning . Could I speak to Frans Smith please ?
+Frans Smith ? I think you may have the wrong number .
+Is this Taiwan 8234342 2 , DS engineering ?
+You know, but I have not seen Frans Smith here. Do you know which department he works?

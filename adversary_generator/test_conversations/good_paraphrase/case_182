@@ -1,0 +1,10 @@
+original_conversation
+Is this the Central Park to East Market bus ?
+This is the East Market to Central Park bus . Where do you want to go ?
+To the Municipal Government Hall .
+Take the same number bus going in the other direction . There's a stop right across the street .
+modified_conversation
+Is this the Central Park to East Market bus ?
+This is the East Market to Central Park bus . Where do you want to go ?
+To the Municipal Government Hall .
+Take the same number bus heading in the other direction. There is a stop right across the street.

@@ -1,0 +1,14 @@
+original_conversation
+Do you mind if I smoke here ?
+Yes , I do . I ’ d prefer you didn ’ t . The AC ( air-conditioning ) is also on .
+Can I just turn off the AC for now and open the window and smoke indoors ?
+That ’ s not a very good idea . It ’ s quite hot outside . Why don ’ t you smoke outside ?
+It ’ s very hot and that ’ s why I ’ d like to smoke inside .
+Though the AC has the air-purifying function . I ’ d still rather have fresh air than smoke . Are you okay with that ?
+modified_conversation
+Do you mind if I smoke here ?
+Yes , I do . I ’ d prefer you didn ’ t . The AC ( air-conditioning ) is also on .
+Can I just turn off the AC for now and open the window and smoke indoors ?
+That ’ s not a very good idea . It ’ s quite hot outside . Why don ’ t you smoke outside ?
+It ’ s very hot and that ’ s why I ’ d like to smoke inside .
+Though the the AC has the air-purifying function . I ’ d still rather have fresh air than smoke . Are you okay with that ?

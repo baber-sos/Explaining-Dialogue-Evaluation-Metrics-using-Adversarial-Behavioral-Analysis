@@ -1,0 +1,12 @@
+original_conversation
+I am dropping off my prescription to get it filled .
+You can come back in twenty minutes , and it will be ready .
+If I couldn ’ t wait , could the prescription be mailed to me ?
+Yes , you can have it delivered or filled at any location in our HMO .
+When should I take this medication ?
+modified_conversation
+I am dropping off my prescription to get it filled .
+You can come back in twenty minutes , and it will be ready .
+If I couldn ’ t wait , could the prescription be mailed to me ?
+Yes , you can have it delivered or filled at any location in our HMO .
+Yes , you can have it delivered or filled at any location in our HMO . When should I take this medication ?

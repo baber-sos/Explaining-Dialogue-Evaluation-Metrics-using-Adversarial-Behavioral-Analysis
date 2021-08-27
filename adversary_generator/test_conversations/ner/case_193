@@ -1,0 +1,18 @@
+original_conversation
+Hello . Good morning , Stately Restaurant . May I help you ?
+I would like to book a table for seven thirty o'clock , please .
+Fine , sir . For how many people , please ?
+For four people . We'd like a quiet table with a fine view of the river .
+OK . What name , please ?
+This is Peter Kaufman .
+Can you spell that , please ?
+Peter Kaufman , P-E-T-E-R ( Peter ) , K-A-U-F-M-A-N ( Kaufman ) .
+modified_conversation
+Hello . Good morning , Stately Restaurant . May I help you ?
+I would like to book a table for seven thirty o'clock , please .
+Fine , sir . For how many people , please ?
+For four people . We'd like a quiet table with a fine view of the river .
+OK . What name , please ?
+This is Peter Kaufman .
+Can you spell that , please ?
+Sea , P-E-T-E-R ( Peter ) , K-A-U-F-M-A-N ( Chanel ) .

@@ -1,0 +1,20 @@
+original_conversation
+We are here .
+OK . How much is the fare ?
+The total is 45 yuan .
+45 yuan ? It is too much , Are you sure ?
+It is 45 yuan on the meter .
+Is there something wrong with your meter ?
+No . I am sure about that .
+OK . Could you give me a receipt ?
+Yes . This is your receipt .
+modified_conversation
+We are here .
+OK . How much is the fare ?
+The total is 45 yuan .
+45 yuan ? It is too much , Are you sure ?
+It is 45 yuan on the meter .
+Is there something wrong with your meter ?
+No . I am sure about that .
+OK . Could you give me a receipt ?
+This is your receipt.

@@ -1,0 +1,12 @@
+original_conversation
+Excuse me . When is breakfast time ?
+From 6:00 to 9:00 .
+Well , I would like to order breakfast for tomorrow coming .
+Certainly , Sir . What would you like to have ?
+Please give me two fried eggs , two orders of toast and a cup of coffee .
+modified_conversation
+Excuse me . When is breakfast time ?
+From 6:00 to 9:00 .
+Well , I would like to order breakfast for tomorrow coming .
+Certainly , Sir . What would you like to have ?
+Please give me two fries of eggs, two orders of toast and a cup of coffee.

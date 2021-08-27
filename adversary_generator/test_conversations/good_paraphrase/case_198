@@ -1,0 +1,10 @@
+original_conversation
+Waiter , can I have the bill please ?
+Wait a moment . It's $ 30 .
+We'd prefer separate checks .
+OK , one with the apple pie pays $ 18 and the other $ 12 .
+modified_conversation
+Waiter , can I have the bill please ?
+Wait a moment . It's $ 30 .
+We'd prefer separate checks .
+OK, one of the apple pie pays 18 and the other $ 12.

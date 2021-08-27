@@ -1,0 +1,14 @@
+original_conversation
+How much are these apples ?
+Let me weigh them for you . 1.5 $ .
+Do you accept coupons ?
+Yes .
+Here are my coupons . Is that enough ?
+You have to pay $ 0.5 more .
+modified_conversation
+How much are these apples ?
+Let me weigh them for you . 1.5 $ .
+Do you accept coupons ?
+Yes .
+Here are my coupons . Is that enough ?
+Yes .

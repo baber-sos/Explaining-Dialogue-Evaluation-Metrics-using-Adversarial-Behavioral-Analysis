@@ -1,0 +1,16 @@
+original_conversation
+Good afternoon . May I help you?
+Yes, I ’ m here to see Joanna Stevens . I have an appointment at four .
+Certainly, may I take your name? I ’ ll let her know you ’ Ve arrived .
+Sure, it ’ s Josh O ’ Neil .
+Ms . Stevens will be with you momentarily . Can I offer you something to drink?
+Yes, a coffee would be nice, thank you .
+Here you are . Ms . Stevens is ready for you now . I ’ ll show you to her office, right this way.
+modified_conversation
+Good afternoon . May I help you?
+Yes, I ’ m here to see Joanna Stevens . I have an appointment at four .
+Certainly, may I take your name? I ’ ll let her know you ’ Ve arrived .
+Sure, it ’ s Josh O ’ Neil .
+Ms . Stevens will be with you momentarily . Can I offer you something to drink?
+Yes, a coffee would be nice, thank you .
+Here you are . Ms . Stevens is ready for you now . I ’ ll show you to her office, Good this way.

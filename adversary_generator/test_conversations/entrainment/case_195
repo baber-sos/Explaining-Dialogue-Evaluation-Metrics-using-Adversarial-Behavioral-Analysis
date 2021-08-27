@@ -1,0 +1,18 @@
+original_conversation
+Can I help you , sir ?
+I want to have a haircut .
+Please take a seat . Do you need a shampoo ?
+How much is a regular haircut without shampoo ?
+$ 10 .
+And how much for haircut with shampoo ?
+The total charge is $ 15 .
+Since it is , I need a haircut with shampoo .
+modified_conversation
+Can I help you , sir ?
+I want to have a haircut .
+Please take a seat . Do you need a shampoo ?
+How much is a regular haircut without shampoo ?
+$ 10 .
+And how much for haircut with shampoo ?
+The total charge is $ 15 .
+Since it is , I want a haircut with shampoo .

@@ -1,0 +1,12 @@
+original_conversation
+Are you ready to order now , sir ?
+Yes , I'll have a steak , please .
+How would you like the steak , rare , medium , or well-done ?
+Rare , please .
+Would you like something to drink ?
+modified_conversation
+Are you ready to order now , sir ?
+Yes , I'll have a steak , please .
+How would you like the steak , rare , medium , or well-done ?
+Rare , please .
+That is good.

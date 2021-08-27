@@ -1,0 +1,12 @@
+original_conversation
+Good morning , sir . May I help you ?
+Good morning . I'd like to pay my bill .
+OK . In cash or by credit ?
+In cash . How much is the total charge ?
+Five hundred and thirty yuan altogether including charges for service .
+modified_conversation
+Good morning , sir . May I help you ?
+Good morning . I'd like to pay my bill .
+OK . In cash or by credit ?
+In cash . How much is the total charge ?
+I don't know what you mean by that.

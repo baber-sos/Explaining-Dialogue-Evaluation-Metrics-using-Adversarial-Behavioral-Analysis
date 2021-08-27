@@ -1,0 +1,20 @@
+original_conversation
+I ’ m having a problem .
+What ’ s the problem ?
+A pipe burst in my wall .
+Is the pipe causing any water damage ?
+The water is causing mildew .
+I can come fix the pipe sometime tomorrow .
+Can I just call someone myself to fix it ?
+I don ’ t think that would be a good idea .
+You won ’ t do it until tomorrow .
+modified_conversation
+I ’ m having a problem .
+What ’ s the problem ?
+A pipe burst in my wall .
+Is the pipe causing any water damage ?
+The water is causing mildew .
+I can come fix the pipe sometime tomorrow .
+Can I just call someone myself to fix it ?
+I don ’ t think that would be a good idea .
+I don ’ t think that would be a good idea . You won ’ t do it until tomorrow .

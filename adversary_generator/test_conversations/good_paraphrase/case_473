@@ -1,0 +1,12 @@
+original_conversation
+Morning , Tom .
+Hi , Mary .
+You seem to be in a hurry .
+Yes . I ’ Ve got a meeting in a minute .
+Okay . I won ’ t hold you up then .
+modified_conversation
+Morning , Tom .
+Hi , Mary .
+You seem to be in a hurry .
+Yes . I ’ Ve got a meeting in a minute .
+Okay, if I don 't hold you up that is.

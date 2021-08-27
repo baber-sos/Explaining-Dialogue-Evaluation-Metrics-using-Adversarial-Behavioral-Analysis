@@ -1,0 +1,16 @@
+original_conversation
+Mr.Wang , we haven't discussed the mode of payment .
+You know Mr . Forster , this is a really large purchase . I am afraid we can't pay off at one time . We have to pay by installment .
+Do you mean you prefer a deferred payment ?
+Yes , Mr.Forester .
+When do you start the payment then ?
+We'll start our payment in half a year and the total amount will be paid off within 2 years by three installments .
+We can accept that but you have to pay the interest .
+modified_conversation
+Mr.Wang , we haven't discussed the mode of payment .
+You know Mr . Forster , this is a really large purchase . I am afraid we can't pay off at one time . We have to pay by installment .
+Do you mean you prefer a deferred payment ?
+Yes , Mr.Forester .
+When do you start the payment then ?
+We'll start our payment in half a year and the total amount will be paid off within 2 years by three installments .
+We'll start our payment in half a year and the total amount will be paid off within 2 years by three installments . We can accept that but you have to pay the interest .

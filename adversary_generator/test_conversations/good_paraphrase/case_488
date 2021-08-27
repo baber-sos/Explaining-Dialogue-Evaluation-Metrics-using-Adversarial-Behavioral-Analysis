@@ -1,0 +1,16 @@
+original_conversation
+I would like to make an appointment to discuss the problems I keep having with my apartment .
+Are you having problems ? This is the first I ’ Ve heard of it .
+We gave you a list of problems last week .
+What kind of problems are you talking about ?
+Well , the garbage disposal doesn ’ t work , we have rats , and the toilet is backed up .
+Maybe I could get back to you in a few weeks . I am leaving on vacation this afternoon .
+These things are your responsibility , and you need to fix them immediately .
+modified_conversation
+I would like to make an appointment to discuss the problems I keep having with my apartment .
+Are you having problems ? This is the first I ’ Ve heard of it .
+We gave you a list of problems last week .
+What kind of problems are you talking about ?
+Well , the garbage disposal doesn ’ t work , we have rats , and the toilet is backed up .
+Maybe I could get back to you in a few weeks . I am leaving on vacation this afternoon .
+These things are your responsibility, and you need to immediately fix them.

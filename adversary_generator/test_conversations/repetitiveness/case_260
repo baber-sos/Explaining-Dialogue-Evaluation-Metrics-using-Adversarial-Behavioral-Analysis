@@ -1,0 +1,20 @@
+original_conversation
+Can I help you?
+I'd like two kilos of eggs .
+What kind?
+Do you have the eggs with the red yolk?
+Sorry, madam . We have stopped selling those kinds of eggs for a week .
+Why?
+You know, red yolk is proved unnatural . It's artificial, and may lead to cancer .
+Oh, My God! That's terrible .
+Yes, so they are no longer being sold.
+modified_conversation
+Can I help you?
+I'd like two kilos of eggs .
+What kind?
+Do you have the eggs with the red yolk?
+Sorry, madam . We have stopped selling those kinds of eggs for a week .
+Why?
+You know, red yolk is proved unnatural . It's artificial, and may lead to cancer .
+Oh, My God! That's terrible .
+Yes, so they are are no longer being sold.

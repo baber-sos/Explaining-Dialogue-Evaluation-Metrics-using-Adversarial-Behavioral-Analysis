@@ -1,0 +1,14 @@
+original_conversation
+Hi , I want to see the Terra Cotta Warriors in Xi'an . Could you please remind me when we are arriving at that stop ?
+Oh . You took the wrong bus . You need to take Bus 151 which goes the opposite direction .
+Oh , no ! What should I do now ?
+Don't worry . You can get off at the next stop and walk across the street and take the Bus 151 to the opposite direction .
+Ok . How many stops do I have to go ?
+About 15 stops .
+modified_conversation
+Hi , I want to see the Terra Cotta Warriors in Xi'an . Could you please remind me when we are arriving at that stop ?
+Oh . You took the wrong bus . You need to take Bus 151 which goes the opposite direction .
+Oh , no ! What should I do now ?
+Don't worry . You can get off at the next stop and walk across the street and take the Bus 151 to the opposite direction .
+Ok . How many stops do I have to go ?
+That question does not make sense to me.

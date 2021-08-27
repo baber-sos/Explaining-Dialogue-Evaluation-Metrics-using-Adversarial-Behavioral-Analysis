@@ -1,0 +1,12 @@
+original_conversation
+I need to get my prescription filled .
+You may pick it up in twenty minutes .
+If I wanted to , could I have it mailed to me ?
+Yes , and you can renew this prescription by phone .
+Are there any special instructions about this medication ?
+modified_conversation
+I need to get my prescription filled .
+You may pick it up in twenty minutes .
+If I wanted to , could I have it mailed to me ?
+Yes , and you can renew this prescription by phone .
+Yes , and you can renew this prescription by phone . Are there any special instructions about this medication ?

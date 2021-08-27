@@ -1,0 +1,8 @@
+original_conversation
+ABC Company, my name is Lucy . How can I help you?
+Hello, Lucy, this is Monica . I ’ m calling for the accountant position . I saw the information about the vacancy on your company ’ s website . Is it still available?
+Thank you for your interest . The position is still available . Have you already sent your CV to us?
+modified_conversation
+ABC Company, my name is Lucy . How can I help you?
+Hello, Lucy, this is Monica . I ’ m calling for the accountant position . I saw the information about the vacancy on your company ’ s website . Is it still available?
+Thank you for your interesting . The position is even available . Have you already sent your resume to us?

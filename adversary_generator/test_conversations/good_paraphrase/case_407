@@ -1,0 +1,12 @@
+original_conversation
+Hello , can I help you ?
+Yes . I ’ m looking for something to wear to a formal party .
+What dress size do you wear ?
+Medium , a woman ’ s size 10 or 12 .
+This dress is the latest fashion form Paris . It ’ s made of pure silk . And this silk blouse would go with this skirt . Do you like it ?
+modified_conversation
+Hello , can I help you ?
+Yes . I ’ m looking for something to wear to a formal party .
+What dress size do you wear ?
+Medium , a woman ’ s size 10 or 12 .
+This dress is the latest fashion form of Paris, it’s made from pure silk. And this silk blouse would go well with this skirt.

@@ -1,0 +1,10 @@
+original_conversation
+Dental clinic . This is Mr . Adams .
+Hi . My name's David Johnson . I'd like to make an appointment .
+All right , David . Is this for a checkup or a cleaning ?
+A checkup . I think I have a bad cavity . Half the side of my head hurts .
+modified_conversation
+Dental clinic . This is Mr . Adams .
+Hi . My name's David Johnson . I'd like to make an appointment .
+All right , David . Is this for a checkup or a cleaning ?
+A checkup . you think you have a bad cavity . Half the side of their head hurts .

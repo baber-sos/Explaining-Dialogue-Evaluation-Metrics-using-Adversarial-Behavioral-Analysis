@@ -1,0 +1,12 @@
+original_conversation
+I would like to make a reservation for tomorrow .
+I'm sorry but we are fully booked .
+Well, how about 4th?
+That's fine, but we have only a single room, is that OK?
+Yes . Please help me reserve it.
+modified_conversation
+I would like to make a reservation for tomorrow .
+I'm sorry but we are fully booked .
+Well, how about 4th?
+That's fine, but we have only a single room, is that OK?
+Yes . Please help me booked it.

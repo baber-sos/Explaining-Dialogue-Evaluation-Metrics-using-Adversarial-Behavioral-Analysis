@@ -1,0 +1,20 @@
+original_conversation
+Hi , Customer Service Desk . What can I do for you today , sir ?
+Good morning . I bought this vacuum here a few months ago . It doesn ’ t work now . Can I return it or get it fixed ?
+Do you have your receipt with you ?
+Yes , I do .
+When did you buy it from our store ?
+Four months ago .
+I ’ m sorry . You can ’ t return it because too much time has passed since you purchased it . In order to receive a refund , you must return merchandise to the store within 90 days of purchase .
+But the direction book says I will get one-year warranty .
+Yes , I know . After 90 days , you need to call the company that manufactured the vacuum to fix it because it ’ s still under their warranty . Their phone number should be in the direction book that came with your vacuum .
+modified_conversation
+Hi , Customer Service Desk . What can I do for you today , sir ?
+Good morning . I bought this vacuum here a few months ago . It doesn ’ t work now . Can I return it or get it fixed ?
+Do you have your receipt with you ?
+Yes , I do .
+When did you buy it from our store ?
+Four months ago .
+I ’ m sorry . You can ’ t return it because too much time has passed since you purchased it . In order to receive a refund , you must return merchandise to the store within 90 days of purchase .
+But the direction book says I will get one-year warranty .
+yes , I know . After 90 days , you need to call the company that manufactured the vacuum to fix it because it ’ s still under their warranty . Their phone number should be in the direction book that came with your vacuum .

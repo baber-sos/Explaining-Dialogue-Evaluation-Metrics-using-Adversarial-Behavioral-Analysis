@@ -1,0 +1,10 @@
+original_conversation
+What time does the next train to London leave ?
+At 16:35 , from platform 8 .
+Is it a direct train to London ?
+No , you have to change trains at Birmingham .
+modified_conversation
+What time does the next train to London leave ?
+At 16:35 , from platform 8 .
+Is it a direct train to London ?
+That question does not make sense to me.

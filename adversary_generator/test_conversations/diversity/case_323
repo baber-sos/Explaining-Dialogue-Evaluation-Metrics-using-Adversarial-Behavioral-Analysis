@@ -1,0 +1,16 @@
+original_conversation
+Hey, daughter, let me ask you something .
+Yes, dad?
+Do you have life insurance?
+Well, no . It just seemed like another bill we ’ d have to pay .
+You have children now . What if something, God forbid, happens to you?
+That ’ s true . Well, how much do you think I should get?
+A $100,000 policy shouldn ’ t be too expensive . Here, call my agent . He ’ ll give you a good deal.
+modified_conversation
+Hey, daughter, let me ask you something .
+Yes, dad?
+Do you have life insurance?
+Well, no . It just seemed like another bill we ’ d have to pay .
+You have children now . What if something, God forbid, happens to you?
+That ’ s true . Well, how much do you think I should get?
+a $100,000 insurance shouldn ’ t be too expensive . Here, call my agent . He ’ ll pay you a Well deal.

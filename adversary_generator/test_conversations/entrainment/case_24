@@ -1,0 +1,14 @@
+original_conversation
+Hello , Mr . Wang . I am glad to meet you here at the fair .
+Like wise . Take a seat , please . How about a cup of tea ?
+Sure . Thank you . It seems your business is prosperous . There are many customers here .
+Yes , it's not too bad . Our sales are going up year after year . And we still have a large potential production capacity .
+Well , what do you think of choosing a commission representative or agent abroad to promote your sales ?
+That's a good idea . So far , we have several agents abroad .
+modified_conversation
+Hello , Mr . Wang . I am glad to meet you here at the fair .
+Like wise . Take a seat , please . How about a cup of tea ?
+Sure . Thank you . It seems your business is prosperous . There are many customers here .
+Yes , it's not too bad . Our sales are going up year after year . And we still have a large potential production capacity .
+Well , what do you think of choosing a commission representative or agent abroad to promote your sales ?
+That's a good idea . So far , we have several agents afield .

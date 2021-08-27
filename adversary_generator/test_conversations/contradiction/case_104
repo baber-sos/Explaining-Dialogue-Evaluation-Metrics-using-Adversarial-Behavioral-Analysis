@@ -1,0 +1,10 @@
+original_conversation
+Good afternoon , may I help you ?
+I have booked a table for 3 this evening . I would like to cancel it .
+May I have your name , please ?
+Sure . Brown and we have reserved a table next to the door .
+modified_conversation
+Good afternoon , may I help you ?
+I have booked a table for 3 this evening . I would like to cancel it .
+May I have your name , please ?
+I have not booked a table for 3 this evening . I would like to cancel it .

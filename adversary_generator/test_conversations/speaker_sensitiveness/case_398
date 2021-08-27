@@ -1,0 +1,10 @@
+original_conversation
+Excuse me . I would like to purchase some travelers ' checks .
+Sure . How much do you want ?
+$ 5000 and I want them all in fifties .
+OK , here you are . Please sign your name here .
+modified_conversation
+Excuse me . I would like to purchase some travelers ' checks .
+Sure . How much do you want ?
+$ 5000 and I want them all in fifties .
+$ 5000 and I want them all in fifties . OK , here you are . Please sign your name here .

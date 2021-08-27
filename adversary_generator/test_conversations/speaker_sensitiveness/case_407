@@ -1,0 +1,12 @@
+original_conversation
+Could you tell me which kind of payment you'll choose ?
+We're going to pay by check .
+Will you please have the check certified ?
+If you think it is necessary .
+It's just our policy . We would accept a certified check or a direct bank remittance .
+modified_conversation
+Could you tell me which kind of payment you'll choose ?
+We're going to pay by check .
+Will you please have the check certified ?
+If you think it is necessary .
+If you think it is necessary . It's just our policy . We would accept a certified check or a direct bank remittance .

@@ -1,0 +1,10 @@
+original_conversation
+How much is the voucher worth ?
+It is worth 100 yuan and your bill comes to 230 yuan . The difference is 130 , please .
+Here it is .
+Thank you , sir . Could you sign the voucher here , please ?
+modified_conversation
+How much is the voucher worth ?
+It is worth 100 yuan and your bill comes to 230 yuan . The difference is 130 , please .
+Here it is .
+It is not worth 100 yuan and your bill comes to 230 yuan . The difference is 130 , please .

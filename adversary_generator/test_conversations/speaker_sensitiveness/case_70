@@ -1,0 +1,10 @@
+original_conversation
+Excuse me , but can I draw on my account for payment of things I buy in China ?
+Certainly , sir . How much do you draw ?
+RIB 8,000 , please . Would you please tell me my balance ?
+Yes , sir . Your balance is RIB 34,000 .
+modified_conversation
+Excuse me , but can I draw on my account for payment of things I buy in China ?
+Certainly , sir . How much do you draw ?
+RIB 8,000 , please . Would you please tell me my balance ?
+RIB 8,000 , please . Would you please tell me my balance ? Yes , sir . Your balance is RIB 34,000 .

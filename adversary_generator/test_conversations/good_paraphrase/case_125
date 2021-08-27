@@ -1,0 +1,12 @@
+original_conversation
+Hello , I'd like to get a seat on flight PB12 to Rome .
+Direct or non-direct ?
+Is there any discount for a non-direct flight ?
+Yes . Right now it's the slack season so we will give you ten percent off .
+What if I buy around ticket ? Can you offer me some more ?
+modified_conversation
+Hello , I'd like to get a seat on flight PB12 to Rome .
+Direct or non-direct ?
+Is there any discount for a non-direct flight ?
+Yes . Right now it's the slack season so we will give you ten percent off .
+What happens if I buy the ticket around, can you offer me a few more?

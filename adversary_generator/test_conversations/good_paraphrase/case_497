@@ -1,0 +1,10 @@
+original_conversation
+Are these your text books ? Biochemistry , General Ecology , Botany , Cell Genetics , Molecular Genetics ...
+Yes . I gotta review all of them for the final exam . It is just around the corner .
+Oh , right ! Do you have many exams at the end of each semester ?
+That depends . Some semesters have many , some don't . And some courses don't have exams but only ask for papers . That's easy .
+modified_conversation
+Are these your text books ? Biochemistry , General Ecology , Botany , Cell Genetics , Molecular Genetics ...
+Yes . I gotta review all of them for the final exam . It is just around the corner .
+Oh , right ! Do you have many exams at the end of each semester ?
+That depends : Some semesters have many, some don't, and some classes have no exams, but only ask for papers. That's easy.

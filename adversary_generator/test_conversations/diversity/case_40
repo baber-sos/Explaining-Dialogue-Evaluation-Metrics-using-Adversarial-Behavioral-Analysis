@@ -1,0 +1,16 @@
+original_conversation
+Hey, daughter . Let me ask you something .
+Yes, Dad?
+Do you have life insurance?
+Well, no . It just seemed like another bill we ’ d have to pay .
+You have children now . What if something, god forbid, happens to you?
+That's true . Well, how much do you think I should get?
+A 10,000 dollar policy shouldn ’ t be too expensive . Here, call my agent . He will give you a good deal.
+modified_conversation
+Hey, daughter . Let me ask you something .
+Yes, Dad?
+Do you have life insurance?
+Well, no . It just seemed like another bill we ’ d have to pay .
+You have children now . What if something, god forbid, happens to you?
+That's true . Well, how much do you think I should get?
+a 10,000 dollar insurance shouldn ’ t be too expensive . Here, call my agent . He will pay you a Well deal.

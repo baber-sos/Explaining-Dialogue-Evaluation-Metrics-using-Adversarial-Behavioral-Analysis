@@ -1,0 +1,10 @@
+original_conversation
+I'd like a double room .
+Do you have a reservation ?
+Yes , I called you last week from New York . My name is George Lee .
+Wait a second , PLS . Yes , Mr . Lee , we have a room reserved for you . How long do you plan to stay ?
+modified_conversation
+I'd like a double room .
+Do you have a reservation ?
+Yes , I called you last week from New York . My name is George Lee .
+Wait a second , PLS . Yes , George Lee , we have a room reserved for you . How long do you plan to stay ?

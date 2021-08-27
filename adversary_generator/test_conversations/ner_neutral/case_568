@@ -1,0 +1,14 @@
+original_conversation
+Well , I've got a date . Now I need to find a restaurant . Can you help me ?
+No problem , of course ! How much would you like to spend to impress the lady ?
+Nothing but the best for a pretty woman !
+Sir , the restaurant you seek is right here . This hotel has a three-star restaurant .
+Well , I sort of suggested that we would go out on the town . Do you have another suggestion ?
+Gramercy Tavern is at least as good as our own hotel restaurant . Plus , they have live jazz .
+modified_conversation
+Well , I've got a date . Now I need to find a restaurant . Can you help me ?
+No problem , of course ! How much would you like to spend to impress the lady ?
+Nothing but the best for a pretty woman !
+Sir , the restaurant you seek is right here . This hotel has a three-star restaurant .
+Well , I sort of suggested that we would go out on the town . Do you have another suggestion ?
+Gramercy Tavern is at least as good as our own hotel restaurant . Plus , Gramercy Tavern have live jazz .

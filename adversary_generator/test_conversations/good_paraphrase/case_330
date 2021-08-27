@@ -1,0 +1,14 @@
+original_conversation
+How much is the fare ?
+Three yuan .
+Could you tell me how to use it ?
+You put it in the slot at the turnstile and then push the turnstile to get into the platform .
+Oh , I see . By the way , how can I get out of the platform after I get off the train ?
+That's very easy . The exit is always open .
+modified_conversation
+How much is the fare ?
+Three yuan .
+Could you tell me how to use it ?
+You put it in the slot at the turnstile and then push the turnstile to get into the platform .
+Oh , I see . By the way , how can I get out of the platform after I get off the train ?
+That is very easy : the exit is always open.

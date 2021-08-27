@@ -1,0 +1,14 @@
+original_conversation
+Hello , Fairbrook Consulting , how may I help you ?
+Yes , this is Julianne Horton , and I ’ m calling to arrange an appointment with Ms . McNeal .
+Certainly , what day were you thinking of ?
+How ’ s Thursday ? Does she have any time available then ?
+Um . . . let me double check . . . unfortunately , she ’ s booked solid on Thursday , how does next Monday work for you ?
+Actually , I ’ Ve got something scheduled on Monday . Can she do Tuesday ?
+modified_conversation
+Hello , Fairbrook Consulting , how may I help you ?
+Yes , this is Julianne Horton , and I ’ m calling to arrange an appointment with Ms . McNeal .
+Certainly , what day were you thinking of ?
+How ’ s Thursday ? Does she have any time available then ?
+Um . . . let me double check . . . unfortunately , she ’ s booked solid on Thursday , how does next Monday work for you ?
+Actually , they ’ Ve got something scheduled on Monday . Can you do Tuesday ?

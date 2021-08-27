@@ -1,0 +1,20 @@
+original_conversation
+My name is Steven Smith and I'm calling to cancel my plane ticket .
+When was your reservation ?
+It ’ s 7 p . m . today .
+Would you mind telling me the reason ?
+I need to continue to deal with my business . I haven ’ t finished it yet .
+Oh , I see . Would you like me to reschedule you for another time ?
+No . Thank you .
+But you have to pay the fee for refund .
+OK . I will pay it by my bank card .
+modified_conversation
+My name is Steven Smith and I'm calling to cancel my plane ticket .
+When was your reservation ?
+It ’ s 7 p . m . today .
+Would you mind telling me the reason ?
+I need to continue to deal with my business . I haven ’ t finished it yet .
+Oh , I see . Would you like me to reschedule you for another time ?
+No . Thank you .
+But you have to pay the fee for refund .
+OK . I will give it by my bank card .

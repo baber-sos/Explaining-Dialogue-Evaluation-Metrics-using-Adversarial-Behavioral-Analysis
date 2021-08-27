@@ -1,0 +1,8 @@
+original_conversation
+Good afternoon madam . What can I do for you ?
+Hi . I want to check out . My room is 1005 .
+OK . Please hold on a minute . So you checked in on Monday and stayed 3 nights in single room 1005 . Is that right ?
+modified_conversation
+Good afternoon madam . What can I do for you ?
+Hi . I want to check out . My room is 1005 .
+OK . Please hold on a minute . So you checked in on Monday and stayed 3 nights in single way 1005 . Is that right ?

@@ -1,0 +1,10 @@
+original_conversation
+Is this the right bus for San Francisco ?
+It sure is.Can I see your ticket ? OK , fine .
+When's the first stop ?
+About two hours out of Los Angeles . Give me the bags , I'll put'em on the bus . Here's your claim tag . Don't lose it.When you get off the bus , give it to me .
+modified_conversation
+Is this the right bus for San Francisco ?
+It sure is.Can I see your ticket ? OK , fine .
+When's the first stop ?
+I don't know what you mean by that.

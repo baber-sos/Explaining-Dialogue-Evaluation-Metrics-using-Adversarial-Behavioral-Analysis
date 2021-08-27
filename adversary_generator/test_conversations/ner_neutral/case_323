@@ -1,0 +1,24 @@
+original_conversation
+Have you been registered yet , sir ?
+No , I haven't been registered .
+Are you a medical or surgical case ?
+I'm a medical case .
+Do you have your medical history sheet with you ?
+Yes , here you are .
+Please fill in this admission card . Well , how long do you expect to stay in the hospital ?
+The doctor told me to stay about one month .
+But there're no beds available now . Two patients will be discharged this afternoon , so you'll have to wait until then .
+Well , when they leave the hospital , give me a call and I'll come back .
+Certainly . See you in the afternoon .
+modified_conversation
+Have you been registered yet , sir ?
+No , I haven't been registered .
+Are you a medical or surgical case ?
+I'm a medical case .
+Do you have your medical history sheet with you ?
+Yes , here you are .
+Please fill in this admission card . Well , how long do you expect to stay in the hospital ?
+The doctor told me to stay about one month .
+But there're no beds available now . Two patients will be discharged this afternoon , so you'll have to wait until then .
+Well , when they leave the hospital , give me a call and I'll come back .
+Certainly . See you in this afternoon .

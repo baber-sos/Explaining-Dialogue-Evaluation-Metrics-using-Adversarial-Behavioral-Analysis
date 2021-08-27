@@ -1,0 +1,10 @@
+original_conversation
+I am sorry to hear that you are not feeling well . How are you ?
+Thank you . I was operated on for gastric ulcer .
+Is that so ? But I think It shouldn't keep you long in bed .
+Yes . I hope so .
+modified_conversation
+I am sorry to hear that you are not feeling well . How are you ?
+Thank you . I was operated on for gastric ulcer .
+Is that so ? But I think It shouldn't keep you long in bed .
+ do not thank you . I was operated on for gastric ulcer .

@@ -1,0 +1,22 @@
+original_conversation
+Oh, no . We ’ re going to be late for the meeting .
+No . We ’ ll get a cab . It ’ s faster than taking the bus or the subway .
+Oh, good .
+How much will it cost?
+Well, cabs are more expensive than the bus or the subway . It ’ ll probably cost around six dollars .
+Taxi!!!
+I can ’ t find the business card . Do you know the address?
+Yeah . I met with them back in March, remember?
+Right .
+Driver, 1600 Pennsylvania Ave ., please.
+modified_conversation
+Oh, no . We ’ re going to be late for the meeting .
+No . We ’ ll get a cab . It ’ s faster than taking the bus or the subway .
+Oh, good .
+How much will it cost?
+Well, cabs are more expensive than the bus or the subway . It ’ ll probably cost around six dollars .
+Taxi!!!
+I can ’ t find the business card . Do you know the address?
+Yeah . I met with them back in March, remember?
+Right .
+Driver, 1600 1600 1600 Pennsylvania Ave ., please.

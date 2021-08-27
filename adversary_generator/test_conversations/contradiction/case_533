@@ -1,0 +1,16 @@
+original_conversation
+Good , morning ! Can I help you ?
+Good morning . Could you tell me the times of trains to London , please ?
+Yes . there are trains at 7:59 , 9:18 , 10:32 and 11:55
+What time does the 7:59 get to London ?
+At 9:36 . And the 9:18 gets to London at 9:55 , the 10:32 at 11:09 .
+What about coming back ? I'd like to come back about 7 p . m .
+There's one at 19:00 and the next is at 19:40 .
+modified_conversation
+Good , morning ! Can I help you ?
+Good morning . Could you tell me the times of trains to London , please ?
+Yes . there are trains at 7:59 , 9:18 , 10:32 and 11:55
+What time does the 7:59 get to London ?
+At 9:36 . And the 9:18 gets to London at 9:55 , the 10:32 at 11:09 .
+What about coming back ? I'd like to come back about 7 p . m .
+At 9:36 . And the 9:18  does not get to London at 9:55 , the 10:32 at 11:09 .

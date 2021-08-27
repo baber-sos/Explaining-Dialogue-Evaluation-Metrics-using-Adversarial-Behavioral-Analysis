@@ -1,0 +1,8 @@
+original_conversation
+Hello , this is ABC Corporation . May I help you ?
+Yes , I ’ m enquiring about your advertisement for a sales manager in today ’ s newspaper . Is this position still open ?
+Yes , but do you have any experiences as a sales manager ?
+modified_conversation
+Hello , this is ABC Corporation . May I help you ?
+Yes , I ’ m enquiring about your advertisement for a sales manager in today ’ s newspaper . Is this position still open ?
+That question does not make sense to me.

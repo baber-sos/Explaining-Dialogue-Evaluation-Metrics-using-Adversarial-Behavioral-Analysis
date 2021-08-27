@@ -1,0 +1,12 @@
+original_conversation
+What's the date today Mr.Brown . I don't have a calendar .
+Today is Tuesday , 25th September , 2001 .
+25th Sep ? Oh , I have an appointment tonight .
+What time is your appointment ?
+It is at 8 o'clock .
+modified_conversation
+What's the date today Mr.Brown . I don't have a calendar .
+Today is Tuesday , 25th September , 2001 .
+25th Sep ? Oh , I have an appointment tonight .
+What time is your appointment ?
+What time is your appointment ? It is at 8 o'clock .

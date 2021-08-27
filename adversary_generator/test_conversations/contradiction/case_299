@@ -1,0 +1,10 @@
+original_conversation
+How many pieces of luggage do you want to check , sir ?
+I want to check these three pieces and I'll carry this carry-on bag with me on board .
+Ok.Is this your luggage properly labelled , sir ?
+Yes , it is .
+modified_conversation
+How many pieces of luggage do you want to check , sir ?
+I want to check these three pieces and I'll carry this carry-on bag with me on board .
+Ok.Is this your luggage properly labelled , sir ?
+I  do not want to check these three pieces and I'll carry this carry-on bag with me on board .

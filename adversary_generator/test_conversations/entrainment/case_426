@@ -1,0 +1,18 @@
+original_conversation
+This is 911 .
+Send an ambulance fast ! My husband is having a heart attack !
+Slow down and tell me your address .
+I live on 1177 Oak lane in Smithfield . Oh , hurry , I don't know what to do !
+An ambulance is on its way right now . They should be there any minute . Are you close to him right now ?
+yes , yes , he's right here by me .
+Is he breathing ?
+Yes , he's breathing , but he's not conscious ! Oh , please hurry !
+modified_conversation
+This is 911 .
+Send an ambulance fast ! My husband is having a heart attack !
+Slow down and tell me your address .
+I live on 1177 Oak lane in Smithfield . Oh , hurry , I don't know what to do !
+An ambulance is on its way right now . They should be there any minute . Are you close to him right now ?
+yes , yes , he's right here by me .
+Is he breathing ?
+Yes , he's ventilation , but he's not conscious ! Oh , please hurry !

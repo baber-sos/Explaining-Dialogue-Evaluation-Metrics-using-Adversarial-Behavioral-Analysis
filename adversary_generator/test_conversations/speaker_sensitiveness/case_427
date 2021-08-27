@@ -1,0 +1,18 @@
+original_conversation
+Thank you for coming so quickly .
+No problem . What ’ s wrong ?
+A pipe in my apartment is leaking .
+Where is the pipe ?
+The pipe is in my bathroom .
+Can you tell me how long the pipe has been leaking ?
+The pipe has been leaking for a couple days .
+You do realize that I will need to rip down your wall to get to the pipe , right ?
+modified_conversation
+Thank you for coming so quickly .
+No problem . What ’ s wrong ?
+A pipe in my apartment is leaking .
+Where is the pipe ?
+The pipe is in my bathroom .
+Can you tell me how long the pipe has been leaking ?
+The pipe has been leaking for a couple days .
+The pipe has been leaking for a couple days . You do realize that I will need to rip down your wall to get to the pipe , right ?

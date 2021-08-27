@@ -1,0 +1,10 @@
+original_conversation
+hey , the new SOHO . How's everything going ?
+everything's great . I've just returned from my office .
+your office ? Aren't you a freelancer ?
+sure I am . I work for myself , but I've rented a virtual office at an office building in the downtown area .
+modified_conversation
+hey , the new SOHO . How's everything going ?
+everything's great . I've just returned from my office .
+your office ? Aren't you a freelancer ?
+I work for myself, but I've rented a virtual office in an office in the downtown area.

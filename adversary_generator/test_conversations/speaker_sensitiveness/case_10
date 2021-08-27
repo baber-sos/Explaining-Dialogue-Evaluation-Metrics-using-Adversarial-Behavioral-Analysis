@@ -1,0 +1,10 @@
+original_conversation
+Good morning , Mr Bell . How are you today ? Are you here to sort out your L / C documents ?
+Yes . I've been through them and there's a problem , a rather major discrepancy actually . You see ? It should be KN509 .
+I see , here it says KM509 .
+Exactly , if we accept these it could cause a lot of problems in our record and our accounts system because the numbers don't match .
+modified_conversation
+Good morning , Mr Bell . How are you today ? Are you here to sort out your L / C documents ?
+Yes . I've been through them and there's a problem , a rather major discrepancy actually . You see ? It should be KN509 .
+I see , here it says KM509 .
+I see , here it says KM509 . Exactly , if we accept these it could cause a lot of problems in our record and our accounts system because the numbers don't match .

@@ -1,0 +1,12 @@
+original_conversation
+have you seen bill recently ?
+yes . He ’ s in hospital with a bad back . One morning , he just couldn ’ t get out of bed.His wife called an ambulance and they took him to hospital . He ’ s been there for a few days now .
+daisy ’ s in hospital too . she got food poisoning last week . She thinks she got it from some bad seafood .
+you have to be very careful with seafood . It tastes lovely , but it often causes upset stomachs . Have you heard anything from tom ?
+he ’ s fine , but he had a fever last week . He probably just had a cold .
+modified_conversation
+have you seen bill recently ?
+yes . He ’ s in hospital with a bad back . One morning , he just couldn ’ t get out of bed.His wife called an ambulance and they took him to hospital . He ’ s been there for a few days now .
+daisy ’ s in hospital too . she got food poisoning last week . She thinks she got it from some bad seafood .
+you have to be very careful with seafood . It tastes lovely , but it often causes upset stomachs . Have you heard anything from tom ?
+he ’ s fine , but he had a fever last week . tom probably just had a cold .

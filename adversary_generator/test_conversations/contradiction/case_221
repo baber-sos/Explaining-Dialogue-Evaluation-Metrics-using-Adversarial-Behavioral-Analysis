@@ -1,0 +1,18 @@
+original_conversation
+I like to open up a savings account please .
+O . K . We offer a few different kinds .
+I want the one with the highest interest rate .
+That would be our Saver's Plus account .
+4.5 % , that's good . How much money do I have to keep in it to get that rate ?
+You have to maintain a balance of $ 10,000 in the account or the rate drops to 3 % .
+All right . I ’ ll open one of those .
+Just fill out these forms , and I ’ ll be with you in one second .
+modified_conversation
+I like to open up a savings account please .
+O . K . We offer a few different kinds .
+I want the one with the highest interest rate .
+That would be our Saver's Plus account .
+4.5 % , that's good . How much money do I have to keep in it to get that rate ?
+You have to maintain a balance of $ 10,000 in the account or the rate drops to 3 % .
+All right . I ’ ll open one of those .
+You have not to maintain a balance of $ 10,000 in the account or the rate drops to 3 % .

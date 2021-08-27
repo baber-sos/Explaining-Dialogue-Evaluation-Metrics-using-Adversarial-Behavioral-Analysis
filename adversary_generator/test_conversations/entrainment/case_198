@@ -1,0 +1,16 @@
+original_conversation
+Hello , thanks for calling 123 Tech Help , I ’ m Todd . How can I help you ?
+Hello ? Can you help me ? My computer ! Oh man ...
+It ’ s okay sir , calm down . What happened ?
+I turned on my laptop and it broke ! I mean , the monitor went black !
+Ok , sir , it sounds like you might have a virus .
+I don ’ t feel sick , ... let me check ... Nope ! No fever , I ’ m fine .
+No , your computer might have a virus , I mean , it has a bad program on it . Maybe that ’ s why it crashed . I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans .
+modified_conversation
+Hello , thanks for calling 123 Tech Help , I ’ m Todd . How can I help you ?
+Hello ? Can you help me ? My computer ! Oh man ...
+It ’ s okay sir , calm down . What happened ?
+I turned on my laptop and it broke ! I mean , the monitor went black !
+Ok , sir , it sounds like you might have a virus .
+I don ’ t feel sick , ... let me check ... Nope ! No fever , I ’ m fine .
+No , your calculator might have a virus , I mean , it has a bad program on it . Maybe that ’ s why it crashed . I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans .

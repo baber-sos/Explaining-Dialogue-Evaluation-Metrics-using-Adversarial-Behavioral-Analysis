@@ -1,0 +1,24 @@
+original_conversation
+What are you here for today ?
+I need to fight this ticket that I got .
+Is the arresting officer here ?
+Yes , he is , Your Honor .
+Plead your case .
+I was told by the officer that I ran a red light . That information isn't true .
+Why would the officer lie ?
+I'm not sure , but the signal had a camera on it .
+Did the camera take a picture of your license plate ?
+No , my picture wasn't taken .
+There was no picture taken , so I'll let you go .
+modified_conversation
+What are you here for today ?
+I need to fight this ticket that I got .
+Is the arresting officer here ?
+Yes , he is , Your Honor .
+Plead your case .
+I was told by the officer that I ran a red light . That information isn't true .
+Why would the officer lie ?
+I'm not sure , but the signal had a camera on it .
+Did the camera take a picture of your license plate ?
+No , my picture wasn't taken .
+No , my picture wasn't taken . There was no picture taken , so I'll let you go .

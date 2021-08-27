@@ -1,0 +1,10 @@
+original_conversation
+Good morning . I ’ m Mickey Huang , I have an appointment with Mr wilson .
+Is this about the Sales Assistant position ?
+That's right . My appointment is for 11 o'clock .
+Mr wilson is on the line right now . Please have a seat . He'll be right with you .
+modified_conversation
+Good morning . I ’ m Mickey Huang , I have an appointment with Mr wilson .
+Is this about the Sales Assistant position ?
+That's right . My appointment is for 11 o'clock .
+That's right . My appointment is for 11 o'clock . Mr wilson is on the line right now . Please have a seat . He'll be right with you .

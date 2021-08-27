@@ -1,0 +1,8 @@
+original_conversation
+Hi , Xavier . I'd like to go over the list of jobs for next week's maintenance shut .
+Sure . We've got a lot to do in a short time . We're planning to shut the line at midday on Wednesday and start up again at 6 pm the following day . We might need to extend the shut by about six hours .
+Our production people won't be happy about that . We've got a full order book at the moment . Is there any way you could speed things up ?
+modified_conversation
+Hi , Xavier . I'd like to go over the list of jobs for next week's maintenance shut .
+Sure . We've got a lot to do in a short time . We're planning to shut the line at midday on Wednesday and start up again at 6 pm the following day . We might need to extend the shut by about six hours .
+Our production people won't be happy about that, as we have a full order book at the moment, Is there any way to speed things up?

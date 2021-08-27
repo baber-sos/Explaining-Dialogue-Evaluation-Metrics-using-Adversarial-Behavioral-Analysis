@@ -1,0 +1,14 @@
+original_conversation
+I'm taking my date to a restaurant . Could you tell me about one or two good ones ?
+My pleasure ! How much would you like to spend on your date ?
+She will want an excellent restaurant , of course .
+You should know that our hotel chef was trained in Paris . The service and food are world-class .
+I wanted to go out somewhere , not stay here . Do you know of another good restaurant ?
+You can't go wrong with Gramercy Tavern . It's famous for its food , service , and live jazz .
+modified_conversation
+I'm taking my date to a restaurant . Could you tell me about one or two good ones ?
+My pleasure ! How much would you like to spend on your date ?
+She will want an excellent restaurant , of course .
+You should know that our hotel chef was trained in Paris . The service and food are world-class .
+I wanted to go out somewhere , not stay here . Do you know of another good restaurant ?
+You can't go wrong with Gramercy Tavern . Gramercy Tavern's famous for its food , service , and live jazz .

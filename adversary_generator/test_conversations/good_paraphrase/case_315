@@ -1,0 +1,10 @@
+original_conversation
+Hello . I am Bili and I made an appointment with you to see the house .
+Glad to meet you . This way , please .
+The house is a little too old .
+But it's quite convenient for you to go to any part of the city . The subway is nearby .
+modified_conversation
+Hello . I am Bili and I made an appointment with you to see the house .
+Glad to meet you . This way , please .
+The house is a little too old .
+But it is quite convenient for you to go to any part of the city : the subway is nearby.

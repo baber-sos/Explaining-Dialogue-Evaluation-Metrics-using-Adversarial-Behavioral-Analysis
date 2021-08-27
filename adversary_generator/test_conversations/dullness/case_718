@@ -1,0 +1,14 @@
+original_conversation
+Hello , this is ABC Corporation . May I help you ?
+Yes , I ’ m enquiring about your advertisement for a sales manager in today ’ s newspaper . Is this position still open ?
+Yes , but do you have any experiences as a sales manager ?
+Yes , I have a lot of previous experiences in sales . I worked in sales departments for two companies since I finished my university .
+That sounds fine . Please give me your name and phone numbers . I ’ ll set up an appointment for an interview for you . It will most likely be in a couple of days . Is it all right for you ?
+Yes , my name is Brian and my phone number is 5294870 .
+modified_conversation
+Hello , this is ABC Corporation . May I help you ?
+Yes , I ’ m enquiring about your advertisement for a sales manager in today ’ s newspaper . Is this position still open ?
+Yes , but do you have any experiences as a sales manager ?
+Yes , I have a lot of previous experiences in sales . I worked in sales departments for two companies since I finished my university .
+That sounds fine . Please give me your name and phone numbers . I ’ ll set up an appointment for an interview for you . It will most likely be in a couple of days . Is it all right for you ?
+Yes , I have a lot of previous experiences in sales . I worked in sales departments for two companies since I finished my university .

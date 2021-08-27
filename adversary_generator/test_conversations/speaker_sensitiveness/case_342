@@ -1,0 +1,12 @@
+original_conversation
+Good morning , Madam . What can I do for you ?
+I'd like to withdraw 35,000 RIB from my Corporate Account .
+Do you have an appointment ?
+Yes , my name is Ms Jane Reeve , R-E-E-V-E .
+Ah , yes , Ms Reeve . I have all of your information here . Do you have the cash cheque ?
+modified_conversation
+Good morning , Madam . What can I do for you ?
+I'd like to withdraw 35,000 RIB from my Corporate Account .
+Do you have an appointment ?
+Yes , my name is Ms Jane Reeve , R-E-E-V-E .
+Yes , my name is Ms Jane Reeve , R-E-E-V-E . Ah , yes , Ms Reeve . I have all of your information here . Do you have the cash cheque ?

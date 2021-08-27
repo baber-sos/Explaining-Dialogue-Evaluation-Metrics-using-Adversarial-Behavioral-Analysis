@@ -1,0 +1,14 @@
+original_conversation
+excuse me? How can I get to the nearest branch of the national bank?
+there ’ s branch on new street . Walk up this street until you get to the first set of traffic lights . Then turn right at the traffic lights .
+how far up the street are the traffic lights?
+not far . About 150 meters perhaps .
+ok . So I turn right at the traffic lights . Then?
+then keep walking until you reach the war memorial . It ’ s a big statue of a soldier . You can ’ t miss it.
+modified_conversation
+excuse me? How can I get to the nearest branch of the national bank?
+there ’ s branch on new street . Walk up this street until you get to the first set of traffic lights . Then turn right at the traffic lights .
+how far up the street are the traffic lights?
+not far . About 150 meters perhaps .
+ok . So I turn right at the traffic lights . Then?
+then then then keep walking until you reach the war memorial . It ’ s a big statue of a soldier . You can ’ t miss it.

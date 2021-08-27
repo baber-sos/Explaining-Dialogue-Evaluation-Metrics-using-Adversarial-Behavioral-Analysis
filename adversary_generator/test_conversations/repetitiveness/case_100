@@ -1,0 +1,14 @@
+original_conversation
+Hello . Are you here to withdraw some money from your account at the Securities Company? I'll need to see your Passbook for that account .
+Right, here it is .
+Thanks . OK...your balance is 320,214 RIB . How much do you require today?
+I'll take 4,500 RIB, please .
+Please fill in this transfer form and enter your password, here . Then the transaction should be completed .
+OK...there we go . Thanks very much.
+modified_conversation
+Hello . Are you here to withdraw some money from your account at the Securities Company? I'll need to see your Passbook for that account .
+Right, here it is .
+Thanks . OK...your balance is 320,214 RIB . How much do you require today?
+I'll take 4,500 RIB, please .
+Please fill in this transfer form and enter your password, here . Then the transaction should be completed .
+OK...there we go . Thanks very much much much much much much.

@@ -1,0 +1,12 @@
+original_conversation
+Hi , Madam , I'm new here , could you tell me where is boarding gate ?
+What's your flight number ?
+Wait a second , please . Oh , it's CA193 .
+Are you a transfer passenger , sir ?
+Yes .
+modified_conversation
+Hi , Madam , I'm new here , could you tell me where is boarding gate ?
+What's your flight number ?
+Wait a second , please . Oh , it's CA193 .
+Are you a transfer passenger , sir ?
+ do not wait a second , please . Oh , it's CA193 .

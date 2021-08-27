@@ -1,0 +1,10 @@
+original_conversation
+Would you please weight this letter for me ?
+Well , it's a bit overweight . You must pay extra for it .
+How much ?
+We demand a surcharge of 80 cents for it .
+modified_conversation
+Would you please weight this letter for me ?
+Well , it's a bit overweight . You must pay extra for it .
+How much ?
+Well , it's not a bit overweight . You must pay extra for it .

@@ -1,0 +1,36 @@
+original_conversation
+Hi ! Good morning , Sarah !
+Good morning , Dr Lee .
+I have not seen you for a long time . How are you ?
+Not very well .
+What are your symptoms ?
+I have nausea , and I am dizzy . Also I have a abdominal pain .
+Where is the pain ? Could you show me please ?
+Here .
+What kind of pain ? Sharp pain , dull pain or severe pain ?
+Sharp pain .
+Is the pain continuous ?
+No , It is not continuous . It comes and goes .
+Please lie down over there .
+All right .
+Does it hurt when I push here ?
+No .
+What about here ?
+modified_conversation
+Hi ! Good morning , Sarah !
+Good morning , Dr Lee .
+I have not seen you for a long time . How are you ?
+Not very well .
+What are your symptoms ?
+I have nausea , and I am dizzy . Also I have a abdominal pain .
+Where is the pain ? Could you show me please ?
+Here .
+What kind of pain ? Sharp pain , dull pain or severe pain ?
+Sharp pain .
+Is the pain continuous ?
+No , It is not continuous . It comes and goes .
+Please lie down over there .
+All right .
+Does it hurt when I push here ?
+No .
+No . What about here ?

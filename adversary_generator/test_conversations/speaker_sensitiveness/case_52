@@ -1,0 +1,8 @@
+original_conversation
+Are you ready to order ? May I suggest a veal ?
+No , I'll have the fish please .
+The chicken is also nice .
+modified_conversation
+Are you ready to order ? May I suggest a veal ?
+No , I'll have the fish please .
+No , I'll have the fish please . The chicken is also nice .

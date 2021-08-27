@@ -1,0 +1,10 @@
+original_conversation
+Good morning , Mr Croft .
+Good morning , nurse . I want to see the dentist , please .
+Do you have an appointment ?
+No , I don't .
+modified_conversation
+Good morning , Mr Croft .
+Good morning , nurse . I want to see the dentist , please .
+Do you have an appointment ?
+That question does not make sense to me.

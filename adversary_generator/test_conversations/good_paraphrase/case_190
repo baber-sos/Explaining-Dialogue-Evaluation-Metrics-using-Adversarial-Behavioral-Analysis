@@ -1,0 +1,12 @@
+original_conversation
+Do you take reservations ?
+Of course . Reservations aren't necessary , but we recommend them as our restaurant can get quite busy .
+I need a table for two for tonight .
+What time ?
+We'd like to be seated at 8p m .
+modified_conversation
+Do you take reservations ?
+Of course . Reservations aren't necessary , but we recommend them as our restaurant can get quite busy .
+I need a table for two for tonight .
+What time ?
+We'd like to be seated at 8 p. m.

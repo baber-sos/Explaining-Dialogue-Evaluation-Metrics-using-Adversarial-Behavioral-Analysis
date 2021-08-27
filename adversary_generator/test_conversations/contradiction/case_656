@@ -1,0 +1,20 @@
+original_conversation
+Hello . Holiday Inn . How can I help you ?
+Yes . I booked a single room in your hotel for this Friday . But I ’ m sorry to say that I have to cancel it . My wife is very sick now . I don ’ t think she ’ ll be able to travel by this Friday .
+Oh , I ’ m sorry to hear that .
+Thank you . Can I cancel my reservation ?
+Certainly . May I have your name , please ?
+My name is Tom Smith .
+Okay . I have canceled your reservation , Mr . Smith .
+Thank you very much .
+You ’ re welcome . I hope your wife is feeling better soon .
+modified_conversation
+Hello . Holiday Inn . How can I help you ?
+Yes . I booked a single room in your hotel for this Friday . But I ’ m sorry to say that I have to cancel it . My wife is very sick now . I don ’ t think she ’ ll be able to travel by this Friday .
+Oh , I ’ m sorry to hear that .
+Thank you . Can I cancel my reservation ?
+Certainly . May I have your name , please ?
+My name is Tom Smith .
+Okay . I have canceled your reservation , Mr . Smith .
+Thank you very much .
+Okay . I have not canceled your reservation , Mr . Smith .

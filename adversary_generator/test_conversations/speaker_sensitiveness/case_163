@@ -1,0 +1,12 @@
+original_conversation
+Hello . Front desk .
+Yes . This is Bob Robinson . I ’ m calling from room number 627 .
+Hi , Bob . What can I do for you ?
+Is it possible to change to another room ?
+Could you please tell me why ?
+modified_conversation
+Hello . Front desk .
+Yes . This is Bob Robinson . I ’ m calling from room number 627 .
+Hi , Bob . What can I do for you ?
+Is it possible to change to another room ?
+Is it possible to change to another room ? Could you please tell me why ?

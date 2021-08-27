@@ -1,0 +1,22 @@
+original_conversation
+Would you like some more coffee ?
+No thanks . I'm full . We need to find our waitress and get our bill .
+The waitress is bringing the bill right now .
+This waitress has really been on top of things , hasn't she ?
+Yes , this waitress did a great job .
+OK , let's see what the damage is . The total for our meal is $ 36.00 .
+What do you think would be the right amount to leave for a tip ?
+Fifteen percent is a normal tip , but she really did a great job . What do you think about 20 % this time ?
+Yes , 20 % would be perfect .
+Her tip will end up being $ 7.20 plus the bill of $ 36.00 . The total will be $ 43.20 .
+modified_conversation
+Would you like some more coffee ?
+No thanks . I'm full . We need to find our waitress and get our bill .
+The waitress is bringing the bill right now .
+This waitress has really been on top of things , hasn't she ?
+Yes , this waitress did a great job .
+OK , let's see what the damage is . The total for our meal is $ 36.00 .
+What do you think would be the right amount to leave for a tip ?
+Fifteen percent is a normal tip , but she really did a great job . What do you think about 20 % this time ?
+Yes , 20 % would be perfect .
+Her tip will end up being $ 7.20 plus the bill of $ 36.00, resulting in the total of $ 43.20.

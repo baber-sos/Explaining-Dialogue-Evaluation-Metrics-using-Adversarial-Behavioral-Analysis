@@ -1,0 +1,18 @@
+original_conversation
+ABC Rent-a-Car . May I help you?
+I would like to rent a car . What kind of car do you have?
+We have Volkswagen, Pinto, Plymouth and Datsun .
+What is the rate?
+Twenty dollars per day for Volkswagen, Pinto and Datsun, and twenty-seven dollars for Plymouth .
+How about mileage and gas?
+There is no charge for mileage . And fill up the gas when you return the car to us as it is not included .
+OK . I'll try a Pinto . I want to rent a car for one week.
+modified_conversation
+ABC Rent-a-Car . May I help you?
+I would like to rent a car . What kind of car do you have?
+We have Volkswagen, Pinto, Plymouth and Datsun .
+What is the rate?
+Twenty dollars per day for Volkswagen, Pinto and Datsun, and twenty-seven dollars for Plymouth .
+How about mileage and gas?
+There is no charge for mileage . And fill up the gas when you return the car to us as it is not included .
+OK . I'll try a Pinto . I want to rent a car for I week.

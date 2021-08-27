@@ -1,0 +1,14 @@
+original_conversation
+I'd like to apply for a personal loan .
+How much would you like to borrow ?
+A thousand dollars .
+Let me check with our credit manager . ( later ) Our record shows that your credit rating is quite high . I don't think you'll have any problems .
+What's the current interest rate ?
+Our monthly interest is 1.5 % of the outstanding balance . Would you please fill out this application form ?
+modified_conversation
+I'd like to apply for a personal loan .
+How much would you like to borrow ?
+A thousand dollars .
+Let me check with our credit manager . ( later ) Our record shows that your credit rating is quite high . I don't think you'll have any problems .
+What's the current interest rate ?
+Our monthly interest is 1.5 % of the outstanding balance . Would you please fill out this application form this application form this application form ?

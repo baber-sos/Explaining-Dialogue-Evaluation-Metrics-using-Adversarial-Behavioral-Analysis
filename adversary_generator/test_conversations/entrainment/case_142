@@ -1,0 +1,24 @@
+original_conversation
+Good morning , sir . Can I help you ?
+Yes , I want to deposit 1000 Yuan in my bank account .
+Please fill out this deposit form , first .
+OK ... Here you are . Any problem on that ?
+No , that's fine . Do you bring your bankbook with you ?
+Yes , I do . Here it is , and the cash .
+Wait a moment , please .
+Sure .
+Is there anything else I can do for you ?
+Yes . Can you tell me what the interest rate is now ?
+The deposit rate is 0.8 % every month .
+modified_conversation
+Good morning , sir . Can I help you ?
+Yes , I want to deposit 1000 Yuan in my bank account .
+Please fill out this deposit form , first .
+OK ... Here you are . Any problem on that ?
+No , that's fine . Do you bring your bankbook with you ?
+Yes , I do . Here it is , and the cash .
+Wait a moment , please .
+Sure .
+Is there anything else I can do for you ?
+Yes . Can you tell me what the interest rate is now ?
+The repository rate is 0.8 % every month .

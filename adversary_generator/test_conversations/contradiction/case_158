@@ -1,0 +1,16 @@
+original_conversation
+What's wrong with you ? You look pale .
+I'm not sure , I feel hot and cold .
+When did the trouble start ?
+I was sick most of the night .
+It sounds like you are coming down with the flu . Let me take your temperature .
+Have I got a high fever ?
+Yes , thirty-eight point seven . Do you have a headache , chest or throat pain ?
+modified_conversation
+What's wrong with you ? You look pale .
+I'm not sure , I feel hot and cold .
+When did the trouble start ?
+I was sick most of the night .
+It sounds like you are coming down with the flu . Let me take your temperature .
+Have I got a high fever ?
+It  does not sound like you are coming down with the flu . Let me take your temperature .

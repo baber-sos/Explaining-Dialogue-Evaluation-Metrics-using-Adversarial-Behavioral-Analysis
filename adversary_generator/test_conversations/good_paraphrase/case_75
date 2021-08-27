@@ -1,0 +1,12 @@
+original_conversation
+Good morning . This is Apple Corporation . May I speak to Ballam ?
+Speaking .
+I ’ m calling to offer you the position of computer engineer .
+May I ask how much I can get every month ?
+Your starting salary is 3 , 000 yuan a month , but if you work well we will put you on our regular staff after six months time and your salary will be raised to 5,000 yuan a month .
+modified_conversation
+Good morning . This is Apple Corporation . May I speak to Ballam ?
+Speaking .
+I ’ m calling to offer you the position of computer engineer .
+May I ask how much I can get every month ?
+The starting salary is 3 000 yuan a month, but if you work well, we will put you on our regular staff after six months, and your salary will be raised to 5,000 yuan a month.

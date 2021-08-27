@@ -1,0 +1,16 @@
+original_conversation
+Excuse me . Something is wrong with my bank card . Can you help me ?
+Yes . What's the problem ?
+Just a mistake with my name . It should be issued as Steven , but the card is under the name ' Steven ' .
+Oh , I am very sorry about that . It's our fault . I will arrange someone to correct it immediately .
+OK , no problem . To err is human .
+Anyway , we apologize for the inconvenience we have brought you . Please just wait for a moment , and it will be fixed .
+Thank you very much .
+modified_conversation
+Excuse me . Something is wrong with my bank card . Can you help me ?
+Yes . What's the problem ?
+Just a mistake with my name . It should be issued as Steven , but the card is under the name ' Steven ' .
+Oh , I am very sorry about that . It's our fault . I will arrange someone to correct it immediately .
+OK , no problem . To err is human .
+Anyway , we apologize for the inconvenience we have brought you . Please just wait for a moment , and it will be fixed .
+... Thank you very much.

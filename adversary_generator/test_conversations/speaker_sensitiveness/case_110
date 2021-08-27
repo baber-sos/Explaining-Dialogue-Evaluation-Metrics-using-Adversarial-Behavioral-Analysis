@@ -1,0 +1,12 @@
+original_conversation
+Excuse me . I ’ m a stranger here and lost my way .
+Can I help you ?
+Sure . Can I get to the central department stall this way ?
+uh ... Yes . Turn right , then take the second turning on your left .
+Is it far ?
+modified_conversation
+Excuse me . I ’ m a stranger here and lost my way .
+Can I help you ?
+Sure . Can I get to the central department stall this way ?
+uh ... Yes . Turn right , then take the second turning on your left .
+uh ... Yes . Turn right , then take the second turning on your left . Is it far ?

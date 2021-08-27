@@ -1,0 +1,10 @@
+original_conversation
+Steven , have you any friend in London ?
+Yes , my old friend Hanson lives there
+Are you close ?
+Yes . He's one of my best friends . Our friendship formed at college . Why did you ask that ?
+modified_conversation
+Steven , have you any friend in London ?
+Yes , my old friend Hanson lives there
+Are you close ?
+Yes . Bob's one of my best friends . Our friendship formed at college . Why did you ask that ?

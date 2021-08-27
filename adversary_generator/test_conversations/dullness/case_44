@@ -1,0 +1,18 @@
+original_conversation
+Car trouble center . How may I help you ?
+My car won ’ t start ! Stupid old car !
+Hold on , before you kick your car let ’ s go through some possible problems .
+Fine .
+OK , first of all , can you turn the key in the ignition ?
+Yeah ! I am here with my friend and he thinks it may be the spark plug or the starter motor .
+Those are possible problems , but tell me , when you turn the key , do you hear the starter motor crank ?
+Yeah , it sounds like it usually does when I start the car , but nothing else happens . The engine won ’ t start . Should I maybe press the accelerator ?
+modified_conversation
+Car trouble center . How may I help you ?
+My car won ’ t start ! Stupid old car !
+Hold on , before you kick your car let ’ s go through some possible problems .
+Fine .
+OK , first of all , can you turn the key in the ignition ?
+Yeah ! I am here with my friend and he thinks it may be the spark plug or the starter motor .
+Those are possible problems , but tell me , when you turn the key , do you hear the starter motor crank ?
+That is a good question.

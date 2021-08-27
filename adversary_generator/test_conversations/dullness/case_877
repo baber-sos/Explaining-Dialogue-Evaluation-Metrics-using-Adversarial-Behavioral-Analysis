@@ -1,0 +1,18 @@
+original_conversation
+What date would you like to depart , sir ?
+Do you have any seats for September 16th ?
+Let's see ... I'm afraid the 16th is fully booked . But I have seats for the 17th .
+The 17th will be fine .
+And what date will you be returning ?
+Hmm , I guess on the 28th .
+Okay , you ' re booked on American Airlines flight 710 , departing JFK at 6:40 p . m . on September 17th . Your return flight is flight 711 , departing London ' s Heathrow Airport at 11:15 a . m . on September 28th .
+Sounds good . Thanks a lot .
+modified_conversation
+What date would you like to depart , sir ?
+Do you have any seats for September 16th ?
+Let's see ... I'm afraid the 16th is fully booked . But I have seats for the 17th .
+The 17th will be fine .
+And what date will you be returning ?
+Hmm , I guess on the 28th .
+Okay , you ' re booked on American Airlines flight 710 , departing JFK at 6:40 p . m . on September 17th . Your return flight is flight 711 , departing London ' s Heathrow Airport at 11:15 a . m . on September 28th .
+Hmm , I guess on the 28th .

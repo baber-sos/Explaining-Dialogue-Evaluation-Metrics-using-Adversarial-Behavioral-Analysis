@@ -1,0 +1,14 @@
+original_conversation
+I guess you should know that you need to be hospitalized .
+Of course I know .
+Now you can go to the in-patient department to go through the admission procedures .
+OK . I'll go right now . By the way , do you think I ’ ll have to stay in the hospital for long ?
+It's hard to say . It depends on your recovery condition . But you need to stay for at least one day for observation .
+Thank you , Doctor . I will go now . Bye-bye .
+modified_conversation
+I guess you should know that you need to be hospitalized .
+Of course I know .
+Now you can go to the in-patient department to go through the admission procedures .
+OK . I'll go right now . By the way , do you think I ’ ll have to stay in the hospital for long ?
+It's hard to say . It depends on your recovery condition . But you need to stay for at least one day for observation .
+Thank you, doctor, I will go bye-bye now.

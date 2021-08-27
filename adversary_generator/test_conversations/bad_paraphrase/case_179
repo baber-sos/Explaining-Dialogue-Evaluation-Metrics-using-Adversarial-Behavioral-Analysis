@@ -1,0 +1,12 @@
+original_conversation
+Hello , reservation desk . Can I help you ?
+Yes . I ’ d like to book a duplex suite .
+What day would you like to reserve the suite for , sir ?
+Next Friday .
+I ’ m sorry , sir . We can ’ t accept reservations for next Friday due to over booking . May I suggest another hotel , sir ?
+modified_conversation
+Hello , reservation desk . Can I help you ?
+Yes . I ’ d like to book a duplex suite .
+What day would you like to reserve the suite for , sir ?
+Next Friday .
+I ’ m dreary , Sir . We can ’ t assume bookings for next Fri due to over reservation . May I evoke another hotel , Sir ? 

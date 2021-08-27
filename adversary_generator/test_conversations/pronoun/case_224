@@ -1,0 +1,12 @@
+original_conversation
+Hi . This is a Receptionist Desk . How can I help you ?
+Yes . I just checked in , but I need to change my room .
+What ’ s the problem ?
+I reserved a non-smoking room , but the smell of smoke in this room is so strong that I can ’ t endure it .
+I ’ m sorry . I ’ ll arrange a non-smoking room for you right away . The doorman is going to help you with your luggage . I do apologize for the inconvenience .
+modified_conversation
+Hi . This is a Receptionist Desk . How can I help you ?
+Yes . I just checked in , but I need to change my room .
+What ’ s the problem ?
+I reserved a non-smoking room , but the smell of smoke in this room is so strong that I can ’ t endure it .
+they ’ m sorry . they ’ ll arrange a non-smoking room for she right away . The doorman is going to help them with me luggage . they do apologize for the inconvenience .

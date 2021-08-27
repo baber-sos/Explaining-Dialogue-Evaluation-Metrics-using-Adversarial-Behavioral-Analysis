@@ -1,0 +1,10 @@
+original_conversation
+Consumer Credit Department . How may I help you ?
+I need some info on car loans . Such as payment periods , interest rates , things like that , please .
+Certainly . Do you currently bank with us ?
+Yes , I do . I have a Current Account , a credit card and a mortgage with you already .
+modified_conversation
+Consumer Credit Department . How may I help you ?
+I need some info on car loans . Such as payment periods , interest rates , things like that , please .
+Certainly . Do you currently bank with us ?
+Yes , you do . they have a Current Account , a credit card and a mortgage with this already .

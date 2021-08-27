@@ -1,0 +1,18 @@
+original_conversation
+How ’ s everything with you today ?
+I ’ m fine . Thank you .
+What can I do for you ?
+I need to transfer money .
+Do you know which account you want to take the money from ?
+From my savings account .
+Where are you transferring the money to ?
+I would like it transferred to my checking account .
+modified_conversation
+How ’ s everything with you today ?
+I ’ m fine . Thank you .
+What can I do for you ?
+I need to transfer money .
+Do you know which account you want to take the money from ?
+From my savings account .
+Where are you transferring the money to ?
+I would like to have it transferred to my checking account.

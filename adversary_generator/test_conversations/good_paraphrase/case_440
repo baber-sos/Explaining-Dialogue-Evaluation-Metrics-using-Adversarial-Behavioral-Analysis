@@ -1,0 +1,12 @@
+original_conversation
+Excuse me , you look lost . Can I help you ?
+Oh , Thank you . I'm looking for the train station .
+Right . Let me see . You go straight down here and turn right .
+Right ? OK , got it .
+Then take the next left then the next right . Are you with me ?
+modified_conversation
+Excuse me , you look lost . Can I help you ?
+Oh , Thank you . I'm looking for the train station .
+Right . Let me see . You go straight down here and turn right .
+Right ? OK , got it .
+Then take the next left then take the next right, Are you with me?

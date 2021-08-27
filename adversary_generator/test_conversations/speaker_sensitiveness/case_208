@@ -1,0 +1,18 @@
+original_conversation
+Why are you arresting me ?
+There is a warrant out for your arrest .
+What kind of warrant ?
+You have a bench warrant .
+What is that ?
+Have you missed a court date ?
+I never went to court .
+I can't help you .
+modified_conversation
+Why are you arresting me ?
+There is a warrant out for your arrest .
+What kind of warrant ?
+You have a bench warrant .
+What is that ?
+Have you missed a court date ?
+I never went to court .
+I never went to court . I can't help you .

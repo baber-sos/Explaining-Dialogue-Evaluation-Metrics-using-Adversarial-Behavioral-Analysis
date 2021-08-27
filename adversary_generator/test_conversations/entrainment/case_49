@@ -1,0 +1,28 @@
+original_conversation
+Operator .
+Hello . I'd like to make a call to Australia .
+You can call direct if you like .
+Oh , can I ?
+Yes , please .
+Could you please tell me the international prefix and the country code for Australia ?
+Yes , the code for Australia is 61 and then dial the city code and the number . Start with the international code which is 00 .
+What time do the special rates apply ?
+Between six in the evening and eight in the morning , sir .
+I wonder if I can charge this call to my hotel room .
+Certainly . Tell me the room number and your name , please ?
+This is Mr . Ma in room 215 .
+OK , Mr . Ma . I'll tell the front desk clerk the charge afterwards .
+modified_conversation
+Operator .
+Hello . I'd like to make a call to Australia .
+You can call direct if you like .
+Oh , can I ?
+Yes , please .
+Could you please tell me the international prefix and the country code for Australia ?
+Yes , the code for Australia is 61 and then dial the city code and the number . Start with the international code which is 00 .
+What time do the special rates apply ?
+Between six in the evening and eight in the morning , sir .
+I wonder if I can charge this call to my hotel room .
+Certainly . Tell me the room number and your name , please ?
+This is Mr . Ma in room 215 .
+OK , Mr . Ma . I'll assure the front desk clerk the charge afterwards .

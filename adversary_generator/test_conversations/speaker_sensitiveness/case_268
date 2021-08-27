@@ -1,0 +1,10 @@
+original_conversation
+Good afternoon , what flights do you have from London to Paris ?
+We have two direct flights . Would you like a morning one or an afternoon one ?
+The morning one , please . I want to go coach .
+Single or return ?
+modified_conversation
+Good afternoon , what flights do you have from London to Paris ?
+We have two direct flights . Would you like a morning one or an afternoon one ?
+The morning one , please . I want to go coach .
+The morning one , please . I want to go coach . Single or return ?

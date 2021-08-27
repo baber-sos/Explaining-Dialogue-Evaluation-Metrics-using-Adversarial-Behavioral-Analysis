@@ -1,0 +1,16 @@
+original_conversation
+Good morning , Star Airline . What can I do for you ?
+I'd like to confirm a reservation , please.My name is Wang Lin . My flight is KF98 .
+I see . You are leaving for Berlin on July 23rd with Mr . Smith , right ?
+What ? I am afraid you have made a mistake , I am leaving on July 21st alone .
+Isn't your family name Lin ?
+No.It is Wang .
+I am sonry.So you are loaving on Duty 21st and your seat is in the business section .
+modified_conversation
+Good morning , Star Airline . What can I do for you ?
+I'd like to confirm a reservation , please.My name is Wang Lin . My flight is KF98 .
+I see . You are leaving for Berlin on July 23rd with Mr . Smith , right ?
+What ? I am afraid you have made a mistake , I am leaving on July 21st alone .
+Isn't your family name Lin ?
+No.It is Wang .
+I love that.
