@@ -1,0 +1,10 @@
+original_conversation
+Are there any trains leaving out of Cambridge on Sunday?
+Yes . Where would you be going to?
+Stevenage . I need to arrive by 18:45
+TR7729 will arrive at 18:10 . Would you like to book?
+modified_conversation
+Are there any trains leaving out of Cambridge on Sunday?
+Yes . Where would you be going to?
+Stevenage . I need to arrive by 18:45
+TR7729 leaving arrive at 18:10 . Would you like to booking?

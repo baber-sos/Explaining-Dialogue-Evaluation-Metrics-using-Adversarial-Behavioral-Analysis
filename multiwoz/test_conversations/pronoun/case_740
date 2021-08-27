@@ -1,0 +1,14 @@
+original_conversation
+I'm looking for a train from Cambridge to London Kings Cross.
+When would you like to arrive by?
+I would like to arrive by 08:15, and leave on Monday.
+I have 2 trains that meet your criteria. One train arrives by 5:51, and the other by 7:51. Would you like to book one of these?
+Yes I would like to arrive at 7:51 please for 8 people, I need the reference number
+Booking was successful, the total fee is 188.8 GBP payable at the station. Reference number is: 31K4BK2E . Is there anything else you need?
+modified_conversation
+I'm looking for a train from Cambridge to London Kings Cross.
+When would you like to arrive by?
+I would like to arrive by 08:15, and leave on Monday.
+I have 2 trains that meet your criteria. One train arrives by 5:51, and the other by 7:51. Would you like to book one of these?
+Yes I would like to arrive at 7:51 please for 8 people, I need the reference number
+Booking was successful, the total fee is 188.8 GBP payable at the station. Reference number is: 31K4BK2E . Is there anything else we need?

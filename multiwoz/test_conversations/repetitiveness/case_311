@@ -1,0 +1,16 @@
+original_conversation
+I need a train departing from Cambridge, leaving after 21:30.
+What time were you looking to arrive and what is your destination?
+I need to go to Peterborough on Tuesday please
+The TR7663 departs at 21:34 and arrives in Peterborough at 22:24. Shall I book this for you?
+Yes, for 7 people please. I need the reference number.
+Booking was successful, the total fee is 115.5 GBP payable at the station. Reference number is : NBX6ZT2O .
+I'm also looking for a restaurant in the south on the expensive side.
+modified_conversation
+I need a train departing from Cambridge, leaving after 21:30.
+What time were you looking to arrive and what is your destination?
+I need to go to Peterborough on Tuesday please
+The TR7663 departs at 21:34 and arrives in Peterborough at 22:24. Shall I book this for you?
+Yes, for 7 people please. I need the reference number.
+Booking was successful, the total fee is 115.5 GBP payable at the station. Reference number is : NBX6ZT2O .
+I'm also looking for a restaurant a restaurant a restaurant in the south on the expensive side.

@@ -1,0 +1,14 @@
+original_conversation
+I want to find a guesthouse with free parking included. Can you help?
+There are 21 guesthouses that have parking available. Is there a certain price range or part of the city you are interested in?
+I would really like something expensive.
+Unfortunately, I can't find any that are expensive. Let's try a different price range.
+Alright, let's try for a cheap hotel.
+Do you want a cheap hotel or a cheap guesthouse?
+modified_conversation
+I want to find a guesthouse with free parking included. Can you help?
+There are 21 guesthouses that have parking available. Is there a certain price range or part of the city you are interested in?
+I would really like something expensive.
+Unfortunately, I can't find any that are expensive. Let's try a different price range.
+Alright, let's try for a cheap hotel.
+Do you need a cheap hotel or a cheap guesthouse?

@@ -1,0 +1,18 @@
+original_conversation
+What time would you like to depart?
+Are you looking for a train or a taxi?
+I am looking for a train from Cambridge to London Kings Cross for Wednesday, arriving by 09:45.
+I only have a train that arrives at 07:51 or 09:51.
+would you please book for 8 people? and give me the reference number
+I booked 8 tickets on TR1058 leaving Cambridge at 07:00. The reference number is VBKUUA4S and the total fee is 188.8 GBP payable at the station.
+Thanks, could you also help me find a good museum to visit while I am there?
+There are 23 museums listed. Is there an area of town you prefer?
+modified_conversation
+What time would you like to depart?
+Are you looking for a train or a taxi?
+I am looking for a train from Cambridge to London Kings Cross for Wednesday, arriving by 09:45.
+I only have a train that arrives at 07:51 or 09:51.
+would you please book for 8 people? and give me the reference number
+I booked 8 tickets on TR1058 leaving Cambridge at 07:00. The reference number is VBKUUA4S and the total fee is 188.8 GBP payable at the station.
+Thanks, could you also help me find a good museum to visit while I am there?
+There are 23 museums listed. Is there an area of town she prefer?

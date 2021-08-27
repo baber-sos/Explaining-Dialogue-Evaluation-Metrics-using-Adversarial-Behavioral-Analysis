@@ -1,0 +1,14 @@
+original_conversation
+I need a train to Norwich, from Cambridge.
+What day were you planning to travel?
+On Tuesday. I need to get into Norwich by 15:00.
+TR1659 is train that goes from cambridge to norwich and arrives at norwich at 14:55. Would you like to book it?
+No thanks. I don't want to book today. But can you tell me what time that train departs?
+TR1659 leaves Cambridge at 13:36.
+modified_conversation
+I need a train to Norwich, from Cambridge.
+What day were you planning to travel?
+On Tuesday. I need to get into Norwich by 15:00.
+TR1659 is train that goes from cambridge to norwich and arrives at norwich at 14:55. Would you like to book it?
+No thanks. I don't want to book today. But can you tell me what time that train departs?
+Volkswagen leaves Cambridge at 13:36.

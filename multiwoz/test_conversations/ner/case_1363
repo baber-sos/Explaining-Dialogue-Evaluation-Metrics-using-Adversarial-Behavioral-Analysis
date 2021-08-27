@@ -1,0 +1,14 @@
+original_conversation
+Hello! I'm looking for a train leaving on saturday going to cambridge.
+What time are you looking to leave? Morning, Afternoon or Evening?
+I'd like to leave after 19:30.
+Where are you leaving from?
+I am leaving from Broxbourne and it should leave after 19:30. I would also like a booking for 6 people.
+I booked 6 tickets for you on TR4967 leaving Broxbourne at 19:32. 85.92 GBP is payable at the station. Reference number is Y8XKP9LU . Will that be all?
+modified_conversation
+Hello! I'm looking for a train leaving on saturday going to cambridge.
+What time are you looking to leave? Morning, Afternoon or Evening?
+I'd like to leave after 19:30.
+Where are you leaving from?
+I am leaving from Broxbourne and it should leave after 19:30. I would also like a booking for 6 people.
+I booked 6 tickets for you on TR4967 leaving 5 pounds at 19:32. 85.92 GBP is payable at the station. Reference number is Y8XKP9LU . Will that be all?

@@ -1,0 +1,10 @@
+original_conversation
+Find me a train to kings lynn that arrives by 20:15.
+The TR3112 arrives at 05:58. Will that work?
+Is it on Saturday?
+I'd suggest TR7604, it departs at 19:11 on saturday and arrives by 19:58. Would you like a ticket?
+modified_conversation
+Find me a train to kings lynn that arrives by 20:15.
+The TR3112 arrives at 05:58. Will that work?
+Is it on Saturday?
+I'd suggest TR7604, he departs at 19:11 on saturday and arrives by 19:58. Would him like a ticket?

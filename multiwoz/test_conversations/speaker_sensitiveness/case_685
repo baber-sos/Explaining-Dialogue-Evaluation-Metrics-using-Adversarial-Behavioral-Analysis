@@ -1,0 +1,10 @@
+original_conversation
+Hi, I'm looking to catch a train to Norwich. Are there any that depart at or around 17:00?
+There are departures most days from Cambridge at 17:36. Would you like any more information of train times or help booking a train?
+Does that train leave on Friday?
+Yes! We have 7 trains leaving on Friday to Norwich. What time would you like to arrive by?
+modified_conversation
+Hi, I'm looking to catch a train to Norwich. Are there any that depart at or around 17:00?
+There are departures most days from Cambridge at 17:36. Would you like any more information of train times or help booking a train?
+Does that train leave on Friday?
+Does that train leave on Friday? Yes! We have 7 trains leaving on Friday to Norwich. What time would you like to arrive by?

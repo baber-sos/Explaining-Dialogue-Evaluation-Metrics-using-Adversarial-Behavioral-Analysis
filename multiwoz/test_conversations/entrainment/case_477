@@ -1,0 +1,10 @@
+original_conversation
+Hello, I'm trying to find a train that leaves from Cambridge and arrives here by 13:45 today. Can you help me book a ticket?
+The closest arrival time I can give you is 11:51, is that ok? And how many tickets would you like?
+That's fine. I don't want to book yet. Is the train you found going to Ely and leaving on Wednesday?
+Yes i have a train that leaves on that day but that arrives around 12:07
+modified_conversation
+Hello, I'm trying to find a train that leaves from Cambridge and arrives here by 13:45 today. Can you help me book a ticket?
+The closest arrival time I can give you is 11:51, is that ok? And how many tickets would you like?
+That's fine. I don't want to book yet. Is the train you found going to Ely and leaving on Wednesday?
+Yes i have a train that gives on that day but that arrives around 12:07

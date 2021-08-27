@@ -1,0 +1,18 @@
+original_conversation
+Can you help me find a train that will arrive in birmingham new street by 16:15?
+What day would you like to travel?
+I would like to leave Friday from Cambridge.
+TR2716 will leave cambridge at 13:01 and arrive at birmingham at 15:44. The trip will take 163 minutes and cost 75.10 pounds. Would you like to book?
+Yes, I would like to book for 3 people.
+I booked the train. It was 225.3 and your reference is AS5SBC8P . Do you need help with anything else?
+Yes I also need information on queens' college.
+It's located in west Cambridge on silver street. The postcode is cb39et. The phone number is 01223335511. The entrance fee is 2.50 pounds. Do you need anything else?
+modified_conversation
+Can you help me find a train that will arrive in birmingham new street by 16:15?
+What day would you like to travel?
+I would like to leave Friday from Cambridge.
+TR2716 will leave cambridge at 13:01 and arrive at birmingham at 15:44. The trip will take 163 minutes and cost 75.10 pounds. Would you like to book?
+Yes, I would like to book for 3 people.
+I booked the train. It was 225.3 and your reference is AS5SBC8P . Do you need help with anything else?
+Yes I also need information on queens' college.
+Yes I also need information on queens' college. It's located in west Cambridge on silver street. The postcode is cb39et. The phone number is 01223335511. The entrance fee is 2.50 pounds. Do you need anything else?

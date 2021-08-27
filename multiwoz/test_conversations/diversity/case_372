@@ -1,0 +1,20 @@
+original_conversation
+I need a train leaving on Saturday .
+Where are you traveling from?
+I am leaving from cambridge .
+And where were you wanting to travel to?
+I am leaving leicester and coming to cambridge .
+What time are you leaving?
+I would like to arrive by 20:15 so whenever I need to leave to get there on time is fine .
+TR2515 can get you there by 19:54 would you like me to book you?
+I don't need to book today, but can I get the departure time and travel time please?
+modified_conversation
+I need a train leaving on Saturday .
+Where are you traveling from?
+I am leaving from cambridge .
+And where were you wanting to travel to?
+I am leaving leicester and coming to cambridge .
+What time are you leaving?
+I would like to arrive by 20:15 so whenever I need to leave to get there on time is fine .
+TR2515 can get you there by 19:54 would you like me to book you?
+I comingn't wanting to book today, but can I arriving the leaving time and traveling time please?

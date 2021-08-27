@@ -1,0 +1,20 @@
+original_conversation
+I am looking to get on a train that departs from Ely on Thursday
+There are 10 results of trains departing from Ely on Thursday. All are destined for Cambridge. Do you have any specific times that you would like me to look up?
+The train should leave at 18:45
+There's a train at 19:35 arriving Cambridge at 19:52. Would you like me to book it for you?
+Is there any train leaving sooner?
+No, there is not.
+Okay go ahead and book the one for 19:35. I also need a hotel on the cheap side.
+How many tickets will you be needing for the train?
+just 1
+modified_conversation
+I am looking to get on a train that departs from Ely on Thursday
+There are 10 results of trains departing from Ely on Thursday. All are destined for Cambridge. Do you have any specific times that you would like me to look up?
+The train should leave at 18:45
+There's a train at 19:35 arriving Cambridge at 19:52. Would you like me to book it for you?
+Is there any train leaving sooner?
+No, there is not.
+Okay go ahead and book the one for 19:35. I also need a hotel on the cheap side.
+How many tickets will you be needing for the train?
+Okay  do not go ahead and book the one for 19:35. I also need a hotel on the cheap side.

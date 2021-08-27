@@ -1,0 +1,20 @@
+original_conversation
+Hi, could you help me with my plans? I am looking for a train.
+I can help you with that. Where will be departing and where do you want to go?
+I will be departing from Cambridge and going into Ely on Saturday.
+Trains run that route every two hours throughout the day. Do you have a target departure or arrival time?
+I would like to arrive in Ely by 11:15. Could you please tell me the price and what the departure time is?
+TR0718 arrives at 10:07 on saturday. Cost is 3.52 pounds. Would you like me to reserve a seat for you?
+I need to book a room in the North as well.
+There are 2 hotels and 11 guesthouses to choose from in the north, ranging in price from cheap to moderate. Do you have a price point preference?
+I would need a hotel with wifi
+modified_conversation
+Hi, could you help me with my plans? I am looking for a train.
+I can help you with that. Where will be departing and where do you want to go?
+I will be departing from Cambridge and going into Ely on Saturday.
+Trains run that route every two hours throughout the day. Do you have a target departure or arrival time?
+I would like to arrive in Ely by 11:15. Could you please tell me the price and what the departure time is?
+TR0718 arrives at 10:07 on saturday. Cost is 3.52 pounds. Would you like me to reserve a seat for you?
+I need to book a room in the North as well.
+There are 2 hotels and 11 guesthouses to choose from in the north, ranging in price from cheap to moderate. Do you have a price point preference?
+I  do not need to book a room in the North as well.

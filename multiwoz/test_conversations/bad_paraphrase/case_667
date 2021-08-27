@@ -1,0 +1,34 @@
+original_conversation
+I need a train leaving from london kings cross.
+I can help you with that what day are you wanting to leave?
+I want to leave on a Tuesday.
+Where will you be travelling to?
+I will be traveling to cambridge.
+What time do you need to depart?
+whatever time that will get me there closest to 14:00.
+TR7850 leaves Tuesday at 11:17 and arrives at 12:08. Will this one work for you?
+Yes, that would work great. What is the price per ticket for that train?
+The tickets are 23.60 GBP each.
+i am also looking for a place to go in town
+What type of place would you like to visit?
+I'd like to visit a college in the south.
+Unfortunately, I don't have any colleges located in that area. Can I try a different area or attraction type?
+Yes, can you look for a theatre in the south?
+I have the junction theatre in the south located on clifton way.
+modified_conversation
+I need a train leaving from london kings cross.
+I can help you with that what day are you wanting to leave?
+I want to leave on a Tuesday.
+Where will you be travelling to?
+I will be traveling to cambridge.
+What time do you need to depart?
+whatever time that will get me there closest to 14:00.
+TR7850 leaves Tuesday at 11:17 and arrives at 12:08. Will this one work for you?
+Yes, that would work great. What is the price per ticket for that train?
+The tickets are 23.60 GBP each.
+i am also looking for a place to go in town
+What type of place would you like to visit?
+I'd like to visit a college in the south.
+Unfortunately, I don't have any colleges located in that area. Can I try a different area or attraction type?
+Yes, can you look for a theatre in the south?
+I have the juncture field in the Dixieland sited on clifton way . 

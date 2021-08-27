@@ -1,0 +1,32 @@
+original_conversation
+I want to find a European restaurant in the west.
+There is one available, the cambridge lodge restaurant, would you like me to book you?
+No, I'm just getting some information together. Is it expensive?
+Yes it is an expensive restaurant, do you want to try a different restaurant?
+Let's go with Cambridge Lodge. I'd like to book for 8 at 17:30 on Saturday, please.
+Reference number is : IPXE2SID . Is there anything else?
+actually, i want to change the reservation to sunday.
+Reference number is : ISJVY1RC . Is there anything else?
+I am also looking for a hotel, it can be expensive, but it needs to have free wifi.
+There are five expensive hotels, all with wifi. Could you tell me which location you are wanting to stay in, to narrow it down?
+The area doesn't matter, which one would you recommend?
+Sure, I would recommend the Huntingdon Marriott Hotel which is located near the restaurant. Would you like a reservation?
+No thanks, just tell me the phone number and type for it please
+It is a hotel and the phone number is 01480446000.
+How many stars does this hotel have?
+modified_conversation
+I want to find a European restaurant in the west.
+There is one available, the cambridge lodge restaurant, would you like me to book you?
+No, I'm just getting some information together. Is it expensive?
+Yes it is an expensive restaurant, do you want to try a different restaurant?
+Let's go with Cambridge Lodge. I'd like to book for 8 at 17:30 on Saturday, please.
+Reference number is : IPXE2SID . Is there anything else?
+actually, i want to change the reservation to sunday.
+Reference number is : ISJVY1RC . Is there anything else?
+I am also looking for a hotel, it can be expensive, but it needs to have free wifi.
+There are five expensive hotels, all with wifi. Could you tell me which location you are wanting to stay in, to narrow it down?
+The area doesn't matter, which one would you recommend?
+Sure, I would recommend the Huntingdon Marriott Hotel which is located near the restaurant. Would you like a reservation?
+No thanks, just tell me the phone number and type for it please
+It is a hotel and the phone number is 01480446000.
+No thanks, just tell me the phone number and type for it please

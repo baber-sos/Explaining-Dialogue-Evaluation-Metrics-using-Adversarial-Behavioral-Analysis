@@ -1,0 +1,14 @@
+original_conversation
+I need a train to leave from birmingham new street on friday
+Is your destination Cambridge?
+Yes, cambridge is my destination.
+Is there a certain time you need to arrive by?
+Yes, I need to arrive by 13:45. How long with the trip take?
+The trip takes about 163 minutes. We have a few trains going to birmingham new street on friday, would you like to book a seat?
+modified_conversation
+I need a train to leave from birmingham new street on friday
+Is your destination Cambridge?
+Yes, cambridge is my destination.
+Is there a certain time you need to arrive by?
+Yes, I need to arrive by 13:45. How long with the trip take?
+The trip takes about 163 minutes. she have a few trains going to birmingham new street on friday, would he like to book a seat?

@@ -1,0 +1,20 @@
+original_conversation
+I'm curious about the 3-star lodging options available in Cambridge.
+There are no 3-star lodgings available in Cambridge. Shall we check 4-star locations instead?
+Sure. Check only for hotels which include free parking also.
+There are no 4-star lodgings available in Cambridge that meet your criteria. Shall we check 5-star locations instead?
+Yes, please try 5-star hotels with free parking.
+Unfortunately, I couldn't find anything with 5 stars.
+try out 1 night then
+I do not have 4 or 5 star hotels in that area. Can I try something else?
+I want to stay at a 3 star hotel with free parking.
+modified_conversation
+I'm curious about the 3-star lodging options available in Cambridge.
+There are no 3-star lodgings available in Cambridge. Shall we check 4-star locations instead?
+Sure. Check only for hotels which include free parking also.
+There are no 4-star lodgings available in Cambridge that meet your criteria. Shall we check 5-star locations instead?
+Yes, please try 5-star hotels with free parking.
+Unfortunately, I couldn't find anything with 5 stars.
+try out 1 night then
+I do not have 4 or 5 star hotels in that area. Can I try something else?
+I don't know what you mean by that.

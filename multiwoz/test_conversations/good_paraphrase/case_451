@@ -1,0 +1,28 @@
+original_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+I will b departing from Cambridge and arriving in Ely.
+TR4294 will leave at 17:50 and arrive by 18:07. Do you need to book tickets?
+Yes, I will actually need 8 tickets, it will be a group of us.
+Booking was successful, the total fee is 35.2 GBP payable at the station . Reference number is : WWKNFTGL .
+Could I also find an expensive restaurant in the west?
+There are many to choose from, Do you have a specific food type or would you like me to make a recommendation?
+An Italian restaurant and I need a reservation for 8 at 13:15 on Monday.
+There are no expensive Italian places in the West. Is there another area I may check?
+No just choose another type of expensive place to dine for me and book a table at 13:15 for 8 people from Monday.
+Okay, cambridge lodge restaurant serves European food. The booking was successful. The table will be reserved for 15 minutes. Your reference number is : SIKPOBWY .
+Thanks, that is all for now. Goodbye.
+modified_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+I will b departing from Cambridge and arriving in Ely.
+TR4294 will leave at 17:50 and arrive by 18:07. Do you need to book tickets?
+Yes, I will actually need 8 tickets, it will be a group of us.
+Booking was successful, the total fee is 35.2 GBP payable at the station . Reference number is : WWKNFTGL .
+Could I also find an expensive restaurant in the west?
+There are many to choose from, Do you have a specific food type or would you like me to make a recommendation?
+An Italian restaurant and I need a reservation for 8 at 13:15 on Monday.
+There are no expensive Italian places in the West. Is there another area I may check?
+No just choose another type of expensive place to dine for me and book a table at 13:15 for 8 people from Monday.
+Okay, cambridge lodge restaurant serves European food. The booking was successful. The table will be reserved for 15 minutes. Your reference number is : SIKPOBWY .
+Thank you all so far. Goodbye

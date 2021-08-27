@@ -1,0 +1,20 @@
+original_conversation
+I need a train that is leaving on Friday .
+I can help you with that . Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Friday . I need to arrive by 9:15 .
+I have 4 trains available . Do you have a preferred departure time?
+No, I don't . Can you give me the earliest departure out of the 4 trains?
+TR7213 leaves cambridge at 05:40 and arrives at the airport by 06:08, does this suit your needs?
+Yes, that sounds great . Can you book that for me?
+Definitely! How many tickets do you need?
+Actually I have all the information I need but I would like to find a type of multiple sports attraction on the east side.
+modified_conversation
+I need a train that is leaving on Friday .
+I can help you with that . Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Friday . I need to arrive by 9:15 .
+I have 4 trains available . Do you have a preferred departure time?
+No, I don't . Can you give me the earliest departure out of the 4 trains?
+TR7213 leaves cambridge at 05:40 and arrives at the airport by 06:08, does this suit your needs?
+Yes, that sounds great . Can you book that for me?
+Definitely! How many tickets do you need?
+Actually I give all the information I needs but I would like to see a type of Multiple sports attraction on the East side.

@@ -1,0 +1,32 @@
+original_conversation
+Hi there, I'm looking for a restaurant that serves Swedish food. It can be anywhere, I'm willing to pay a moderate amount of money. Do you have any recommendations?
+Unfortunately, I wasn't able to find anything that matches your request. Shall we look for a cheap or expensive Swedish restaurant instead?
+Sure, look for a cheap restaurant. And I prefer the west if possible.
+Unfortunately there are none fitting that criteria either, would you like me to search for a different type of restaurant?
+A British restaurant, please.
+Saint Johns Chop House is a british restaurant located in the west at a moderate price. Would you like to book a table?
+Yes please for 6 people at 13:30 on monday.
+I was ale to succesfully book you, The table will be reserved for 15 minutes. The Reference number is TFPE0ATT . Can i assist with anything else?
+Yes, I also need a train. I need to get to Cambridge by 09:15.
+What day and what is the departure location?
+I'll be coming from London, Liverpool Street on the same day as my restaurant reservation, please.
+I have several trains that will get you to Cabridge on time. Is there a particular departure time you would like?
+I would like the latest train leaving that will arrive by 9:15 please. Could you give me a departure time and travel time?
+The TR3673 will be arriving just before 9:15 on Monday. It departs at 7:39 and is an 88 minute ride. Would you like me to book it?
+Can you tell me what time that train leaves?
+modified_conversation
+Hi there, I'm looking for a restaurant that serves Swedish food. It can be anywhere, I'm willing to pay a moderate amount of money. Do you have any recommendations?
+Unfortunately, I wasn't able to find anything that matches your request. Shall we look for a cheap or expensive Swedish restaurant instead?
+Sure, look for a cheap restaurant. And I prefer the west if possible.
+Unfortunately there are none fitting that criteria either, would you like me to search for a different type of restaurant?
+A British restaurant, please.
+Saint Johns Chop House is a british restaurant located in the west at a moderate price. Would you like to book a table?
+Yes please for 6 people at 13:30 on monday.
+I was ale to succesfully book you, The table will be reserved for 15 minutes. The Reference number is TFPE0ATT . Can i assist with anything else?
+Yes, I also need a train. I need to get to Cambridge by 09:15.
+What day and what is the departure location?
+I'll be coming from London, Liverpool Street on the same day as my restaurant reservation, please.
+I have several trains that will get you to Cabridge on time. Is there a particular departure time you would like?
+I would like the latest train leaving that will arrive by 9:15 please. Could you give me a departure time and travel time?
+The TR3673 will be arriving just before 9:15 on Monday. It departs at 7:39 and is an 88 minute ride. Would you like me to book it?
+Can they tell it what time that train leaves?

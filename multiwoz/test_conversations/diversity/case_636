@@ -1,0 +1,10 @@
+original_conversation
+Are there any expensive hotels around?
+Yes, there are 5 such hotels . Do you have a location preference?
+I do not have a location preference .
+I have the gonville hotel located in teh centre of town . It has a 3 star rating . Would you like reservations?
+modified_conversation
+Are there any expensive hotels around?
+Yes, there are 5 such hotels . Do you have a location preference?
+I do not have a location preference .
+I have the gonville hotels located in teh centre of town . It has a 3 star rating . Would you like reservations?

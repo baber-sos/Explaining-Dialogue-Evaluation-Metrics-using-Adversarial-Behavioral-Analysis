@@ -1,0 +1,12 @@
+original_conversation
+I need to get train ticket leaving cambridge after 14:45 please.
+Ok I have a total of 1,365 entries that leave after that time. Do you have a specific day or destination you would like to select ?
+I need to go to Birmingham new street on Monday.
+I would recommend train ID TR5435 which leaves Cambridge at 15:02 and arrives at Birmingham New Street at 17:44.
+What is the exact travel time on the TR5435?
+modified_conversation
+I need to get train ticket leaving cambridge after 14:45 please.
+Ok I have a total of 1,365 entries that leave after that time. Do you have a specific day or destination you would like to select ?
+I need to go to Birmingham new street on Monday.
+I would recommend train ID TR5435 which leaves Cambridge at 15:02 and arrives at Birmingham New Street at 17:44.
+I  do not need to go to Birmingham new street on Monday.

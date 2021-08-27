@@ -1,0 +1,6 @@
+original_conversation
+I need a train from London Kings Cross to Cambridge.
+I have 70 trains travelling that route. To narrow it down, what day would you like to leave and what time would you like to depart/arrive?
+modified_conversation
+I need a train from London Kings Cross to Cambridge.
+I have 70 trains travelling that route. To narrow it down, what day would you like to leave and what time would you care to depart/arrive?

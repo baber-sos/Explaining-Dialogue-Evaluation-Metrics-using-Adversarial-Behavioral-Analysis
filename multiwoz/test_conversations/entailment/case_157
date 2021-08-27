@@ -1,0 +1,24 @@
+original_conversation
+I need to book a train for 9:30 that departs from cambridge.
+There are lots of trains that fit those criteria. Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday.
+There is a train that leaves at 7:59 and arrives at 9:27. Would like that one?
+Yes, that would work. Can you book it for two people? Also, I need the reference number, please.
+Booking was successful for TR2835, the total fee is 33.2 GBP payable at the station. Your reference number is : 3QZ8CPYE . Can I help with anything else?
+Yes, please - I need a place to stay with free wifi and free parking.
+The acorn guest house fits that criteria. It's located in the north region - would that work for you?
+No, I'd actually prefer to stay on the west side. Do you have anything in the expensive price range? I'd also like free wifi and parking if possible.
+The huntingdon marriott hotel is in the west and in the expensive price range. It also has the free parking and wifi. Can I book a room for you?
+No, I don't need a room. I just need the postcode for that hotel, please.
+modified_conversation
+I need to book a train for 9:30 that departs from cambridge.
+There are lots of trains that fit those criteria. Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday.
+There is a train that leaves at 7:59 and arrives at 9:27. Would like that one?
+Yes, that would work. Can you book it for two people? Also, I need the reference number, please.
+Booking was successful for TR2835, the total fee is 33.2 GBP payable at the station. Your reference number is : 3QZ8CPYE . Can I help with anything else?
+Yes, please - I need a place to stay with free wifi and free parking.
+The acorn guest house fits that criteria. It's located in the north region - would that work for you?
+No, I'd actually prefer to stay on the west side. Do you have anything in the expensive price range? I'd also like free wifi and parking if possible.
+The huntingdon marriott hotel is in the west and in the expensive price range. It also has the free parking and wifi. Can I book a room for you?
+Okay great, have a good day!

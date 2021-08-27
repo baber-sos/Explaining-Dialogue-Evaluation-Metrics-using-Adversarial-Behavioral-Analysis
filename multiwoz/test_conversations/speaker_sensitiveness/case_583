@@ -1,0 +1,10 @@
+original_conversation
+Hi, can you give me some information on train schedules?
+Absolutely! Do you have any particular train stations in mind?
+Yes, the Cambridge station. I would like to leave on Sunday after 10:00 for the Stansted Airport.
+TR2110 Leaves at 10:40 Sunday to Stansted Airport. Will that work?
+modified_conversation
+Hi, can you give me some information on train schedules?
+Absolutely! Do you have any particular train stations in mind?
+Yes, the Cambridge station. I would like to leave on Sunday after 10:00 for the Stansted Airport.
+Yes, the Cambridge station. I would like to leave on Sunday after 10:00 for the Stansted Airport. TR2110 Leaves at 10:40 Sunday to Stansted Airport. Will that work?

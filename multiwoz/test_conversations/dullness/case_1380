@@ -1,0 +1,14 @@
+original_conversation
+Are there trains arriving in Cambridge before 18:45 on Sunday?
+There are many trains that arrive by that time. Where will you be departing from?
+I'm leaving Bishops stortford.
+I have a train arriving at 16:07 and one arriving at 18:07. Would one of those work?
+Can I get the price, travel time, and departure time of the one arriving at 18:07?
+The train arriving in Cambridge at 18:07 departs at 17:29. The price of the of the train ride is 8.08 pounds. Would you like to book a train ticket?
+modified_conversation
+Are there trains arriving in Cambridge before 18:45 on Sunday?
+There are many trains that arrive by that time. Where will you be departing from?
+I'm leaving Bishops stortford.
+I have a train arriving at 16:07 and one arriving at 18:07. Would one of those work?
+Can I get the price, travel time, and departure time of the one arriving at 18:07?
+Nice!

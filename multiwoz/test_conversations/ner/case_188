@@ -1,0 +1,10 @@
+original_conversation
+Can you help me find a train leaving on sunday arriving by 9:00?
+I have 36 trains that match what you are requesting. Where will you be traveling to?
+I'll be heading to Peterborough from Cambridge.
+There are 7 results. What time would you like to leave cambridge?
+modified_conversation
+Can you help me find a train leaving on sunday arriving by 9:00?
+I have 36 trains that match what you are requesting. Where will you be traveling to?
+I'll be heading to Peterborough from Cambridge.
+There are 7 results. What time would you like to leave Cambridge?

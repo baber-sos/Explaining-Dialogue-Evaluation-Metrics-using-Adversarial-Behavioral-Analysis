@@ -1,0 +1,14 @@
+original_conversation
+I need to book a train ticket going to Cambridge any day but has to arrive by 18:30, can you assist me with that?
+I will be glad to help you with that. Where will you be departing from?
+I will be leaving london kings cross on sunday.
+Awesome. Will it be just you that wants to book this?
+Actually, I decided not to book it just now. However, what's the travel time for that route?
+All of the available trains for that day from London Kings Cross to Cambridge have a travel time of 51 minutes.
+modified_conversation
+I need to book a train ticket going to Cambridge any day but has to arrive by 18:30, can you assist me with that?
+I will be glad to help you with that. Where will you be departing from?
+I will be leaving london kings cross on sunday.
+Awesome. Will it be just you that wants to book this?
+Actually, I decided not to book it just now. However, what's the travel time for that route?
+All of the available trains for that day from Prezzo to cambridge have a travel time of 51 minutes.

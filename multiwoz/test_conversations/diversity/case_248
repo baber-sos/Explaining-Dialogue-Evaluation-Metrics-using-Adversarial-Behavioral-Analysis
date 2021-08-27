@@ -1,0 +1,22 @@
+original_conversation
+Hello! I need a train departing Cambridge after 18:30, please .
+What day would you like to travel?
+I would like to leave on Friday and go to Birmingham New Street .
+I have 5 trains departing cambridge on Friday to birmingham new street . The earliest is leaving at 19:01 arriving by 21:44, will this suit you?
+Yes . I'd like 3 tickets on the 19:01 train, please . And can I have the reference number?
+Booking was successful for TR5389, the total fee is 225.3 GBP payable at the station . Your reference number is E9OPMWVM . Do you need further assistance?
+Yes . I would like to know about places to go in the west area of town .
+Well, there are quite a few museums and colleges you can visit in this area . Do you want to pay an entrance fee?
+I would like to go to a concerthall .
+I'm sorry but I don't have any concert halls in the West part of town.
+modified_conversation
+Hello! I need a train departing Cambridge after 18:30, please .
+What day would you like to travel?
+I would like to leave on Friday and go to Birmingham New Street .
+I have 5 trains departing cambridge on Friday to birmingham new street . The earliest is leaving at 19:01 arriving by 21:44, will this suit you?
+Yes . I'd like 3 tickets on the 19:01 train, please . And can I have the reference number?
+Booking was successful for TR5389, the total fee is 225.3 GBP payable at the station . Your reference number is E9OPMWVM . Do you need further assistance?
+Yes . I would like to know about places to go in the west area of town .
+Well, there are quite a few museums and colleges you can visit in this area . Do you want to pay an entrance fee?
+I would like to go to a concerthall .
+one'm sorry but one Don't have any concert halls in the west departing of town.

@@ -1,0 +1,14 @@
+original_conversation
+I need a place to dine in the centre of town, serving eritrean food.
+I cannot find an eritrean restaurant in that area, would you like me to look up another area or cuisine type?
+Can you check another area?
+There are none in town. Is there another type of food you would like?
+Sure, how about British? Moderate prices in the centre is necessary.
+Restaurant one seven is located on DeVere University Arms Regent Street City Centre.
+modified_conversation
+I need a place to dine in the centre of town, serving eritrean food.
+I cannot find an eritrean restaurant in that area, would you like me to look up another area or cuisine type?
+Can you check another area?
+There are none in town. Is there another type of food you would like?
+Sure, how about British? Moderate prices in the centre is necessary.
+Sure, how about British? Moderate prices in the centre is necessary. Restaurant one seven is located on DeVere University Arms Regent Street City Centre.

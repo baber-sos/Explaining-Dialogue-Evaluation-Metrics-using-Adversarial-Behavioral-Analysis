@@ -1,0 +1,24 @@
+original_conversation
+I am looking for a place to stay. The hotel should include free wifi and should include free parking
+There are many results with free wifi and parking, to help narrow it down, what area do you want to stay in?
+north area in a guesthouse
+what star rating?
+It doesn't matter as long as I can book it for 2 people and 2 nights starting Thursday.
+Did you have a price range in mind?
+No, I am not picky.
+Booking was not successful for that night at the acorn guest house, would you like me to try a different place?
+how about wednesday instead?
+Booking was unsuccessful. Would you like to try a different location?
+Yeah try a different place. Anywhere that meets my requirements
+modified_conversation
+I am looking for a place to stay. The hotel should include free wifi and should include free parking
+There are many results with free wifi and parking, to help narrow it down, what area do you want to stay in?
+north area in a guesthouse
+what star rating?
+It doesn't matter as long as I can book it for 2 people and 2 nights starting Thursday.
+Did you have a price range in mind?
+No, I am not picky.
+Booking was not successful for that night at the acorn guest house, would you like me to try a different place?
+how about wednesday instead?
+Booking was unsuccessful. Would you like to try a different location?
+Booking was unsuccessful. Would you like to try a different location? Yeah try a different place. Anywhere that meets my requirements

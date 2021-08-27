@@ -1,0 +1,18 @@
+original_conversation
+I am interested in booking a train to cambridge for next tuesday.
+There are several trains departing for Cambridge on Tuesday. One train departs every hour starting at 06:08
+I would like to depart from birmingham new street after 14:45.
+There are 9 trains that depart from Birmingham new street to Cambridge on Tuesday after 14:45. The earliest is 15:40, does that work?
+Yes, that works! I would like the reference number please.
+How many tickets do you need?
+6 people please.
+Great, your reference number is TYGH2E4A, and the total fee payable at the station is 450.6 GBP.
+modified_conversation
+I am interested in booking a train to cambridge for next tuesday.
+There are several trains departing for Cambridge on Tuesday. One train departs every hour starting at 06:08
+I would like to depart from birmingham new street after 14:45.
+There are 9 trains that depart from Birmingham new street to Cambridge on Tuesday after 14:45. The earliest is 15:40, does that work?
+Yes, that works! I would like the reference number please.
+How many tickets do you need?
+6 people please.
+Great, his reference number is TYGH2E4A, and the total fee payable at the station is 450.6 GBP.

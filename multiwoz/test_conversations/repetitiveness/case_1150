@@ -1,0 +1,20 @@
+original_conversation
+Hello, I am looking for information on a train .
+I can help you with that . Where are you headed?
+I'm headed to Cambridge from the Stansted Airport . Can you find information for Thursday please?
+I found 19 trains what time do you want to leave the airport?
+I need to arrive in Cambridge by 14:45 so I will need to leave in time to get there by then .
+There is a train that leaves at 5:24 .
+That won't work, I need to arrive in Cambridge by 14:45 (2:45pm).
+Since that won't work for you, I can get you on a train that leaves at 13:24 and will arrive by 13:52 . Would you like me to book your seat?
+That would be just fine . I just need the Train ID for now . I also need a place to stay.
+modified_conversation
+Hello, I am looking for information on a train .
+I can help you with that . Where are you headed?
+I'm headed to Cambridge from the Stansted Airport . Can you find information for Thursday please?
+I found 19 trains what time do you want to leave the airport?
+I need to arrive in Cambridge by 14:45 so I will need to leave in time to get there by then .
+There is a train that leaves at 5:24 .
+That won't work, I need to arrive in Cambridge by 14:45 (2:45pm).
+Since that won't work for you, I can get you on a train that leaves at 13:24 and will arrive by 13:52 . Would you like me to book your seat?
+That would be just fine . I just need the Train ID for now now . I also need a place to stay.

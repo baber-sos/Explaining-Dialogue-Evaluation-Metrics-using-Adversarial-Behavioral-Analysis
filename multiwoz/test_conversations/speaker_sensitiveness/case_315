@@ -1,0 +1,18 @@
+original_conversation
+I am looking for a train out of peterborough.
+Sure the first train leaves peterborough friday at 05:19 and will be headed to cambridge 50 minutes after that
+Are there any trains that leave on Thursday?
+I have trains leaving peterborough going to cambridge on thursday at 05:48, 06:19, 07:19, 07:48. Would you like to book a seat at one of those times?
+Is there any that arrive closer to 15:45?
+Yes! TR0904 arrives at 15:38. Would you like tickets on that train?
+Could I have the travel time and departure time for that one? Also I'm looking for a chinese restaurant that is expensive.
+TR0904 leaves at 14:48 and it's a 50 minute ride. We have several expensive Chinese restaurants, I could recommend Ugly Duckling in the city centre. Would you like a reservation?
+modified_conversation
+I am looking for a train out of peterborough.
+Sure the first train leaves peterborough friday at 05:19 and will be headed to cambridge 50 minutes after that
+Are there any trains that leave on Thursday?
+I have trains leaving peterborough going to cambridge on thursday at 05:48, 06:19, 07:19, 07:48. Would you like to book a seat at one of those times?
+Is there any that arrive closer to 15:45?
+Yes! TR0904 arrives at 15:38. Would you like tickets on that train?
+Could I have the travel time and departure time for that one? Also I'm looking for a chinese restaurant that is expensive.
+Could I have the travel time and departure time for that one? Also I'm looking for a chinese restaurant that is expensive. TR0904 leaves at 14:48 and it's a 50 minute ride. We have several expensive Chinese restaurants, I could recommend Ugly Duckling in the city centre. Would you like a reservation?

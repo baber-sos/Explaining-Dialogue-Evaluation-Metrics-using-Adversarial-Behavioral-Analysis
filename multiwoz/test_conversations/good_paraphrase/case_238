@@ -1,0 +1,8 @@
+original_conversation
+I am looking for a train to Cambridge on Saturday.
+certainly, do you know from where you will be departing, and at what time?
+I will depart at Birmingham New Street and should arrive by 11:30. Can you help me with this?
+modified_conversation
+I am looking for a train to Cambridge on Saturday.
+certainly, do you know from where you will be departing, and at what time?
+I will depart from Birmingham New Street and should arrive by 11:30 - can you help me with this?

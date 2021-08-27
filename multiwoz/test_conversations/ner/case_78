@@ -1,0 +1,10 @@
+original_conversation
+I am planning a trip in Cambridge
+great, would you like some information?
+I'm looking to go to Leicester. I want to leave on Sunday and arrive by 21:45.
+Train TR9831 arrives in Leicester at 21:06, will that work for you?
+modified_conversation
+I am planning a trip in Cambridge
+great, would you like some information?
+I'm looking to go to Leicester. I want to leave on Sunday and arrive by 21:45.
+Train TR9831 arrives in cambridge at 21:06, will that work for you?

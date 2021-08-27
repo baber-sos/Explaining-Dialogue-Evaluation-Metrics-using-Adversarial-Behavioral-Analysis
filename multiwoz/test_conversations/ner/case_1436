@@ -1,0 +1,10 @@
+original_conversation
+I need to take a train from cambridge, I need to arrive by 18:30.
+We have quite a few trains that may suit your needs. Do you have a particular day you are traveling?
+Yes, I need to leave Broxbourne on Tuesday.
+Okay, I have one arriving at 6:01, would you like me to book it?
+modified_conversation
+I need to take a train from cambridge, I need to arrive by 18:30.
+We have quite a few trains that may suit your needs. Do you have a particular day you are traveling?
+Yes, I need to leave Broxbourne on Tuesday.
+Okay, I have one arriving at tonight, would you like me to book it?

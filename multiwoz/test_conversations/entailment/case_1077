@@ -1,0 +1,16 @@
+original_conversation
+Hello, I'd like some information on a restaurant today.
+There are 110 restaurants in Cambridge. To help narrow down results, is there a particular type of food you are looking for?
+Let's try international food.
+Sure, do you care if it is cheap or moderately priced?
+Moderately priced in centre. I would like to book a table for 2 at 18:45 on Sunday
+The varsity restaurant may have availability.
+Can you book a table for me?
+modified_conversation
+Hello, I'd like some information on a restaurant today.
+There are 110 restaurants in Cambridge. To help narrow down results, is there a particular type of food you are looking for?
+Let's try international food.
+Sure, do you care if it is cheap or moderately priced?
+Moderately priced in centre. I would like to book a table for 2 at 18:45 on Sunday
+The varsity restaurant may have availability.
+Thank you. I also need information on the lensfield hotel. Can you help me with that?

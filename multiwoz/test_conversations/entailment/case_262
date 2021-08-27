@@ -1,0 +1,10 @@
+original_conversation
+Hi I'm looking for a train to anywhere after 9:00!
+I have 2,240 departures fitting your criteria. Do you have a destination?
+Kings Lynn, leaving on Wednesday.
+There are 15 trains that arrive in Kings Lynn on Wednesday, what time would you like to get there?
+modified_conversation
+Hi I'm looking for a train to anywhere after 9:00!
+I have 2,240 departures fitting your criteria. Do you have a destination?
+Kings Lynn, leaving on Wednesday.
+Sure, the TR2831 departs cambridge at 09:11, and arrives in kings lynn wednesday at 09:58. Shall I book it, if so for how many riders?

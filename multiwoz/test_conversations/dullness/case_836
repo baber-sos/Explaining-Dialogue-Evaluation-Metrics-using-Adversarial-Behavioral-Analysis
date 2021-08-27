@@ -1,0 +1,24 @@
+original_conversation
+I need a train to Cambridge and I need it to leave after 12:45.
+There are 833 trains that meet your needs. Would you like to narrow it down by departure station and/or day of travel?
+I'm leaving from peterborough and need to travel on tuesday.
+That narrows it down to 23 choices. What time were you wishing to arrive?
+Arrival time doesn't matter, it just needs to depart after 12:45. I'll need to book the travel for 8 people. Are there any that can accommodate that many?
+The TR4679 departs at 13:19. Booking was successful for 8 people, the total fee is 132 GBP payable at the station. Reference number is : GVI45XUY .
+Thanks, I'm also looking for a restaurant that serves European food in the expensive price range.
+I have 5 results for european restaurants. Do you have an area preference? I have results in the north, west and town centre.
+I have no preference. I would like to book at a table today at 21:00.
+How about eraina? I can book you a table there if you like.
+That sounds good, can you book it for 8 people on tuesday at 21:00?
+modified_conversation
+I need a train to Cambridge and I need it to leave after 12:45.
+There are 833 trains that meet your needs. Would you like to narrow it down by departure station and/or day of travel?
+I'm leaving from peterborough and need to travel on tuesday.
+That narrows it down to 23 choices. What time were you wishing to arrive?
+Arrival time doesn't matter, it just needs to depart after 12:45. I'll need to book the travel for 8 people. Are there any that can accommodate that many?
+The TR4679 departs at 13:19. Booking was successful for 8 people, the total fee is 132 GBP payable at the station. Reference number is : GVI45XUY .
+Thanks, I'm also looking for a restaurant that serves European food in the expensive price range.
+I have 5 results for european restaurants. Do you have an area preference? I have results in the north, west and town centre.
+I have no preference. I would like to book at a table today at 21:00.
+How about eraina? I can book you a table there if you like.
+I don't know what you mean by that.

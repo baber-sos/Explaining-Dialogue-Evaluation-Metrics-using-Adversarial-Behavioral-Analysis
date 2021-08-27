@@ -1,0 +1,32 @@
+original_conversation
+Hi, I need a train on Sunday leaving peterborough.
+I have 38 trains leaving peterborough on sunday. Where are you headed?
+I am hoping to arrive in cambridge by 12:30.
+I have 13 trains meeting your criteria. The first leaves at 05:19 and leave every 30 minutes after. Can I book one of them for you?
+What is the one with the shortest travel time?
+All the trains take exactly 50 minutes. What time would you like to depart?
+Hm, I'll take any train that will let me arrive by or before 12:30.
+Booking was successful. Departs at 11:19 and arrives at 12:09, that will be 13.2 GBP payable at the station, your reference number is QS1AJEL1. Anything else I can help you with?
+I need a hotel, one with free parking.
+There are a lot of possibilities here but none indicate free parking, just whether they have parking or not. Could you list places with free parking?
+I need an expensive hotel that includes free parking.
+Express by Holiday Inn Cambridge is an expensive hotel located in the east, and it includes parking. Would you like me to book a stay there for you?
+I want to book this hotel for the same group of people and 3 nights starting from Sunday. I'll need a reference number please.
+Your reservation is confirmed and the reference number is ##
+I'm sorry? Were you able to book the Express by Holiday Inn for 4 people?
+modified_conversation
+Hi, I need a train on Sunday leaving peterborough.
+I have 38 trains leaving peterborough on sunday. Where are you headed?
+I am hoping to arrive in cambridge by 12:30.
+I have 13 trains meeting your criteria. The first leaves at 05:19 and leave every 30 minutes after. Can I book one of them for you?
+What is the one with the shortest travel time?
+All the trains take exactly 50 minutes. What time would you like to depart?
+Hm, I'll take any train that will let me arrive by or before 12:30.
+Booking was successful. Departs at 11:19 and arrives at 12:09, that will be 13.2 GBP payable at the station, your reference number is QS1AJEL1. Anything else I can help you with?
+I need a hotel, one with free parking.
+There are a lot of possibilities here but none indicate free parking, just whether they have parking or not. Could you list places with free parking?
+I need an expensive hotel that includes free parking.
+Express by Holiday Inn Cambridge is an expensive hotel located in the east, and it includes parking. Would you like me to book a stay there for you?
+I want to book this hotel for the same group of people and 3 nights starting from Sunday. I'll need a reference number please.
+Your reservation is confirmed and the reference number is ##
+I'm sorry? Were me able to book the Express by Holiday Inn for 4 people?

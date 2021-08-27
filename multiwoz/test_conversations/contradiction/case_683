@@ -1,0 +1,14 @@
+original_conversation
+I am planning a trip in Cambridge
+Great! I can help you with any tourist information you may need.
+I am sorry, I meant a trip into Kings Lynn. I am coming from Cambridge and looking for a train.
+Ok, just tell me what day and time and I will be able to tell you what is available.
+I'm leaving on Tuesday. I'd like to leave after 19:45.
+TR9926 leaves at 20:11 and costs 20:11. how many tickets do i book?
+modified_conversation
+I am planning a trip in Cambridge
+Great! I can help you with any tourist information you may need.
+I am sorry, I meant a trip into Kings Lynn. I am coming from Cambridge and looking for a train.
+Ok, just tell me what day and time and I will be able to tell you what is available.
+I'm leaving on Tuesday. I'd like to leave after 19:45.
+Ok, just  do not tell me what day and time and I will be able to tell you what is available.

@@ -1,0 +1,20 @@
+original_conversation
+I am looking for information in Cambridge.
+What can I help you with?
+I would like info on train travel.
+What day would you like to travel? Where are you departing and arriving to?
+I'd like to leave on Saturday. Any train is fine. I'll just need the departure time and price.
+Where are you leaving from and where are you going to?
+The train should arrive by 11:45 in Cambridge. I am leaving on Saturday from Birmingham New Street on Saturday. Also need places to go in the east side of town.
+I have a train departing Birmingham New Street on Saturday at 22:40 and arriving in Cambridge at 1:23. Tickets are 60.08 pounds, would you like to book this train?
+Yes, please book me.
+modified_conversation
+I am looking for information in Cambridge.
+What can I help you with?
+I would like info on train travel.
+What day would you like to travel? Where are you departing and arriving to?
+I'd like to leave on Saturday. Any train is fine. I'll just need the departure time and price.
+Where are you leaving from and where are you going to?
+The train should arrive by 11:45 in Cambridge. I am leaving on Saturday from Birmingham New Street on Saturday. Also need places to go in the east side of town.
+I have a train departing Birmingham New Street on Saturday at 22:40 and arriving in Cambridge at 1:23. Tickets are 60.08 pounds, would you like to book this train?
+Yes, please reserve me.

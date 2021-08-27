@@ -1,0 +1,22 @@
+original_conversation
+I need a train leaving after 17:00 and heading the birmingham new street.
+OK, and what day would you like to leave?
+I'd like to leave on Thursday.
+There are no trains leaving at that time.
+I am going to have to ask you to check again, after 17:00 please.
+Where are you leaving from?
+i'm leaving from cambridge
+I have one leaving at 17:01. Would you like me to make a booking for you?
+Yes. Please book for 5 people.
+I was able to book you on trainTR1765. The Reference number is : MPP4HO3A .
+modified_conversation
+I need a train leaving after 17:00 and heading the birmingham new street.
+OK, and what day would you like to leave?
+I'd like to leave on Thursday.
+There are no trains leaving at that time.
+I am going to have to ask you to check again, after 17:00 please.
+Where are you leaving from?
+i'm leaving from cambridge
+I have one leaving at 17:01. Would you like me to make a booking for you?
+Yes. Please book for 5 people.
+he was able to book she on trainTR1765. The Reference number is : MPP4HO3A .

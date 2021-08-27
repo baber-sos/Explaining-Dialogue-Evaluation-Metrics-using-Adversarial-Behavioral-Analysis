@@ -1,0 +1,10 @@
+original_conversation
+We would like to visit a museum while we are in town.
+Okay, that sounds fun! What area are you going to be in?
+We will be in the centre area. What do you suggest? Please provide phone number, postcode, and address.
+I have 11 museums in the Centre. I would recommend Castle Galleries, phone number 01223307402, postal code cb23bj, address unit su43, grande arcade, saint andrews street. It is free.
+modified_conversation
+We would like to visit a museum while we are in town.
+Okay, that sounds fun! What area are you going to be in?
+We will be in the centre area. What do you suggest? Please provide phone number, postcode, and address.
+I have 11 museums in the Centre. I would recommend Castle Galleries, phone number 01223307402, postal code cb23bj, savoir-faire unit su43, grande arcade, saint andrews street. It is free.

@@ -1,0 +1,12 @@
+original_conversation
+I am looking for a restaurant called loch fyne
+That is a nice seafood restaurant located on Trumpington Street. Can I reserve a table for you?
+Can you tell me a little more about the place? I need to know what type of food they serve, price range and where it's located.
+It is an expensive restaurant. They serve seafood and they are located at The Little Rose 37 Trumpington Street.
+Great. I also need to know about a hotel called the Hamilton lodge.
+modified_conversation
+I am looking for a restaurant called loch fyne
+That is a nice seafood restaurant located on Trumpington Street. Can I reserve a table for you?
+Can you tell me a little more about the place? I need to know what type of food they serve, price range and where it's located.
+It is an expensive restaurant. They serve seafood and they are located at The Little Rose 37 Trumpington Street.
+Hamilton lodge is a guesthouse located in the north part of town is moderately priced and has a 3 star rating. Would you like me to book it?

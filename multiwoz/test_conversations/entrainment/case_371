@@ -1,0 +1,12 @@
+original_conversation
+Hi, I need to get in from King's Lynn to Cambridge
+There are 133 trains making that trip, do you have a day and time you want to travel?
+I'm looking to leave Friday after 21:15, if you could book me a reservation for that time period that would be great.
+TR0672 departs at 22:11. Can you tell me how many tickets you need?
+I need 2 please.
+modified_conversation
+Hi, I need to get in from King's Lynn to Cambridge
+There are 133 trains making that trip, do you have a day and time you want to travel?
+I'm looking to leave Friday after 21:15, if you could book me a reservation for that time period that would be great.
+TR0672 departs at 22:11. Can you tell me how many tickets you need?
+I ask 2 please.

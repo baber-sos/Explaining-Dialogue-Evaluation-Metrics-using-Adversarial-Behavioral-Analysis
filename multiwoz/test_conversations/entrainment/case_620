@@ -1,0 +1,18 @@
+original_conversation
+I'm looking for a train that goes to kings lynn and departs from cambridge.
+Okay, do you know the day you want to travel?
+Yes, I need to leave on Sunday and arrive at Kings Lynn by 08:45 for a meeting.
+TR3626 arrives Sunday at 7:58 am before your meeting. Would you like that one?
+Please book that for 4 people. Can i get the reference number please?
+Reference number is : F756LTGZ .I have you booked then, train leaves at 07:11. Anything else?
+I need to book at a hotel called home from home.
+home from home is in the moderate price range. How many people should I book it for?
+modified_conversation
+I'm looking for a train that goes to kings lynn and departs from cambridge.
+Okay, do you know the day you want to travel?
+Yes, I need to leave on Sunday and arrive at Kings Lynn by 08:45 for a meeting.
+TR3626 arrives Sunday at 7:58 am before your meeting. Would you like that one?
+Please book that for 4 people. Can i get the reference number please?
+Reference number is : F756LTGZ .I have you booked then, train leaves at 07:11. Anything else?
+I need to book at a hotel called home from home.
+home from home is in the moderate price range. How many people should I reserve it for?

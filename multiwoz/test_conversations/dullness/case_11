@@ -1,0 +1,20 @@
+original_conversation
+Do you have any trains leaving after 09:45 on Sunday?
+Definitely! What are your departure and arrival stations?
+I'm travelling from London Liverpool Street to Cambridge.
+Train TR9835 leaves earliest, that is at 11:39. Do you want tickets for that?
+Yes, I need 5 tickets.
+Booking was successful, the total fee is 66.39 GBP payable at the station . Reference number is : YQXHM46F .
+Thanks. I also need a moderately priced italian restaurant please.
+Okay, there are five options available. Would you like to narrow it down by the area?
+No thank you. Please, just pick one. I'll need a table for 5 people on Sunday at 12:30.
+modified_conversation
+Do you have any trains leaving after 09:45 on Sunday?
+Definitely! What are your departure and arrival stations?
+I'm travelling from London Liverpool Street to Cambridge.
+Train TR9835 leaves earliest, that is at 11:39. Do you want tickets for that?
+Yes, I need 5 tickets.
+Booking was successful, the total fee is 66.39 GBP payable at the station . Reference number is : YQXHM46F .
+Thanks. I also need a moderately priced italian restaurant please.
+Okay, there are five options available. Would you like to narrow it down by the area?
+I don't know what you mean by that.

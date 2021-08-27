@@ -1,0 +1,8 @@
+original_conversation
+Hi, I need a train that departs from bishops stortford and leaves on monday.
+I have 10 trains available. What is your destination and preferred departure and arrival times?
+My destination is cambridge and needs to arrive by 15:00.
+modified_conversation
+Hi, I need a train that departs from bishops stortford and leaves on monday.
+I have 10 trains available. What is your destination and preferred departure and arrival times?
+My destination is 7 and needs to arrive by 15:00.

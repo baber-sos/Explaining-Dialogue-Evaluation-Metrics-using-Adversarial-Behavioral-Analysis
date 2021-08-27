@@ -1,0 +1,26 @@
+original_conversation
+What are some expensive restaurant reccomendations in the north part of town?
+I have 5 restaurants that fit those criteria. Saigon city, Hakka, the hotspot, city stop restaurant and restaurant two two. Which would you like a booking for?
+Please book Saigon city for 3 people at 17:00 on Wednesday.
+You're all ready to go! Your reference number is I9CAGD11 . Can I help you with anything else?
+Yes please. I am also looking to book a train to Broxbourne on Thursday. Can you help me with that?
+Yes. There are 19 trains that depart to broxbourne on Thursday. Do you have a specific departure or arrival time?
+I just need to get there by 13:30.
+TR3006 arrives in Broxbourne on Thursday at 13:01. Will that work?
+Yes, that could do. I need the trainID and ticket price, please.
+The travel time for TR3006 is 60 minutes. The price is 17.90 GBP per ticket.
+Ok great, that is everything I needed to know. Thank you for your help!
+Are you certain you do not need further assistance?
+modified_conversation
+What are some expensive restaurant reccomendations in the north part of town?
+I have 5 restaurants that fit those criteria. Saigon city, Hakka, the hotspot, city stop restaurant and restaurant two two. Which would you like a booking for?
+Please book Saigon city for 3 people at 17:00 on Wednesday.
+You're all ready to go! Your reference number is I9CAGD11 . Can I help you with anything else?
+Yes please. I am also looking to book a train to Broxbourne on Thursday. Can you help me with that?
+Yes. There are 19 trains that depart to broxbourne on Thursday. Do you have a specific departure or arrival time?
+I just need to get there by 13:30.
+TR3006 arrives in Broxbourne on Thursday at 13:01. Will that work?
+Yes, that could do. I need the trainID and ticket price, please.
+The travel time for TR3006 is 60 minutes. The price is 17.90 GBP per ticket.
+Ok great, that is everything I needed to know. Thank you for your help!
+The travel time for TR3006 is 60 minutes. The price is 17.90 GBP per ticket.

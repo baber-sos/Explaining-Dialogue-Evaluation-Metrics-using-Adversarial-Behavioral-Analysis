@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for a train arriving at 13:30, departing from cambridge.
+On what day will you be travelling?
+I need to leave Sunday to go to Ely.
+TR1159 will arrive by 12:07 would that work for you?
+Yes can I get a ticket for 8 people please
+modified_conversation
+I'm looking for a train arriving at 13:30, departing from cambridge.
+On what day will you be travelling?
+I need to leave Sunday to go to Ely.
+TR1159 will arrive by 12:07 would that work for you?
+I need to leave Sunday to go to Ely.

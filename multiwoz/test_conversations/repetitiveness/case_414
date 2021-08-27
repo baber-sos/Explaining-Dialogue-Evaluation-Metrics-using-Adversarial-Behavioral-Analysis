@@ -1,0 +1,18 @@
+original_conversation
+Hi, can you help me find a train from Cambridge to Birmingham New Street?
+Sure I can help you get tickets, any particular day and time that you had in mind?
+Yes . I want to leave on Tuesday, after 9:15 .
+TR4567 will leave at 10:01, would that work for you?
+Thank you that will work fine for me and my husband
+Would you like me to book 2 tickets for you on TR4567?
+The booking will be for only one person, and can I please have a reference number as well?
+Yes . The booking was successful, the total fee is 75.09 GBP payable at the station . Reference number is: DZJ8VE7A.
+modified_conversation
+Hi, can you help me find a train from Cambridge to Birmingham New Street?
+Sure I can help you get tickets, any particular day and time that you had in mind?
+Yes . I want to leave on Tuesday, after 9:15 .
+TR4567 will leave at 10:01, would that work for you?
+Thank you that will work fine for me and my husband
+Would you like me to book 2 tickets for you on TR4567?
+The booking will be for only one person, and can I please have a reference number as well?
+Yes . The booking was successful, the total fee is 75.09 GBP payable at the station . Reference number is is is is is: DZJ8VE7A.

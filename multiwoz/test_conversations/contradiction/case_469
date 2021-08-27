@@ -1,0 +1,36 @@
+original_conversation
+Hello, I am looking for a restaurant in the town centre that serves British food.
+There are 7 restaurants in the centre of town that serves British food. Is there any particular price range you are looking for?
+Yes, I'm looking for a moderately priced restaurant with British food.
+I can recommend Restaurant One Seven. Would you like to book a table with them?
+Sure. I will be booking 3 people at 17:45 on Wednesday. Could i also get the reference number, please?
+Your reservation is complete for a party of 3 at 17:45 at a British Restaurant One Seven in centre, and your confirmation # is VLJLK60E .
+I also need a hotel in the same price range as the restaurant.
+There are 18 hotels in the Moderate price range, would you like me to narrow these down by searching other amenities or location?
+I would like something that is 2 stars and includes free parking.
+I have 2 options with those specifications. The Ashley Hotel and the Lovell Lodge both with free wifi and parking. Which would you prefer?
+Could you book a room for 2 people, 2 nights on Wednesday at the Ashley, please?
+Book was unsuccessful. Would you like to try the lovell lodge?
+Sure, lets try that instead.
+I was unable to book the Lovell Lodge for you on Wednesday. Do you want to try a different day or a shorter stay?
+Can you try the Lovell Lodge for the Wednesday, please?
+I am sorry. Lovell Lodge still has no bookings available for wednesday. Would you like to try a different hotel?
+Yes, I need a 2 star hotel for 3 people for 2 nights on Wednesday, moderately priced, with free parking.
+modified_conversation
+Hello, I am looking for a restaurant in the town centre that serves British food.
+There are 7 restaurants in the centre of town that serves British food. Is there any particular price range you are looking for?
+Yes, I'm looking for a moderately priced restaurant with British food.
+I can recommend Restaurant One Seven. Would you like to book a table with them?
+Sure. I will be booking 3 people at 17:45 on Wednesday. Could i also get the reference number, please?
+Your reservation is complete for a party of 3 at 17:45 at a British Restaurant One Seven in centre, and your confirmation # is VLJLK60E .
+I also need a hotel in the same price range as the restaurant.
+There are 18 hotels in the Moderate price range, would you like me to narrow these down by searching other amenities or location?
+I would like something that is 2 stars and includes free parking.
+I have 2 options with those specifications. The Ashley Hotel and the Lovell Lodge both with free wifi and parking. Which would you prefer?
+Could you book a room for 2 people, 2 nights on Wednesday at the Ashley, please?
+Book was unsuccessful. Would you like to try the lovell lodge?
+Sure, lets try that instead.
+I was unable to book the Lovell Lodge for you on Wednesday. Do you want to try a different day or a shorter stay?
+Can you try the Lovell Lodge for the Wednesday, please?
+I am sorry. Lovell Lodge still has no bookings available for wednesday. Would you like to try a different hotel?
+Yes, I need a 2 star hotel for 3 people for 2 nights on Thursday, moderately priced, with free parking.

@@ -1,0 +1,20 @@
+original_conversation
+Find me a train to kings lynn that arrives by 20:15.
+The TR3112 arrives at 05:58. Will that work?
+Is it on Saturday?
+I'd suggest TR7604, it departs at 19:11 on saturday and arrives by 19:58. Would you like a ticket?
+Yes, I definitely would. Can I please have the confirmation number as well?
+How many people will be traveling?
+No, that's ok. No need to book it, but can you tell me the price of the ticket?
+The price per ticket on the TR7604 is 7.84 pounds. Can I assist you further today?
+I want to book a room at the el shaddai for 4 people 4 nights starting tuesday
+modified_conversation
+Find me a train to kings lynn that arrives by 20:15.
+The TR3112 arrives at 05:58. Will that work?
+Is it on Saturday?
+I'd suggest TR7604, it departs at 19:11 on saturday and arrives by 19:58. Would you like a ticket?
+Yes, I definitely would. Can I please have the confirmation number as well?
+How many people will be traveling?
+No, that's ok. No need to book it, but can you tell me the price of the ticket?
+The price per ticket on the TR7604 is 7.84 pounds. Can I assist you further today?
+The price per ticket on the TR7604 is 7.84 pounds. Can I assist you further today? I want to book a room at the el shaddai for 4 people 4 nights starting tuesday

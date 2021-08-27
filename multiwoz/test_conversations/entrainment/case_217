@@ -1,0 +1,14 @@
+original_conversation
+I need to find a restaurant in the centre.
+Do you prefer a particular type of food or are you looking at a specific price range?
+I would like British food. I have no preference of price range.
+There are 7 restaurants which meet your needs. The Copper Kettle is located at 4 Kings Parade and serves moderate priced meals. would you like to make reservations?
+Yes I need a table for 6 Monday at 18:15.
+Your table for 6 is reserved for Monday at 18:15 and they'll hold your table for 15 minutes. Your reference number is T67ZV5US . Can I help you with anything else today?
+modified_conversation
+I need to find a restaurant in the centre.
+Do you prefer a particular type of food or are you looking at a specific price range?
+I would like British food. I have no preference of price range.
+There are 7 restaurants which meet your needs. The Copper Kettle is located at 4 Kings Parade and serves moderate priced meals. would you like to make reservations?
+Yes I need a table for 6 Monday at 18:15.
+Your table for 6 is reserved for Mon at 18:15 and they'll hold your table for 15 minutes. Your reference number is T67ZV5US . Can I help you with anything else today?

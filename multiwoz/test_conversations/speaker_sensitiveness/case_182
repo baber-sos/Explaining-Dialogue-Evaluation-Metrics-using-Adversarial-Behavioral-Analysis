@@ -1,0 +1,20 @@
+original_conversation
+Is there a restaurant that serves italian food in the expensive price bracket?
+Yes, there are 5 such places. 4 are in the centre and 1 is in the south. Would you like to book at one?
+Absolutely! Thank you!
+Which area of town would you prefer?
+How about the center?
+Great, how about don pasquale pizzeria? May I book this for you?
+That sounds good. No I don't need a reservation, but could you tell me the postcode?
+Certainly, the postcode for don pasquale pizzeria is cb23nj. Would you like any other information?
+No thanks. That will do it for me. Have a good day.
+modified_conversation
+Is there a restaurant that serves italian food in the expensive price bracket?
+Yes, there are 5 such places. 4 are in the centre and 1 is in the south. Would you like to book at one?
+Absolutely! Thank you!
+Which area of town would you prefer?
+How about the center?
+Great, how about don pasquale pizzeria? May I book this for you?
+That sounds good. No I don't need a reservation, but could you tell me the postcode?
+Certainly, the postcode for don pasquale pizzeria is cb23nj. Would you like any other information?
+Certainly, the postcode for don pasquale pizzeria is cb23nj. Would you like any other information? No thanks. That will do it for me. Have a good day.

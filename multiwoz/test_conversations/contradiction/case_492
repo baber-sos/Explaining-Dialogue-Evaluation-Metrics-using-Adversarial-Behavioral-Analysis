@@ -1,0 +1,24 @@
+original_conversation
+I'm looking for a restaurant called the varsity restaurant.
+I've located the Varsity restaurant, would you like me to make reservations there for you?
+Yes please. I need a table for 7 people at 11:30 on Wednesday.
+I have booked you a table. the Reference number is : B19Y67KT.
+I'm also looking for a train to London Liverpool Street arriving by 20:30.
+What day would you like to go and where will you be departing from?
+The train should depart from Cambridge and should leave on Thursday.
+Train TR6332 leaves for London Liverpool street on thursday 17: 59 and arrives at 19:27. can i book it for you?
+Yes. Please book a seat on train TR6332 for me.
+Ok, I have successfully booked a seat on TR6332. The cost will be 16.6 GBP and your reference number is QQ53PXEI .
+I'm sorry, I said I needed a seat for me, but I actually need 7 seats total. My friends would not be happy if I stranded them.
+modified_conversation
+I'm looking for a restaurant called the varsity restaurant.
+I've located the Varsity restaurant, would you like me to make reservations there for you?
+Yes please. I need a table for 7 people at 11:30 on Wednesday.
+I have booked you a table. the Reference number is : B19Y67KT.
+I'm also looking for a train to London Liverpool Street arriving by 20:30.
+What day would you like to go and where will you be departing from?
+The train should depart from Cambridge and should leave on Thursday.
+Train TR6332 leaves for London Liverpool street on thursday 17: 59 and arrives at 19:27. can i book it for you?
+Yes. Please book a seat on train TR6332 for me.
+Ok, I have successfully booked a seat on TR6332. The cost will be 16.6 GBP and your reference number is QQ53PXEI .
+I'm sorry, I said I needed a seat for me, but I actually need 2 three seats total. My friends would not be happy if I stranded them.

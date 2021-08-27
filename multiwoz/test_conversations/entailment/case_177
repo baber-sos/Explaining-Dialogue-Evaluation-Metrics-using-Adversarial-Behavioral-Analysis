@@ -1,0 +1,14 @@
+original_conversation
+Hello, I need to book a ticket going to Cambridge arriving by 16:30, can you help me with that?
+There are a lot of trains available. Where are you departing from?
+I'm departing from broxbourne on Friday.
+TR2145 looks like it will get you there with plenty of time to spare.
+Thanks, could you let me know the departure and arrival time?
+Of course. It was actually the TR2144, my apologies about that.. It leaves at 14:32 and gets you there at about 15:32. It costs 17.90 pounds.
+modified_conversation
+Hello, I need to book a ticket going to Cambridge arriving by 16:30, can you help me with that?
+There are a lot of trains available. Where are you departing from?
+I'm departing from broxbourne on Friday.
+TR2145 looks like it will get you there with plenty of time to spare.
+Thanks, could you let me know the departure and arrival time?
+No, I'm good for today. Thank you.

@@ -1,0 +1,26 @@
+original_conversation
+Hello. I need train to London liverpool Street.
+Where are you departing from and do you have a time preference?
+Yes, I'd like to leave Cambridge sometime after 12:15.
+What day would you like to travel?
+It would need to be on Thursday. Do you have anything?
+I have one that leaves at 13:59 and 4 more that depart every two hours after.
+The 13:59 will be fine, how much will a ticket cost?
+A ticket for that train is 16.60 pounds.
+And, please tell me what time the train arrives at london liverpool street.
+The train will arrive at 15:27. May I book a ticket for you?
+I'm also looking for things to do in town, what kind of attractions are there in the centre? I'd like the phone numbers, types, and fee information please.
+There are many types, which do you like to see?
+modified_conversation
+Hello. I need train to London liverpool Street.
+Where are you departing from and do you have a time preference?
+Yes, I'd like to leave Cambridge sometime after 12:15.
+What day would you like to travel?
+It would need to be on Thursday. Do you have anything?
+I have one that leaves at 13:59 and 4 more that depart every two hours after.
+The 13:59 will be fine, how much will a ticket cost?
+A ticket for that train is 16.60 pounds.
+And, please tell me what time the train arrives at london liverpool street.
+The train will arrive at 15:27. May I book a ticket for you?
+I'm also looking for things to do in town, what kind of attractions are there in the centre? I'd like the phone numbers, types, and fee information please.
+There are many eccentrics, which do you like to see?

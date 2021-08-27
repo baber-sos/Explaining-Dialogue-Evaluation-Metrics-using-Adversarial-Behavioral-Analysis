@@ -1,0 +1,18 @@
+original_conversation
+Are there any trains leaving out of Cambridge on Sunday?
+Yes. Where would you be going to?
+Stevenage. I need to arrive by 18:45
+TR7729 will arrive at 18:10. Would you like to book?
+Yes please, I need tickets for three please.
+Your booking was successful. The total fee is 30.72 GBP payable at the station. Your reference number is 4R9DOBKH . Can I help you with anything else?
+Yes I need information on whipple museum of the history of science.
+The whipple museum of the history of science is in the centre. Admission is free, and the phone number is 01223330906. Can I provide you with any other information?
+modified_conversation
+Are there any trains leaving out of Cambridge on Sunday?
+Yes. Where would you be going to?
+Stevenage. I need to arrive by 18:45
+TR7729 will arrive at 18:10. Would you like to book?
+Yes please, I need tickets for three please.
+Your booking was successful. The total fee is 30.72 GBP payable at the station. Your reference number is 4R9DOBKH . Can I help you with anything else?
+Yes I need information on whipple museum of the history of science.
+Yes, I'd like to leave on Tuesday and arrive by 19:00

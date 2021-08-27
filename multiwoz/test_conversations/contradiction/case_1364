@@ -1,0 +1,14 @@
+original_conversation
+Hi can you help me find a very nice italian restaurant near the centre of cambridge?
+Please specify your price range.
+It does not matter.
+zizzi cambridge serves italian in the centre.
+Can I have the address, phone number, and postcode?
+Certainly. The address is 47-53 Regent Street with the postcode of cb21ab. Their phone number is 01223365599. Is there anything else?
+modified_conversation
+Hi can you help me find a very nice italian restaurant near the centre of cambridge?
+Please specify your price range.
+It does not matter.
+zizzi cambridge serves italian in the centre.
+Can I have the address, phone number, and postcode?
+zizzi cambridge  does not serve italian in the centre.

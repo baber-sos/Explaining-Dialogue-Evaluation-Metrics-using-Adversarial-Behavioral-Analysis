@@ -1,0 +1,10 @@
+original_conversation
+What train do I take to get to Birmingham New Street? I need to leave after 17:00.
+There are trains departing hourly at 1 minute past the hour from 17:01 until 23:01. All are 75.10 pounds, and take 163 minutes.
+I am looking to travel on Monday. The first train at 17:01 would be fine. Can I get that train info?
+Sure the trainID is TR7728. It leaves at 17:01 and arrives at 19:44. Would you like to make a reservation?
+modified_conversation
+What train do I take to get to Birmingham New Street? I need to leave after 17:00.
+There are trains departing hourly at 1 minute past the hour from 17:01 until 23:01. All are 75.10 pounds, and take 163 minutes.
+I am looking to travel on Monday. The first train at 17:01 would be fine. Can I get that train info?
+There are not trains departing hourly at 1 minute past the hour from 17:01 until 23:01. All are 75.10 pounds, and take 163 minutes.

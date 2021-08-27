@@ -1,0 +1,18 @@
+original_conversation
+Great, I sure hope so. I need a restaurant.
+I can help you with that. There are over 100 restaurants in Cambridge. Are you in the mood for a particular food? Or would you like a certain area?
+Yes, I would like an expensive restaurant that serves Indian food.
+Sure, there are 14 expensive Indian restaurants. Do you have an area in mind?
+I don't care about the about the area. I need a table for four.
+What day and time would you like your reservation?
+I'd like Sunday at 18:15, please.
+I'm sorry, there are no available table on Sunday for 4 at 18:15. Would you like to book another day or time slot?
+modified_conversation
+Great, I sure hope so. I need a restaurant.
+I can help you with that. There are over 100 restaurants in Cambridge. Are you in the mood for a particular food? Or would you like a certain area?
+Yes, I would like an expensive restaurant that serves Indian food.
+Sure, there are 14 expensive Indian restaurants. Do you have an area in mind?
+I don't care about the about the area. I need a table for four.
+What day and time would you like your reservation?
+I'd like Sunday at 18:15, please.
+I'm sorry, there are no available table on Sunday for 4 at 18:15. Would she like to book another day or time slot?

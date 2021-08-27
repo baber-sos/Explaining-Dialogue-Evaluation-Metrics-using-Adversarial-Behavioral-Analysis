@@ -1,0 +1,30 @@
+original_conversation
+Are there trains to Cambridge on Sunday?
+There are 202 trains that match your trip. Do you have a specific departure city?
+leaving cambridge on sunday
+Okay, where would you like to go?
+I would like to go from Ely to Cambridge and arrive by 8:00.
+There are two trains departing Ely at 5:35 and 7:35 that will arrive in Cambridge by 8:00. Would you like to book either train?
+I would like to book the 7:35 please, also give me the train ID? And will I be close to Yu Garden?
+Train id is TR1037. It will be in the same city, yes. Anything else?
+I am also looking for a restaurant called yu garden, I need you to book it foe 2 peopleat 13:30 for Sunday.I need the reference number please.thank you
+I was able to reserve it, reference number is CXECKIOH .
+I'm also looking for a restaurant.
+Are you looking for one in addition to the one we just made a reservation at?
+No i'm sorry, I was mistaken, thank you, that is all
+Have a good day!
+modified_conversation
+Are there trains to Cambridge on Sunday?
+There are 202 trains that match your trip. Do you have a specific departure city?
+leaving cambridge on sunday
+Okay, where would you like to go?
+I would like to go from Ely to Cambridge and arrive by 8:00.
+There are two trains departing Ely at 5:35 and 7:35 that will arrive in Cambridge by 8:00. Would you like to book either train?
+I would like to book the 7:35 please, also give me the train ID? And will I be close to Yu Garden?
+Train id is TR1037. It will be in the same city, yes. Anything else?
+I am also looking for a restaurant called yu garden, I need you to book it foe 2 peopleat 13:30 for Sunday.I need the reference number please.thank you
+I was able to reserve it, reference number is CXECKIOH .
+I'm also looking for a restaurant.
+Are you looking for one in addition to the one we just made a reservation at?
+No i'm sorry, I was mistaken, thank you, that is all
+Where will you leave from?

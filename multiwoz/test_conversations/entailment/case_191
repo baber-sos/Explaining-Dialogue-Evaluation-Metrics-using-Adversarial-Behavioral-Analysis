@@ -1,0 +1,14 @@
+original_conversation
+Hi, I'm looking for restaurants in the area that serve British cuisine. Could you give me some suggestions?
+There are many Indian restaurants in the city. Could you tell me in what area you would like to eat?
+Is there something available in the west?
+Yes, there are 3. Would you like something in the moderate or expensive price range?
+I don't care about the price range. However, I need to confirm that the restaurant serves British food and is in the centre of town.
+The Restaurant One Seven meets your specifications of british food in the centre of town. Would you like me to book that for you?
+modified_conversation
+Hi, I'm looking for restaurants in the area that serve British cuisine. Could you give me some suggestions?
+There are many Indian restaurants in the city. Could you tell me in what area you would like to eat?
+Is there something available in the west?
+Yes, there are 3. Would you like something in the moderate or expensive price range?
+I don't care about the price range. However, I need to confirm that the restaurant serves British food and is in the centre of town.
+I am also looking for place to visit in the same area as the restaurant.

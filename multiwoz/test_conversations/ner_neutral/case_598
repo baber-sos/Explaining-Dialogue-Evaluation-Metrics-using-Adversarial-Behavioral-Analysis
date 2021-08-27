@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for a restaurant that serves chinese food in the centre of town.
+How about the Jinling Noodle Bar. I can reserve a table for you.
+Is it expensive? I would like the restaurant to be expensive.
+It is not, but the Ugly Duckling is. Would you like more information on that restaurant?
+Please book a table for 7 at Ugly Duckling.
+modified_conversation
+I'm looking for a restaurant that serves chinese food in the centre of town.
+How about the Jinling Noodle Bar. I can reserve a table for you.
+Is it expensive? I would like the restaurant to be expensive.
+It is not, but the Ugly Duckling is. Would you like more information on that restaurant?
+Please book a table for 7 at the Ugly Duckling.

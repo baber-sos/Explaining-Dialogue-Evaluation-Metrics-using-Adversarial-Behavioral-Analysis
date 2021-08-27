@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for information about People's portraits exhibition at girton college
+It is a museum located in the west. Do you need more information?
+Could I have the phone number please?
+Absolutely! It's 01223338901. Is there anything else I can do for you?
+I'm also looking for a train departing from cambridge.
+Can you please give me the destination and the day and time you'd like to leave?
+Yes, I'm going to Birmingham new street. It's on Thursday and I'd like to arrive by 15:30.
+modified_conversation
+I'm looking for information about People's portraits exhibition at girton college
+It is a museum located in the west. Do you need more information?
+Could I have the phone number please?
+Absolutely! It's 01223338901. Is there anything else I can do for you?
+I'm also looking for a train departing from cambridge.
+Can you please give me the destination and the day and time you'd like to leave?
+I'm not also looking for a train departing from cambridge.

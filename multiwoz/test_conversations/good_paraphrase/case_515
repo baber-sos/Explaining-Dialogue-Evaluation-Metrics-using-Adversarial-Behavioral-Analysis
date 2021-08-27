@@ -1,0 +1,22 @@
+original_conversation
+I am planning a trip and need help with a particular hotel.
+Do you have the hotel name ?
+carolina bed and breakfast, please. I want to book it.
+Great. What nights will you be staying?
+I will be coming in on Saturday for 4 nights with 5 guests.
+Booking was successful. Reference number is : DCV1BNPM . Is there anything else I can help with?
+Can you suggest any places to go in town?
+Any preference on area or type of attraction?
+Some entertainment in the centre.
+I don't have anything specifically listed as entertainment in the centre. Would you be interested in something else?
+modified_conversation
+I am planning a trip and need help with a particular hotel.
+Do you have the hotel name ?
+carolina bed and breakfast, please. I want to book it.
+Great. What nights will you be staying?
+I will be coming in on Saturday for 4 nights with 5 guests.
+Booking was successful. Reference number is : DCV1BNPM . Is there anything else I can help with?
+Can you suggest any places to go in town?
+Any preference on area or type of attraction?
+Some entertainment in the centre.
+There is no specific entertainment list in the centre. Would you be interested in something else?

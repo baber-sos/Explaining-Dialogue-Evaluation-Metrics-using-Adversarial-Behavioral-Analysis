@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for information on Cambridge University Botanic Gardens.
+They are on bateman st, postal code cb21jf, they can be reach at 01223336265, the entrance fee is 4 pounds, can I help with anything else?
+Yes can you help me find a restaurant?
+The Botanic Gardens are in the centre. Would you like the restaurant to also be in the center? Do you have any type of cuisine in mind?
+Never mind, I will worry about food later. I am actually looking for a hotel with a guesthouse and free parking would be great as well.
+modified_conversation
+I'm looking for information on Cambridge University Botanic Gardens.
+They are on bateman st, postal code cb21jf, they can be reach at 01223336265, the entrance fee is 4 pounds, can I help with anything else?
+Yes can you help me find a restaurant?
+The Botanic Gardens are in the centre. Would you like the restaurant to also be in the center? Do you have any type of cuisine in mind?
+The Botanic Gardens are in the centre. Would you like the restaurant to also be in the center? Do you have any type of cuisine in mind? Never mind, I will worry about food later. I am actually looking for a hotel with a guesthouse and free parking would be great as well.

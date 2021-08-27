@@ -1,0 +1,12 @@
+original_conversation
+I am wanting to book a train arriving in Stevenage by 19:15. Can you help me?
+Certainly, where will you be departing from and what time would you like to leave?
+I will be leaving cambridge on Thursday.
+TR1165 arrives at 18:10 and departs at 17:21.
+That sounds good. What is the travel time for that train?
+modified_conversation
+I am wanting to book a train arriving in Stevenage by 19:15. Can you help me?
+Certainly, where will you be departing from and what time would you like to leave?
+I will be leaving cambridge on Thursday.
+TR1165 arrives at 18:10 and departs at 17:21.
+That sounds good. What is the travel time the travel time for that train?

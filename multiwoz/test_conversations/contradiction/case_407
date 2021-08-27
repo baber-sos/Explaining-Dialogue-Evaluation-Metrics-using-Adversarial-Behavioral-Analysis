@@ -1,0 +1,12 @@
+original_conversation
+I need a train leaving after 08:15 going to cambridge. Thank you.
+Where would you like to depart from?
+I want to leave from Peterborough on Saturday.
+Train TR6763 would fit the bill, would you like me to book you passage?
+Yes, can you book for 4 people.
+modified_conversation
+I need a train leaving after 08:15 going to cambridge. Thank you.
+Where would you like to depart from?
+I want to leave from Peterborough on Saturday.
+Train TR6763 would fit the bill, would you like me to book you passage?
+I  do not want to leave from Peterborough on Saturday.

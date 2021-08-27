@@ -1,0 +1,14 @@
+original_conversation
+I need to find a train that departs from london liverpool street.
+There are many options that may suit your needs. Is there a particular day you are wanting to travel on?
+Yes I want to leave on Tuesday.
+What time would you like to leave on?
+I don't care about departure time, but I need to arrive by 10:15
+There is a train departing at 07:39 and arriving by 09:07 that fits your needs. Would you like me to book it for you?
+modified_conversation
+I need to find a train that departs from london liverpool street.
+There are many options that may suit your needs. Is there a particular day you are wanting to travel on?
+Yes I want to leave on Tuesday.
+What time would you like to leave on?
+I don't care about departure time, but I need to arrive by 10:15
+There is a train a train a train a train a train a train departing at 07:39 and arriving by 09:07 that fits your needs. Would you like me to book it for you?

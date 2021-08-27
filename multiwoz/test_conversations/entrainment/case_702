@@ -1,0 +1,32 @@
+original_conversation
+Yes I am looking for a place to eat in south Cambridge that is more on the expensive side.
+Yes there are 5 different places that serve 4 different types of food.
+I would prefer vegetarian food.
+Unfortunately, there is no expensive vegetarian restaurant in that area. Would you like to look for something else?
+I would like to try chinese food then.
+Peking Restaurant is a great place. Can I book a table there for you?
+I want a table for 6 people at 11:30 on tuesday.
+Booking was successful for peking restaurant. The table will be reserved for 15 minutes. Your reference number is SDU5RA0N . Do you require any further assistance?
+Yes I'm also looking for a train to arrive at 8:15
+From where will you be departing? And how many will be traveling?
+I will be departing from London Kings Cross and need to arrive in Cambridge by 08:15.
+I would be happy to assist you. I will need to know what day you'd like to depart before booking.
+I will be departing Tuesday.
+There are two trains available. One leaves at 5:17 and the other leaves at 7:17. Which would you prefer?
+Actually I am departing from London Liverpool Street. I need a train to Cambridge on Tuesday that arrives by 8:15.
+modified_conversation
+Yes I am looking for a place to eat in south Cambridge that is more on the expensive side.
+Yes there are 5 different places that serve 4 different types of food.
+I would prefer vegetarian food.
+Unfortunately, there is no expensive vegetarian restaurant in that area. Would you like to look for something else?
+I would like to try chinese food then.
+Peking Restaurant is a great place. Can I book a table there for you?
+I want a table for 6 people at 11:30 on tuesday.
+Booking was successful for peking restaurant. The table will be reserved for 15 minutes. Your reference number is SDU5RA0N . Do you require any further assistance?
+Yes I'm also looking for a train to arrive at 8:15
+From where will you be departing? And how many will be traveling?
+I will be departing from London Kings Cross and need to arrive in Cambridge by 08:15.
+I would be happy to assist you. I will need to know what day you'd like to depart before booking.
+I will be departing Tuesday.
+There are two trains available. One leaves at 5:17 and the other leaves at 7:17. Which would you prefer?
+Actually I am diverging from London Liverpool Street. I need a train to Cambridge on Tuesday that arrives by 8:15.

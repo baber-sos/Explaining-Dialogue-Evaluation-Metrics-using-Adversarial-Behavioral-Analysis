@@ -1,0 +1,14 @@
+original_conversation
+I need to book a train for 9:30 that departs from cambridge .
+There are lots of trains that fit those criteria . Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday .
+There is a train that leaves at 7:59 and arrives at 9:27 . Would like that one?
+Yes, that would work . Can you book it for two people? Also, I need the reference number, please .
+Booking was successful for TR2835, the total fee is 33.2 GBP payable at the station . Your reference number is: 3QZ8CPYE . Can I help with anything else?
+modified_conversation
+I need to book a train for 9:30 that departs from cambridge .
+There are lots of trains that fit those criteria . Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday .
+There is a train that leaves at 7:59 and arrives at 9:27 . Would like that one?
+Yes, that would work . Can you book it for two people? Also, I need the reference number, please .
+Booking was successful for TR2835, the total fee is 33.2 GBP payable at the station . Your reference number is: 3QZ8CPYE . Can I help help help help with anything else?

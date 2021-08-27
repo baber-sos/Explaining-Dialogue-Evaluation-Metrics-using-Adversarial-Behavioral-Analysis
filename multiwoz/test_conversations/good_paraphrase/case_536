@@ -1,0 +1,34 @@
+original_conversation
+Can you give me information about museums in the centre of town?
+I found 11 museums in the centre. What would you like to know?
+Which is your favorite, and how much is the entrance fee?
+I enjoy visiting the whipple museum of the history of science, and best of all it's free to get in. Would you like the address?
+No that isn't necessary. Could you help me find a train going to cambridge?
+We have any trains going to Cambridge. Where will you be departing from? What day would you like?
+I need a train from Leicester to Cambridge on Sunday arriving by 20:00.
+There are 14 trains, TR9320 will get you there at 19:54 would that work?
+I think that will work. Before I book a ticket, though, could you give me the travel time?
+Yes the total travel time would be 105 minutes.
+I have everything I need, can I book?
+I will be happy to assist you in booking for this train. How many tickets will you be needing?
+We need 4 please. We have 2 children under 12. Do they get a special rate?
+Unfortunately, I do not have that information. However, I was able to successfully book your train. The total is 120.96 GBP payable at the station. Here is your reference number: FMYXQV28 .
+Great thank you that's all I need.
+Thank you for contacting the Cambridge Towninfo Centre. Have a great day.
+modified_conversation
+Can you give me information about museums in the centre of town?
+I found 11 museums in the centre. What would you like to know?
+Which is your favorite, and how much is the entrance fee?
+I enjoy visiting the whipple museum of the history of science, and best of all it's free to get in. Would you like the address?
+No that isn't necessary. Could you help me find a train going to cambridge?
+We have any trains going to Cambridge. Where will you be departing from? What day would you like?
+I need a train from Leicester to Cambridge on Sunday arriving by 20:00.
+There are 14 trains, TR9320 will get you there at 19:54 would that work?
+I think that will work. Before I book a ticket, though, could you give me the travel time?
+Yes the total travel time would be 105 minutes.
+I have everything I need, can I book?
+I will be happy to assist you in booking for this train. How many tickets will you be needing?
+We need 4 please. We have 2 children under 12. Do they get a special rate?
+Unfortunately, I do not have that information. However, I was able to successfully book your train. The total is 120.96 GBP payable at the station. Here is your reference number: FMYXQV28 .
+Great thank you that's all I need.
+Thank you for contacting Cambridge Towninfo Centre, have a wonderful day.

@@ -1,0 +1,28 @@
+original_conversation
+I need a train to London please.
+Can I have a departure site, date and time you are leaving?
+I'm sorry, I don't know what came over me. I'm just looking for a museum in town.
+Okay, we've got about 23 museums in town, any particular type of area?
+I do not have any preference on the area. Can I have the phone number and entrance fee to one of the museums?
+Sure, the Broughton House Gallery is free to enter, and their phone number is 01223314960. Can I help with anything else today?
+I'm also looking to find an Italian restaurant that is cheap to eat at in the north part of town.
+We only have da vinci pizzeria, would you like me to book a table?
+Yes, thank you. I need to reserve a table for 1 person on Wednesday at 18:15. Thank you. I also need the reference number.
+I was unable to book that time. Is there another time we could try that would still suit you?
+Darn, could you try again? Any cheap Italian restaurant on the north side. 1 person, 18:15 on Wednesday.
+Sorry about that, I accidentally hit 5 instead of 1. Alright, I have you booked! Reference number is ZMBFZRC2 . Anything else I can help you with?
+Good, I really wanted to eat there. No, I don't need anything else, thank you. Bye.
+modified_conversation
+I need a train to London please.
+Can I have a departure site, date and time you are leaving?
+I'm sorry, I don't know what came over me. I'm just looking for a museum in town.
+Okay, we've got about 23 museums in town, any particular type of area?
+I do not have any preference on the area. Can I have the phone number and entrance fee to one of the museums?
+Sure, the Broughton House Gallery is free to enter, and their phone number is 01223314960. Can I help with anything else today?
+I'm also looking to find an Italian restaurant that is cheap to eat at in the north part of town.
+We only have da vinci pizzeria, would you like me to book a table?
+Yes, thank you. I need to reserve a table for 1 person on Wednesday at 18:15. Thank you. I also need the reference number.
+I was unable to book that time. Is there another time we could try that would still suit you?
+Darn, could you try again? Any cheap Italian restaurant on the north side. 1 person, 18:15 on Wednesday.
+Sorry about that, I accidentally hit 5 instead of 1. Alright, I have you booked! Reference number is ZMBFZRC2 . Anything else I can help you with?
+Sorry about that, I accidentally hit 5 instead of 1. Alright, I have you booked! Reference number is ZMBFZRC2 . Anything else I can help you with? Good, I really wanted to eat there. No, I don't need anything else, thank you. Bye.

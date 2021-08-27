@@ -1,0 +1,14 @@
+original_conversation
+I am looking for information in Cambridge.
+What can I help you with?
+I would like info on train travel.
+What day would you like to travel? Where are you departing and arriving to?
+I'd like to leave on Saturday. Any train is fine. I'll just need the departure time and price.
+Where are you leaving from and where are you going to?
+modified_conversation
+I am looking for information in Cambridge.
+What can I help you with?
+I would like info on train travel.
+What day would you like to travel? Where are you departing and arriving to?
+I'd like to leave on Saturday. Any train is fine. I'll just need the departure time and price.
+Where are you going and where?

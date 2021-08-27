@@ -1,0 +1,44 @@
+original_conversation
+Hi, I need a train to Cambridge on Wednesday, please.
+May I ask for your departure city?
+I will be leaving from Stansted Airport and will need to get to Cambridge by 18:00.
+I found a train that arrives at 09:52. Will that work?
+That is very early, can i get one closer to 18:00?
+The closest to 18:00 arrival time is a train that arrives at 17:52. Does this interest you?
+Yes that's fine. I also need help finding an expensive indian restaurant. Can you help?
+We have many of those! Cocum in the west is my favorite.
+Is there anything near the centre?
+Yes there are 6 to choose from, would you like me to book one of them for you?
+Yes, please book me for 8 people at 21:00 on the same day. Thank you!
+I'm sorry, there's no available seats at the time and day you've requested. Is there another day or time you would like to try and book for?
+Can I get the departure time and price of my train reservation? Also, could you try to book my table for 20:00?
+The departure time is 9:24 and the price is 80.8GBP payable at the station.
+As for the restaurant Cocum, is that in the centre of town? I really would like to dine in the city centre.
+Cocum is in the west, would you like to try somewhere else?
+Yes. Please find an Indian restaurant in the centre of town.
+There are 5 indian restaurants available in the centre of town. Is there a price range you are looking for?
+Yes, the expensive price range please.
+Curry garden is in the expensive price range, would that work for you?
+Yes. Please book a table for 8 people at 21:00 on the same day. If 21:00 isn't available, please do 20:00. I will need a reference number too.
+modified_conversation
+Hi, I need a train to Cambridge on Wednesday, please.
+May I ask for your departure city?
+I will be leaving from Stansted Airport and will need to get to Cambridge by 18:00.
+I found a train that arrives at 09:52. Will that work?
+That is very early, can i get one closer to 18:00?
+The closest to 18:00 arrival time is a train that arrives at 17:52. Does this interest you?
+Yes that's fine. I also need help finding an expensive indian restaurant. Can you help?
+We have many of those! Cocum in the west is my favorite.
+Is there anything near the centre?
+Yes there are 6 to choose from, would you like me to book one of them for you?
+Yes, please book me for 8 people at 21:00 on the same day. Thank you!
+I'm sorry, there's no available seats at the time and day you've requested. Is there another day or time you would like to try and book for?
+Can I get the departure time and price of my train reservation? Also, could you try to book my table for 20:00?
+The departure time is 9:24 and the price is 80.8GBP payable at the station.
+As for the restaurant Cocum, is that in the centre of town? I really would like to dine in the city centre.
+Cocum is in the west, would you like to try somewhere else?
+Yes. Please find an Indian restaurant in the centre of town.
+There are 5 indian restaurants available in the centre of town. Is there a price range you are looking for?
+Yes, the expensive price range please.
+Curry garden is in the expensive price range, would that work for you?
+Yes. Please book a table for 8 people at 21:00 on the same day. If 21:00 isn't available, please do 15 minutes. I will need a reference number too.

@@ -1,0 +1,20 @@
+original_conversation
+I'm looking for a train please.
+There are several trains, where do you want to go?
+I need to go to Norwich from Cambridge.
+What day will you be traveling, please?
+I will be traveling on Friday.
+What time do you plan to leave Cambridge?
+any time on friday, arrive by 1515hrs. get me the train id please
+TR3034 arrives by 14:55, would you like to book a seat?
+yes please. help me get train ID and travel time
+modified_conversation
+I'm looking for a train please.
+There are several trains, where do you want to go?
+I need to go to Norwich from Cambridge.
+What day will you be traveling, please?
+I will be traveling on Friday.
+What time do you plan to leave Cambridge?
+any time on friday, arrive by 1515hrs. get me the train id please
+TR3034 arrives by 14:55, would you like to book a seat?
+I don't know what you mean by that.

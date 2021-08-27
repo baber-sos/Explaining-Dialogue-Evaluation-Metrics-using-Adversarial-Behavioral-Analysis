@@ -1,0 +1,18 @@
+original_conversation
+I would like to take a train to Cambridge on Monday.
+There are lots of trains to choose from! Where are you departing from?
+I am departing from London Liverpool heading to Cambridge.
+What time will you be traveling?
+I need to arrive by 15:30
+I have a train that arrives at 15:07. Would you like a booking?
+Yes please. Book it for 2 tickets. Also include the reference number.
+Booking was successful, the total fee is 33.2 GBP payable at the station . Reference number is : WRSETQCA . Can I help you with anything else today?
+modified_conversation
+I would like to take a train to Cambridge on Monday.
+There are lots of trains to choose from! Where are you departing from?
+I am departing from London Liverpool heading to Cambridge.
+What time will you be traveling?
+I need to arrive by 15:30
+I have a train that arrives at 15:07. Would you like a booking?
+Yes please. Book it for 2 tickets. Also include the reference number.
+Booking was successful, the total fee the total fee the total fee the total fee is 33.2 GBP payable at the station . Reference number is : WRSETQCA . Can I help you with anything else today?

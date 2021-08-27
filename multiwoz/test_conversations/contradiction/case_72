@@ -1,0 +1,18 @@
+original_conversation
+I need a place to stay in the west with 4 stars.
+I would suggest the cambridge belfry. What price rage are you looking for?
+I want a hotel.
+There are two hotels that fit your criteria. One is cheap and one is expensive. Which would you prefer?
+I don't care. I trust you. Please book it from Saturday for 5 nights for 7 people.
+You are all booked at the Cambridge belfry. Reference number 27NHEG0N .
+I'm also looking for a train. The train should be on the same day as the hotel booking.
+There is a train, #TR4824 from London Kings Cross to Cambridge on Saturday at 09:17. Arrives at 10:08. It costs 18.88 pounds and takes 51 minutes to arrive. Is that ok?
+modified_conversation
+I need a place to stay in the west with 4 stars.
+I would suggest the cambridge belfry. What price rage are you looking for?
+I want a hotel.
+There are two hotels that fit your criteria. One is cheap and one is expensive. Which would you prefer?
+I don't care. I trust you. Please book it from Saturday for 5 nights for 7 people.
+You are all booked at the Cambridge belfry. Reference number 27NHEG0N .
+I'm also looking for a train. The train should be on the same day as the hotel booking.
+There is a train, #TR4824 from London Kings Cross to Stevenage on Saturday at 09:17. Arrives at 10:08. It costs 18.88 pounds and takes 51 minutes to arrive. Is that ok?

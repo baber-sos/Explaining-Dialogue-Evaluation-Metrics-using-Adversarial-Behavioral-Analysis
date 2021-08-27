@@ -1,0 +1,26 @@
+original_conversation
+I need a train to leave from birmingham new street on friday
+Is your destination Cambridge?
+Yes, cambridge is my destination.
+Is there a certain time you need to arrive by?
+Yes, I need to arrive by 13:45. How long with the trip take?
+The trip takes about 163 minutes. We have a few trains going to birmingham new street on friday, would you like to book a seat?
+No thank you. I'm also looking for an Indian restaurant in the north.
+What area of town are you interested in dining at?
+In the north please.
+The Nirala in Chesterton is a moderately priced restaurant. Would you like a reservation?
+Yeah. Can you make a reservation for 1 person at 16:00 on friday?
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : PUXFOUYW .
+modified_conversation
+I need a train to leave from birmingham new street on friday
+Is your destination Cambridge?
+Yes, cambridge is my destination.
+Is there a certain time you need to arrive by?
+Yes, I need to arrive by 13:45. How long with the trip take?
+The trip takes about 163 minutes. We have a few trains going to birmingham new street on friday, would you like to book a seat?
+No thank you. I'm also looking for an Indian restaurant in the north.
+What area of town are you interested in dining at?
+In the north please.
+The Nirala in Chesterton is a moderately priced restaurant. Would you like a reservation?
+Yeah. Can you make a reservation for 1 person at 16:00 on friday?
+reserving was successful . The mesa will be held for fifteen minutes . acknowledgment turn is : PUXFOUYW . 

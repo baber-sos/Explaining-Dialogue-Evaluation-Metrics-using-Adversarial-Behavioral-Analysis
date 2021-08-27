@@ -1,0 +1,32 @@
+original_conversation
+Can you help me find a guesthouse in the north?
+There are 11 guesthouses in the north. Do you have a price range?
+No particular price range, but it should be 4 star rated.
+Five of those guesthouses are rated four stars. Are there any particular commodities you need at the guesthouse?
+I would like one with internet. What are the price ranges for those?
+Actually, there are 8 guesthouses in the north with four stars and internet. 7 are in the moderate price range and one is on the cheaper side.
+As long as it's a guesthouse in the north with 4 stars it'll be fine. Just recommend one to me please.
+I found the Acorn Guest House, would you like me to book it for you?
+No, I just need the address, price range and I need to know if they have internet.
+They are a moderate priced guesthouse located at 154 chesterton road with free wifi. I can reserve that for you if you'd like.
+No but I would like a train on wednesday at 15:30 from stansted airport to cambridge.
+I have a train leaving at 16:24 from stansted airport. Would you like me to book that for you?
+The train needs to arrive by 15:30
+I'm sorry, the earliest arrival time available is 16:52 on Wednesday with a departure time of 16:24. Would you prefer Tuesday?
+Could you please check again? I was pretty certain there was a train from stansted airport that would get me to caimbridge by 15:30 on wednesday.
+modified_conversation
+Can you help me find a guesthouse in the north?
+There are 11 guesthouses in the north. Do you have a price range?
+No particular price range, but it should be 4 star rated.
+Five of those guesthouses are rated four stars. Are there any particular commodities you need at the guesthouse?
+I would like one with internet. What are the price ranges for those?
+Actually, there are 8 guesthouses in the north with four stars and internet. 7 are in the moderate price range and one is on the cheaper side.
+As long as it's a guesthouse in the north with 4 stars it'll be fine. Just recommend one to me please.
+I found the Acorn Guest House, would you like me to book it for you?
+No, I just need the address, price range and I need to know if they have internet.
+They are a moderate priced guesthouse located at 154 chesterton road with free wifi. I can reserve that for you if you'd like.
+No but I would like a train on wednesday at 15:30 from stansted airport to cambridge.
+I have a train leaving at 16:24 from stansted airport. Would you like me to book that for you?
+The train needs to arrive by 15:30
+I'm sorry, the earliest arrival time available is 16:52 on Wednesday with a departure time of 16:24. Would you prefer Tuesday?
+Well I think we got everything done today. Thanks for the help. Goodbye.

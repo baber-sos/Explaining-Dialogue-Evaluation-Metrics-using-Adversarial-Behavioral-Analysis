@@ -1,0 +1,12 @@
+original_conversation
+I want a restaurant in the city centre that serves Italian food.
+There are nine listings available. What price range were you interested in?
+I am interested in a restaurant that is in the expensive price range.
+Clowns Cafe is a restaurant in the city centre with that price range. Would you like to make a reservation?
+Sure! How close is the Cafe from my current location?
+modified_conversation
+I want a restaurant in the city centre that serves Italian food.
+There are nine listings available. What price range were you interested in?
+I am interested in a restaurant that is in the expensive price range.
+Clowns Cafe is a restaurant in the city centre with that price range. Would you like to make a reservation?
+Sure! How close is the Cafe from our current location?

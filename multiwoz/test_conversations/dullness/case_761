@@ -1,0 +1,24 @@
+original_conversation
+I am planning a trip in Cambridge,
+How can I help you today?
+I need to know what museums are in the area. Can you suggest one and let me know what area it is in please?
+Is there a location preference?
+I don't care what area it is. I was hoping you could make a recommendation.
+What about the Byard Art museum in the south part of town?
+Sounds great! I also need a train leaving on Thursday from London Kings cross.
+Okay, there are 10 trains that meet your criteria. Would you like to narrow it down further by departure site or arrival time?
+I need to leave after 14:15
+TR5502 leaves at 15:17 and arrives 51 minutes later. How does that sound?
+Yes. Please book of 3 people.
+modified_conversation
+I am planning a trip in Cambridge,
+How can I help you today?
+I need to know what museums are in the area. Can you suggest one and let me know what area it is in please?
+Is there a location preference?
+I don't care what area it is. I was hoping you could make a recommendation.
+What about the Byard Art museum in the south part of town?
+Sounds great! I also need a train leaving on Thursday from London Kings cross.
+Okay, there are 10 trains that meet your criteria. Would you like to narrow it down further by departure site or arrival time?
+I need to leave after 14:15
+TR5502 leaves at 15:17 and arrives 51 minutes later. How does that sound?
+That question does not make sense to me.

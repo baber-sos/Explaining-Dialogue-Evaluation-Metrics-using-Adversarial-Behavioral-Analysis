@@ -1,0 +1,12 @@
+original_conversation
+Are there any Catalan restaurants in the centre of town?
+I'm sorry, there are no Catalan dining establishments in the city centre. Would you like to look for a different cuisine or area?
+Actually, can you try anything that serves French food?
+I have the cote in the centre. It is in the expensive range. Would you like to make a booking?
+Yes, please. I need a table for 8 on Friday at 17:30, please.
+modified_conversation
+Are there any Catalan restaurants in the centre of town?
+I'm sorry, there are no Catalan dining establishments in the city centre. Would you like to look for a different cuisine or area?
+Actually, can you try anything that serves French food?
+I have the cote in the centre. It is in the expensive range. Would you like to make a booking?
+I have the cote in the centre. It is in the expensive range. Would you like to make a booking? Yes, please. I need a table for 8 on Friday at 17:30, please.

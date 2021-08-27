@@ -1,0 +1,12 @@
+original_conversation
+I would like to find a train that leaves to cambridge. Oh, and please see if it leaves on a wendesday.
+Certainly. From where will you be departing?
+I want to depart from Peterborough and want to leave after 18:00.
+Where will your destination be?
+To Cambridge.
+modified_conversation
+I would like to find a train that leaves to cambridge. Oh, and please see if it leaves on a wendesday.
+Certainly. From where will you be departing?
+I want to depart from Peterborough and want to leave after 18:00.
+Where will your destination be?
+To 833.

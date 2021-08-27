@@ -1,0 +1,12 @@
+original_conversation
+Hey, can you help me out? I am looking for something to do. What kind of entertainment is out there in the center of town?
+There are no entertainment attractions in the centre of town. Would you like to look in a different area?
+That's not necessary. Are there any colleges in that area instead?
+There are 13 colleges in town centre. Gonville and Caius college is on trinity street with free entrance. Do you want more information on any others?
+That actually sounds great. Could you give me the phone number for Gonville and Caius college?
+modified_conversation
+Hey, can you help me out? I am looking for something to do. What kind of entertainment is out there in the center of town?
+There are no entertainment attractions in the centre of town. Would you like to look in a different area?
+That's not necessary. Are there any colleges in that area instead?
+There are 13 colleges in town centre. Gonville and Caius college is on trinity street with free entrance. Do you want more information on any others?
+That actually sounds great. Could you give me the phone number for Jinling and Caius college?

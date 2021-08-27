@@ -1,0 +1,24 @@
+original_conversation
+I want a train from london liverpool street arriving at 9:30
+Which day will you be traveling?
+I want to leave on Thursday.
+Ok, I should be able to do that for you.
+I want to go to Cambridge, how much will that cost?
+There are three trains that will fit your needs, and the tickets are 16.60 pounds each. Would you like me to purchase tickets for you?
+Yes, that sounds good. Thank you.
+Would you like me to book that for you?
+Can you tell me how much the ticket is?
+Yes, there are 3 that cost 16.60 pounds. You could leave at 5:39 if you'd like. Can I book that for you?
+No, thanks. No need. I will do that later. Thank you for all the info. Have a nice day.
+modified_conversation
+I want a train from london liverpool street arriving at 9:30
+Which day will you be traveling?
+I want to leave on Thursday.
+Ok, I should be able to do that for you.
+I want to go to Cambridge, how much will that cost?
+There are three trains that will fit your needs, and the tickets are 16.60 pounds each. Would you like me to purchase tickets for you?
+Yes, that sounds good. Thank you.
+Would you like me to book that for you?
+Can you tell me how much the ticket is?
+Yes, there are 3 that cost 16.60 pounds. You could leave at 5:39 if you'd like. Can I book that for you?
+No, thanks. No need No need No need. I will do that later. Thank you for all the info. Have a nice day.

@@ -1,0 +1,10 @@
+original_conversation
+I would like to try gastropub food. Can you help me find one?
+Try backstreet bistro its located on 2 Sturton Street City Centre.
+Can I have the reference number?
+Sure, I'd be happy to book this for you. What day, time and how many people will be dining?
+modified_conversation
+I would like to try gastropub food. Can you help me find one?
+Try backstreet bistro its located on 2 Sturton Street City Centre.
+Can I have the reference number?
+ do not try backstreet bistro its located on 2 Sturton Street City Centre.

@@ -1,0 +1,16 @@
+original_conversation
+I would like to find a train leaving on Thursday.
+I'd be happy to help you with that. Where are you departure and arrival locations?
+I will be leaving from Kings Lynn, traveling to Cambridge.
+We have nineteen trains available that day. What time would you like to leave by?
+Anytime after 13:30 would be great.
+Okay the TR2162 leaves at 14:11.
+What's the arrival time for that train?
+modified_conversation
+I would like to find a train leaving on Thursday.
+I'd be happy to help you with that. Where are you departure and arrival locations?
+I will be leaving from Kings Lynn, traveling to Cambridge.
+We have nineteen trains available that day. What time would you like to leave by?
+Anytime after 13:30 would be great.
+Okay the TR2162 leaves at 14:11.
+Can you send me the phone number and postcode for the Funky Fun House?

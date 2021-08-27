@@ -1,0 +1,8 @@
+original_conversation
+Yes I am looking for a train leaving Cambridge on Tuesday.
+I can help you with that. The first one departs at 05:00 and the last trains runs at 13:00. How many tickets would you like?
+Also the destination is london kings cross and leaves after 12:30.
+modified_conversation
+Yes I am looking for a train leaving Cambridge on Tuesday.
+I can help you with that. The first one departs at 05:00 and the last trains runs at 13:00. How many tickets would you like?
+Yes I am not looking for a train leaving Cambridge on Tuesday.

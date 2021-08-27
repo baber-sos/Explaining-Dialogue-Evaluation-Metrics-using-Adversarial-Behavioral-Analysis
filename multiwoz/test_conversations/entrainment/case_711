@@ -1,0 +1,22 @@
+original_conversation
+I am planning a visit to Cambridge very soon and need some information about types of lodging available.
+There are 33 places to stay at. Would you like a cheap one?
+No, I want an expensive hotel with free wi-fi.
+How about the express by holiday inn cambridge, it's in the east.
+Does it have free parking?
+Yes it does. Would you like to go ahead and make a reservation?
+No thanks, but could you provide me with their postcode?
+Certainly. The postcode is cb13lh.
+Thank you. Would it be possible to find a train for me as well?
+Sure. Let me start by getting more information from you. What are your departure and destination cities?
+modified_conversation
+I am planning a visit to Cambridge very soon and need some information about types of lodging available.
+There are 33 places to stay at. Would you like a cheap one?
+No, I want an expensive hotel with free wi-fi.
+How about the express by holiday inn cambridge, it's in the east.
+Does it have free parking?
+Yes it does. Would you like to go ahead and make a reservation?
+No thanks, but could you provide me with their postcode?
+Certainly. The postcode is cb13lh.
+Thank you. Would it be possible to find a train for me as well?
+Sure. Let me start by getting more data from you. What are your departure and destination cities?

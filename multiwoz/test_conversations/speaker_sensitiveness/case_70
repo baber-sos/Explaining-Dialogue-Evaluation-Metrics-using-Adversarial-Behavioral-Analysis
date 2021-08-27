@@ -1,0 +1,16 @@
+original_conversation
+I'm needing a train leaving on wednesday and arriving by 11:00.
+Sure, where are you leaving from and traveling to?
+From Broxbourne to Cambridge.
+TR5167 will arrive at 10:32, would that work for you?
+Yes please, will you make a booking for me for 2 people?
+The total fee is 35.79 GBP, payable at the station . Your Reference number is : 8G3VLD0W . Is there anything else I can help you with?
+Yes, I'm also looking for a place to stay. I'd like it to be expensive with a star of 2.
+modified_conversation
+I'm needing a train leaving on wednesday and arriving by 11:00.
+Sure, where are you leaving from and traveling to?
+From Broxbourne to Cambridge.
+TR5167 will arrive at 10:32, would that work for you?
+Yes please, will you make a booking for me for 2 people?
+The total fee is 35.79 GBP, payable at the station . Your Reference number is : 8G3VLD0W . Is there anything else I can help you with?
+The total fee is 35.79 GBP, payable at the station . Your Reference number is : 8G3VLD0W . Is there anything else I can help you with? Yes, I'm also looking for a place to stay. I'd like it to be expensive with a star of 2.

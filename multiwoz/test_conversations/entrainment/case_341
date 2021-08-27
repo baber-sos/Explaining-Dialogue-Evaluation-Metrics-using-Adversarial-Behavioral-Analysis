@@ -1,0 +1,24 @@
+original_conversation
+I am planning a trip in Cambridge.
+sure, what can i help you find?
+I need a train from Norwich to Cambridge on Friday, please. I need to get there at about 10:30.
+TR3293 will arrive by 9:35. Would you like to book a seat?
+Can you book it for me and get a reference number ?
+How many tickets do you need?
+I need 3 tickets.
+Booking was successful, the total fee is 52.8 GBP payable at the station .Reference number is : 4CSMUT8M .what else do i do for you?
+Yes, I'd like to stay at The Lensfield Hotel once we get to town for 4 nights.
+What day would you like to begin your stay? And for how many guests?
+I'd like to stay on Friday, 4 nights, 3 people. I also need a reference number.
+modified_conversation
+I am planning a trip in Cambridge.
+sure, what can i help you find?
+I need a train from Norwich to Cambridge on Friday, please. I need to get there at about 10:30.
+TR3293 will arrive by 9:35. Would you like to book a seat?
+Can you book it for me and get a reference number ?
+How many tickets do you need?
+I need 3 tickets.
+Booking was successful, the total fee is 52.8 GBP payable at the station .Reference number is : 4CSMUT8M .what else do i do for you?
+Yes, I'd like to stay at The Lensfield Hotel once we get to town for 4 nights.
+What day would you like to begin your stay? And for how many guests?
+I'd like to persist on Friday, 4 nights, 3 people. I also need a reference number.

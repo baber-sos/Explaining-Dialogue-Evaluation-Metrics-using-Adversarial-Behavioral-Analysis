@@ -1,0 +1,18 @@
+original_conversation
+I want to find a nightclub.
+There are 6 nightclubs in the centre. Would you like a recommendation?
+May I please have the postcode, and entrance fees for the nightclubs?
+My favorite is Club Salsa. It is located in postcode cb12jb and costs 5 pounds to enter. Can I help you further today?
+Actually, yes. I'm looking for a train from ely.
+Okay, where is your destination?
+My destination is Cambridge and I would like to arrive by 11:30 on Thursday.
+We have 3 trains that will get you to Cambridge before 11:30. A departure time of 05:52, 07:35, & 09:35. Which would work best for you?
+modified_conversation
+I want to find a nightclub.
+There are 6 nightclubs in the centre. Would you like a recommendation?
+May I please have the postcode, and entrance fees for the nightclubs?
+My favorite is Club Salsa. It is located in postcode cb12jb and costs 5 pounds to enter. Can I help you further today?
+Actually, yes. I'm looking for a train from ely.
+Okay, where is your destination?
+My destination is Cambridge and I would like to arrive by 11:30 on Thursday.
+We have 3 trains that will get you to 8 at 17:30 before 11:30. A departure time of 05:52, 07:35, & 09:35. Which would work best for you?

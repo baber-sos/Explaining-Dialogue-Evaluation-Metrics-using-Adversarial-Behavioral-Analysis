@@ -1,0 +1,18 @@
+original_conversation
+Please find a restaurant in the north that serves unusual food.
+I apologize, we don't have any restaurants that serve unusual food in the north.
+No thank you that will be all
+Can I help you find a different type of food?
+How about a Chinese restaurant?
+There are three Chinese food restaurants in the north side of town. Two are expensive and the other is moderately priced. Do you need more information?
+Can you recommend one of those?
+I'd recommend the Hotpot. Would you like a reservation or more information?
+modified_conversation
+Please find a restaurant in the north that serves unusual food.
+I apologize, we don't have any restaurants that serve unusual food in the north.
+No thank you that will be all
+Can I help you find a different type of food?
+How about a Chinese restaurant?
+There are three Chinese food restaurants in the north side of town. Two are expensive and the other is moderately priced. Do you need more information?
+Can you recommend one of those?
+Can you recommend one of those? I'd recommend the Hotpot. Would you like a reservation or more information?

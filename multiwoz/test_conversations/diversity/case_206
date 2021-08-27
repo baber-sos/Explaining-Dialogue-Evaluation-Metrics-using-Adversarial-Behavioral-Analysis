@@ -1,0 +1,14 @@
+original_conversation
+I need a train from london liverpool street .
+May I ask where you are travelling to? And what day?
+Cambridge, on Wednesday .
+Is there a certain time you would like to arrive in cambridge?
+No . I just need to leave after 14:00 .
+I have train TR7978 leaving at 15:39 and arriving at 17:07 . Would you like to book that?
+modified_conversation
+I need a train from london liverpool street .
+May I ask where you are travelling to? And what day?
+Cambridge, on Wednesday .
+Is there a certain time you would like to arrive in cambridge?
+No . I just need to leave after 14:00 .
+one have train TR7978 leaving at 15:39 and arriving at 17:07 . Would you like to reserved that?

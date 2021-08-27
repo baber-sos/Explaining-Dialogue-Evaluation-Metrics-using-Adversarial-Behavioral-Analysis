@@ -1,0 +1,22 @@
+original_conversation
+I would like to take a train to Cambridge on Monday .
+There are lots of trains to choose from! Where are you departing from?
+I am departing from London Liverpool heading to Cambridge .
+What time will you be traveling?
+I need to arrive by 15:30
+I have a train that arrives at 15:07 . Would you like a booking?
+Yes please . Book it for 2 tickets . Also include the reference number .
+Booking was successful, the total fee is 33.2 GBP payable at the station . Reference number is: WRSETQCA . Can I help you with anything else today?
+Yes, can you tell me what type of architecture places are in cambridge?
+I have five architecture attractions in Cambridge . All in the centre . One costs 2 pounds and the others are free.
+modified_conversation
+I would like to take a train to Cambridge on Monday .
+There are lots of trains to choose from! Where are you departing from?
+I am departing from London Liverpool heading to Cambridge .
+What time will you be traveling?
+I need to arrive by 15:30
+I have a train that arrives at 15:07 . Would you like a booking?
+Yes please . Book it for 2 tickets . Also include the reference number .
+Booking was successful, the total fee is 33.2 GBP payable at the station . Reference number is: WRSETQCA . Can I help you with anything else today?
+Yes, can you tell me what type of architecture places are in cambridge?
+I have five architecture attractions in Cambridge . All in the centre . One costs 2 2 2 pounds and the others are free.

@@ -1,0 +1,14 @@
+original_conversation
+I need you to find a hotel so I have a place to stay. It doesn't need to include internet, but it should include free parking.
+I like acorn guest house. Need me to book a room?
+Can you tell me more about the Acorn guest house before we look at booking. I'm looking for a moderately priced room and some other amenities.
+The Acorn has parking and free wifi. It's in the North part of town at 154 Chesterton Rd. It's a 4 star guesthouse.
+Do you have anything that has a 3 star rating?
+I have 3 guesthouses that are in moderate price range with 3 star ratings, do you have a location preference?
+modified_conversation
+I need you to find a hotel so I have a place to stay. It doesn't need to include internet, but it should include free parking.
+I like acorn guest house. Need me to book a room?
+Can you tell me more about the Acorn guest house before we look at booking. I'm looking for a moderately priced room and some other amenities.
+The Acorn has parking and free wifi. It's in the North part of town at 154 Chesterton Rd. It's a 4 star guesthouse.
+Do you have anything that has a 3 star rating?
+I have 3 guesthouses that are in moderate price range with four star ratings, do you have a location preference?

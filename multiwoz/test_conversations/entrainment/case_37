@@ -1,0 +1,14 @@
+original_conversation
+Hello! I am looking for train schedules from Leicester. Can you help me with that?
+Sure! There are several trains leaving from leicester. What destination, day and time would you like me to search?
+I like a train going to cambridge on tuesday please.
+Okay. It looks as if there are trains leaving Leicester for Cambridge every hour starting at 5:09 and ending at 23:09 on Tuesday.
+Pick one. I need the travel time and arrival time. Any one after 20:15.
+You have one leaving at 21:09, what time do you want to arrive by?
+modified_conversation
+Hello! I am looking for train schedules from Leicester. Can you help me with that?
+Sure! There are several trains leaving from leicester. What destination, day and time would you like me to search?
+I like a train going to cambridge on tuesday please.
+Okay. It looks as if there are trains leaving Leicester for Cambridge every hour starting at 5:09 and ending at 23:09 on Tuesday.
+Pick one. I need the travel time and arrival time. Any one after 20:15.
+You have one leaving at 21:09, what sentence do you want to arrive by?

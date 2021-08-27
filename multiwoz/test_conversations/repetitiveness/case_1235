@@ -1,0 +1,14 @@
+original_conversation
+Hi. I'm looking for a train to Norwich. Can you help please?
+Sure, I'm finding 133 trains to norwich. I can narrow that down if you tell me where you're departing from.
+I'm leaving from Cambridge on Sunday.
+I have several results still. What time would you like to depart and arrive?
+I would like to arrive by 19:00.
+Certainly, we have a variety of departure times, the last train to arrive before 19:00 departs at 17:36 and arrives at 18:55. Would this interest you?
+modified_conversation
+Hi. I'm looking for a train to Norwich. Can you help please?
+Sure, I'm finding 133 trains to norwich. I can narrow that down if you tell me where you're departing from.
+I'm leaving from Cambridge on Sunday.
+I have several results still. What time would you like to depart and arrive?
+I would like to arrive by 19:00.
+Certainly, we have a variety of departure times departure times departure times departure times, the last train to arrive before 19:00 departs at 17:36 and arrives at 18:55. Would this interest you?

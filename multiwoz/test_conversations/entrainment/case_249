@@ -1,0 +1,30 @@
+original_conversation
+Im looking for an italian restaurant. I also need it to be near the center of town.
+There are 9 italian restaurants in the center of town. Do you have a particular price range in mind?
+i need a cheap restaurant
+There is Pizza Hut City Centre, Ask, and Zizzi Cambridge, which would you like to book?
+Can you book a table for 7 at Ask? We're looking at 14:00 on Saturday.
+Sorry, there are no tables available at Ask at that time. Would you like to book another day or time, or perhaps another restaurant?
+Can you try 13:00, then?
+13:00 it is. Your table at Ask will be held for 15 minutes, and your reference number is L2KZYL26 . Can I help you with anything else?
+I'm also looking for a hotel
+We have 33 different hotels. Did you have a price range or star rating in mind?
+Something in the cheap price range including free parking
+What area would you prefer to stay in? This will help narrow down your options.
+I would like to book a hotel close to our restaurant here in the centre, it will also need to be cheap, and have free parking.
+There are two hotels available. Would you like me to book one for you?
+modified_conversation
+Im looking for an italian restaurant. I also need it to be near the center of town.
+There are 9 italian restaurants in the center of town. Do you have a particular price range in mind?
+i need a cheap restaurant
+There is Pizza Hut City Centre, Ask, and Zizzi Cambridge, which would you like to book?
+Can you book a table for 7 at Ask? We're looking at 14:00 on Saturday.
+Sorry, there are no tables available at Ask at that time. Would you like to book another day or time, or perhaps another restaurant?
+Can you try 13:00, then?
+13:00 it is. Your table at Ask will be held for 15 minutes, and your reference number is L2KZYL26 . Can I help you with anything else?
+I'm also looking for a hotel
+We have 33 different hotels. Did you have a price range or star rating in mind?
+Something in the cheap price range including free parking
+What area would you prefer to stay in? This will help narrow down your options.
+I would like to book a hotel close to our restaurant here in the centre, it will also need to be cheap, and have free parking.
+There are two hotels available. Would you wish me to book one for you?

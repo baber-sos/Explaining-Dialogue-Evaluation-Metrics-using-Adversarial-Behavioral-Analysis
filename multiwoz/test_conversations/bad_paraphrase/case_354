@@ -1,0 +1,10 @@
+original_conversation
+Hey I am looking for a train from Cambridge to Bishops stortford. Mind helping out?
+many trains are leaving on friday. mind choosing the time?
+I want to leave on Monday and arrive by 18:45.
+I have train TR4283 that leaves cambridge at 5:29 and arrives in bishops stortford at 6:07. Would you like to make reservations?
+modified_conversation
+Hey I am looking for a train from Cambridge to Bishops stortford. Mind helping out?
+many trains are leaving on friday. mind choosing the time?
+I want to leave on Monday and arrive by 18:45.
+I have gearing TR4283 that allows Cambridge at 5:29 and gets in bishops stortford at 6:07 . Would you wish to make reservations ? 

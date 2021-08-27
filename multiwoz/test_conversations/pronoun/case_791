@@ -1,0 +1,18 @@
+original_conversation
+Hi, I'm looking for a train from Cambridge please.
+Where are you traveling to?
+I am leaving from Cambridge going to london kings cross.
+I have several trains available. What day would like to leave and what are your preferred arrival and departure times?
+I would like to leave on sunday and leave after 19:45.
+I have a train that leaves at 21:00 and arrives at 21:51. Would you like me to book this for you?
+Sure, please book that for me, thanks. Oh, and I'm also looking for places in town to visit, particularly theatre venues.
+How many tickets did you need for the booking?
+modified_conversation
+Hi, I'm looking for a train from Cambridge please.
+Where are you traveling to?
+I am leaving from Cambridge going to london kings cross.
+I have several trains available. What day would like to leave and what are your preferred arrival and departure times?
+I would like to leave on sunday and leave after 19:45.
+I have a train that leaves at 21:00 and arrives at 21:51. Would you like me to book this for you?
+Sure, please book that for me, thanks. Oh, and I'm also looking for places in town to visit, particularly theatre venues.
+How many tickets did you need for the booking?

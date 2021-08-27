@@ -1,0 +1,12 @@
+original_conversation
+Can you help me book a reservation at the Warkworth House hotel?
+Yes I could! How many people are staying, and what days would you like to stay?
+It's just for me, and I'll be staying for three nights starting from Tuesday .
+I apologize, but there are no vacancies to accommodate a 3 day stay beginning Wednesday . Would you like to book another day or shorter stay?
+I wanted to begin my stay on Tuesday, not Wednesday . Could you check for Tuesday?
+modified_conversation
+Can you help me book a reservation at the Warkworth House hotel?
+Yes I could! How many people are staying, and what days would you like to stay?
+It's just for me, and I'll be staying for three nights starting from Tuesday .
+I apologize, but there are no vacancies to accommodate a 3 day stay beginning Wednesday . Would you like to book another day or shorter stay?
+1 wanted to starting my stay on tuesday, not Wednesday . Could you stay for tuesday?

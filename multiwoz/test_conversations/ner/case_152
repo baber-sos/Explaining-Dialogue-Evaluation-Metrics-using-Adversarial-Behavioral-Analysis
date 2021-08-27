@@ -1,0 +1,18 @@
+original_conversation
+Hi, could you find me a train for Friday? I need to leave from Leicester.
+I can assist you with that. What time Friday would you like to leave at?
+I would like to leave after 12:15.
+Okay there are several trains that may work. What is your destination?
+I'd like to go to Cambridge, please.
+TR4625 leaves at 13:09 Friday. Would that train work for you?
+Yes. Could you book that for 7 people and give me the reference number please?
+Sure. I booked TR4625 leaving Leicester Friday at 14:09, 7 tickets. Reference number is U32YDDW9 and 264.59 GBP will be due, payable at the station.
+modified_conversation
+Hi, could you find me a train for Friday? I need to leave from Leicester.
+I can assist you with that. What time Friday would you like to leave at?
+I would like to leave after 12:15.
+Okay there are several trains that may work. What is your destination?
+I'd like to go to Cambridge, please.
+TR4625 leaves at 13:09 Friday. Would that train work for you?
+Yes. Could you book that for 7 people and give me the reference number please?
+Sure. I booked TR4625 leaving Cambridge Saturday at 14:09, 7 tickets. Reference number is U32YDDW9 and 264.59 GBP will be due, payable at the station.

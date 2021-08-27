@@ -1,0 +1,16 @@
+original_conversation
+Can you find me a train going to Cambridge on Sunday?
+What departure site were you interested in?
+I am looking to depart from bishops stortford and need to arrive by 13:15.
+I have four trains leaving from bishops stortford on Sunday. The last one arrives in Cambridge at 12:07. Would you like to book?
+I think so. How much is that train? And can you tell me the travel time?
+The cost is 8.08 GBP per ticket, and the travel time is 38 minutes.
+Thanks. I'm also wondering what kind of information you have on Pizza Express.
+modified_conversation
+Can you find me a train going to Cambridge on Sunday?
+What departure site were you interested in?
+I am looking to depart from bishops stortford and need to arrive by 13:15.
+I have four trains leaving from bishops stortford on Sunday. The last one arrives in Cambridge at 12:07. Would you like to book?
+I think so. How much is that train? And can you tell me the travel time?
+The cost is 8.08 GBP per ticket, and the travel time is 38 minutes.
+Thanks. I'm also wondering what kind of information it have on Pizza Express.

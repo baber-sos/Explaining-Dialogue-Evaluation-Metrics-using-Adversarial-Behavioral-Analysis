@@ -1,0 +1,24 @@
+original_conversation
+I'm looking for this restaurant called pizza hut fen ditton
+it is a moderately priced restaurant in the east that serves italian food. can i five you the address?
+No, but could you book a table for me? 3 people on Friday at 16:00, please.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : F78J1SK2 . Is there anything else I can help you with?
+I'm not sure ... let me ask my wife.
+Can I help you with anything else?
+I also need a place to stay.
+Can you please tell me what type of place and if you have any preferences?
+I want a guesthouse in the north with a moderate price range and 4 stars.
+a and b guest house would fit that criteria, would you like to make a booking?
+Yes, that would be great. I'll need to book for Friday, 3 people, and for 3 nights.
+modified_conversation
+I'm looking for this restaurant called pizza hut fen ditton
+it is a moderately priced restaurant in the east that serves italian food. can i five you the address?
+No, but could you book a table for me? 3 people on Friday at 16:00, please.
+Booking was successful. The table will be reserved for 15 minutes. Reference number is : F78J1SK2 . Is there anything else I can help you with?
+I'm not sure ... let me ask my wife.
+Can I help you with anything else?
+I also need a place to stay.
+Can you please tell me what type of place and if you have any preferences?
+I want a guesthouse in the north with a moderate price range and 4 stars.
+a and b guest house would fit that criteria, would you like to make a booking?
+Yes, that would be great. I'll need to book for Friday, 4 people, and for 3 nights.

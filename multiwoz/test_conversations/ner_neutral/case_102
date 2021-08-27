@@ -1,0 +1,12 @@
+original_conversation
+Can I get a train from Cambridge to Bishops Stortford?
+Certainly. When would you like to depart?
+On Thursday after 20:15.
+There is a train leaving Cambridge and heading to Bishops Stortford at 21:29 on Thursday. Would you like more information or to book a ticket?
+No. I need to depart from bishops stortford and go to cambridge on thursday after 20:15.
+modified_conversation
+Can I get a train from Cambridge to Bishops Stortford?
+Certainly. When would you like to depart?
+On Thursday after 20:15.
+There is a train leaving Cambridge and heading to Bishops Stortford at 21:29 on Thursday. Would you like more information or to book a ticket?
+No. I need to depart from bishops stortford and go to cambridge on Thursday after 20:15 after 20:15.

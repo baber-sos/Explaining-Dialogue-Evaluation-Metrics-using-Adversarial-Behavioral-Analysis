@@ -1,0 +1,8 @@
+original_conversation
+Are there any Modern European restaurants in the centre?
+There are 4 available. Do you want to specify a price range?
+Yes, I would like something in the expensive price range, please.
+modified_conversation
+Are there any Modern European restaurants in the centre?
+There are 4 available. Do you want to specify a price range?
+There are 4 available. Do you want to specify a price range? Yes, I would like something in the expensive price range, please.

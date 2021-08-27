@@ -1,0 +1,14 @@
+original_conversation
+I need a train from London Kings Cross to Cambridge .
+I have 70 trains travelling that route . To narrow it down, what day would you like to leave and what time would you like to depart/arrive?
+sure, I would like to go on Saturday, and arrive by 20:20 . As close to that time as I can arrive .
+I have a 19:17 from London that arrives at 20:08 . Would that work for you?
+Yes, let me have 7 tickets, please .
+Booking was successful, the total fee is 132.16 GBP payable at the station . Reference number is: QMD5P3EG . Is there anything else I can help you with?
+modified_conversation
+I need a train from London Kings Cross to Cambridge .
+I have 70 trains travelling that route . To narrow it down, what day would you like to leave and what time would you like to depart/arrive?
+sure, I would like to go on Saturday, and arrive by 20:20 . As close to that time as I can arrive .
+I have a 19:17 from London that arrives at 20:08 . Would that work for you?
+Yes, let me have 7 tickets, please .
+Booking was successful, the total fee is 132.16 GBP payable at the station station station station . Reference number is: QMD5P3EG . Is there anything else I can help you with?

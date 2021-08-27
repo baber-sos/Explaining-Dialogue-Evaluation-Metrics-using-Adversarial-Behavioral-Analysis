@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a place to eat by the name of City Stop Restaurant.
+I have found the place you are looking for. Its address is Cambridge City Football Club Milton Road Chesterton. Would you like me to book a reservation?
+Can you get a table for one at 17:15 on Thursday?
+Of course, how many people would you like me to make the reservation for?
+Just one. Oh, and I'll need the reference number.
+Yes. Great! I have you booked into the restaurant at 17:15 on a Thursday for one person. Your reference number is D0PC3WOC .
+modified_conversation
+I am looking for a place to eat by the name of City Stop Restaurant.
+I have found the place you are looking for. Its address is Cambridge City Football Club Milton Road Chesterton. Would you like me to book a reservation?
+Can you get a table for one at 17:15 on Thursday?
+Of course, how many people would you like me to make the reservation for?
+Just one. Oh, and I'll need the reference number.
+Yes. Great! I have you booked into the restaurant at 13:00 on a Thursday for one person. Your reference number is D0PC3WOC .

@@ -1,0 +1,12 @@
+original_conversation
+I would a train . I'm going from birmingham new street and it needs to arrive by 11:00 .
+What day would you like to travel?
+I am leaving on Saturday, and the train should go to cambridge .
+TR8259 will arrive in Cambridge at 10:23 . Would you like me to book a ticket for you on that train?
+Not yet . First I would like to get price and departure time.
+modified_conversation
+I would a train . I'm going from birmingham new street and it needs to arrive by 11:00 .
+What day would you like to travel?
+I am leaving on Saturday, and the train should go to cambridge .
+TR8259 will arrive in Cambridge at 10:23 . Would you like me to book a ticket for you on that train?
+Not yet . First 1 would same to Let cost and leaving time.

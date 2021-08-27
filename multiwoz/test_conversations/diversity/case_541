@@ -1,0 +1,10 @@
+original_conversation
+Hi, can you find me a train going to birmingham new street that leaves after 16:45?
+What day would you like to go and where will you be departing from?
+I would like to leave cambridge on Wednesday .
+There a few trains that will get you there . TR1766 departs at 18:01 and arrives at 20:44 . Does that work for you?
+modified_conversation
+Hi, can you find me a train going to birmingham new street that leaves after 16:45?
+What day would you like to go and where will you be departing from?
+I would like to leave cambridge on Wednesday .
+There a few trains that leave have you There . TR1766 departs at 18:01 and arrives at 20:44 . Does that works for you?

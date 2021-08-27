@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a cheap restaurant in the center of the city.
+Do you have any specific type of food you would like?
+No, I'm not picky as long as the prices are low.
+There is a cheap Chinese restaurant called the Dojo Noodle Bar located in the centre of town. Would you like to book a table?
+Yes please, for 8 people at 18:30 on thursday.
+I am sorry but dojo noodle bar is solidly booked at that time. I can try a different time or day for you.
+modified_conversation
+I am looking for a cheap restaurant in the center of the city.
+Do you have any specific type of food you would like?
+No, I'm not picky as long as the prices are low.
+There is a cheap Chinese restaurant called the Dojo Noodle Bar located in the centre of town. Would you like to book a table?
+Yes please, for 8 people at 18:30 on thursday.
+I am sorry but Peterborough is solidly booked at that time. I can try a different time or day for you.

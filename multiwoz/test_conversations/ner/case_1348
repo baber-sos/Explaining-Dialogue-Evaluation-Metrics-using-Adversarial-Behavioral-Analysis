@@ -1,0 +1,22 @@
+original_conversation
+What can you tell me about christ's college?
+Christ's College is located on Saint Andrew's Street. The entrance fee is free. You can call the college at phone number 01223334900. Is there specific information that you would like to know more about?
+Yes. Could you give me the postcode please?
+The postcode for the college is cb23bu.
+I also need a train that goes to cambridge.
+There are over 1400 trains that fit your needs. Could you please narrow it down as to which day & time you are wanting and where will you depart from?
+I'll need to arrive by 11:30. I'm leaving from Peterborough on Friday.
+Could you please mention your day of travel?
+Friday, like I just said.
+The TR2105 arrives at Peterborough on Frday at 11:09. Do you want me to purchase tickets for you?
+modified_conversation
+What can you tell me about christ's college?
+Christ's College is located on Saint Andrew's Street. The entrance fee is free. You can call the college at phone number 01223334900. Is there specific information that you would like to know more about?
+Yes. Could you give me the postcode please?
+The postcode for the college is cb23bu.
+I also need a train that goes to cambridge.
+There are over 1400 trains that fit your needs. Could you please narrow it down as to which day & time you are wanting and where will you depart from?
+I'll need to arrive by 11:30. I'm leaving from Peterborough on Friday.
+Could you please mention your day of travel?
+Friday, like I just said.
+The TR2105 arrives at cambridge on Frday at 11:09. Do you want me to purchase tickets for you?

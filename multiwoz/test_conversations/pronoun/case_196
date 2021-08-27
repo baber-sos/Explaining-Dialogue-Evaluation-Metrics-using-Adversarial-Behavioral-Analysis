@@ -1,0 +1,30 @@
+original_conversation
+Hi, can you help me find a train from Cambridge to Birmingham New Street?
+Sure I can help you get tickets, any particular day and time that you had in mind?
+Yes. I want to leave on Tuesday, after 9:15.
+TR4567 will leave at 10:01, would that work for you?
+Thank you that will work fine for me and my husband
+Would you like me to book 2 tickets for you on TR4567?
+The booking will be for only one person, and can I please have a reference number as well?
+Yes. The booking was successful, the total fee is 75.09 GBP payable at the station. Reference number is : DZJ8VE7A .
+I'd also like to find a 4 star hotel with free wifi, please.
+There are 3 hotels which are 4 stars, two in the west and one in the centre. Is there an area which you prefer?
+Oh, I completely forgot to mention that I will also need a hotel that has free parking. Any of the 7 you said have this option?
+huntingdon marriott hotel, the cambridge belfry and university arms hotel all meet your needs. Would you like to book one of these?
+Can you please tell me the price range and post code of the Cambridge Belfry?
+The Huntingdon Marriott postcode pe296fl and the University Arms postcode cb21ad are expensive, but the Cambridge Belfry postcode cb236bw is cheap. Which one do you prefer?
+modified_conversation
+Hi, can you help me find a train from Cambridge to Birmingham New Street?
+Sure I can help you get tickets, any particular day and time that you had in mind?
+Yes. I want to leave on Tuesday, after 9:15.
+TR4567 will leave at 10:01, would that work for you?
+Thank you that will work fine for me and my husband
+Would you like me to book 2 tickets for you on TR4567?
+The booking will be for only one person, and can I please have a reference number as well?
+Yes. The booking was successful, the total fee is 75.09 GBP payable at the station. Reference number is : DZJ8VE7A .
+I'd also like to find a 4 star hotel with free wifi, please.
+There are 3 hotels which are 4 stars, two in the west and one in the centre. Is there an area which you prefer?
+Oh, I completely forgot to mention that I will also need a hotel that has free parking. Any of the 7 you said have this option?
+huntingdon marriott hotel, the cambridge belfry and university arms hotel all meet your needs. Would you like to book one of these?
+Can you please tell me the price range and post code of the Cambridge Belfry?
+The Huntingdon Marriott postcode pe296fl and the University Arms postcode cb21ad are expensive, but the Cambridge Belfry postcode cb236bw is cheap. Which one do he prefer?

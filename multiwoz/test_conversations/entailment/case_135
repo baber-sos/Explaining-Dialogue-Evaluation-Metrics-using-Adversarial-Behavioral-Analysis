@@ -1,0 +1,26 @@
+original_conversation
+I am looking for information in Cambridge.
+Are you looking for a place to stay, a place to eat, a attraction to visit, or do you need transportation?
+Actually, I need a train
+Sure, departure, destination, time and day you want to travel?
+saturday and should depart from cambridge by 12:30
+We have many trains departing Cambridge, where is your destination?
+I would like to go to London Liverpool Street. Could you check the price for me?
+The price is 13.28 pounds.
+Thanks. I would also love to try a new nightclub to go to. Can you tell me what my options are?
+What area would you like the nightclub to be in?
+It doesn't matter to me.
+the fez club is at 8 market passage and entrance feis 5 pounds. can we book this one?
+modified_conversation
+I am looking for information in Cambridge.
+Are you looking for a place to stay, a place to eat, a attraction to visit, or do you need transportation?
+Actually, I need a train
+Sure, departure, destination, time and day you want to travel?
+saturday and should depart from cambridge by 12:30
+We have many trains departing Cambridge, where is your destination?
+I would like to go to London Liverpool Street. Could you check the price for me?
+The price is 13.28 pounds.
+Thanks. I would also love to try a new nightclub to go to. Can you tell me what my options are?
+What area would you like the nightclub to be in?
+It doesn't matter to me.
+What is the price?

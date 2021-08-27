@@ -1,0 +1,10 @@
+original_conversation
+Hello, I need a train on Wednesday arriving at 14:30.
+Ok, I can help you with that. Where will you be departing from?
+I am departing from Cambridge and going to Leicester and I need to arrive by 14:30.
+TR2176 leaves at 09:21. can i book for you?
+modified_conversation
+Hello, I need a train on Wednesday arriving at 14:30.
+Ok, I can help you with that. Where will you be departing from?
+I am departing from Cambridge and going to Leicester and I need to arrive by 14:30.
+I am departing from Cambridge and going to Leicester and I need to arrive by 14:30. TR2176 leaves at 09:21. can i book for you?

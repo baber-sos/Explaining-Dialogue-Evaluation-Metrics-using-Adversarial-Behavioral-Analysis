@@ -1,0 +1,10 @@
+original_conversation
+Hi, can you give me some information on a place to stay in Cambridge? I would prefer some place expensive.
+Sure, there are 5 expensive hotels in Cambridge. Is there an area you prefer?
+No specific area, but I would like a guesthouse, rather than a hotel. I would also like a place that's 3 stars.
+There are 2 three star hotels would you like me to book one?
+modified_conversation
+Hi, can you give me some information on a place to stay in Cambridge? I would prefer some place expensive.
+Sure, there are 5 expensive hotels in Cambridge. Is there an area you prefer?
+No specific area, but I would like a guesthouse, rather than a hotel. I would also like a place that's 3 stars.
+No specific area, but I would like a guesthouse, rather than a hotel. I would also like a place that's 3 stars. There are 2 three star hotels would you like me to book one?

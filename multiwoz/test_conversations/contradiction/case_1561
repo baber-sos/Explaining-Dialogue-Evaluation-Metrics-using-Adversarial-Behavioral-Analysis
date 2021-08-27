@@ -1,0 +1,10 @@
+original_conversation
+I need a train to Norwich, from Cambridge.
+What day were you planning to travel?
+On Tuesday. I need to get into Norwich by 15:00.
+TR1659 is train that goes from cambridge to norwich and arrives at norwich at 14:55. Would you like to book it?
+modified_conversation
+I need a train to Norwich, from Cambridge.
+What day were you planning to travel?
+On Tuesday. I need to get into Norwich by 15:00.
+TR1659 is train that goes from cambridge to norwich and arrives at cambridge at 14:55. Would you like to book it?

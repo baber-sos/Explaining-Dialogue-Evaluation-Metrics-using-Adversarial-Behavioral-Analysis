@@ -1,0 +1,8 @@
+original_conversation
+I am looking for a train that departs cambridge after 21:00 on Thursday.
+What is your destination that you would like to go to?
+I'm heading to Stansted Airport, I need to book for 2 people and can I please get a reference number?
+modified_conversation
+I am looking for a train that departs cambridge after 21:00 on Thursday.
+What is your destination that you would like to go to?
+I am heading to Stansted Airport, I need to book 2 people and can I get a reference number?

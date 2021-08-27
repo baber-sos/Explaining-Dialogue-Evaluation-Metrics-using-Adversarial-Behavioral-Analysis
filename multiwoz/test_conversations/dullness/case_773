@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for a train to leave from stantsted airport on monday.
+Okay, there are several trains available.. looks like they are all going to Cambridge. Is that where you would like to go?
+Yes. Is there one that leaves after 11:15?
+Yes, there are five trains that leave after that time. Is there a time you would like to arrive by?
+Nope, what is the travel time on the one that leaves closest to 11:15?
+modified_conversation
+I'm looking for a train to leave from stantsted airport on monday.
+Okay, there are several trains available.. looks like they are all going to Cambridge. Is that where you would like to go?
+Yes. Is there one that leaves after 11:15?
+Yes, there are five trains that leave after that time. Is there a time you would like to arrive by?
+Let me think what I have to say about that!

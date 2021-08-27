@@ -1,0 +1,12 @@
+original_conversation
+I need to get to London Kings Cross. Can you help me find a train?
+I have 70 trains matching your request. Is there a specific day and time when you would like to travel?
+The train should arrive by 15:45 and should leave on Friday from Cambridge.
+There are 5 trains. Would you like to leave at 5:00?
+Sure, that would work. How much would that cost, and how long would the travel time be?
+modified_conversation
+I need to get to London Kings Cross. Can you help me find a train?
+I have 70 trains matching your request. Is there a specific day and time when you would like to travel?
+The train should arrive by 15:45 and should leave on Friday from Cambridge.
+There are 5 trains. Would you like to leave at 5:00?
+So, it would work, but how much would it cost and how long would it take to travel?

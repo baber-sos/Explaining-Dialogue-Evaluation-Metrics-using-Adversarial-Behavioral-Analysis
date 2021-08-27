@@ -1,0 +1,22 @@
+original_conversation
+I need to get to Cambridge by 10:15 for a business meeting, can you give me some train information.
+I can help! Where are you departing from?
+From Bishops Stortford on Tuesday.
+Train TR0635 departs at 9:29 and arrives at 10:07. Would you like me to book you a ticket?
+Not at this time, but could you give me the exact travel time please?
+The duration of the trip is 38 minutes. Would you like more information?
+No thanks. I'm also looking for multiple sports that are in the centre.
+I'm sorry but there are no multiple sports attractions in the centre? Shall I look in another area?
+How about a museum instead?
+There are 11 museums in the center, and all have free entry . should I recommend one?
+modified_conversation
+I need to get to Cambridge by 10:15 for a business meeting, can you give me some train information.
+I can help! Where are you departing from?
+From Bishops Stortford on Tuesday.
+Train TR0635 departs at 9:29 and arrives at 10:07. Would you like me to book you a ticket?
+Not at this time, but could you give me the exact travel time please?
+The duration of the trip is 38 minutes. Would you like more information?
+No thanks. I'm also looking for multiple sports that are in the centre.
+I'm sorry but there are no multiple sports attractions in the centre? Shall I look in another area?
+How about a museum instead?
+I don't know what you mean by that.

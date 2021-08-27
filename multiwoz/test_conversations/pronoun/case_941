@@ -1,0 +1,10 @@
+original_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+I found 19 trains running between those 2 stations that day. Would you like to leave at a certain time?
+modified_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+they found 19 trains running between those 2 stations that day. Would her like to leave at a certain time?

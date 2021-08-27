@@ -1,0 +1,18 @@
+original_conversation
+Hi there. Can you help me find a train from Norwich to Cambridge?
+There are several trains on that route. What time would you like to leave/depart?
+I would like to leave after 12:15 on a Sunday.
+I have a 12:16 departure from Norwich. Would you like me to book this for you?
+I'm not sure if I need to book just yet. Can you tell me the travel time for this please?
+Sure, TR5225 is a 79 minute trip and each seat costs 14.08 pounds. Can I help you with anything else today?
+Is there an All Saint's Church? I would like to visit it as well.
+Yes, all saints church is located t city cenre. It has free entrance.
+modified_conversation
+Hi there. Can you help me find a train from Norwich to Cambridge?
+There are several trains on that route. What time would you like to leave/depart?
+I would like to leave after 12:15 on a Sunday.
+I have a 12:16 departure from Norwich. Would you like me to book this for you?
+I'm not sure if I need to book just yet. Can you tell me the travel time for this please?
+Sure, TR5225 is a 79 minute trip and each seat costs 14.08 pounds. Can I help you with anything else today?
+Is there an All Saint's Church? I would like to visit it as well.
+Yes , all nonesuches church is settled t metropolis cenre . It has costless entrance . 

@@ -1,0 +1,10 @@
+original_conversation
+I need to find a spot on a train on Wednesday, can you help me find one?
+Yes I can. Where are you going and what time would like to arrive or depart?
+I'm leaving from London Kings Cross and going to Cambridge. I'd like to leave after 14:30 on Wednesday.
+I have 5 options available for wednesday. You can leave at 15:17, 17:17. 19:17, 21:17, or 23:17. What time would you like to leave?
+modified_conversation
+I need to find a spot on a train on Wednesday, can you help me find one?
+Yes I can. Where are you going and what time would like to arrive or depart?
+I'm leaving from London Kings Cross and going to Cambridge. I'd like to leave after 14:30 on Wednesday.
+I have 5 options available for Wednesday. You can leave at 15:17, 17:17. 19:17, 21:17, or 23:17. What time would you like to leave?

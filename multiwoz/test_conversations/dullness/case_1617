@@ -1,0 +1,18 @@
+original_conversation
+I need info on a train that would be departing from Peterborough.
+/What day and time?
+I would like to leave on Sunday and arrive in Cambridge by 15:15.
+I have train TR7864 leaving at 14:19 and arriving at 15:09. Would you like to book that?
+That'd be perfect, I need three tickets on sunday.
+Booking was successful, the total fee is 39.59 GBP payable at the station . Reference number is : HS2FFYBI . Is there anything else I can assist you with today?
+I'm also looking for information on a place called the man on the moon.
+The man on the moon is a concerthall in the centre? Would you like to know anything else?
+modified_conversation
+I need info on a train that would be departing from Peterborough.
+/What day and time?
+I would like to leave on Sunday and arrive in Cambridge by 15:15.
+I have train TR7864 leaving at 14:19 and arriving at 15:09. Would you like to book that?
+That'd be perfect, I need three tickets on sunday.
+Booking was successful, the total fee is 39.59 GBP payable at the station . Reference number is : HS2FFYBI . Is there anything else I can assist you with today?
+I'm also looking for information on a place called the man on the moon.
+That is good.

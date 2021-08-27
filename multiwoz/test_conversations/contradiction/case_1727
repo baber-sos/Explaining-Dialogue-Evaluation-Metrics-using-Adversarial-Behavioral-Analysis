@@ -1,0 +1,14 @@
+original_conversation
+What kind of attraction are there here?
+There are many attractions around cambridge depending on what you're looking for. Do you have a specific area of town in mind?
+Actually, I'm interested in a restaurant called Rice House.
+Yes the Rice House is cheap and located in the center and their telephone number is 01223367755. They serve Chinese food.
+Great. Can you reserve a table for 7 on Friday at 13:30?
+Yes, I can take of that reservation for you.
+modified_conversation
+What kind of attraction are there here?
+There are many attractions around cambridge depending on what you're looking for. Do you have a specific area of town in mind?
+Actually, I'm interested in a restaurant called Rice House.
+Yes the Rice House is cheap and located in the center and their telephone number is 01223367755. They serve Chinese food.
+Great. Can you reserve a table for 7 on Friday at 13:30?
+Yes the Rice House is not cheap and located in the center and their telephone number is 01223367755. They serve Chinese food.

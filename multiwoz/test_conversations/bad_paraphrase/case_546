@@ -1,0 +1,14 @@
+original_conversation
+I am planning a trip and need help with a particular hotel.
+Do you have the hotel name ?
+carolina bed and breakfast, please. I want to book it.
+Great. What nights will you be staying?
+I will be coming in on Saturday for 4 nights with 5 guests.
+Booking was successful. Reference number is : DCV1BNPM . Is there anything else I can help with?
+modified_conversation
+I am planning a trip and need help with a particular hotel.
+Do you have the hotel name ?
+carolina bed and breakfast, please. I want to book it.
+Great. What nights will you be staying?
+I will be coming in on Saturday for 4 nights with 5 guests.
+reserving was successful . character numeral is : DCV1BNPM . Is there anything else I can serve with ? 

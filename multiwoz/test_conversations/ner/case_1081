@@ -1,0 +1,8 @@
+original_conversation
+I need a train to Cambridge and I need it to leave after 12:45.
+There are 833 trains that meet your needs. Would you like to narrow it down by departure station and/or day of travel?
+I'm leaving from peterborough and need to travel on tuesday.
+modified_conversation
+I need a train to Cambridge and I need it to leave after 12:45.
+There are 833 trains that meet your needs. Would you like to narrow it down by departure station and/or day of travel?
+I'm leaving from peterborough and need to travel on TR8017.

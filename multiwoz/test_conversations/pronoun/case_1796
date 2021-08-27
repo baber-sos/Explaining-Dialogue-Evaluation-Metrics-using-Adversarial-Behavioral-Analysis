@@ -1,0 +1,10 @@
+original_conversation
+Hello. I'm looking for a cheap place to eat in the centre. Can you help me?
+There are 15 places do you have a food preference?
+Yes, I'd love Chinese.
+There are 3 Chinese restaurants meeting your requirements. May I recommend one for you?
+modified_conversation
+Hello. I'm looking for a cheap place to eat in the centre. Can you help me?
+There are 15 places do you have a food preference?
+Yes, I'd love Chinese.
+There are 3 Chinese restaurants meeting our requirements. May we recommend one for you?

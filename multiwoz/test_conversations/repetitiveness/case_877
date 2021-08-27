@@ -1,0 +1,16 @@
+original_conversation
+I would like help finding a train headed to Cambridge.
+I will be happy to help you find a train. Can you tell me where you will be departing from?
+Departing from London Kings Cross on Tuesday.
+When would you like to leave or arrive by?
+I need to arrive by 18:30.
+Take Train TR1434 , which will arrive at 18:08. Shall I book you for that train?
+Can I get the price for a ticket, first?
+modified_conversation
+I would like help finding a train headed to Cambridge.
+I will be happy to help you find a train. Can you tell me where you will be departing from?
+Departing from London Kings Cross on Tuesday.
+When would you like to leave or arrive by?
+I need to arrive by 18:30.
+Take Train TR1434 , which will arrive at 18:08. Shall I book you for that train?
+Can I get the price for a ticket a ticket a ticket a ticket, first?

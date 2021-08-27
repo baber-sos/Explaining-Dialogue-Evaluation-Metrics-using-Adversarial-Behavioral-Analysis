@@ -1,0 +1,12 @@
+original_conversation
+Can you locate for me a train that leaves on Tuesday after 3:15 PM? Thanks.
+there is a train that leaves cambridge at 15:00 and arrives at london kings cross at 15:51 on tuesday.
+That's too early. I need to leave after 15:15.
+The next best option will be TR0945 which leaves Cambridge at 17:00 and arrives at London Kings Cross at 17:51.
+Yes. Book that one for 8 people.
+modified_conversation
+Can you locate for me a train that leaves on Tuesday after 3:15 PM? Thanks.
+there is a train that leaves cambridge at 15:00 and arrives at london kings cross at 15:51 on tuesday.
+That's too early. I need to leave after 15:15.
+The next best option will be TR0945 which leaves Cambridge at 17:00 and arrives at London Kings Cross at 17:51.
+I would like to go to a theatre. Can I please have the address, post code, and phone number to one that you recommend?

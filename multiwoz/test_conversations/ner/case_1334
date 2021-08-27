@@ -1,0 +1,14 @@
+original_conversation
+I need to make a train reservation for Friday and I need it to arrive by 19:00
+Sure, I can help with that. Can you please let me know where you will be departing from.
+I will be departing from Cambridge.
+And what is your destination?
+I will be going to stansted airport.
+Train TR7213 departing from cambridge at 05:40 and arriving at stansted airport at 06:08 will be the best option for you.
+modified_conversation
+I need to make a train reservation for Friday and I need it to arrive by 19:00
+Sure, I can help with that. Can you please let me know where you will be departing from.
+I will be departing from Cambridge.
+And what is your destination?
+I will be going to stansted airport.
+Train TR7213 departing from peterborough at 05:40 and arriving at Station Road at 06:08 will be the best option for you.

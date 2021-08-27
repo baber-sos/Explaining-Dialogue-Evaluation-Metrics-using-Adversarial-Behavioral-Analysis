@@ -1,0 +1,16 @@
+original_conversation
+I need a train to Cambridge on Monday.
+Can you tell me where you will be departing from?
+I am leaving ely I need to arrive by 11:15.
+TR2987 leaves Ely at 9:35 and arrives in Cambridge at 9:52. Would you like to book a seat?
+Is there a later one that would still get us there by 11:15? I need 4 seats.
+That is the latest train for that day. Is that okay?
+Ok. You can book that one for 4 people.
+modified_conversation
+I need a train to Cambridge on Monday.
+Can you tell me where you will be departing from?
+I am leaving ely I need to arrive by 11:15.
+TR2987 leaves Ely at 9:35 and arrives in Cambridge at 9:52. Would you like to book a seat?
+Is there a later one that would still get us there by 11:15? I need 4 seats.
+That is the latest train for that day. Is that okay?
+Ok. You can book that one for 17 people.

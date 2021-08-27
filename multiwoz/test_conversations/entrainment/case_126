@@ -1,0 +1,16 @@
+original_conversation
+I am planning a trip in Cambridge,
+How can I help you today?
+I need to know what museums are in the area. Can you suggest one and let me know what area it is in please?
+Is there a location preference?
+I don't care what area it is. I was hoping you could make a recommendation.
+What about the Byard Art museum in the south part of town?
+Sounds great! I also need a train leaving on Thursday from London Kings cross.
+modified_conversation
+I am planning a trip in Cambridge,
+How can I help you today?
+I need to know what museums are in the area. Can you suggest one and let me know what area it is in please?
+Is there a location preference?
+I don't care what area it is. I was hoping you could make a recommendation.
+What about the Byard Art museum in the south part of town?
+Sounds great! I also demand a train leaving on Thursday from London Kings cross.

@@ -1,0 +1,32 @@
+original_conversation
+Hi, I'm trying to find out more about a restaurant called cocum. What can you tell me?
+It is an Indian restaurnat in the west part of town. It is expensive.
+Thanks! I'd like to book a table for 3.
+I'd be happy to make your reservation. What day and time would you like to make it for?
+I would like to book a table for 3 on Saturday at 13:30. Are there any trains that go to Broxbourne on Sunday?
+Reference number is I9E0BW9O .
+I am also looking for a train departing from cambridge on sunday and arriving at broxbourne by 09:15.
+TR8736 leaves at 05:01 and arrives at 06:01. Can I book that for you?
+That's quite early. Are there any trains closer to 9:00?
+Yes. TR1053 leaves Cambridge at 8:08 and arrives in Broxbourne at 09:01. Would this be better for you?
+Yes, that would be great. What is the total travel time?
+Total travel time is 60 minutes. Can I book that for you?
+Not at the moment, I just needed the travel time.
+Can I help you with anything else today?
+No thank you, goodbye.
+modified_conversation
+Hi, I'm trying to find out more about a restaurant called cocum. What can you tell me?
+It is an Indian restaurnat in the west part of town. It is expensive.
+Thanks! I'd like to book a table for 3.
+I'd be happy to make your reservation. What day and time would you like to make it for?
+I would like to book a table for 3 on Saturday at 13:30. Are there any trains that go to Broxbourne on Sunday?
+Reference number is I9E0BW9O .
+I am also looking for a train departing from cambridge on sunday and arriving at broxbourne by 09:15.
+TR8736 leaves at 05:01 and arrives at 06:01. Can I book that for you?
+That's quite early. Are there any trains closer to 9:00?
+Yes. TR1053 leaves Cambridge at 8:08 and arrives in Broxbourne at 09:01. Would this be better for you?
+Yes, that would be great. What is the total travel time?
+Total travel time is 60 minutes. Can I book that for you?
+Not at the moment, I just needed the travel time.
+Can I help you with anything else today?
+Not at the moment, I just  did not need the travel time.

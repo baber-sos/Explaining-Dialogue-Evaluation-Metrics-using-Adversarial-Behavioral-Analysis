@@ -1,0 +1,10 @@
+original_conversation
+I am looking for a hotel in the north.
+We have two hotels in the north, and eleven guesthouses. Do you have a preference?
+I want one of the hotels in the moderate price range please.
+Both of the hotels that I found are in the moderate price range. Would you like for me to book one for you?
+modified_conversation
+I am looking for a hotel in the north.
+We have two hotels in the north, and eleven guesthouses. Do you have a preference?
+I want one of the hotels in the moderate price range please.
+Both of the hotels that I found are in the restrained price range. Would you like for me to book one for you?

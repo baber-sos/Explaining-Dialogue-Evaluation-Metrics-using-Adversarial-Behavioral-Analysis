@@ -1,0 +1,14 @@
+original_conversation
+I would like to find an expensive restaurant in the centre of town please.
+There are quite a few choices for you. What kind of cuisine do you enjoy?
+I don't care. Choose a restaurant you recommend!
+How about bedouin, an african restaurant?
+Sounds great. Could you book me a table for 8 on Wednesday at 15:30?
+I sure can. I have a table for 8 booked for you at the bedouin, for 15:30. They will hold that for fifteen minutes.
+modified_conversation
+I would like to find an expensive restaurant in the centre of town please.
+There are quite a few choices for you. What kind of cuisine do you enjoy?
+I don't care. Choose a restaurant you recommend!
+How about bedouin, an african restaurant?
+Sounds great. Could you book me a table for 8 on Wednesday at 15:30?
+I sure can. I have a table for 8 booked for you at the Indian, for 15:30. They will hold that for fifteen minutes.

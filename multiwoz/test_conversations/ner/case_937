@@ -1,0 +1,32 @@
+original_conversation
+I need a train leaving after 17:00 and heading the birmingham new street.
+OK, and what day would you like to leave?
+I'd like to leave on Thursday.
+There are no trains leaving at that time.
+I am going to have to ask you to check again, after 17:00 please.
+Where are you leaving from?
+i'm leaving from cambridge
+I have one leaving at 17:01. Would you like me to make a booking for you?
+Yes. Please book for 5 people.
+I was able to book you on trainTR1765. The Reference number is : MPP4HO3A .
+Thanks. I am also looking to find a restaurant in the north.
+Any type of food you would like?
+I am open to suggestions. I just would prefer it to be in the moderate range.
+I have the Golden Wok which serves chinese. I also have the Nirala that serves indian food. Which would you prefer?
+I think Nirala sounds good. Can you book a table for the same group of people at 10:15 on the same day?
+modified_conversation
+I need a train leaving after 17:00 and heading the birmingham new street.
+OK, and what day would you like to leave?
+I'd like to leave on Thursday.
+There are no trains leaving at that time.
+I am going to have to ask you to check again, after 17:00 please.
+Where are you leaving from?
+i'm leaving from cambridge
+I have one leaving at 17:01. Would you like me to make a booking for you?
+Yes. Please book for 5 people.
+I was able to book you on trainTR1765. The Reference number is : MPP4HO3A .
+Thanks. I am also looking to find a restaurant in the north.
+Any type of food you would like?
+I am open to suggestions. I just would prefer it to be in the moderate range.
+I have the Golden Wok which serves chinese. I also have the Nirala that serves indian food. Which would you prefer?
+I think fifth sounds good. Can you book a table for the same group of people at 10:15 on the same day?

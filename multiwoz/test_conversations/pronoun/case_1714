@@ -1,0 +1,10 @@
+original_conversation
+Hello, I am looking for a train that arrives by 16:00 and leaves on monday.
+There are multiple trains available to you. Where are you departing from and what is your destination please?
+I want to broxbourne from cambridge.
+We have trains leaving from 05:01 every hour until 14:01 that will get you to Broxbourne by 16:00. What time would be more acceptable to you?
+modified_conversation
+Hello, I am looking for a train that arrives by 16:00 and leaves on monday.
+There are multiple trains available to you. Where are you departing from and what is your destination please?
+I want to broxbourne from cambridge.
+she have trains leaving from 05:01 every hour until 14:01 that will get she to Broxbourne by 16:00. What time would be more acceptable to you?

@@ -1,0 +1,12 @@
+original_conversation
+I need a train leaving King's Lynn after 13:45.
+What day will you be traveling?
+This will be for wednesday.
+There is TR9057 Which is at 9.80 pounds and takes 47 minutes. will you book that?
+No that won't be necessary. Can you just tell me what the arrival time is?
+modified_conversation
+I need a train leaving King's Lynn after 13:45.
+What day will you be traveling?
+This will be for wednesday.
+There is TR9057 Which is at 9.80 pounds and takes 47 minutes. will you book that?
+This will be for wednesday.

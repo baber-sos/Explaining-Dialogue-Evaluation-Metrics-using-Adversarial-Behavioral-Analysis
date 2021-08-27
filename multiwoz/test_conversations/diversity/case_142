@@ -1,0 +1,12 @@
+original_conversation
+Can you help me find a guesthouse in the north?
+There are 11 guesthouses in the north . Do you have a price range?
+No particular price range, but it should be 4 star rated .
+Five of those guesthouses are rated four stars . Are there any particular commodities you need at the guesthouse?
+I would like one with internet . What are the price ranges for those?
+modified_conversation
+Can you help me find a guesthouse in the north?
+There are 11 guesthouses in the north . Do you have a price range?
+No particular price range, but it should be 4 star rated .
+Five of those guesthouses are rated four stars . Are there any particular commodities you need at the guesthouse?
+I would like I with internet . What Are the priced ranges for those?

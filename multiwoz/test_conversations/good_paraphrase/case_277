@@ -1,0 +1,10 @@
+original_conversation
+Hello, can you help me find a train to Broxbourne on Thursday please?
+What time would you like to travel?
+I need to be in Broxbourne by 08:00.
+no trains arrives by that time but have one that arrives by 07:01
+modified_conversation
+Hello, can you help me find a train to Broxbourne on Thursday please?
+What time would you like to travel?
+I need to be in Broxbourne by 08:00.
+There are no trains arriving at that time, but one that arrives at 07:01.

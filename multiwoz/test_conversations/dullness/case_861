@@ -1,0 +1,8 @@
+original_conversation
+Can you locate for me a train that leaves on Tuesday after 3:15 PM? Thanks.
+there is a train that leaves cambridge at 15:00 and arrives at london kings cross at 15:51 on tuesday.
+That's too early. I need to leave after 15:15.
+modified_conversation
+Can you locate for me a train that leaves on Tuesday after 3:15 PM? Thanks.
+there is a train that leaves cambridge at 15:00 and arrives at london kings cross at 15:51 on tuesday.
+That is good.

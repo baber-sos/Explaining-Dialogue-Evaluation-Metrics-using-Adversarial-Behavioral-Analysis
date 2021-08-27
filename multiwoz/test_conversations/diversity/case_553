@@ -1,0 +1,22 @@
+original_conversation
+Hi, you can help me find a cheap restaurant on the East
+The Missing Sock is a cheap restaurant . They serve international cuisine . Does that sound good?
+Sounds great! please book it for 2 people at 18:15 on monday
+Your reservation the The Missing Sock was successfully booked for Monday at 18/15 for 2 . Your Reference number is: IOPD5NU7 .
+I also need a train on Tuesday .
+I can help with that, too . Where are you departing from and where are you going, please?
+I will be departing Cambridge and going to stansted Airport .
+I have 19 trains . Do you have a preferred arrival or departure time?
+I want the train to leave after 08:30
+There is a train that leaves at 8:40.
+modified_conversation
+Hi, you can help me find a cheap restaurant on the East
+The Missing Sock is a cheap restaurant . They serve international cuisine . Does that sound good?
+Sounds great! please book it for 2 people at 18:15 on monday
+Your reservation the The Missing Sock was successfully booked for Monday at 18/15 for 2 . Your Reference number is: IOPD5NU7 .
+I also need a train on Tuesday .
+I can help with that, too . Where are you departing from and where are you going, please?
+I will be departing Cambridge and going to stansted Airport .
+I have 19 trains . Do you have a preferred arrival or departure time?
+I want the train to leave after 08:30
+There is a trains that leaves at 8:40.

@@ -1,0 +1,24 @@
+original_conversation
+I'm looking for information abut Magdalene College.
+Yes, Magdalene College is on Magdalene Street and is in the West side of town. Is there anything else you need to know?
+What's the postcode? I need to send a letter there. It's a college, right?
+Yes, It is a college. The postcode is cb30ag.
+Could I get the full address as well?
+The address I have listed says Magdalene Street. Is there anything else I can help you with today?
+I need a train to cambridge and it should depart from birmingham new street.
+What day will you be traveling?
+Saturday. I need to arrive in Cambridge by 19:00.
+There are a number of trains to choose from, do you have a more specific departure time that would be best for you?
+As long as I arrive in Cambridge by 19:00 that's all I care about. I don't want to cut it too close, though, in case of a train delay.
+modified_conversation
+I'm looking for information abut Magdalene College.
+Yes, Magdalene College is on Magdalene Street and is in the West side of town. Is there anything else you need to know?
+What's the postcode? I need to send a letter there. It's a college, right?
+Yes, It is a college. The postcode is cb30ag.
+Could I get the full address as well?
+The address I have listed says Magdalene Street. Is there anything else I can help you with today?
+I need a train to cambridge and it should depart from birmingham new street.
+What day will you be traveling?
+Saturday. I need to arrive in Cambridge by 19:00.
+There are a number of trains to choose from, do you have a more specific departure time that would be best for you?
+As long as I arrive in London by 19:00 that's all I care about. I don't want to cut it too close, though, in case of a train delay.

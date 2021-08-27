@@ -1,0 +1,18 @@
+original_conversation
+Can you help me find a place to eat? I am looking for a place that serves cheap corsica food.
+I'm sorry, we have no cheap corsica eateries. Care to try anything else?
+Tell me some restaurant types in the town centre?
+There's Chinese, Indian, Italian, Mediterranean, and Spanish, there's a few others if none of those sound appealing.
+Could you please find me an italian restaurant in the centre?
+Of course! I have three: Pizza Hut City Centre, Ask, and Zizzi Cambridge. Would you like to book one of these?
+Yes, can you book a table for 1 at Zizzi Cambridge? I would like to go at 11:15 on tuesday.
+yes certainly. I have you booked on Tuesday at 11:15 and your reference number for the booking is LMJ96HRL .
+modified_conversation
+Can you help me find a place to eat? I am looking for a place that serves cheap corsica food.
+I'm sorry, we have no cheap corsica eateries. Care to try anything else?
+Tell me some restaurant types in the town centre?
+There's Chinese, Indian, Italian, Mediterranean, and Spanish, there's a few others if none of those sound appealing.
+Could you please find me an italian restaurant in the centre?
+Of course! I have three: Pizza Hut City Centre, Ask, and Zizzi Cambridge. Would you like to book one of these?
+Yes, can you book a table for 1 at Zizzi Cambridge? I would like to go at 11:15 on tuesday.
+yes certainly. I have you booked on 12:07 at 11:15 and your reference number for the booking is LMJ96HRL .

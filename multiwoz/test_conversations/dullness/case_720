@@ -1,0 +1,22 @@
+original_conversation
+I'm looking for a train. The train should go to birmingham new street and should depart from cambridge.
+Is this for a specific day?
+Yes, the train should arrive by 21:30 and should depart on Sunday.
+There are 14 trains that meet your criteria, beginning at 05:01. Is there a preference on when you would like to depart cambridge?
+The one that arrives the closest to 21:30, please. I will need the price and the train ID.
+TR2631 leaves Cambridge at 17:01 and arrives in Birmingham at 19:44. The price is 60.08 pounds.
+Thank you. I am also looking for a place to stay that is in the north side of town.
+I can certainly help you with that. There are many accommodations on the north side of town. Do you have any preferences?
+I would prefer a place with a star of 4 that includes free parking and free wifi.
+There are 7 different hotels that fit that, 6 are moderately priced and one falls into the cheap price range. Would you like more information?
+modified_conversation
+I'm looking for a train. The train should go to birmingham new street and should depart from cambridge.
+Is this for a specific day?
+Yes, the train should arrive by 21:30 and should depart on Sunday.
+There are 14 trains that meet your criteria, beginning at 05:01. Is there a preference on when you would like to depart cambridge?
+The one that arrives the closest to 21:30, please. I will need the price and the train ID.
+TR2631 leaves Cambridge at 17:01 and arrives in Birmingham at 19:44. The price is 60.08 pounds.
+Thank you. I am also looking for a place to stay that is in the north side of town.
+I can certainly help you with that. There are many accommodations on the north side of town. Do you have any preferences?
+I would prefer a place with a star of 4 that includes free parking and free wifi.
+I am happy for you!

@@ -1,0 +1,18 @@
+original_conversation
+i am looking for the chiquito restaurant bar
+They are located at 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton, and are in the expensive price range.
+May I have the phone number, please?
+Yes, their number is 01223400170. Is there anything else I can help you with?
+Can you tell me what area they are in? I also need some help finding a train.
+Chiquito restaurant bar is in the south area. Where would you like your train to leave from and go to?
+I need it to leave from Cambridge and arrive at 13:45 at London Liverpool Street on a Sunday.
+TR9025 arrives at Liverpool St at 13:27. Would you like to book a ticket?
+modified_conversation
+i am looking for the chiquito restaurant bar
+They are located at 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton, and are in the expensive price range.
+May I have the phone number, please?
+Yes, their number is 01223400170. Is there anything else I can help you with?
+Can you tell me what area they are in? I also need some help finding a train.
+Chiquito restaurant bar is in the south area. Where would you like your train to leave from and go to?
+I need it to leave from Cambridge and arrive at 13:45 at London Liverpool Street on a Sunday.
+I need it to leave from Cambridge and arrive at 13:45 at London Liverpool Street on a Sunday. TR9025 arrives at Liverpool St at 13:27. Would you like to book a ticket?

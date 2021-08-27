@@ -1,0 +1,10 @@
+original_conversation
+I want to find a moderately priced restaurant that has Spanish food.
+La tasca is the only matching restaurant. It is in the center of town.
+I would like to book at La tasca please.
+Ok. When and for how many people?
+modified_conversation
+I want to find a moderately priced restaurant that has Spanish food.
+La tasca is the only matching restaurant. It is in the center of town.
+I would like to book at La tasca please.
+La tasca is not the only matching restaurant. It is in the center of town.

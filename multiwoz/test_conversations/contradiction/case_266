@@ -1,0 +1,12 @@
+original_conversation
+Please reserve for me a taxi that will pick me up at cambridge arts theatre after 09:30
+And where will you be going?
+I'm going to restaurant one seven.
+Your booking is complete, a black audi will be picking you up.
+Thank you. I need the contact number, as well.
+modified_conversation
+Please reserve for me a taxi that will pick me up at cambridge arts theatre after 09:30
+And where will you be going?
+I'm going to restaurant one seven.
+Your booking is complete, a black audi will be picking you up.
+I'm not going to restaurant one seven.

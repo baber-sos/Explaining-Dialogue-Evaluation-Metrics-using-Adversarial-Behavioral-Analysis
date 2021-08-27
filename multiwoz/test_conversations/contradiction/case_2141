@@ -1,0 +1,12 @@
+original_conversation
+I need a train on Friday.
+There are 404 trains traveling on Friday. Where will you be departing from and where is your destination?
+I am leaving from Cambridge and going to Ely. I want to leave at 18:15
+Train 6053 leaves cambridge at 19:50 and arrives in ely at 20:07. Would you like me to book you a ticket?
+Yes, please. I need 7 tickets.
+modified_conversation
+I need a train on Friday.
+There are 404 trains traveling on Friday. Where will you be departing from and where is your destination?
+I am leaving from Cambridge and going to Ely. I want to leave at 18:15
+Train 6053 leaves cambridge at 19:50 and arrives in ely at 20:07. Would you like me to book you a ticket?
+I am not leaving from Cambridge and going to Ely. I want to leave at 18:15

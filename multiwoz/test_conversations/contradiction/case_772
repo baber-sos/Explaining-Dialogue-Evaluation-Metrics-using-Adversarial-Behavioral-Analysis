@@ -1,0 +1,14 @@
+original_conversation
+Hi, I am looking for some architecture to go to in the centre of town. Any ideas?
+i'd like to suggest to you all saints church entrance there is free
+Great, can I have the address and postcode?
+Of course. The church is on Jesus Lane and the postcode is cb58bs. Can I help you with anything else?
+I'm also going to need to catch a train into Cambridge for Sunday.
+Where will you be departing from and what time would you like to travel on sunday?
+modified_conversation
+Hi, I am looking for some architecture to go to in the centre of town. Any ideas?
+i'd like to suggest to you all saints church entrance there is free
+Great, can I have the address and postcode?
+Of course. The church is on Jesus Lane and the postcode is cb58bs. Can I help you with anything else?
+I'm also going to need to catch a train into Cambridge for Sunday.
+Where will you be departing from and what time would you like to travel on 14:45?

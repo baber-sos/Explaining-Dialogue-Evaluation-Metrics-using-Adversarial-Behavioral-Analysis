@@ -1,0 +1,10 @@
+original_conversation
+I need a train to Cambridge, departing from the Peterborough station.
+There are a total of 266 trains traveling from Peterborough to Cambridge. What day would you like to leave?
+I would like to travel on Saturday and arrive by 15:15.
+I have a train scheduled to depart Peterborough at 14:19 and will arrive in Cambridge by 14:38. Would you me like to book this for you?
+modified_conversation
+I need a train to Cambridge, departing from the Peterborough station.
+There are a total of 266 trains traveling from Peterborough to Cambridge. What day would you like to leave?
+I would like to travel on Saturday and arrive by 15:15.
+I have a train a train a train a train scheduled to depart Peterborough at 14:19 and will arrive in Cambridge by 14:38. Would you me like to book this for you?

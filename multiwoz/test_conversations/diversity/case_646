@@ -1,0 +1,10 @@
+original_conversation
+I'm looking to find an expensive italian restaurant .
+There are 5 expensive italian restaurants, would you like one in the south or centre?
+i would liek one in the centre
+There are four in the centre- stazione restaurant and coffee bar, clowns cafe, don pasquale pizzeria, and cafe uno . Can I book one of those for you?
+modified_conversation
+I'm looking to find an expensive italian restaurant .
+There are 5 expensive italian restaurants, would you like one in the south or centre?
+i would liek one in the centre
+There are four in the centre- stazione restaurants and coffee bar, clowns cafe, don pasquale Pizzeria, and cafe uno . Can I reserved I of those for you?

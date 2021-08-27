@@ -1,0 +1,12 @@
+original_conversation
+I've got a particular restaurant we want to try, but I will need some help with it.
+I'd be happy to help, what is the name of the restaurant you want to try?
+I'm looking for a pizza hut city centre.
+I am familiar with it. It is on Regent Street. Do you need a reservation?
+Can I get the area of town and the price range pleas?
+modified_conversation
+I've got a particular restaurant we want to try, but I will need some help with it.
+I'd be happy to help, what is the name of the restaurant you want to try?
+I'm looking for a pizza hut city centre.
+I am familiar with it. It is on Regent Street. Do you need a reservation?
+I'm not looking for a pizza hut city centre.

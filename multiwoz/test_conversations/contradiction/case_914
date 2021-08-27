@@ -1,0 +1,16 @@
+original_conversation
+Please find a restaurant called stazione restaurant and coffee bar
+That is an Italian restaurant in the center of town in the expensive price range. Could you like a reservation?
+I WOULD like a reservation for 2 people at 20:00 on Sunday, please.
+Yes your booking was successful and the reference number is DXPL9FU2 .
+Thank you for the reference number. I'm also looking for a place called The Junction.
+Ah, that's a great theatre in the south part of town. Located on clifton way, phone is 01223511511.
+Is there an entrance fee?
+modified_conversation
+Please find a restaurant called stazione restaurant and coffee bar
+That is an Italian restaurant in the center of town in the expensive price range. Could you like a reservation?
+I WOULD like a reservation for 2 people at 20:00 on Sunday, please.
+Yes your booking was successful and the reference number is DXPL9FU2 .
+Thank you for the reference number. I'm also looking for a place called The Junction.
+Ah, that's a great theatre in the south part of town. Located on clifton way, phone is 01223511511.
+ do not thank you for the reference number. I'm also looking for a place called The Junction.

@@ -1,0 +1,14 @@
+original_conversation
+I'd like a train from Cambridge to Broxbourne, please.
+There are 133 trains making that trip, do you have a day and time you'd like to go?
+Yes. I would like to leave on Sunday after 20:30.
+TR7208 leaves at 21:01. Would you like me to book it?
+Yes and could I have the reference number after?
+Great, I have booked your ticket, your reference number is : NJRE41ZT . May I help you with anything else today?
+modified_conversation
+I'd like a train from Cambridge to Broxbourne, please.
+There are 133 trains making that trip, do you have a day and time you'd like to go?
+Yes. I would like to leave on Sunday after 20:30.
+TR7208 leaves at 21:01. Would you like me to book it?
+Yes and could I have the reference number after?
+Great, I have booked your ticket your ticket your ticket your ticket your ticket your ticket, your reference number is : NJRE41ZT . May I help you with anything else today?

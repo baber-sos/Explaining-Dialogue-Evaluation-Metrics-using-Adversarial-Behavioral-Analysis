@@ -1,0 +1,26 @@
+original_conversation
+I'm looking for a train from Cambridge to London Kings Cross.
+When would you like to arrive by?
+I would like to arrive by 08:15, and leave on Monday.
+I have 2 trains that meet your criteria. One train arrives by 5:51, and the other by 7:51. Would you like to book one of these?
+Yes I would like to arrive at 7:51 please for 8 people, I need the reference number
+Booking was successful, the total fee is 188.8 GBP payable at the station. Reference number is: 31K4BK2E . Is there anything else you need?
+Yes, I am also looking for a multiple sports attraction in the city centre. Are you aware of any?
+Unfortunately, there are no multiple sports attractions in the area you specified. Is there some other type of attraction or area I can look into for you?
+Alright, that's fine, how about colleges? Are there any of those in the city centre?
+There are 13 listings for colleges at the city centre, plenty to check out. Do you need info on any particular college? Or narrow it down by entrance fee?
+Any type of college is fine can I just get the postcode, entrance fee, and phone number of one of them?
+corpus christi is a college in the area you're looking for - the postcode is cb23bu and the entrance fee is free
+modified_conversation
+I'm looking for a train from Cambridge to London Kings Cross.
+When would you like to arrive by?
+I would like to arrive by 08:15, and leave on Monday.
+I have 2 trains that meet your criteria. One train arrives by 5:51, and the other by 7:51. Would you like to book one of these?
+Yes I would like to arrive at 7:51 please for 8 people, I need the reference number
+Booking was successful, the total fee is 188.8 GBP payable at the station. Reference number is: 31K4BK2E . Is there anything else you need?
+Yes, I am also looking for a multiple sports attraction in the city centre. Are you aware of any?
+Unfortunately, there are no multiple sports attractions in the area you specified. Is there some other type of attraction or area I can look into for you?
+Alright, that's fine, how about colleges? Are there any of those in the city centre?
+There are 13 listings for colleges at the city centre, plenty to check out. Do you need info on any particular college? Or narrow it down by entrance fee?
+Any type of college is fine can I just get the postcode, entrance fee, and phone number of one of them?
+corpus christi is a college in the area you're looking for - the postcode the postcode the postcode the postcode the postcode the postcode is cb23bu and the entrance fee is free

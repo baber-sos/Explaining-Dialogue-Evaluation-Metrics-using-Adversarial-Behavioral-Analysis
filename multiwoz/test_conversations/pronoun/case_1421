@@ -1,0 +1,38 @@
+original_conversation
+I want to find a moderately priced restaurant that has Spanish food.
+La tasca is the only matching restaurant. It is in the center of town.
+I would like to book at La tasca please.
+Ok. When and for how many people?
+I want to book a table for 2 people at 16:30 on wednesday.
+I've booked your table for two for Wednesday at 16:30. Your Reference number is : NXLK0Z1U . Can I assist you with anything else today?
+Yes, I'll need a train on the same day, departing from london kings cross.
+I found 10 trains do you have a destination or time you would like to go?
+Yes, I am travelling to cambridge and need to arrive there by 8:15.
+If you want to leave very early, there is a 5:17 train arriving at 6:08. Your other option is the 7:17, arriving at 8:08.
+Can I have the train ID and price of the 7:17 departure?
+The train ID is 407. Adult tickets are $7.50 each way.
+Hmm, that train ID and price don't look right to me. Could you double-check that?
+I apologize for my error. The trainID is TR4543 and the price is 23.60. Would you like me to book that for you?
+I just need the departure time confirmed and that's all, I shouldn't need it booked.
+TR4543 leaves london kings cross at 07:17 arriving in cambridge 08:08.
+Perfect, thank you! That's all I need.
+Thank you for using our system!
+modified_conversation
+I want to find a moderately priced restaurant that has Spanish food.
+La tasca is the only matching restaurant. It is in the center of town.
+I would like to book at La tasca please.
+Ok. When and for how many people?
+I want to book a table for 2 people at 16:30 on wednesday.
+I've booked your table for two for Wednesday at 16:30. Your Reference number is : NXLK0Z1U . Can I assist you with anything else today?
+Yes, I'll need a train on the same day, departing from london kings cross.
+I found 10 trains do you have a destination or time you would like to go?
+Yes, I am travelling to cambridge and need to arrive there by 8:15.
+If you want to leave very early, there is a 5:17 train arriving at 6:08. Your other option is the 7:17, arriving at 8:08.
+Can I have the train ID and price of the 7:17 departure?
+The train ID is 407. Adult tickets are $7.50 each way.
+Hmm, that train ID and price don't look right to me. Could you double-check that?
+I apologize for my error. The trainID is TR4543 and the price is 23.60. Would you like me to book that for you?
+I just need the departure time confirmed and that's all, I shouldn't need it booked.
+TR4543 leaves london kings cross at 07:17 arriving in cambridge 08:08.
+Perfect, thank you! That's all I need.
+Thank you for using my system!

@@ -1,0 +1,12 @@
+original_conversation
+Hi, are there any local theatres around town?
+We have 4 theatres in the centre, and 1 in the south.
+What's the address for the one in the south?
+The theatre is on clifton way.
+What is the cost of admission?
+modified_conversation
+Hi, are there any local theatres around town?
+We have 4 theatres in the centre, and 1 in the south.
+What's the address for the one in the south?
+The theatre is on clifton way.
+The theatre is on clifton way. What is the cost of admission?

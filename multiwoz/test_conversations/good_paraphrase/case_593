@@ -1,0 +1,18 @@
+original_conversation
+Hi, I'm looking for a train that will be leaving after 19:30 that goes to Kings Lynn.
+Where are you departing from?
+I'll be leaving from Cambridge on Friday.
+I have four available trains that day? Is there a certain time that you would like to arrive by to your destination?
+I need to arrive by 18:00 and I am going to ely.
+The closest I have to your arrival time is 16:07. Would you like to book it?
+Yes, please, can you book me for 2 people, and I need th ereference number.
+You are all set! Your train's reference number is: KGRZSK8S . A total of 8.8 GBP is payable at the station. Can I help you further?
+modified_conversation
+Hi, I'm looking for a train that will be leaving after 19:30 that goes to Kings Lynn.
+Where are you departing from?
+I'll be leaving from Cambridge on Friday.
+I have four available trains that day? Is there a certain time that you would like to arrive by to your destination?
+I need to arrive by 18:00 and I am going to ely.
+The closest I have to your arrival time is 16:07. Would you like to book it?
+Yes, please, can you book me for 2 people, and I need th ereference number.
+It is all set, your reference number is KGRZSK8S, a total of 8.8 GBP is payable at the station, can you help further?

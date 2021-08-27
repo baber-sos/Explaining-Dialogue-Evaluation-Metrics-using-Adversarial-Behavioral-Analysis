@@ -1,0 +1,18 @@
+original_conversation
+I need a train from Peterborough to Cambridge.
+One what day and what time?
+I'd like to leave on Tuesday after 10:15.
+I can get you on a train at 10:19 or 10:48. Would you like tickets?
+Yes. I need 4 tickets.
+Okay, I have booked 4 tickets on TR 5547, leaving from Peterborough at 10:19 and arriving in Cambridge at 11:09. Your reference number is IT0CF4V7 . Total fee is 66.
+Great I also am looking to find an attraction in the centre of town.
+There are 44 attractions in City Centre. Is there a particular type you want to visit?
+modified_conversation
+I need a train from Peterborough to Cambridge.
+One what day and what time?
+I'd like to leave on Tuesday after 10:15.
+I can get you on a train at 10:19 or 10:48. Would you like tickets?
+Yes. I need 4 tickets.
+Okay, I have booked 4 tickets on TR 5547, leaving from Peterborough at 10:19 and arriving in Cambridge at 11:09. Your reference number is IT0CF4V7 . Total fee is 66.
+Great I also am looking to find an attraction in the centre of town.
+Okay, I have not booked 4 tickets on TR 5547, leaving from Peterborough at 10:19 and arriving in Cambridge at 11:09. Your reference number is IT0CF4V7 . Total fee is 66.

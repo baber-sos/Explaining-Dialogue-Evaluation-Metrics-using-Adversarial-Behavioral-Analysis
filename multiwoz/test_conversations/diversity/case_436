@@ -1,0 +1,14 @@
+original_conversation
+Hello, I am looking for a train to cambridge that arrives by 17:15 .
+We'll find you something . Where are you departing from?
+I am departing from London Kings Cross on Monday .
+I have train TR9114 that leaves at 15:17 and will get you into Cambridge by 16:08 . Would that work for you?
+that is fine . get me the travel time
+The travel time for the TR9114 is 51 minutes . Is there anything else I can help you with?
+modified_conversation
+Hello, I am looking for a train to cambridge that arrives by 17:15 .
+We'll find you something . Where are you departing from?
+I am departing from London Kings Cross on Monday .
+I have train TR9114 that leaves at 15:17 and will get you into Cambridge by 16:08 . Would that work for you?
+that is fine . get me the travel time
+The trip time for the TR9114 is 51 minutes . Is there anything else one can serves you with?

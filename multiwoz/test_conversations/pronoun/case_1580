@@ -1,0 +1,16 @@
+original_conversation
+Hi! Can you tell me what trains are available on Friday after 18:30?
+Certainly, but first I need to know where you are departing from and what your destination is.
+I'm going from Stevenage to Cambridge.
+The first train after 18:30 is TR4969, which leaves at 19:54. Would you like a ticket, or more information?
+Yes I would like to book it for 8 people and I will need the reference number.
+Sure, I have booked your tickets for 8 people, your reference number is : T6B9UNBQ .
+Thank you for all your help, that's all I needed today.
+modified_conversation
+Hi! Can you tell me what trains are available on Friday after 18:30?
+Certainly, but first I need to know where you are departing from and what your destination is.
+I'm going from Stevenage to Cambridge.
+The first train after 18:30 is TR4969, which leaves at 19:54. Would you like a ticket, or more information?
+Yes I would like to book it for 8 people and I will need the reference number.
+Sure, I have booked your tickets for 8 people, your reference number is : T6B9UNBQ .
+Thank your for all your help, that's all we needed today.

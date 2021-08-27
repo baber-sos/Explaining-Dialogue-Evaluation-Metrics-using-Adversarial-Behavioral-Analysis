@@ -1,0 +1,12 @@
+original_conversation
+I need to leave peterborough and arrive by 20:45. Can you book a train for me?
+What time would you like to depart?
+I will depart any time so long as the train arrives by 20:45.
+OK, and what day do you need to travel?
+Oh, I need to leave this Saturday. Just to clarify I want to leave Peterborough going to Cambridge.
+modified_conversation
+I need to leave peterborough and arrive by 20:45. Can you book a train for me?
+What time would you like to depart?
+I will depart any time so long as the train arrives by 20:45.
+OK, and what day do you need to travel?
+Oh, I need to leave the Alexander Bed and Breakfast. Just to clarify I want to leave 40.4 GBP going to East Road City Centre.

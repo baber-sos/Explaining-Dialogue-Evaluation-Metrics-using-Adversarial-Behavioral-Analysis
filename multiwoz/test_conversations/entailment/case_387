@@ -1,0 +1,14 @@
+original_conversation
+I would like to find a particular restaurant in Cambridge. The name of the restaurant is Restaurant Two Two. Could you give me the location?
+Restaurant Two Two is nice French restaurant located at 22 Chesterton Road Chesterton. Would like me to book you a table?
+That would be great. I need it for 8 on friday.
+Do you have a time preference?
+yes at 11:15 if that's not available i can do 10:15
+The booking for 10:15 was successful they will reserve the table for 15 minutes. The reference number is 6B5Z7VJ5 .
+modified_conversation
+I would like to find a particular restaurant in Cambridge. The name of the restaurant is Restaurant Two Two. Could you give me the location?
+Restaurant Two Two is nice French restaurant located at 22 Chesterton Road Chesterton. Would like me to book you a table?
+That would be great. I need it for 8 on friday.
+Do you have a time preference?
+yes at 11:15 if that's not available i can do 10:15
+I'm sorry, but there are no belgian restaurants in all of cambridge. Would you like a different type of cuisine?

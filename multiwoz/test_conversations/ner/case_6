@@ -1,0 +1,20 @@
+original_conversation
+I need a place to eat that serves chinese food.
+There are 17 Chinese restaurants in town. Are you looking for a particular price range?
+A moderate price range.
+No we have narrowed it down to 4. Do you have a area preference?
+Is there any located in the centre?
+I found three Chinese restaurants that meet your requests. Would you like for me to book a table at one of them?
+Yes, what are my three choices before we make a reservation?
+The restaurants are: jinling noodle bar, lan hong house and shanghai family restaurant.
+Can I book a table for 3 at Shanghai for Saturday at 19:45?
+modified_conversation
+I need a place to eat that serves chinese food.
+There are 17 Chinese restaurants in town. Are you looking for a particular price range?
+A moderate price range.
+No we have narrowed it down to 4. Do you have a area preference?
+Is there any located in the centre?
+I found three Chinese restaurants that meet your requests. Would you like for me to book a table at one of them?
+Yes, what are my three choices before we make a reservation?
+The restaurants are: jinling noodle bar, lan hong house and shanghai family restaurant.
+Can I book a table for 3 at Cambridge for Saturday at 19:45?

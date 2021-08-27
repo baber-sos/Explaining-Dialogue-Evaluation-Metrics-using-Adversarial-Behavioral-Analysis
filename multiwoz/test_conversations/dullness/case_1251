@@ -1,0 +1,24 @@
+original_conversation
+I'm planning a trip to Pembroke College.
+Great! Pembroke College is in town. What information can I help you with?
+I'd like to know what type of attraction it is, the entrance fee, and what area it's in, please.
+It is a college in the centre of town. There is no entrance fee. May I help you with anything else?
+I'm looking for a train to Cambridge leaving after 19:30.
+What day of the week are you traveling and what is your departure station?
+I want to depart from Norwich on Friday.
+TrainID TR5291 departs at 20:16. Their price is 17.60 pounds. Would you like to book this train?
+What time does the train arrive?
+The TR5291 arrives by 21:35.
+That sounds perfect. Can you go ahead and book that for me?
+modified_conversation
+I'm planning a trip to Pembroke College.
+Great! Pembroke College is in town. What information can I help you with?
+I'd like to know what type of attraction it is, the entrance fee, and what area it's in, please.
+It is a college in the centre of town. There is no entrance fee. May I help you with anything else?
+I'm looking for a train to Cambridge leaving after 19:30.
+What day of the week are you traveling and what is your departure station?
+I want to depart from Norwich on Friday.
+TrainID TR5291 departs at 20:16. Their price is 17.60 pounds. Would you like to book this train?
+What time does the train arrive?
+The TR5291 arrives by 21:35.
+I like that.

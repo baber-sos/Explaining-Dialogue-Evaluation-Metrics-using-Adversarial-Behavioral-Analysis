@@ -1,0 +1,10 @@
+original_conversation
+I need to book a train for 9:30 that departs from cambridge.
+There are lots of trains that fit those criteria. Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday.
+There is a train that leaves at 7:59 and arrives at 9:27. Would like that one?
+modified_conversation
+I need to book a train for 9:30 that departs from cambridge.
+There are lots of trains that fit those criteria. Where would you like to go?
+I would like to go to London Liverpool Street on Wednesday.
+There is a train a train a train a train that leaves at 7:59 and arrives at 9:27. Would like that one?

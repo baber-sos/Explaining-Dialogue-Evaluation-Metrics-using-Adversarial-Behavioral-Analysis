@@ -1,0 +1,12 @@
+original_conversation
+I need a taxi please. I'll be departing from grafton hotel restaurant
+Sure! when would you like to arrive?
+I need to leave after 16:45.
+May I ask your destination?
+I would like to get to the Jinling Noodle Bar.
+modified_conversation
+I need a taxi please. I'll be departing from grafton hotel restaurant
+Sure! when would you like to arrive?
+I need to leave after 16:45.
+May I ask your destination?
+I  do not need to leave after 16:45.

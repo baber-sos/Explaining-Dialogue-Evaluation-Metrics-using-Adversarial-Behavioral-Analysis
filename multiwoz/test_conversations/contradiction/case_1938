@@ -1,0 +1,22 @@
+original_conversation
+I need a train leaving King's Lynn after 13:45.
+What day will you be traveling?
+This will be for wednesday.
+There is TR9057 Which is at 9.80 pounds and takes 47 minutes. will you book that?
+No that won't be necessary. Can you just tell me what the arrival time is?
+No train leaving kings lynn at 13.45. Do you want to change the departure time?
+I can leave any time after 13:45 going to Cambridge. Will you check the schedule again, please?
+Sorry, there are actually 10 entries here. Shall I book one for you?
+Just the first departure after 13:45 please, no booking, just the price and arrival time.
+TR8143 will cost 9.80 pounds and arrives by 14:58. Anything else I can do for you?
+modified_conversation
+I need a train leaving King's Lynn after 13:45.
+What day will you be traveling?
+This will be for wednesday.
+There is TR9057 Which is at 9.80 pounds and takes 47 minutes. will you book that?
+No that won't be necessary. Can you just tell me what the arrival time is?
+No train leaving kings lynn at 13.45. Do you want to change the departure time?
+I can leave any time after 13:45 going to Cambridge. Will you check the schedule again, please?
+Sorry, there are actually 10 entries here. Shall I book one for you?
+Just the first departure after 13:45 please, no booking, just the price and arrival time.
+TR8143 will cost 39.2 GBP and arrives by 14:58. Anything else I can do for you?

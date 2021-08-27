@@ -1,0 +1,14 @@
+original_conversation
+I'd like to find a place to go in the center of town.
+How about great saint mary's church?
+Ok, what's the address and postcode?
+Market Square, town center. Post code cb23pq. Anything else?
+Yes, I also need to book a train for Monday. Can you help me with that?
+You are looking for a train to Cambridge, correct? Where will you be traveling from?
+modified_conversation
+I'd like to find a place to go in the center of town.
+How about great saint mary's church?
+Ok, what's the address and postcode?
+Market Square, town center. Post code cb23pq. Anything else?
+Yes, I also need to book a train for Monday. Can you help me with that?
+I have one that arrives at 19:51 and another at 17:51. Both cost 23.60 pounds. Do you have a preference?

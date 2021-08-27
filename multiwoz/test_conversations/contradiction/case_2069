@@ -1,0 +1,12 @@
+original_conversation
+Are there any chinese food restaurants in the south?
+there are 3. what is your price range?
+Thank you! I do not care about the price range.
+How about peking restaurant?
+Great, could we have a table for 8 on monday at 17:00?
+modified_conversation
+Are there any chinese food restaurants in the south?
+there are 3. what is your price range?
+Thank you! I do not care about the price range.
+How about peking restaurant?
+ do not thank you! I do not care about the price range.

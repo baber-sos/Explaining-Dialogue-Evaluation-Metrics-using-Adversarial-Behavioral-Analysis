@@ -1,0 +1,46 @@
+original_conversation
+I need a train departing from Cambridge, leaving after 21:30.
+What time were you looking to arrive and what is your destination?
+I need to go to Peterborough on Tuesday please
+The TR7663 departs at 21:34 and arrives in Peterborough at 22:24. Shall I book this for you?
+Yes, for 7 people please. I need the reference number.
+Booking was successful, the total fee is 115.5 GBP payable at the station. Reference number is : NBX6ZT2O .
+I'm also looking for a restaurant in the south on the expensive side.
+I have 5 results for expensive restaurants in the south. Are you in the mood for Chinese, Indian, Italian or Mexican food?
+We are looking for indian food.
+The Taj Tandoori is an expensive restaurant in the south. It is located at 64 Cherry Hinton Road. Would you like me to book it?
+Yes, for 7 people at 10:30 on Tuesday.
+Unfortunately the restaurant is full at that time. Would you like to try another time or day?
+How about 9:30?
+I'm sorry, they don't offer that time. Would you like to try a later time?
+They have no 9:30?
+They have no bookings available Tuesday morning. Would you like to try afternoon or another restaurant?
+Let's try again. An expensive Indian restaurant in the south - Tuesday, 9:30, 7 people.
+I am sorry that was not successful. Is there another time or day you would like to try?
+Hmmm, are you sure there is not an indian restaurant in the south that I can book for 9:30 on tuesday for 7 people?
+No, I'm very sorry there is nothing that early. Would you like to try a different day?
+I would like you to try booking it again for 9:30 PM.
+OK, done! I have that booked with reference number BZY8VI7E . Do you need any other assistance?
+modified_conversation
+I need a train departing from Cambridge, leaving after 21:30.
+What time were you looking to arrive and what is your destination?
+I need to go to Peterborough on Tuesday please
+The TR7663 departs at 21:34 and arrives in Peterborough at 22:24. Shall I book this for you?
+Yes, for 7 people please. I need the reference number.
+Booking was successful, the total fee is 115.5 GBP payable at the station. Reference number is : NBX6ZT2O .
+I'm also looking for a restaurant in the south on the expensive side.
+I have 5 results for expensive restaurants in the south. Are you in the mood for Chinese, Indian, Italian or Mexican food?
+We are looking for indian food.
+The Taj Tandoori is an expensive restaurant in the south. It is located at 64 Cherry Hinton Road. Would you like me to book it?
+Yes, for 7 people at 10:30 on Tuesday.
+Unfortunately the restaurant is full at that time. Would you like to try another time or day?
+How about 9:30?
+I'm sorry, they don't offer that time. Would you like to try a later time?
+They have no 9:30?
+They have no bookings available Tuesday morning. Would you like to try afternoon or another restaurant?
+Let's try again. An expensive Indian restaurant in the south - Tuesday, 9:30, 7 people.
+I am sorry that was not successful. Is there another time or day you would like to try?
+Hmmm, are you sure there is not an indian restaurant in the south that I can book for 9:30 on tuesday for 7 people?
+No, I'm very sorry there is nothing that early. Would you like to try a different day?
+I would like you to try booking it again for 9:30 PM.
+OK, done! I have that booked with source number BZY8VI7E . Do you need any other assistance?

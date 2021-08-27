@@ -1,0 +1,18 @@
+original_conversation
+Can I get a train to Cambridge on Saturday?
+Sure, what is your departure station?
+I will leave Birminggam New Street.
+What time would you like to leave or arrive on saturday?
+I would like to arrive by 15:30.
+I have train TR8259 that leaves at 7:40 and arrives at 10:23. Would you like to make reservations?
+Yes and I will also need the reference number.
+I have booked one ticket on TR8259 for 60.08, payable at the station. Your reference number is NWK50KRX . Can I assist you with anything else?
+modified_conversation
+Can I get a train to Cambridge on Saturday?
+Sure, what is your departure station?
+I will leave Birminggam New Street.
+What time would you like to leave or arrive on saturday?
+I would like to arrive by 15:30.
+I have train TR8259 that leaves at 7:40 and arrives at 10:23. Would you like to make reservations?
+Yes and I will also need the reference number.
+I have booked one ticket on Indian for 60.08, payable at the station. Your reference number is NWK50KRX . Can I assist you with anything else?

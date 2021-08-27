@@ -1,0 +1,26 @@
+original_conversation
+I am trying to find a train leaving after 14:45 that's heading out from London Liverpool Street. What do you have?
+There are 45 trains that fit your criteria. Please clarify your destination, day of travel and the time you want to arrive by so that i can narrow it down
+I need a train to Cambridge on Tuesday.
+I have five departures fitting your criteria on the :39 of the hour from 15:39 to 23:39. Would you like me to book any of these for you?
+Yes please do book the 15:39
+Great, that's train TR5245, leaving london liverpool street going to cambridge at 15:39. I booked 1 ticket for you which is payable at the station.
+Thanks! I'm also looking for an expensive restaurant in the center of town.
+There are 33 restaurants that match that criteria, what type of food do you wish to eat?
+i am looking for something that serves italian cuisine
+There are four Italian restaurants, would you like their names?
+So long as they're expensive, and in the center of town, I would, thank you.
+They are all expensive. There is Stazione, Clowns Cafe, Don Pasquale Pizzeria, and Caffe Uno.
+modified_conversation
+I am trying to find a train leaving after 14:45 that's heading out from London Liverpool Street. What do you have?
+There are 45 trains that fit your criteria. Please clarify your destination, day of travel and the time you want to arrive by so that i can narrow it down
+I need a train to Cambridge on Tuesday.
+I have five departures fitting your criteria on the :39 of the hour from 15:39 to 23:39. Would you like me to book any of these for you?
+Yes please do book the 15:39
+Great, that's train TR5245, leaving london liverpool street going to cambridge at 15:39. I booked 1 ticket for you which is payable at the station.
+Thanks! I'm also looking for an expensive restaurant in the center of town.
+There are 33 restaurants that match that criteria, what type of food do you wish to eat?
+i am looking for something that serves italian cuisine
+There are four Italian restaurants, would you like their names?
+So long as they're expensive, and in the center of town, I would, thank you.
+So long as they're expensive, and in the center of town, I would, thank you. They are all expensive. There is Stazione, Clowns Cafe, Don Pasquale Pizzeria, and Caffe Uno.

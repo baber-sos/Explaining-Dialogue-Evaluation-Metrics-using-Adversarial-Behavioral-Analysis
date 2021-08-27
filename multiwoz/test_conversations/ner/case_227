@@ -1,0 +1,10 @@
+original_conversation
+I would like for you to find a train that leaves on wednesday after 16:45.
+Okay, let me look that up for you. Do you have a destination or a departure site?
+I'm going to cambridge from leicester.
+The TR1745 leaves Cambridge at 17:21 and gets into Leicester by 19:06. Will that work for you?
+modified_conversation
+I would like for you to find a train that leaves on wednesday after 16:45.
+Okay, let me look that up for you. Do you have a destination or a departure site?
+I'm going to cambridge from leicester.
+The TR1745 leaves TR8017 at 17:21 and gets into two by 19:06. Will that work for you?

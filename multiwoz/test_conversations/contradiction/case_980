@@ -1,0 +1,10 @@
+original_conversation
+Can you help me find a cheap place to stay in the east part of town?
+Sure. There are three guesthouses there. I'd be happy to book one for you if you like.
+Does it have a star rating of 2?
+No. They all have 4 stars.
+modified_conversation
+Can you help me find a cheap place to stay in the east part of town?
+Sure. There are three guesthouses there. I'd be happy to book one for you if you like.
+Does it have a star rating of 2?
+Sure. There are not three guesthouses there. I'd be happy to book one for you if you like.

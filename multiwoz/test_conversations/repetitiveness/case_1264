@@ -1,0 +1,18 @@
+original_conversation
+I'm looking for a train to London Kings Cross to arrive at 16:00 . Can you help with that?
+Yes, what is the day you will travel?
+Saturday departing from Cambridge .
+I see several trains . When would you like to leave?
+I need a price and make sure it arrives by 16:00 .
+The TR6203 costs 18.88 and gets you in at 15:51 . Does that sound good? I can book you a ticket if you like .
+No need to book it for me . Are there any 3 star hotels in the moderate price range?
+Could you please give me any preferences for internet/parking?
+modified_conversation
+I'm looking for a train to London Kings Cross to arrive at 16:00 . Can you help with that?
+Yes, what is the day you will travel?
+Saturday departing from Cambridge .
+I see several trains . When would you like to leave?
+I need a price and make sure it arrives by 16:00 .
+The TR6203 costs 18.88 and gets you in at 15:51 . Does that sound good? I can book you a ticket if you like .
+No need to book it for me . Are there any 3 star hotels in the moderate price range?
+Could Could Could Could you please give me any preferences for internet/parking?

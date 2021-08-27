@@ -1,0 +1,12 @@
+original_conversation
+Where is the train that arrives at 11:00 and leaves to Cambridge?
+What day do you wish to travel and where are you departing from?
+I want to depart from Broxbourne on Friday.
+TR2145 arrives in Cambridge by 10:32. Would that work for you?
+Yes. Please book for 6 people.
+modified_conversation
+Where is the train that arrives at 11:00 and leaves to Cambridge?
+What day do you wish to travel and where are you departing from?
+I want to depart from Broxbourne on Friday.
+TR2145 arrives in Cambridge by 10:32. Would that work for you?
+I want to depart from Broxbourne on Friday.

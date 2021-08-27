@@ -1,0 +1,31 @@
+original_conversation
+Hello, I am looking for a restaurant in the east that serves Indian food.
+There are 4 results. Is a moderate or expensive price range better?
+How about the moderate price range.
+There are 2 restaurants that meet your criteria - Curry Prince and Rajmahal
+Can I get the address and postcode for Rajmahal please?
+Certainly! The address is 7 Barnwell Road Fen Ditton and the post code is, cb58rg. Can I assist with a reservation?
+No, but I am also looking for a train. The train should go to cambridge and should arrive by 12:30.
+Where will you be departing form and what day will you be traveling?
+I am leaving on Tuesday from birmingham new street.
+TR4373 will arrive at 12:23. Would you like a ticket?
+Yes, I do need a ticket.
+Okay, I have your ticket booked! I have your reference number. G033HRD0 . You can pay 75.09 GBP at the station. Anything else I can help you with?
+Can you please tell what time the train leaves and the total travel time?
+is leaves the station at 09:40 and will get you there by 12:23 and the total travel time is 163 minutes
+modified_conversation
+Hello, I am looking for a restaurant in the east that serves Indian food.
+There are 4 results. Is a moderate or expensive price range better?
+How about the moderate price range.
+There are 2 restaurants that meet your criteria - Curry Prince and Rajmahal
+Can I get the address and postcode for Rajmahal please?
+Certainly! The address is 7 Barnwell Road Fen Ditton and the post code is, cb58rg. Can I assist with a reservation?
+No, but I am also looking for a train. The train should go to cambridge and should arrive by 12:30.
+Where will you be departing form and what day will you be traveling?
+I am leaving on Tuesday from birmingham new street.
+TR4373 will arrive at 12:23. Would you like a ticket?
+Yes, I do need a ticket.
+Okay, I have your ticket booked! I have your reference number. G033HRD0 . You can pay 75.09 GBP at the station. Anything else I can help you with?
+Can you please tell what time the train leaves and the total travel time?
+is leaves the station at 09:40 and will get you there by 05:30
+ and the total travel time is 163 minutes

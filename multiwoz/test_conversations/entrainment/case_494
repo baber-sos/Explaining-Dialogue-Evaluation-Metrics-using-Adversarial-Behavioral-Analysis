@@ -1,0 +1,30 @@
+original_conversation
+I need a train to take me from Cambridge to Broxbourne.
+Sure. What time would you like to depart?
+I don't know. I want to get there at 08:15 though.
+Also, what day will you be travelling?
+I will be travelling on Monday.
+Alright, the latest train that fits your criteria is TR3174, which will arrive at 8:01. Is that alright by you?
+Yes that will be fine thank you. Can you tell me how long the journey will be and how much it will cost and when the train leaves?
+Yes travel time is 60 minutes and the cost of the ticket is 17.90 pounds.
+What is the exact departure time please?
+The train leaves Cambridge at 07:01. Is there anything else I can help you with today?
+Can you book me a seat on the train please?
+I'd be happy to. Just one ticket or how many would you like?
+Actually, I am not ready to book quite yet. Thank you for all of your help. Have a nice day. Bye.
+You have a nice day also. Good bye.
+modified_conversation
+I need a train to take me from Cambridge to Broxbourne.
+Sure. What time would you like to depart?
+I don't know. I want to get there at 08:15 though.
+Also, what day will you be travelling?
+I will be travelling on Monday.
+Alright, the latest train that fits your criteria is TR3174, which will arrive at 8:01. Is that alright by you?
+Yes that will be fine thank you. Can you tell me how long the journey will be and how much it will cost and when the train leaves?
+Yes travel time is 60 minutes and the cost of the ticket is 17.90 pounds.
+What is the exact departure time please?
+The train leaves Cambridge at 07:01. Is there anything else I can help you with today?
+Can you book me a seat on the train please?
+I'd be happy to. Just one ticket or how many would you like?
+Actually, I am not ready to book quite yet. Thank you for all of your help. Have a nice day. Bye.
+You have a decent day also. Good bye.

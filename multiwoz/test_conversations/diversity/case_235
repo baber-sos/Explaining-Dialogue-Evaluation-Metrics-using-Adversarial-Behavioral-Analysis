@@ -1,0 +1,14 @@
+original_conversation
+I am planning a trip and could use some help with the trains .
+Ok, what day, what time, and where to and from?
+I would like to leave on Tuesday departing from Cambridge and arriving by 14:15 at London Kings Cross .
+The TR0315 arrives at 13:51 . Do you want to book that trip?
+Yes, please book me for 3 people, and can I get the reference number?
+Your reference number is KHOLTDD9 . Can I help you with anything else today?
+modified_conversation
+I am planning a trip and could use some help with the trains .
+Ok, what day, what time, and where to and from?
+I would like to leave on Tuesday departing from Cambridge and arriving by 14:15 at London Kings Cross .
+The TR0315 arrives at 13:51 . Do you want to book that trip?
+Yes, please book me for 3 people, and can I get the reference number?
+Your reference listed is KHOLTDD9 . Can one help you with anything else today?

@@ -1,0 +1,14 @@
+original_conversation
+I need information on a restaurant called curry garden.
+Curry Garden is an expensive Indian restaurant located in the centre. Would you like me to book a table for you?
+I would like to find a restaurant called Curry Garden.
+Curry Garden is an Indian restaurant in the center. their postcode is cb21dp
+could you please book me a table for 8 people at 14:30 on thursday?
+Absolutely no problem. I've got you booked for 8 people on Thursday at 14:30. Your reference number is 7UI8WCCP . The table will be held for you for 15 minutes.
+modified_conversation
+I need information on a restaurant called curry garden.
+Curry Garden is an expensive Indian restaurant located in the centre. Would you like me to book a table for you?
+I would like to find a restaurant called Curry Garden.
+Curry Garden is an Indian restaurant in the center. their postcode is cb21dp
+could you please book me a table for 8 people at 14:30 on thursday?
+Absolutely no problem. I've got you booked for 8 people on 01223902158 at 14:30. Your reference number is 7UI8WCCP . The table will be held for you for 15 minutes.

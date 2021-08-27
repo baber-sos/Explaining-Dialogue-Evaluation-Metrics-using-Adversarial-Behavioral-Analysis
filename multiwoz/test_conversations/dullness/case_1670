@@ -1,0 +1,12 @@
+original_conversation
+I need a taxi, please.
+I'd be happy to assist you today. I'll need a little bit of information from you - let's start with what time you'd like to leave/arrive?
+I need to get to restaurant two two by 5:15
+Ok, I need a little bit more information, where will your taxi be departing from?
+I want to be picked up at Williams Art and Antiques.
+modified_conversation
+I need a taxi, please.
+I'd be happy to assist you today. I'll need a little bit of information from you - let's start with what time you'd like to leave/arrive?
+I need to get to restaurant two two by 5:15
+Ok, I need a little bit more information, where will your taxi be departing from?
+That question does not make sense to me.

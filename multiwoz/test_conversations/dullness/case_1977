@@ -1,0 +1,20 @@
+original_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+I found 19 trains running between those 2 stations that day. Would you like to leave at a certain time?
+No but I need to arrive by 17:00.
+I have train TR7964 leaving at 5:11 and arriving at 5:58.
+How much travel time is involved with this train? I also need a Mexican restaurant in the expensive range.
+I can process one request at a time. The train is about an hour.
+I need the exact travel time please.
+modified_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+I found 19 trains running between those 2 stations that day. Would you like to leave at a certain time?
+No but I need to arrive by 17:00.
+I have train TR7964 leaving at 5:11 and arriving at 5:58.
+How much travel time is involved with this train? I also need a Mexican restaurant in the expensive range.
+I can process one request at a time. The train is about an hour.
+I see.

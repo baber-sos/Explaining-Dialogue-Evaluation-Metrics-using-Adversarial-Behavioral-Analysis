@@ -1,0 +1,16 @@
+original_conversation
+Hi, can you give me some information on a place to stay in Cambridge? I would prefer some place expensive .
+Sure, there are 5 expensive hotels in Cambridge . Is there an area you prefer?
+No specific area, but I would like a guesthouse, rather than a hotel . I would also like a place that's 3 stars .
+There are 2 three star hotels would you like me to book one?
+No . Are there any three star guesthouses available at a moderate price that include free wifi?
+Yes, there are 3: bridge guest house, hamilton lodge, and hobsons house .
+How about the bridge guest house for 5 people for 2 nights starting on tuesday?
+modified_conversation
+Hi, can you give me some information on a place to stay in Cambridge? I would prefer some place expensive .
+Sure, there are 5 expensive hotels in Cambridge . Is there an area you prefer?
+No specific area, but I would like a guesthouse, rather than a hotel . I would also like a place that's 3 stars .
+There are 2 three star hotels would you like me to book one?
+No . Are there any three star guesthouses available at a moderate price that include free wifi?
+Yes, there are 3: bridge guest house, hamilton lodge, and hobsons house .
+How about the bridge guest house for 5 people for 2 nights starting starting starting starting on tuesday?

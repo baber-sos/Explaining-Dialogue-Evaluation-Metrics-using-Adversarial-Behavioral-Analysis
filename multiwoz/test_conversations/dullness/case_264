@@ -1,0 +1,16 @@
+original_conversation
+Hello, I am looking to book a train that will be departing Cambridge after 13:15.
+The first train leaves at 15:00 and they run every 51 minutes.
+I'd like to go to Birmingham New Street on Thursday and leave after 13:45. Do you have anything that would work for me?
+I have a train that leaves Cambridge 14:01 arriving in Birmingham New Street at 16:44. Would that work?
+That should work, what is the travel time on that?
+That would be 163 minutes.
+That works. I'm also looking for an attratiction that is college type.
+modified_conversation
+Hello, I am looking to book a train that will be departing Cambridge after 13:15.
+The first train leaves at 15:00 and they run every 51 minutes.
+I'd like to go to Birmingham New Street on Thursday and leave after 13:45. Do you have anything that would work for me?
+I have a train that leaves Cambridge 14:01 arriving in Birmingham New Street at 16:44. Would that work?
+That should work, what is the travel time on that?
+That would be 163 minutes.
+That is amazing.

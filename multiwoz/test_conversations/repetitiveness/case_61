@@ -1,0 +1,22 @@
+original_conversation
+I need to find a particular train that will arrive at 16:30 and will leave on Saturday. I would appreciate it if you could help me.
+There are 229 trains that meet your criteria. What are your departure and arrival stations?
+I'm coming from Peterborough and going to Cambridge.
+TR6886 departs at 06:48 and arrives 07:38. Will that work for you? I can book it if you are interested.
+Yes please, can you make the reservation for 7 people and then send me the reference number.
+Ok. I've booked that for you. Your reference number is 2K7LO41G . Can I help you with anything else?
+Yes. I am looking for a restaurant that serves modern eclectic food and is in the moderate price range.
+I am sorry I cannot find any restaurants that meet your criteria. Would you like me to look for something else?
+How about one that serves indian food?
+There are four restaurants that serve Indian food in the moderate price range, located in the east, north, and west areas. Do you have a preference?
+modified_conversation
+I need to find a particular train that will arrive at 16:30 and will leave on Saturday. I would appreciate it if you could help me.
+There are 229 trains that meet your criteria. What are your departure and arrival stations?
+I'm coming from Peterborough and going to Cambridge.
+TR6886 departs at 06:48 and arrives 07:38. Will that work for you? I can book it if you are interested.
+Yes please, can you make the reservation for 7 people and then send me the reference number.
+Ok. I've booked that for you. Your reference number is 2K7LO41G . Can I help you with anything else?
+Yes. I am looking for a restaurant that serves modern eclectic food and is in the moderate price range.
+I am sorry I cannot find any restaurants that meet your criteria. Would you like me to look for something else?
+How about one that serves indian food?
+There are four restaurants that serve Indian food in the moderate price range, located in the east, north, and west areas. Do you have a preference a preference a preference a preference a preference a preference?

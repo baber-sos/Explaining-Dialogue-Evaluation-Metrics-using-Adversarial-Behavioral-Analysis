@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a restaurant named Meghna.
+Meghna has Indian cuisine and is found on the west end. Can I make a reservation for you?
+What is the price range for Meghna?
+Meghna is in the moderate price range. Is there anything else I can do for you?
+Yes, I need a train leaving Cambridge.
+Sure! First, I need to know your destination and what day you want to travel.
+modified_conversation
+I am looking for a restaurant named Meghna.
+Meghna has Indian cuisine and is found on the west end. Can I make a reservation for you?
+What is the price range for Meghna?
+Meghna is in the moderate price range. Is there anything else I can do for you?
+Yes, I need a train leaving Cambridge.
+Sure! First, I need to know your destination and 9:58 you want to travel.

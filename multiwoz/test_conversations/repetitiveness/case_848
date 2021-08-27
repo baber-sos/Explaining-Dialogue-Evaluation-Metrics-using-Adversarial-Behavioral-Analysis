@@ -1,0 +1,16 @@
+original_conversation
+I kind of need some help finding a nice hotel in the north part of town .
+There are two hotels in the north part of town in the moderate price range, does that price range work for you?
+Do either of those have 4 stars?
+I'm sorry, they are both 2 star hotels . Would you like to try a different area or star number?
+A 4 star guesthouse in the north would be fine too .
+There are several in the moderate price range and one that is cheap . Does price matter?
+No, it doesn't . What place would you recommend?
+modified_conversation
+I kind of need some help finding a nice hotel in the north part of town .
+There are two hotels in the north part of town in the moderate price range, does that price range work for you?
+Do either of those have 4 stars?
+I'm sorry, they are both 2 star hotels . Would you like to try a different area or star number?
+A 4 star guesthouse in the north would be fine too .
+There are several in the moderate price range and one that is cheap . Does price matter?
+No, it it it doesn't . What place would you recommend?

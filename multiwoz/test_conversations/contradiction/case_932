@@ -1,0 +1,12 @@
+original_conversation
+Hi, I need to catch a train from Stevenage to Cambridge.
+I can help you with that. What day will you be traveling?
+I need to leave on Wednesday and arrive no later than 21:45.
+I have train TR4015 that leaves at 19:54,and arrives at 20:43. Is that to your liking?
+How long will that trip take?
+modified_conversation
+Hi, I need to catch a train from Stevenage to Cambridge.
+I can help you with that. What day will you be traveling?
+I need to leave on Wednesday and arrive no later than 21:45.
+I have train TR4015 that leaves at 19:54,and arrives at 20:43. Is that to your liking?
+I  do not need to leave on Wednesday and arrive no later than 21:45.

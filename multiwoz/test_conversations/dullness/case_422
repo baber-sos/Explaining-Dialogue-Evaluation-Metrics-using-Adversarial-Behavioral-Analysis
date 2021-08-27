@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a hotel in the north.
+We have two hotels in the north, and eleven guesthouses. Do you have a preference?
+I want one of the hotels in the moderate price range please.
+Both of the hotels that I found are in the moderate price range. Would you like for me to book one for you?
+Which one of them has free parking?
+Fortunately for you, they both offer free parking. The Ashley hotel and the Lovell lodge are both available for you. Would you like to make reservations at one?
+modified_conversation
+I am looking for a hotel in the north.
+We have two hotels in the north, and eleven guesthouses. Do you have a preference?
+I want one of the hotels in the moderate price range please.
+Both of the hotels that I found are in the moderate price range. Would you like for me to book one for you?
+Which one of them has free parking?
+I don't know what you mean by that.

@@ -1,0 +1,10 @@
+original_conversation
+I need a train leaving London King's Cross after 14:45.
+I would be happy to help you book a train. In order to better help you, can you tell me what day you are looking to depart?
+I want to depart on Friday.
+There is a train leaving at 15:17 on Friday.
+modified_conversation
+I need a train leaving London King's Cross after 14:45.
+I would be happy to help you book a train. In order to better help you, can you tell me what day you are looking to depart?
+I want to depart on Friday.
+There is a train leaving at 15:17 on 13:07.

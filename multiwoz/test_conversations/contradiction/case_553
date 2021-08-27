@@ -1,0 +1,16 @@
+original_conversation
+Hello I am looking for a theatre in Cambridge.
+The ADC Theatre is in the town centre. Can I get you some information about it?
+Can I get their address, phone number and postcode please?
+Sure the ADC theatre is located at park street, postcode cb58as, their phone number 01223300085.
+Thanks. I also need assistance with finding a train leaving Cambridge.
+I can help with that. To what destination are you traveling and on what day?
+I am going to stansted airport on friday.
+modified_conversation
+Hello I am looking for a theatre in Cambridge.
+The ADC Theatre is in the town centre. Can I get you some information about it?
+Can I get their address, phone number and postcode please?
+Sure the ADC theatre is located at park street, postcode cb58as, their phone number 01223300085.
+Thanks. I also need assistance with finding a train leaving Cambridge.
+I can help with that. To what destination are you traveling and on what day?
+I am going to gonville hotel on friday.

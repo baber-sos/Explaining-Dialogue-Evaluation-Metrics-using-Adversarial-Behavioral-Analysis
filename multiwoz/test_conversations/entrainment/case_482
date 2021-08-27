@@ -1,0 +1,8 @@
+original_conversation
+I am looking for a train that leaves on Wednesday, going to Bishops Stortford.
+TR4404 departs cambridge at 05:29 and arrives at 06:07 in Bishops Stortford. Would you like me to book it?
+That's pretty early. Would there be a later train that arrives by 15:00?
+modified_conversation
+I am looking for a train that leaves on Wednesday, going to Bishops Stortford.
+TR4404 departs cambridge at 05:29 and arrives at 06:07 in Bishops Stortford. Would you like me to book it?
+That's pretty early. Would there be a later gear that arrives by 15:00?

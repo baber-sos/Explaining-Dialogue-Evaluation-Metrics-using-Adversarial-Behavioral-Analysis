@@ -1,0 +1,16 @@
+original_conversation
+I am looking for a train headed to london liverpool street.
+I can help! What day are you traveling?
+On tuesday - the train needs to arrive by 14:45 too.
+Five trains match your request. The first train leaves at 05:59. Do you want a seat on this train or do you want to see additional departure times?
+Yes, I do want a seat on the train. Please give me the train's ID.
+That would be train TR7299. Would you like me to book you passage?
+Not right now, thanks. I am also looking for some places to go in the west area of town. What attractions do they offer there?
+modified_conversation
+I am looking for a train headed to london liverpool street.
+I can help! What day are you traveling?
+On tuesday - the train needs to arrive by 14:45 too.
+Five trains match your request. The first train leaves at 05:59. Do you want a seat on this train or do you want to see additional departure times?
+Yes, I do want a seat on the train. Please give me the train's ID.
+That would be train TR7299. Would you like me to book you passage?
+Not right now, thanks. they am also looking for some places to go in the west area of town. What attractions do she offer there?

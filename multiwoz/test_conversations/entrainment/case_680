@@ -1,0 +1,14 @@
+original_conversation
+Hello, Im looking to book a train from broxbourne to cambridge
+What day will you be travelling?
+I am leaving on Sunday. I would like to arrive before 20:30.
+The latest train that will arrive before 20:30 would be train TR1428. It departs at 18:32 and arrives at 19:32. Would that work for you?
+Not right now but can you tell me the travel time for this train?
+60 minutes is the travel time
+modified_conversation
+Hello, Im looking to book a train from broxbourne to cambridge
+What day will you be travelling?
+I am leaving on Sunday. I would like to arrive before 20:30.
+The latest train that will arrive before 20:30 would be train TR1428. It departs at 18:32 and arrives at 19:32. Would that work for you?
+Not right now but can you tell me the travel time for this train?
+60 minutes is the traveling time

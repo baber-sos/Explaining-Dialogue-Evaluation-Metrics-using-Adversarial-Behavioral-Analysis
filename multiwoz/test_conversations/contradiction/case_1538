@@ -1,0 +1,10 @@
+original_conversation
+Do you have information about the hotel El Shaddai?
+El Shaddai is a cheap guesthouse in the centre area. It has a 0 star rating and includes parking and wifi. It's located at 41 warkworth street. Phone number 01223327978.
+Sounds good. Can you book it for 3 nights checking in on Monday? There will be 7 of us.
+Booking was unfortunately unsuccessful. Can we try another day or a shorter stay?
+modified_conversation
+Do you have information about the hotel El Shaddai?
+El Shaddai is a cheap guesthouse in the centre area. It has a 0 star rating and includes parking and wifi. It's located at 41 warkworth street. Phone number 01223327978.
+Sounds good. Can you book it for 3 nights checking in on Monday? There will be 7 of us.
+El Shaddai is not a cheap guesthouse in the centre area. It has a 0 star rating and includes parking and wifi. It's located at 41 warkworth street. Phone number 01223327978.

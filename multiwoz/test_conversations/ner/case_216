@@ -1,0 +1,18 @@
+original_conversation
+Can you find a theater to go to in town?
+Sure, do you have an area of town you would like to visit?
+No, I'm not concerned about that.
+Adc theatre is in the centre of town
+Okay, great. I'm also looking for a restaurant in the south. It should be expensive.
+There are 5 locations. Do you have a food preference?
+How about chinese food?
+There are 2 options that meet your criteria. Personally, I would recommend the Peking Restaurant at 10 Homerton Street City Centre.
+modified_conversation
+Can you find a theater to go to in town?
+Sure, do you have an area of town you would like to visit?
+No, I'm not concerned about that.
+Adc theatre is in the centre of town
+Okay, great. I'm also looking for a restaurant in the south. It should be expensive.
+There are 5 locations. Do you have a food preference?
+How about chinese food?
+There are 2 options that meet your criteria. Personally, I would recommend Downing College at 10 Homerton Street City Centre.

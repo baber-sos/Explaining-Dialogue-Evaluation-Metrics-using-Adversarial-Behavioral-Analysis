@@ -1,0 +1,18 @@
+original_conversation
+Hi, I need a train on Sunday leaving peterborough.
+I have 38 trains leaving peterborough on sunday. Where are you headed?
+I am hoping to arrive in cambridge by 12:30.
+I have 13 trains meeting your criteria. The first leaves at 05:19 and leave every 30 minutes after. Can I book one of them for you?
+What is the one with the shortest travel time?
+All the trains take exactly 50 minutes. What time would you like to depart?
+Hm, I'll take any train that will let me arrive by or before 12:30.
+Booking was successful. Departs at 11:19 and arrives at 12:09, that will be 13.2 GBP payable at the station, your reference number is QS1AJEL1. Anything else I can help you with?
+modified_conversation
+Hi, I need a train on Sunday leaving peterborough.
+I have 38 trains leaving peterborough on sunday. Where are you headed?
+I am hoping to arrive in cambridge by 12:30.
+I have 13 trains meeting your criteria. The first leaves at 05:19 and leave every 30 minutes after. Can I book one of them for you?
+What is the one with the shortest travel time?
+All the trains take exactly 50 minutes. What time would you like to depart?
+Hm, I'll take any train that will let me arrive by or before 12:30.
+Booking was successful. Departs at 11:19 and arrives at 12:09, that will be 13.2 GBP payable at the station, your reference number is QS1AJEL1. Anything else you can help him with?

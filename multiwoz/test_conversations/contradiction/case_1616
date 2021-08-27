@@ -1,0 +1,8 @@
+original_conversation
+Hi, I'm looking for a train that will be leaving after 19:30 that goes to Kings Lynn.
+Where are you departing from?
+I'll be leaving from Cambridge on Friday.
+modified_conversation
+Hi, I'm looking for a train that will be leaving after 19:30 that goes to Kings Lynn.
+Where are you departing from?
+Hi, I'm not looking for a train that will be leaving after 19:30 that goes to Kings Lynn.

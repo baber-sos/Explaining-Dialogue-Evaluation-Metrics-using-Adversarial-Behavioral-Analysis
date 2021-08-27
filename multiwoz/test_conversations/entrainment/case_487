@@ -1,0 +1,24 @@
+original_conversation
+I want to book a train. List all tuesday departures to cambridge.
+There are over 200 departures to cambridge on Tuesday, do you have a specific departure place or time?
+My departure point is Kings Lynn and I need to arrive at Cambridge by 13:45
+TR2616 departs at 09:11 would that work? How many tickets would you like to purchase?
+Yes please book that for one person and give me the reference number.
+Booking was successful, the total fee is 9.8 GBP payable at the station . Reference number is : TT953CJR . Can I help you with anything else today?
+I am also looking for a place to stay.
+What are would you like to stay in?
+meh doesn't really matter. just moderately priced...
+I also have many pricing options and amenity options. Could you give me some direction?
+Sure 4 star, nothing but the best, free wifi moderately priced and free parking too
+modified_conversation
+I want to book a train. List all tuesday departures to cambridge.
+There are over 200 departures to cambridge on Tuesday, do you have a specific departure place or time?
+My departure point is Kings Lynn and I need to arrive at Cambridge by 13:45
+TR2616 departs at 09:11 would that work? How many tickets would you like to purchase?
+Yes please book that for one person and give me the reference number.
+Booking was successful, the total fee is 9.8 GBP payable at the station . Reference number is : TT953CJR . Can I help you with anything else today?
+I am also looking for a place to stay.
+What are would you like to stay in?
+meh doesn't really matter. just moderately priced...
+I also have many pricing options and amenity options. Could you give me some direction?
+Sure 4 star, nothing but the best, free wifi moderately priced and free parking too

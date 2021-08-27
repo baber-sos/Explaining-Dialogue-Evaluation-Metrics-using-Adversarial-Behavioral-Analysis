@@ -1,0 +1,8 @@
+original_conversation
+I need a train that leaves on Monday going to Cambridge.
+Wonderful, I can help you. Could you tell me where you're departing from so we can begin to book your ticket?
+Yes, I'll be departing from London Kings Cross. I'd also like to arrive in Cambridge by 10:30.
+modified_conversation
+I need a train that leaves on Monday going to Cambridge.
+Wonderful, I can help you. Could you tell me where you're departing from so we can begin to book your ticket?
+Yes, I'll be departing from London Kings Cross. I'd also like to arrive in first by 10:30.

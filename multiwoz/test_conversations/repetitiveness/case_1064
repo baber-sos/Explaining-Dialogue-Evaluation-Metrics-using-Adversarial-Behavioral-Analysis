@@ -1,0 +1,12 @@
+original_conversation
+I am looking for a train that leaves on thursday going to cambridge .
+There are 202 trains that meet what you are asking . Where would you like to depart from?
+London kings cross, it should also leave after 16:30 .
+TR1149 departs london kings cross at 17:17 and arrives in cambridge at 18:08 . Will that work?
+Yes it will . Can you book that for just me, and provide the reference number?
+modified_conversation
+I am looking for a train that leaves on thursday going to cambridge .
+There are 202 trains that meet what you are asking . Where would you like to depart from?
+London kings cross, it should also leave after 16:30 .
+TR1149 departs london kings cross at 17:17 and arrives in cambridge at 18:08 . Will that work?
+Yes it will . Can you book that that that that that that for just me, and provide the reference number?

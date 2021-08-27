@@ -1,0 +1,14 @@
+original_conversation
+I need a train that will be in Cambridge by 3:00
+What day will you be travelling?
+I will be travelling on Wednesday.
+Alright, where will you be departing?
+I'm leaving out of London King's Cross.
+What time do you need to be there by? Is it 13:00?
+modified_conversation
+I need a train that will be in Cambridge by 3:00
+What day will you be travelling?
+I will be travelling on Wednesday.
+Alright, where will you be departing?
+I'm leaving out of London King's Cross.
+I'm leaving out of London King's Cross. What time do you need to be there by? Is it 13:00?

@@ -1,0 +1,28 @@
+original_conversation
+Hello! I'd like to eat at an indian restaurant in the centre. Can you help?
+I can. What price range are you looking for?
+any price range please, need it for monday.
+Sure! how many people and what time?
+1 person at 14:15.
+I'm sorry, I haven't found any availability. Is there a different day or time you could change to??
+Could you try Monday at 13:15?
+The Curry Garden has availability at that time. Would you like me to book it for you?
+Yes please, and I am also looking for a train leaving cambridge on tuestday going to london kings cross arriving by 18:45.
+There are 7 trains that match your requests, is there a specific time you want to leave at?
+No specific time just as long as arrival is by 18:45. Please give me the price options.
+All of the trains arriving by that time cost 23.60 pounds.
+Thanks for your help!
+modified_conversation
+Hello! I'd like to eat at an indian restaurant in the centre. Can you help?
+I can. What price range are you looking for?
+any price range please, need it for monday.
+Sure! how many people and what time?
+1 person at 14:15.
+I'm sorry, I haven't found any availability. Is there a different day or time you could change to??
+Could you try Monday at 13:15?
+The Curry Garden has availability at that time. Would you like me to book it for you?
+Yes please, and I am also looking for a train leaving cambridge on tuestday going to london kings cross arriving by 18:45.
+There are 7 trains that match your requests, is there a specific time you want to leave at?
+No specific time just as long as arrival is by 18:45. Please give me the price options.
+All of the trains arriving by that time cost 23.60 pounds.
+No specific time just as long as arrival is not by 18:45. Please give me the price options.

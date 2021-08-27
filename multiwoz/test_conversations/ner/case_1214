@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a train departing from Cambridge leaving on Tuesday.
+I have trains departing long kings cross to cambridge on Tuesday every two hours starting at 5:00, would you like to make a reservation?
+I need one that leaves after 13:30 for Bishops Stortford
+How about the TR8017? It leaves at 15:29 and arrives at 16:07 in Bishops Stortford.
+And this train leaves from Cambridge? If so could you please book it for 7 people and give me the reference number?
+Yes, it leaves from Cambridge. I have booked this for you, and your reference number is GIXX2M35 .
+modified_conversation
+I am looking for a train departing from Cambridge leaving on Tuesday.
+I have trains departing long kings cross to cambridge on Tuesday every two hours starting at 5:00, would you like to make a reservation?
+I need one that leaves after 13:30 for Bishops Stortford
+How about the TR8017? It leaves at 15:29 and arrives at 16:07 in Bishops Stortford.
+And this train leaves from Cambridge? If so could you please book it for 7 people and give me the reference number?
+Yes, it leaves from cambridge. I have booked this for you, and your reference number is GIXX2M35 .

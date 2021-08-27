@@ -1,0 +1,14 @@
+original_conversation
+I am in need of an expensive Indian restaurant for dinner.
+There are 14 such restaurants. Do you want to be in a specific part of town?
+I don't care what part of town it is in, I would like a phone number please.
+Sure, I'm sorry. I have Curry Garden their phone number is 01223302330. Would you like me to reserve a table for you?
+Not at this time. I am looking for a 3-star hotel, though. No guesthouses.
+I have found the Gonville Hotel. It is a 3 star hotel. Would you like me to book it for you?
+modified_conversation
+I am in need of an expensive Indian restaurant for dinner.
+There are 14 such restaurants. Do you want to be in a specific part of town?
+I don't care what part of town it is in, I would like a phone number please.
+Sure, I'm sorry. I have Curry Garden their phone number is 01223302330. Would you like me to reserve a table for you?
+Not at this time. I am looking for a 3-star hotel, though. No guesthouses.
+Not at this time. I am looking for a 3-star hotel, though. No guesthouses. I have found the Gonville Hotel. It is a 3 star hotel. Would you like me to book it for you?

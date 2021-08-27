@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for a restaurant called nandos . Are you aware of it?
+I am . It is a great portuguese place . They have two locations in town . One in the South and on in the city centre .
+Are you sure that they have two locations? Can you tell me their address (es)?
+Nandos in the south is at Cambridge Leisure Park Clifton Way . Nandos City Centre is at 33-34 Saint Andrews Street . Do you need additional information?
+Yes, I'm also looking for a hotel - the cambridge belfry?
+modified_conversation
+I'm looking for a restaurant called nandos . Are you aware of it?
+I am . It is a great portuguese place . They have two locations in town . One in the South and on in the city centre .
+Are you sure that they have two locations? Can you tell me their address (es)?
+Nandos in the south is at Cambridge Leisure Park Clifton Way . Nandos City Centre is at 33-34 Saint Andrews Street . Do you need additional information?
+Yes, i'm also looking for a hotel - the cambridge Belfry?

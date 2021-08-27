@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a restaurant called darrys cookhouse and wine shop.
+Darrys cookhouse and wine shop is located in the centre. It is expensive and serves modern european food. Would you like a reservation?
+No thanks I'm just looking for information for now.
+Darrys Cookhouse is a modern European restaurant in the Centre. It is located at 40270 King Street City and is in the expensive price range.
+Okay thanks. I'd like some information about a place to go next.
+There are many attractions in town. What type are you looking for - architecture, cinema, or a college perhaps?
+modified_conversation
+I am looking for a restaurant called darrys cookhouse and wine shop.
+Darrys cookhouse and wine shop is located in the centre. It is expensive and serves modern european food. Would you like a reservation?
+No thanks I'm just looking for information for now.
+Darrys Cookhouse is a modern European restaurant in the Centre. It is located at 40270 King Street City and is in the expensive price range.
+Okay thanks. I'd like some information about a place to go next.
+Darrys Cookhouse is not a modern European restaurant in the Centre. It is located at 40270 King Street City and is in the expensive price range.

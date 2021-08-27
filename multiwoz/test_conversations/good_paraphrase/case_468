@@ -1,0 +1,26 @@
+original_conversation
+I am planning a trip in Cambridge.
+great, what can i help you with today?
+I will be needing a place to stay on the west side of town.
+Hobsons house is in the west part of town, would you like to stay there?
+get me the adress please
+Sure, it is: 96 barton road
+i am also looking for a train
+What will be your departure and arrival locations?
+I will be departing Cambridge and would like to arrive at Birmingham New Street.
+There are many trains that fit your request. To help narrow down the results, what day do you want to travel and when do you want to arrive?
+I am wanting to arrive by 17:30 and travel on a Monday.
+Train TR6251 is available and arrives at 16:44. Would you like me to book you a ticket?
+modified_conversation
+I am planning a trip in Cambridge.
+great, what can i help you with today?
+I will be needing a place to stay on the west side of town.
+Hobsons house is in the west part of town, would you like to stay there?
+get me the adress please
+Sure, it is: 96 barton road
+i am also looking for a train
+What will be your departure and arrival locations?
+I will be departing Cambridge and would like to arrive at Birmingham New Street.
+There are many trains that fit your request. To help narrow down the results, what day do you want to travel and when do you want to arrive?
+I am wanting to arrive by 17:30 and travel on a Monday.
+Train TR6251 is available and arrives at 16:44: Would you like to book a ticket with me?

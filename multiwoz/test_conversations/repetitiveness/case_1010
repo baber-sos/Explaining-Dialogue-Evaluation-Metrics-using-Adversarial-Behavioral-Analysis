@@ -1,0 +1,14 @@
+original_conversation
+Are there trains to Cambridge on Sunday?
+There are 202 trains that match your trip . Do you have a specific departure city?
+leaving cambridge on sunday
+Okay, where would you like to go?
+I would like to go from Ely to Cambridge and arrive by 8:00 .
+There are two trains departing Ely at 5:35 and 7:35 that will arrive in Cambridge by 8:00 . Would you like to book either train?
+modified_conversation
+Are there trains to Cambridge on Sunday?
+There are 202 trains that match your trip . Do you have a specific departure city?
+leaving cambridge on sunday
+Okay, where would you like to go?
+I would like to go from Ely to Cambridge and arrive by 8:00 .
+There are two trains departing Ely at 5:35 and 7:35 that will arrive in Cambridge by by by 8:00 . Would you like to book either train?

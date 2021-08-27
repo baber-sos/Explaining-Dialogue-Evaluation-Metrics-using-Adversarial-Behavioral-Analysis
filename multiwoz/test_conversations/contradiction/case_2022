@@ -1,0 +1,12 @@
+original_conversation
+I need a train leaving on Saturday.
+Where are you traveling from?
+I am leaving from cambridge.
+And where were you wanting to travel to?
+I am leaving leicester and coming to cambridge.
+modified_conversation
+I need a train leaving on Saturday.
+Where are you traveling from?
+I am leaving from cambridge.
+And where were you wanting to travel to?
+I am leaving leicester and coming to Peterborough.

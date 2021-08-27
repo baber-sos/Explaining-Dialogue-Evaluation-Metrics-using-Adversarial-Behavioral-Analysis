@@ -1,0 +1,10 @@
+original_conversation
+I need to find a train from cambridge to ely that leaves after 09:00
+What day would you like to travel?
+I will be traveling on Monday.
+I have TR8399 leaving cambridge at 9:50 and arriving at 10:07 in ely. Would you like to book that?
+modified_conversation
+I need to find a train from cambridge to ely that leaves after 09:00
+What day would you like to travel?
+I will be traveling on Monday.
+I have TR8399 leaving Cambridge at 9:50 and arriving at 10:07 in ely. Would you like to book that?

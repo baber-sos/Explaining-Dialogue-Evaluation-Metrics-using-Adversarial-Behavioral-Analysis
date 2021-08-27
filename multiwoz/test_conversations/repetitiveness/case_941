@@ -1,0 +1,10 @@
+original_conversation
+Hi! Can you tell me what trains are available on Friday after 18:30?
+Certainly, but first I need to know where you are departing from and what your destination is.
+I'm going from Stevenage to Cambridge.
+The first train after 18:30 is TR4969, which leaves at 19:54. Would you like a ticket, or more information?
+modified_conversation
+Hi! Can you tell me what trains are available on Friday after 18:30?
+Certainly, but first I need to know where you are departing from and what your destination is.
+I'm going from Stevenage to Cambridge.
+The first train after 18:30 is TR4969, which leaves at 19:54. Would you like a ticket, or more information more information more information?

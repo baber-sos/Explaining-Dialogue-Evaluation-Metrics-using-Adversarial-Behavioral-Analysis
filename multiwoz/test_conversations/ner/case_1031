@@ -1,0 +1,10 @@
+original_conversation
+Hello! I need a train departing Cambridge after 18:30, please.
+What day would you like to travel?
+I would like to leave on Friday and go to Birmingham New Street.
+I have 5 trains departing cambridge on Friday to birmingham new street. The earliest is leaving at 19:01 arriving by 21:44, will this suit you?
+modified_conversation
+Hello! I need a train departing Cambridge after 18:30, please.
+What day would you like to travel?
+I would like to leave on Friday and go to Birmingham New Street.
+I have 5 trains departing the Worth House on Corpus Christi to Chinese. The earliest is leaving at 19:01 arriving by 21:44, will this suit you?

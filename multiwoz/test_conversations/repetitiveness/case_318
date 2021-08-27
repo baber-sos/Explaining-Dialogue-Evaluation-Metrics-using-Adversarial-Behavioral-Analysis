@@ -1,0 +1,16 @@
+original_conversation
+I would like to book a train .
+OK, let's narrow this down a bit . Where are you traveling to, what day are you traveling, and at what time?
+After 19:00 on Friday from leicester to cambridge .
+Okay great, there are 5 trains leaving after 19:00 . The earliest being 19:09 and arriving by 20:54 . Would that work for you?
+Yes, I think the 20:54 arrival time should work .
+How many tickets do you want for this TR4365 train?
+One ticket please.
+modified_conversation
+I would like to book a train .
+OK, let's narrow this down a bit . Where are you traveling to, what day are you traveling, and at what time?
+After 19:00 on Friday from leicester to cambridge .
+Okay great, there are 5 trains leaving after 19:00 . The earliest being 19:09 and arriving by 20:54 . Would that work for you?
+Yes, I think the 20:54 arrival time should work .
+How many tickets do you want for this TR4365 train?
+One ticket please please please please please.

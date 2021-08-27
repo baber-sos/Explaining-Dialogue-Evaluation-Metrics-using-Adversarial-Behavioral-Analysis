@@ -1,0 +1,24 @@
+original_conversation
+I need to find a place to eat in Centre.
+There are many restaurants in centre. Did you have a specific price range or cuisine style you prefer?
+moderate and British please.
+Restaurant one seven looks good and is British in the moderate price range.
+Great! Can I book a table for one at 13:45 on Thursday?
+Booking was successful they will hold the table for 15 minutes and the reference number is QJMICCEY . Is there anything else I can help with?
+Yes. I am also looking for a train departing from cambridge.
+Ok what time will you be departing from cambridge? What is your destination?
+My destination is kings lynn and I need to arrive by 18:15.
+There are quite a few trains that will arrive at the time. What time would you prefer to depart?
+What's the last train that gets to Kings Lynn by 18:15 Friday?
+modified_conversation
+I need to find a place to eat in Centre.
+There are many restaurants in centre. Did you have a specific price range or cuisine style you prefer?
+moderate and British please.
+Restaurant one seven looks good and is British in the moderate price range.
+Great! Can I book a table for one at 13:45 on Thursday?
+Booking was successful they will hold the table for 15 minutes and the reference number is QJMICCEY . Is there anything else I can help with?
+Yes. I am also looking for a train departing from cambridge.
+Ok what time will you be departing from cambridge? What is your destination?
+My destination is kings lynn and I need to arrive by 18:15.
+There are quite a few trains that will arrive at the time. What time would you prefer to depart?
+My destination is not kings lynn and I need to arrive by 18:15.

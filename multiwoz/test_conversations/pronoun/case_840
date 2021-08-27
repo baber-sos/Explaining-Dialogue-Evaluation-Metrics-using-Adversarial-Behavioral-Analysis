@@ -1,0 +1,12 @@
+original_conversation
+I want to book a train. List all tuesday departures to cambridge.
+There are over 200 departures to cambridge on Tuesday, do you have a specific departure place or time?
+My departure point is Kings Lynn and I need to arrive at Cambridge by 13:45
+TR2616 departs at 09:11 would that work? How many tickets would you like to purchase?
+Yes please book that for one person and give me the reference number.
+modified_conversation
+I want to book a train. List all tuesday departures to cambridge.
+There are over 200 departures to cambridge on Tuesday, do you have a specific departure place or time?
+My departure point is Kings Lynn and I need to arrive at Cambridge by 13:45
+TR2616 departs at 09:11 would that work? How many tickets would you like to purchase?
+Yes please book that for one person and give us the reference number.

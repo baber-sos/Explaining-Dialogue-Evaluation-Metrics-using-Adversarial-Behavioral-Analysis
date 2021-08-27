@@ -1,0 +1,20 @@
+original_conversation
+I need a train to arrive in cambridge by 19:30 on thursday.
+We should be able to help you, where will you be coming from?
+The train should go to london kings cross and should depart from cambridge at 19:30
+If you are indeed traveling from Cambridge to Kings Cross, I recommend TR1791. It will arrive in Kings Cross at 17:51 on Thursday.
+I need 2 tickets please and the reference number can you help me with that?
+I was able to book it, reference number is UT2T6SJ1 .
+I am also looking for a restaurant in the center of town in the expensive price range.
+Okay, and what type of food would you like to eat?
+Any type of cuisine is fine with me. Can you book a table for us at your favorite? We'll need it at 11:30, before we take that train.
+modified_conversation
+I need a train to arrive in cambridge by 19:30 on thursday.
+We should be able to help you, where will you be coming from?
+The train should go to london kings cross and should depart from cambridge at 19:30
+If you are indeed traveling from Cambridge to Kings Cross, I recommend TR1791. It will arrive in Kings Cross at 17:51 on Thursday.
+I need 2 tickets please and the reference number can you help me with that?
+I was able to book it, reference number is UT2T6SJ1 .
+I am also looking for a restaurant in the center of town in the expensive price range.
+Okay, and what type of food would you like to eat?
+Any type of cuisine is fine with me. Can you book a table a table a table for us at your favorite? We'll need it at 11:30, before we take that train.

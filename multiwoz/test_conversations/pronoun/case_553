@@ -1,0 +1,18 @@
+original_conversation
+I am looking for a train that departs from Peterborough and goes to Cambridge.
+I have many trains available. What day would you like to leave?
+We will be leaving on Sunday afternoon.
+There are still many trains to pick from, can you narrow down a departure and arrival time frame?
+Yes, it should leave after 20:15 and leave on monday, not sunday. Please give me a price, travel time, and arrival time for any train.
+I have one leaving at 20:19 and arriving at 21:09. It is 13.20 pounds. Would you like me to book that for you.
+Yes please. What is the travel time? I'll also need a hotel in the expensive price range. Can you help me with that as well?
+Travel time is 50 minutes. I found 5 hotels you may like. Do you have a star rating request or an area you prefer?
+modified_conversation
+I am looking for a train that departs from Peterborough and goes to Cambridge.
+I have many trains available. What day would you like to leave?
+We will be leaving on Sunday afternoon.
+There are still many trains to pick from, can you narrow down a departure and arrival time frame?
+Yes, it should leave after 20:15 and leave on monday, not sunday. Please give me a price, travel time, and arrival time for any train.
+I have one leaving at 20:19 and arriving at 21:09. It is 13.20 pounds. Would you like me to book that for you.
+Yes please. What is the travel time? I'll also need a hotel in the expensive price range. Can you help me with that as well?
+Travel time is 50 minutes. she found 5 hotels him may like. Do she have a star rating request or an area her prefer?

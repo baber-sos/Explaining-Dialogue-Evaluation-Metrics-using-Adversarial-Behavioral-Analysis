@@ -1,0 +1,20 @@
+original_conversation
+Please help me make a taxi reservation
+Sure! Where is your departure site?
+I want to depart from the Riverside Brasserie.
+I can help you with that. When do you need to leave?
+It doesn't matter, just so I arrive by 18:15.
+I can help you with that. where are you going?
+I want to go to the Shanghai Family Restaurant. And I need the car type and contact number please.
+Okay, I have a black bmw for you with the contact number 07678946250. Is there anything else you need today?
+No that is all. Thanks.
+modified_conversation
+Please help me make a taxi reservation
+Sure! Where is your departure site?
+I want to depart from the Riverside Brasserie.
+I can help you with that. When do you need to leave?
+It doesn't matter, just so I arrive by 18:15.
+I can help you with that. where are you going?
+I want to go to the Shanghai Family Restaurant. And I need the car type and contact number please.
+Okay, I have a black bmw for you with the contact number 07678946250. Is there anything else you need today?
+I  do not want to go to the Shanghai Family Restaurant. And I need the car type and contact number please.

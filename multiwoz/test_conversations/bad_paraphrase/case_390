@@ -1,0 +1,18 @@
+original_conversation
+I am looking for a train departing Cambridge.
+I'd love to help! where is your destination?
+I need to g to london liverpool street on Saturday.
+Is there a particular time you would like to leave by?
+No, I just need to arrive by 15:00
+Train TR2895 arrives at 7:27 would that work?
+Yes, that will be perfect. What's the travel time?
+The departure time from cambridge to liverpool street on saturday will be at 05:59.
+modified_conversation
+I am looking for a train departing Cambridge.
+I'd love to help! where is your destination?
+I need to g to london liverpool street on Saturday.
+Is there a particular time you would like to leave by?
+No, I just need to arrive by 15:00
+Train TR2895 arrives at 7:27 would that work?
+Yes, that will be perfect. What's the travel time?
+The loss metre from Cambridge to Liverpool street on Sat will be at 05:59 . 

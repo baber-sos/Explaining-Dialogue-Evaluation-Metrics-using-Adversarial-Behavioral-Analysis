@@ -1,0 +1,12 @@
+original_conversation
+I need a train that leaves on Monday going to Cambridge.
+Wonderful, I can help you. Could you tell me where you're departing from so we can begin to book your ticket?
+Yes, I'll be departing from London Kings Cross. I'd also like to arrive in Cambridge by 10:30.
+Train TR0378 would leave at 05:17 and arrive at at 06:08. Would you like me to book that for you?
+The booking is for 8 people. If the train can accommodate that number of people please book the train and provide a reference number.
+modified_conversation
+I need a train that leaves on Monday going to Cambridge.
+Wonderful, I can help you. Could you tell me where you're departing from so we can begin to book your ticket?
+Yes, I'll be departing from London Kings Cross. I'd also like to arrive in Cambridge by 10:30.
+Train TR0378 would leave at 05:17 and arrive at at 06:08. Would you like me to book that for you?
+Yes, I'll be departing from London Kings Cross. I'd also like to arrive in Cambridge by 10:30.

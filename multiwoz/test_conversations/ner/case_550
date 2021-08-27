@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for a train that goes to kings lynn and departs from cambridge.
+Okay, do you know the day you want to travel?
+Yes, I need to leave on Sunday and arrive at Kings Lynn by 08:45 for a meeting.
+TR3626 arrives Sunday at 7:58 am before your meeting. Would you like that one?
+modified_conversation
+I'm looking for a train that goes to kings lynn and departs from cambridge.
+Okay, do you know the day you want to travel?
+Yes, I need to leave on Sunday and arrive at Kings Lynn by 08:45 for a meeting.
+TR3626 arrives a good day at 7:58 am before your meeting. Would you like that one?

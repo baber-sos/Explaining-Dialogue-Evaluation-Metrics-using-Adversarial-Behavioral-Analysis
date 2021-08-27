@@ -1,0 +1,26 @@
+original_conversation
+It's Sunday and I am bored. Do you have any trains into Cambridge today?
+There are many trains, when would you like to depart?
+I would like to leave from Kings Lynn after 9:30.
+TR5928 leaves at 10:11, would you like me to book that for you?
+Can you give me the price of a ticket?
+Tickets are 7.84 pounds. Can I book that for you?
+Great I also need to find a place to stay that doesn't need to have free parking and is in the cheap price range.
+There are 33 hotels in the cheap range, any preference on area or anything else?
+Cheap price range in the centre.
+There are two choices. Alexander Bed and Breakfast and El Shaddai. Do you want to make a reservation at one of these choices?
+I will take Alexander please.
+To confirm you want me to book you a room at Alexander Bed and Breakfast starting on Sunday. How many nights will you be staying?
+modified_conversation
+It's Sunday and I am bored. Do you have any trains into Cambridge today?
+There are many trains, when would you like to depart?
+I would like to leave from Kings Lynn after 9:30.
+TR5928 leaves at 10:11, would you like me to book that for you?
+Can you give me the price of a ticket?
+Tickets are 7.84 pounds. Can I book that for you?
+Great I also need to find a place to stay that doesn't need to have free parking and is in the cheap price range.
+There are 33 hotels in the cheap range, any preference on area or anything else?
+Cheap price range in the centre.
+There are two choices. Alexander Bed and Breakfast and El Shaddai. Do you want to make a reservation at one of these choices?
+I will take Alexander please.
+To confirm that you want to book a room at Alexander Bed and Breakfast from Sunday How many nights will you be staying?

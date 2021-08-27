@@ -1,0 +1,12 @@
+original_conversation
+Hello there, I am traveling to Cambridge soon and I am looking for a play to stay in the north side of town.
+There are 13 places to stay. Do you have any other requirements outside of the north area?
+Yes, i need a 4 star hotel that also includes free wifi.
+How about the acorn guest house at 154 chesterton road?
+That sounds good. Do they have free parking?
+modified_conversation
+Hello there, I am traveling to Cambridge soon and I am looking for a play to stay in the north side of town.
+There are 13 places to stay. Do you have any other requirements outside of the north area?
+Yes, i need a 4 star hotel that also includes free wifi.
+How about the acorn guest house at 154 chesterton road?
+Yes, i  do not need a 4 star hotel that also includes free wifi.

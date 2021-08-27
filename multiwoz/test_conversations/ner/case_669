@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for information on a hotel, the carolina bed and breakfast.
+Its a moderately priced four start hotel with internet. Do you need any more info?
+Can you book it for me?
+Yes. When would you like me to book it for and how many people?
+I would like to book it for 2 nights starting Tuesday for 5 people
+Your booking was successful and reference number is H14BC8TI . Can I help you with anything else today?
+Yeah, I need a train to get to Cambridge by 13:45.
+modified_conversation
+I'm looking for information on a hotel, the carolina bed and breakfast.
+Its a moderately priced four start hotel with internet. Do you need any more info?
+Can you book it for me?
+Yes. When would you like me to book it for and how many people?
+I would like to book it for 2 nights starting Tuesday for 5 people
+Your booking was successful and reference number is H14BC8TI . Can I help you with anything else today?
+Yeah, I need a train to get to Cambridge TownInfo by 13:45.

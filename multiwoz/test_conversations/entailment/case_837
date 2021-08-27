@@ -1,0 +1,12 @@
+original_conversation
+I need a train departing Cambridge arriving by 2030.
+Which station are you traveling to, and on which day?
+I need to go to Kings lynn on Wednesday and need to arrive before 20:30.
+There are 5 trains. Would you like to leave at 5:11?
+Sure. I'd like to book tickets for 6 people, and I'll need a reference number for the booking.
+modified_conversation
+I need a train departing Cambridge arriving by 2030.
+Which station are you traveling to, and on which day?
+I need to go to Kings lynn on Wednesday and need to arrive before 20:30.
+There are 5 trains. Would you like to leave at 5:11?
+No thank you. I would like to find something in the entertainment industry anywhere in the city.

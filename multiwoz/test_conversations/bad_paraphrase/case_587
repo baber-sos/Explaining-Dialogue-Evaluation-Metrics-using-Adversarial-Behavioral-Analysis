@@ -1,0 +1,18 @@
+original_conversation
+I need to leave peterborough and arrive by 20:45. Can you book a train for me?
+What time would you like to depart?
+I will depart any time so long as the train arrives by 20:45.
+OK, and what day do you need to travel?
+Oh, I need to leave this Saturday. Just to clarify I want to leave Peterborough going to Cambridge.
+TR7143 will arrive in Cambridge Saturday by 20:38, it will depart peterborough at 19:48. Does this suit your needs?
+Yes that is perfect. Can you book that and give me a reference number?
+Yes I booked it and your reference number is 6793D7ED . Will there be anything else?
+modified_conversation
+I need to leave peterborough and arrive by 20:45. Can you book a train for me?
+What time would you like to depart?
+I will depart any time so long as the train arrives by 20:45.
+OK, and what day do you need to travel?
+Oh, I need to leave this Saturday. Just to clarify I want to leave Peterborough going to Cambridge.
+TR7143 will arrive in Cambridge Saturday by 20:38, it will depart peterborough at 19:48. Does this suit your needs?
+Yes that is perfect. Can you book that and give me a reference number?
+yes I booked it and your cite numeral is 6793D7ED . Will there be anything else ? 

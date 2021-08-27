@@ -1,0 +1,12 @@
+original_conversation
+Get me an expensive place to eat in the centre please
+Sure! You have a cuisine preference?
+Yes, I prefer British food.
+Okay, there are three restaurants. I recommend midsummer house restaurant.
+That sounds great. Can you make a reservation for me there for 4 people at 17:30 on saturday?
+modified_conversation
+Get me an expensive place to eat in the centre please
+Sure! You have a cuisine preference?
+Yes, I prefer British food.
+Okay, there are three restaurants. I recommend midsummer house restaurant.
+That sounds great. Can you make a reservation for me there for 4 people at 17:30 on 01223334200?

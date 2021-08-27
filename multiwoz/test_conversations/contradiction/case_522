@@ -1,0 +1,18 @@
+original_conversation
+I'm looking for a restaurant in Cambridge called Nandos City Centre.
+Nandos city centre is located at 33-34 Saint Andrews Street.
+I want to book a table for 4 people at 15:00 on wednesday. Please give me a reference number.
+Sure thing! Your reference number is LYIENP77 . Can I help you with anything else today?
+I need to find a guesthouse style hotel please.
+The a and b is a guesthouse style hotel in the east area.
+What is its star rating? I am looking for a place with a star of 0.
+I have results for 2 guesthouses with 0 star ratings, one is in the north and one is in the centre. Which area do you prefer?
+modified_conversation
+I'm looking for a restaurant in Cambridge called Nandos City Centre.
+Nandos city centre is located at 33-34 Saint Andrews Street.
+I want to book a table for 4 people at 15:00 on wednesday. Please give me a reference number.
+Sure thing! Your reference number is LYIENP77 . Can I help you with anything else today?
+I need to find a guesthouse style hotel please.
+The a and b is a guesthouse style hotel in the east area.
+What is its star rating? I am looking for a place with a star of 0.
+I have results for 2 guesthouses with 0 star ratings, one is in the north and 8 is in the centre. Which area do you prefer?

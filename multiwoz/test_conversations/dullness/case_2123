@@ -1,0 +1,22 @@
+original_conversation
+Hi! I'm planning a trip in Cambridge and I'm looking for a restaurant in the west part of town.
+There are fourteen restaurants in the west. Is there any kind of food you're looking for?
+how about you suggest one a book a table for 4 on tuesday at 15:45 and I need the reference number too please
+I was able to book saint johns chop house, reference number is G579W1K0
+Can you please book a train to Cambridge that arrives by 11:30?
+There are many! What is your departure station, and what day are you traveling?
+The same day as the booking, and I'm coming from birmingham new street.
+TR0254 would leave at 05:40 and arrive by 08:23. Is this too early for you?
+Is there a train that arrives closer to 11:30? If so I just need the id, price, and travel time.
+Yes, TR2761 will arrive by 11:23. The travel time is 163 minutes and it will cost 75.10 pounds. Would you like for me to book it for you?
+modified_conversation
+Hi! I'm planning a trip in Cambridge and I'm looking for a restaurant in the west part of town.
+There are fourteen restaurants in the west. Is there any kind of food you're looking for?
+how about you suggest one a book a table for 4 on tuesday at 15:45 and I need the reference number too please
+I was able to book saint johns chop house, reference number is G579W1K0
+Can you please book a train to Cambridge that arrives by 11:30?
+There are many! What is your departure station, and what day are you traveling?
+The same day as the booking, and I'm coming from birmingham new street.
+TR0254 would leave at 05:40 and arrive by 08:23. Is this too early for you?
+Is there a train that arrives closer to 11:30? If so I just need the id, price, and travel time.
+I don't have a good answer to that.

@@ -1,0 +1,12 @@
+original_conversation
+Hi, I need a train to Cambridge on Wednesday, please.
+May I ask for your departure city?
+I will be leaving from Stansted Airport and will need to get to Cambridge by 18:00.
+I found a train that arrives at 09:52. Will that work?
+That is very early, can i get one closer to 18:00?
+modified_conversation
+Hi, I need a train to Cambridge on Wednesday, please.
+May I ask for your departure city?
+I will be leaving from Stansted Airport and will need to get to Cambridge by 18:00.
+I found a train that arrives at 09:52. Will that work?
+I don't have a good answer to that.

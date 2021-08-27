@@ -1,0 +1,24 @@
+original_conversation
+Can you get me information on a restaurant called mahal of cambridge?
+Sure it is a cheap Indian restaurant in the town centre. I hear it has great food.
+Do you think they would be able to make reservations for a party of 7?
+I can help you with that. When would you like to make the reservation for?
+17:45 for a table of 7 for the restaurant stated above. Thank you!
+What day would you like that reservation for?
+Oh, Tuesday please. And if you could give me a reference number, that'd be great.
+I have successfully booked your table! Your reference number is WOQ10J3G . Anything else I can help you with today?
+I would also like the address of a museum in the centre of town
+Primavera is a museum in the center of town. Their address is 10 king s parade. What else can I help with?
+Oh, I made a mistake. I really need that table for 16:15, not 17:45. Can you change it, do you thing?
+modified_conversation
+Can you get me information on a restaurant called mahal of cambridge?
+Sure it is a cheap Indian restaurant in the town centre. I hear it has great food.
+Do you think they would be able to make reservations for a party of 7?
+I can help you with that. When would you like to make the reservation for?
+17:45 for a table of 7 for the restaurant stated above. Thank you!
+What day would you like that reservation for?
+Oh, Tuesday please. And if you could give me a reference number, that'd be great.
+I have successfully booked your table! Your reference number is WOQ10J3G . Anything else I can help you with today?
+I would also like the address of a museum in the centre of town
+Primavera is a museum in the center of town. Their address is 10 king s parade. What else can I help with?
+Oh, I made a mistake - I really need this table for 16:15, not 17:45 - can you change it?

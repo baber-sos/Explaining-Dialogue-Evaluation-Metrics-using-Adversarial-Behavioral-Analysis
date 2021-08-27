@@ -1,0 +1,10 @@
+original_conversation
+I need to get to Cambridge by 10:15 for a business meeting, can you give me some train information.
+I can help! Where are you departing from?
+From Bishops Stortford on Tuesday.
+Train TR0635 departs at 9:29 and arrives at 10:07. Would you like me to book you a ticket?
+modified_conversation
+I need to get to Cambridge by 10:15 for a business meeting, can you give me some train information.
+I can help! Where are you departing from?
+From Bishops Stortford on Tuesday.
+Train TR0635 departs at 9:29 and arrives at 10:07. Would it like them to book he a ticket?

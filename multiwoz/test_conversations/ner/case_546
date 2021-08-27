@@ -1,0 +1,10 @@
+original_conversation
+Could you help me with planning my trip? I need a train.
+I can absolutely help you. Can you tell me your departure and arrival stations?
+Yes, on Sunday I'll be departing from Cambridge and going to Stevenage. I'd like to leave after 17:00.
+Train TR7729 would probably fit your needs. It leaves at 17:21.
+modified_conversation
+Could you help me with planning my trip? I need a train.
+I can absolutely help you. Can you tell me your departure and arrival stations?
+Yes, on Sunday I'll be departing from Cambridge and going to Stevenage. I'd like to leave after 17:00.
+london kings cross would probably fit your needs. It leaves at 17:21.

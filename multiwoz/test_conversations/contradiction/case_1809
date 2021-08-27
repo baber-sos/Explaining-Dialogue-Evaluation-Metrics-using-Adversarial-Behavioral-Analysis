@@ -1,0 +1,20 @@
+original_conversation
+I need information about a certain restaurant called charlie chan.
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763. Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db. May I help book a table?
+Maybe later. I also need to find a train to ely on Tuesday. Can you help with that?
+I can absolutely help! Where are you departing from and when would you like to arrive?
+I will be leaving from Cambridge and need to leave after 12:30 please.
+There is a train that fits that criteria leaving at 09:50 and arriving at 10:07, would that work?
+I really can't leave at that time. Like I said, I need something that leaves after 12:30.
+modified_conversation
+I need information about a certain restaurant called charlie chan.
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763. Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db. May I help book a table?
+Maybe later. I also need to find a train to ely on Tuesday. Can you help with that?
+I can absolutely help! Where are you departing from and when would you like to arrive?
+I will be leaving from Cambridge and need to leave after 12:30 please.
+There is a train that fits that criteria leaving at 09:50 and arriving at 10:07, would that work?
+I really can't leave at that time. Like I said, I need something that leaves after 13:40.

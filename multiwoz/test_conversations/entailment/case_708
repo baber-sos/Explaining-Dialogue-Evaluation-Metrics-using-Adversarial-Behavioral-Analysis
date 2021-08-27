@@ -1,0 +1,20 @@
+original_conversation
+Would you be able to help me find a train for Friday?
+Gladly. Where are you headed?
+I need a train that departs Cambridge to Stevenage on Friday leaving after 18:30.
+The first train running that route after 18:30 is the TR8118, leaving at 19:21.
+That sounds great. Can you please book 5 tickets?
+Booking was successful, the total fee is 64 GBP payable at the station. Reference number is : QAF9QUO2 .
+Okay thank you for your help.
+I'm more than happy to have been of service. Is there anything else I can help you with?
+I would also like to visit a college.
+modified_conversation
+Would you be able to help me find a train for Friday?
+Gladly. Where are you headed?
+I need a train that departs Cambridge to Stevenage on Friday leaving after 18:30.
+The first train running that route after 18:30 is the TR8118, leaving at 19:21.
+That sounds great. Can you please book 5 tickets?
+Booking was successful, the total fee is 64 GBP payable at the station. Reference number is : QAF9QUO2 .
+Okay thank you for your help.
+I'm more than happy to have been of service. Is there anything else I can help you with?
+Sure, Christ's College is free admission and their phone number is 01223334900.

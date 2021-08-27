@@ -1,0 +1,14 @@
+original_conversation
+I am planning a trip in Cambridge
+Great! Is there a certain restaurant you're looking for?
+Moderate price in the East . and I need the phone number, address, and food type
+I have the curry prince which is indian food . Would you like that one?
+Yes . That would be fine . What is the address and phone number?
+The address is 451 Newmarket Road Fen Ditton and the phone number is 01223566388 . Would you like me to make a reservation for you?
+modified_conversation
+I am planning a trip in Cambridge
+Great! Is there a certain restaurant you're looking for?
+Moderate price in the East . and I need the phone number, address, and food type
+I have the curry prince which is indian food . Would you like that one?
+Yes . That would be fine . What is the address and phone number?
+The destination is 451 Newmarket Road Fen Ditton and the phone number is 01223566388 . Would you like me to do a reservation for you?

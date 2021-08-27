@@ -1,0 +1,12 @@
+original_conversation
+Can you help me find a train departing from cambridge going to kings lynn?
+of course, what day are you traveling?
+I want to leave on Thursday and arrive by 14:00 .
+We have nine trains arriving by 14:00 that day . What time are you looking to leave by?
+I don't have a specific time to leave but I do want to arrive before 14:00 . How much will this cost?
+modified_conversation
+Can you help me find a train departing from cambridge going to kings lynn?
+of course, what day are you traveling?
+I want to leave on Thursday and arrive by 14:00 .
+We have nine trains arriving by 14:00 that day . What time are you looking to leave by?
+I don't have a specific time to leave but I do need to arriving before 14:00 . How much leave this Is?

@@ -1,0 +1,38 @@
+original_conversation
+I would a train. I'm going from birmingham new street and it needs to arrive by 11:00.
+What day would you like to travel?
+I am leaving on Saturday, and the train should go to cambridge.
+TR8259 will arrive in Cambridge at 10:23. Would you like me to book a ticket for you on that train?
+Not yet. First I would like to get price and departure time.
+It will depart at 7:40 and it will cost 60.08 pounds. Do you need help with anything else?
+and i need a place to stay
+Okay there are many options. Do you have a price preference or area?
+I would like something in the east. I also prefer a guesthouse.
+There is a and B Guesthouse, it is in the East part of town
+That sounds good, I have 7 people in total.
+Could you tell me the dates, and how many rooms you will be needing?
+It will be for Saturday and for 3 nights.
+Okay, three nights. Would you like me to book that?
+Yes, of course I want you to book it. And give me the reference number too!
+Unfortunately I am having trouble with booking that for you. Is there other options we could explore.
+Hmmm, could you try again. That is what I really need.
+Unfortunately it isn't allowing me to make that reservation. I am sorry, is there anything else I can do for you?
+modified_conversation
+I would a train. I'm going from birmingham new street and it needs to arrive by 11:00.
+What day would you like to travel?
+I am leaving on Saturday, and the train should go to cambridge.
+TR8259 will arrive in Cambridge at 10:23. Would you like me to book a ticket for you on that train?
+Not yet. First I would like to get price and departure time.
+It will depart at 7:40 and it will cost 60.08 pounds. Do you need help with anything else?
+and i need a place to stay
+Okay there are many options. Do you have a price preference or area?
+I would like something in the east. I also prefer a guesthouse.
+There is a and B Guesthouse, it is in the East part of town
+That sounds good, I have 7 people in total.
+Could you tell me the dates, and how many rooms you will be needing?
+It will be for Saturday and for 3 nights.
+Okay, three nights. Would you like me to book that?
+Yes, of course I want you to book it. And give me the reference number too!
+Unfortunately I am having trouble with booking that for you. Is there other options we could explore.
+Hmmm, could you try again. That is what I really need.
+Unfortunately I am not having trouble with booking that for you. Is there other options we could explore.

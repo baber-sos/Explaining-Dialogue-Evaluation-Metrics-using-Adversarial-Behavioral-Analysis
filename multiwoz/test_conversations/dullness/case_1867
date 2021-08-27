@@ -1,0 +1,20 @@
+original_conversation
+Can you help me find a train?
+Certainly. Where will you be traveling?
+From cambridge to petersborough. I am looking for thursday after 12:15
+The TR8124 train will leave cambridge,thursday at 12:34 and arrive in peterborough at 13:24, will that work.
+It should, how much is that ticket?
+It would cost 16.50 pounds.
+Ok, I also need a 2 star place to stay with free parking.
+There are 3 options. Would you like a recommendation, or do you wish to add a specification?
+I'd like a recommendation.
+modified_conversation
+Can you help me find a train?
+Certainly. Where will you be traveling?
+From cambridge to petersborough. I am looking for thursday after 12:15
+The TR8124 train will leave cambridge,thursday at 12:34 and arrive in peterborough at 13:24, will that work.
+It should, how much is that ticket?
+It would cost 16.50 pounds.
+Ok, I also need a 2 star place to stay with free parking.
+There are 3 options. Would you like a recommendation, or do you wish to add a specification?
+Ok, I also need a 2 star place to stay with free parking.

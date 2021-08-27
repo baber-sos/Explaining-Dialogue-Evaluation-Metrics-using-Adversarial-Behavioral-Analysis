@@ -1,0 +1,26 @@
+original_conversation
+I am looking for a restaurant named Meghna.
+Meghna has Indian cuisine and is found on the west end. Can I make a reservation for you?
+What is the price range for Meghna?
+Meghna is in the moderate price range. Is there anything else I can do for you?
+Yes, I need a train leaving Cambridge.
+Sure! First, I need to know your destination and what day you want to travel.
+Heading to Norwich on Tuesday
+There are several trains that day, is there a certain time you'd like to leave by?
+I would like to leave after 15:16
+Train TR6524 leaves at 15:36 on Tuesday. Would you like me to book that for you?
+No, but I would like the price, arrival time, and travel time, please.
+The price is 17.60 pounds and you would arrive by 16:55. The total travel time is 79 minutes.
+modified_conversation
+I am looking for a restaurant named Meghna.
+Meghna has Indian cuisine and is found on the west end. Can I make a reservation for you?
+What is the price range for Meghna?
+Meghna is in the moderate price range. Is there anything else I can do for you?
+Yes, I need a train leaving Cambridge.
+Sure! First, I need to know your destination and what day you want to travel.
+Heading to Norwich on Tuesday
+There are several trains that day, is there a certain time you'd like to leave by?
+I would like to leave after 15:16
+Train TR6524 leaves at 15:36 on Tuesday. Would you like me to book that for you?
+No, but I would like the price, arrival time, and travel time, please.
+No, but I would like the price, arrival time, and travel time, please. The price is 17.60 pounds and you would arrive by 16:55. The total travel time is 79 minutes.

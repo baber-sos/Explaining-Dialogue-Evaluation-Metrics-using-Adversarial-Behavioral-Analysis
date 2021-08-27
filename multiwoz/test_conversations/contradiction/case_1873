@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a restaurant that serves canapes food. Expensive range should do it.
+Unfortunately there are no canapes restaurants.
+hmmm. Can you check again? it should be in the centre.
+I am sorry but there are no restaurants that fit that criteria in the centre.
+Could you try a restaurant that serves british food instead?
+Yes, we have three British restaurants in the central area. Might I recommend fitzbillies restaurant?
+That sounds fine, can you reserve a table for 3 people at 13:00 on Tuesday?
+modified_conversation
+I'm looking for a restaurant that serves canapes food. Expensive range should do it.
+Unfortunately there are no canapes restaurants.
+hmmm. Can you check again? it should be in the centre.
+I am sorry but there are no restaurants that fit that criteria in the centre.
+Could you try a restaurant that serves british food instead?
+Yes, we have three British restaurants in the central area. Might I recommend fitzbillies restaurant?
+That sounds fine, can you reserve a table for 3 people at 13:00 on 07025393792?

@@ -1,0 +1,12 @@
+original_conversation
+Are there any trains leaving from stansted airport on sunday?
+Yes there are. The first one leaves at 05:24 and the latest one leaves at 09:24 did you have a specific time?
+Yes I would like to leave Cambridge after 16:00, and departing from Stansted airport and leave on Sunday.
+Train TR7744 leaves Stansted Airport at 16:24 and arrives in Cambridge at 16:52. Will that work?
+Yes please, make the reservation for 6 people and send me the reference number.
+modified_conversation
+Are there any trains leaving from stansted airport on sunday?
+Yes there are. The first one leaves at 05:24 and the latest one leaves at 09:24 did you have a specific time?
+Yes I would like to leave Cambridge after 16:00, and departing from Stansted airport and leave on Sunday.
+Train TR7744 leaves Stansted Airport at 16:24 and arrives in Cambridge at 16:52. Will that work?
+Yes please, make the reservation for 6 people and send him the reference number.

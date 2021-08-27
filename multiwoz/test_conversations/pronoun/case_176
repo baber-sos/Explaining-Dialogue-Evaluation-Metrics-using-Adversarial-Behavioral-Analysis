@@ -1,0 +1,38 @@
+original_conversation
+Hello, I am looking for information on a train.
+I can help you with that. Where are you headed?
+I'm headed to Cambridge from the Stansted Airport. Can you find information for Thursday please?
+I found 19 trains what time do you want to leave the airport?
+I need to arrive in Cambridge by 14:45 so I will need to leave in time to get there by then.
+There is a train that leaves at 5:24.
+That won't work, I need to arrive in Cambridge by 14:45 (2:45pm).
+Since that won't work for you, I can get you on a train that leaves at 13:24 and will arrive by 13:52. Would you like me to book your seat?
+That would be just fine. I just need the Train ID for now. I also need a place to stay.
+Yes, that train ID is: TR3637. Can I assist with a booking?
+No, I don't need to book it now. Can you help me find an expensive guest house with free parking and wifi?
+Sorry, I don't see any listings that match your search. Would you like to change price range or type?
+Are there any in the moderate price range?
+The Acorn Guest House is in the moderate range.
+Alright tell me the star rating, phone number, and postcode for that location
+Acorn Guest House is a 4 star establishment located at 154 chesterton road with postcode cb41da and phone number 01223353888. Can i assist you any further?
+I would like to book a room at that hotel. Can you go ahead and book that for me.
+Sure. I need a little information first. How many guests will this be for?
+modified_conversation
+Hello, I am looking for information on a train.
+I can help you with that. Where are you headed?
+I'm headed to Cambridge from the Stansted Airport. Can you find information for Thursday please?
+I found 19 trains what time do you want to leave the airport?
+I need to arrive in Cambridge by 14:45 so I will need to leave in time to get there by then.
+There is a train that leaves at 5:24.
+That won't work, I need to arrive in Cambridge by 14:45 (2:45pm).
+Since that won't work for you, I can get you on a train that leaves at 13:24 and will arrive by 13:52. Would you like me to book your seat?
+That would be just fine. I just need the Train ID for now. I also need a place to stay.
+Yes, that train ID is: TR3637. Can I assist with a booking?
+No, I don't need to book it now. Can you help me find an expensive guest house with free parking and wifi?
+Sorry, I don't see any listings that match your search. Would you like to change price range or type?
+Are there any in the moderate price range?
+The Acorn Guest House is in the moderate range.
+Alright tell me the star rating, phone number, and postcode for that location
+Acorn Guest House is a 4 star establishment located at 154 chesterton road with postcode cb41da and phone number 01223353888. Can i assist you any further?
+I would like to book a room at that hotel. Can you go ahead and book that for me.
+Sure. they need a little information first. How many guests will they be for?

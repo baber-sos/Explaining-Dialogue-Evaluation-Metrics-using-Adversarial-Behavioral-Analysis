@@ -1,0 +1,12 @@
+original_conversation
+Im looking for an italian restaurant. I also need it to be near the center of town.
+There are 9 italian restaurants in the center of town. Do you have a particular price range in mind?
+i need a cheap restaurant
+There is Pizza Hut City Centre, Ask, and Zizzi Cambridge, which would you like to book?
+Can you book a table for 7 at Ask? We're looking at 14:00 on Saturday.
+modified_conversation
+Im looking for an italian restaurant. I also need it to be near the center of town.
+There are 9 italian restaurants in the center of town. Do you have a particular price range in mind?
+i need a cheap restaurant
+There is Pizza Hut City Centre, Ask, and Zizzi Cambridge, which would you like to book?
+Can you book a table for 7 at Ask? We're looking at 14:00 on Curry Garden.

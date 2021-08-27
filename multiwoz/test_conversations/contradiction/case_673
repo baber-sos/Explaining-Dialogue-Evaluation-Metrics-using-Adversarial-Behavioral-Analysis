@@ -1,0 +1,16 @@
+original_conversation
+Hello. I'm going out for an expensive dinner and need to find a restaurant. I'd like somewhere in the north, and I'm willing to pay quite a bit of money.
+I'd be happy to help you with that. I have 5 expensive restaurants in the north. Did you have a type of cuisine in mind?
+Yes, Romanian please.
+There are no options for romanian, can I try something else for you?
+I guess try European.
+The city stop restaurant is a european restaurant in the expensive price range.
+Is it in the north? If so, can you reserve us a table for 3 on Friday at 17:45 please?
+modified_conversation
+Hello. I'm going out for an expensive dinner and need to find a restaurant. I'd like somewhere in the north, and I'm willing to pay quite a bit of money.
+I'd be happy to help you with that. I have 5 expensive restaurants in the north. Did you have a type of cuisine in mind?
+Yes, Romanian please.
+There are no options for romanian, can I try something else for you?
+I guess try European.
+The city stop restaurant is a european restaurant in the expensive price range.
+Is it in the north? If so, can you reserve us a table for 3 on today at 17:45 please?

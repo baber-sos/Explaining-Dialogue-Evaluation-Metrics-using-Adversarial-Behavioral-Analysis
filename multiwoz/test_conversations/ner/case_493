@@ -1,0 +1,26 @@
+original_conversation
+What train do I take to get to Birmingham New Street? I need to leave after 17:00.
+There are trains departing hourly at 1 minute past the hour from 17:01 until 23:01. All are 75.10 pounds, and take 163 minutes.
+I am looking to travel on Monday. The first train at 17:01 would be fine. Can I get that train info?
+Sure the trainID is TR7728. It leaves at 17:01 and arrives at 19:44. Would you like to make a reservation?
+Yes please make a reservation and give me the reference number.
+Your reservation is book. The reference number is LMB9KCHM . Can I assist you with anything else today?
+I'm also looking for an expensive restaurant in the south.
+There are 5 restaurants that fit your description. What type of food are you looking for?
+I need to book a table for the same group of people at 12:30 on the same day at a mexican restaurant.
+How many are in your party?
+Five people. I will need the reference number please.
+You have a reservation for Chiquito restaurant bar for Monday at 12:30 for 5 people. The table will be held for 15-minutes. Reference number is SO1F7EVU . Anything else?
+modified_conversation
+What train do I take to get to Birmingham New Street? I need to leave after 17:00.
+There are trains departing hourly at 1 minute past the hour from 17:01 until 23:01. All are 75.10 pounds, and take 163 minutes.
+I am looking to travel on Monday. The first train at 17:01 would be fine. Can I get that train info?
+Sure the trainID is TR7728. It leaves at 17:01 and arrives at 19:44. Would you like to make a reservation?
+Yes please make a reservation and give me the reference number.
+Your reservation is book. The reference number is LMB9KCHM . Can I assist you with anything else today?
+I'm also looking for an expensive restaurant in the south.
+There are 5 restaurants that fit your description. What type of food are you looking for?
+I need to book a table for the same group of people at 12:30 on the same day at a mexican restaurant.
+How many are in your party?
+Five people. I will need the reference number please.
+You have a reservation for Chiquito restaurant bar for TR0552 at 12:30 for 5 people. The table will be held for 15-minutes. Reference number is SO1F7EVU . Anything else?

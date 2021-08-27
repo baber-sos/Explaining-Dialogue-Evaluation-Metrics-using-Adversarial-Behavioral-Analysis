@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for a train leaving on friday going to cambridge.
+I can help with that. Where will you be departing from?
+I just want to arrive by 15:15.
+Well, there are 101 trains arriving before 15:15 on Friday. Is there are area you are coming from so I can narrow it down for you?
+modified_conversation
+I'm looking for a train leaving on friday going to cambridge.
+I can help with that. Where will you be departing from?
+I just want to arrive by 15:15.
+Well, there are 101 trains arriving before 15:15 on friday. Is there are area you are coming from so I can narrow it down for you?

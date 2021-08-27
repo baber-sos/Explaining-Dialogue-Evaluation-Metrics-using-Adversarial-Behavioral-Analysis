@@ -1,0 +1,12 @@
+original_conversation
+Can you help me find a train for Sunday. I would like to visit London Kings Street.
+There are several leaving for London Kings Cross. They all take 51 minutes and cost 18.88 pounds. Do you have a time of departure in mind?
+I want to leave from Peterborough and arrive at Cambridge by 11:45.
+There is a train that departs from Peterborough at 10:48, arriving in Cambridge at 11:38. Would that work for you?
+Yes, can you please book 7 tickets for me on that train?
+modified_conversation
+Can you help me find a train for Sunday. I would like to visit London Kings Street.
+There are several leaving for London Kings Cross. They all take 51 minutes and cost 18.88 pounds. Do you have a time of departure in mind?
+I want to leave from Peterborough and arrive at Cambridge by 11:45.
+There is a train that departs from Peterborough at 10:48, arriving in Cambridge at 11:38. Would that work for you?
+I want to leave from Peterborough and arrive at Cambridge by 11:45.

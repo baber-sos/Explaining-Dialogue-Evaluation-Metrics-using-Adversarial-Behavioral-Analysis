@@ -1,0 +1,30 @@
+original_conversation
+I need a train to Cambridge, departing from the Peterborough station.
+There are a total of 266 trains traveling from Peterborough to Cambridge. What day would you like to leave?
+I would like to travel on Saturday and arrive by 15:15.
+I have a train scheduled to depart Peterborough at 14:19 and will arrive in Cambridge by 14:38. Would you me like to book this for you?
+Yes, for 2 people, please.
+Okay all booked! The arrival time is actually 15:09 and your reference number is YENH8FDC .
+Thanks! I'm also looking for a chinese place located in the centre?
+There are 10 that match your preference. Do you have a price range? Or do you know the name of the restaurant?
+I would like a restaurant in the cheap price range. Can you find one?
+There are three Chinese restaurants in the Centre that are in the cheap price range: Charlie Chan, Rice House, and Golden House. Do you have a preference?
+Golden House sounds delicious, please provide the address.
+Absolutely! The address is 12 Lensfield Road City Centre post code cb21eg. How many people would you like me to make a reservation for?
+No reservation needed at this time. In fact, I have everything I need. Thanks for your help today, I'm all set.
+Thank You, have a great day. Goodbye
+modified_conversation
+I need a train to Cambridge, departing from the Peterborough station.
+There are a total of 266 trains traveling from Peterborough to Cambridge. What day would you like to leave?
+I would like to travel on Saturday and arrive by 15:15.
+I have a train scheduled to depart Peterborough at 14:19 and will arrive in Cambridge by 14:38. Would you me like to book this for you?
+Yes, for 2 people, please.
+Okay all booked! The arrival time is actually 15:09 and your reference number is YENH8FDC .
+Thanks! I'm also looking for a chinese place located in the centre?
+There are 10 that match your preference. Do you have a price range? Or do you know the name of the restaurant?
+I would like a restaurant in the cheap price range. Can you find one?
+There are three Chinese restaurants in the Centre that are in the cheap price range: Charlie Chan, Rice House, and Golden House. Do you have a preference?
+Golden House sounds delicious, please provide the address.
+Absolutely! The address is 12 Lensfield Road City Centre post code cb21eg. How many people would you like me to make a reservation for?
+No reservation needed at this time. In fact, I have everything I need. Thanks for your help today, I'm all set.
+No reservation needed at this time. In fact, I have everything I need. Thanks for your help today, I'm all set. Thank You, have a great day. Goodbye

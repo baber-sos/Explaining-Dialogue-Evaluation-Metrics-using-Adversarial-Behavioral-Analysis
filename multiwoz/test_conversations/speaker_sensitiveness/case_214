@@ -1,0 +1,10 @@
+original_conversation
+I need a train that departs from Ely on Thursday.
+We have 10 trains leaving from Ely on Thursday. Where would you like to go?
+I would like to go to Cambridge after 18:00.
+We have three trains departing from Ely after 18:00. The earliest departing at 19:35 and arriving by 19:52. It'll be a 17 minute trip.
+modified_conversation
+I need a train that departs from Ely on Thursday.
+We have 10 trains leaving from Ely on Thursday. Where would you like to go?
+I would like to go to Cambridge after 18:00.
+I would like to go to Cambridge after 18:00. We have three trains departing from Ely after 18:00. The earliest departing at 19:35 and arriving by 19:52. It'll be a 17 minute trip.

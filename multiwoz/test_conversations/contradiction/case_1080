@@ -1,0 +1,36 @@
+original_conversation
+Hi, are there any trains from cambridge to kings lynn?
+I have 133 results for trains going from cambridge to kings lynn, what day are you looking to travel on and what time would you like to arrive?
+I need to leave on friday and arrive by 16:45
+I have one that leaves at 14:11 and arrives in kings lynn at 14:58. Would this be acceptable?
+Yes, I'd like eight tickets, please.
+Great, your 8 tickets are booked (Ref#PHXZ03NH). Total fee is 78.4GBP, which you'll pay at the station. Can I help with anything else today?
+Yes I need to find a nice expensive British restaurant please.
+there are alot of restaurants that fit your needs what area would you like it in
+The area does not matter. They just need to have an available table for 8 people at 10:45 on Friday night.
+I am sorry none of them have booking available for that time,another time maybe?
+Is 9:45 an available time?
+I apologize. Can you verify that time for me again please?
+I would like to book a table at 9:45.
+I am not seeing anything available at that time. Maybe we can start from the beginning. You said you are looking for an expensive british restaurant right?
+Yes. I would like a reservation on Friday at 10:45 for 8 people.
+I am unable to get you a reservation at 10:45 would you like to pick another time or day?
+how about 8:45 on Friday?
+modified_conversation
+Hi, are there any trains from cambridge to kings lynn?
+I have 133 results for trains going from cambridge to kings lynn, what day are you looking to travel on and what time would you like to arrive?
+I need to leave on friday and arrive by 16:45
+I have one that leaves at 14:11 and arrives in kings lynn at 14:58. Would this be acceptable?
+Yes, I'd like eight tickets, please.
+Great, your 8 tickets are booked (Ref#PHXZ03NH). Total fee is 78.4GBP, which you'll pay at the station. Can I help with anything else today?
+Yes I need to find a nice expensive British restaurant please.
+there are alot of restaurants that fit your needs what area would you like it in
+The area does not matter. They just need to have an available table for 8 people at 10:45 on Friday night.
+I am sorry none of them have booking available for that time,another time maybe?
+Is 9:45 an available time?
+I apologize. Can you verify that time for me again please?
+I would like to book a table at 9:45.
+I am not seeing anything available at that time. Maybe we can start from the beginning. You said you are looking for an expensive british restaurant right?
+Yes. I would like a reservation on Friday at 10:45 for 8 people.
+I am unable to get you a reservation at 10:45 would you like to pick another time or day?
+how about 8:45 on days?

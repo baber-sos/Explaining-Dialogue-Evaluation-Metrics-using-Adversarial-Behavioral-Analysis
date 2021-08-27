@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a train to cambridge.
+What day will you be traveling?
+I would like to leave on Friday.
+Okay I have several. What time are you leaving, and how many tickets would you like?
+I am leaving Thurtsday at 2pm and need three tickets
+I have the TR5502 that leaves at 3:17pm. Would that work for you?
+Actually, I never told you where I was leaving from. I need the train to depart from Kings Lynn.
+modified_conversation
+I'm looking for a train to cambridge.
+What day will you be traveling?
+I would like to leave on Friday.
+Okay I have several. What time are you leaving, and how many tickets would you like?
+I am leaving Thurtsday at 2pm and need three tickets
+I have the TR5502 that leaves at 3:17pm. Would that work for you?
+I am not leaving Thurtsday at 2pm and need three tickets

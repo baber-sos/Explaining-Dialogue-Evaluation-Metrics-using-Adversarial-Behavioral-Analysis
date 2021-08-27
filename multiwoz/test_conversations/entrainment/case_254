@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a restaurant in the centre of town with a modest price range. Can you recommend one?
+Yippee noodle bar has good ratings and is in the moderate price range in the centre of town.
+That sounds great. Can I reserve a table for 4 at 20:00 on Wednesday?
+Booking was unsuccessful. Let's try another day or time.
+Okay let's try 19:00 instead.
+That was succesful. Your booking was successful. The table will be reserved for 15 minutes. Your reference number is : 54GI6AI7 .
+That is wonderful. Thank you for your help. Have a great day.
+modified_conversation
+I'm looking for a restaurant in the centre of town with a modest price range. Can you recommend one?
+Yippee noodle bar has good ratings and is in the moderate price range in the centre of town.
+That sounds great. Can I reserve a table for 4 at 20:00 on Wednesday?
+Booking was unsuccessful. Let's try another day or time.
+Okay let's try 19:00 instead.
+That was succesful. Your booking was successful. The table will be reserved for 15 minutes. Your reference number is : 54GI6AI7 .
+That is wonderful. Thank you for your help. Have a keen day.

@@ -1,0 +1,16 @@
+original_conversation
+I am looking for a train from Cambridge to Birmingham New Street.
+The next train leaving from Cambridge for Birmingham New Street departs Friday at 5:01, and will arrive by 7:44.
+I need a train that departs after 08:30 on Friday.
+I have a train leaving Cambridge arriving at Birmingham New Street on Friday at 9:01. Would you like me to book this for you?
+Yes please, that sounds perfect.
+And how many tickets will you need for your trip?
+Actually, I don't need booking. Please just give me the train's travel time and price.
+modified_conversation
+I am looking for a train from Cambridge to Birmingham New Street.
+The next train leaving from Cambridge for Birmingham New Street departs Friday at 5:01, and will arrive by 7:44.
+I need a train that departs after 08:30 on Friday.
+I have a train leaving Cambridge arriving at Birmingham New Street on Friday at 9:01. Would you like me to book this for you?
+Yes please, that sounds perfect.
+And how many tickets will you need for your trip?
+I don't know what you mean by that.

@@ -1,0 +1,18 @@
+original_conversation
+Are there any trains from London Kings Cross to Cambridge?
+Yes there are serveal trains leaving from London Kings Cross to Cambridge what time would you like to leave?
+I don't care as long as I arrive by 08:30 on monday .
+Train TR0379 leaves London Kings Cross at 05:17 and arrives in Cambridge at 6:08 . Would you like me to book that for you?
+Yes please, Could you book 8 tickets and provide the reference number .
+Sure, the train is actually number TR0378 and your reference number is K3KI84VN . The price will be 188.8 GBP payable at the station . Is there anything else today?
+Yes, I've heard something about a restaurant, I think it's called Wagamama or something like that . Can you help me find it?
+That restaurant is found at 36 Saint Andrews Street and serves Japanese food . Do you need their phone number or any other details?
+modified_conversation
+Are there any trains from London Kings Cross to Cambridge?
+Yes there are serveal trains leaving from London Kings Cross to Cambridge what time would you like to leave?
+I don't care as long as I arrive by 08:30 on monday .
+Train TR0379 leaves London Kings Cross at 05:17 and arrives in Cambridge at 6:08 . Would you like me to book that for you?
+Yes please, Could you book 8 tickets and provide the reference number .
+Sure, the train is actually number TR0378 and your reference number is K3KI84VN . The price will be 188.8 GBP payable at the station . Is there anything else today?
+Yes, I've heard something about a restaurant, I think it's called Wagamama or something like that . Can you help me find it?
+That That That That restaurant is found at 36 Saint Andrews Street and serves Japanese food . Do you need their phone number or any other details?

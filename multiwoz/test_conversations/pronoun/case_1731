@@ -1,0 +1,10 @@
+original_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+I will b departing from Cambridge and arriving in Ely.
+TR4294 will leave at 17:50 and arrive by 18:07. Do you need to book tickets?
+modified_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+I will b departing from Cambridge and arriving in Ely.
+TR4294 will leave at 17:50 and arrive by 18:07. Do it need to book tickets?

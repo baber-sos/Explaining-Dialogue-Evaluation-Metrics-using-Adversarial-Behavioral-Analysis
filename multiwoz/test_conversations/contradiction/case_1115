@@ -1,0 +1,8 @@
+original_conversation
+Hello, I am looking for a restaurant in Cambridge. I believe it is called Golden Wok.
+It is located at 191 Histon Road Chesterton
+Can you book me a table for 11:00 on Friday?
+modified_conversation
+Hello, I am looking for a restaurant in Cambridge. I believe it is called Golden Wok.
+It is located at 191 Histon Road Chesterton
+Hello, I am not looking for a restaurant in Cambridge. I believe it is called Golden Wok.

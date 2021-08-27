@@ -1,0 +1,20 @@
+original_conversation
+Hello, I am looking for a restaurant in Cambridge. I believe it is called Golden Wok.
+It is located at 191 Histon Road Chesterton
+Can you book me a table for 11:00 on Friday?
+Yes I can! Table for 1?
+Actually, for 4, please.
+Okay, your booking was successful! The reference number is MUFCMYFF . The table will be reserved for 15 minutes.
+Great, can you also get me information or architecture in the area
+Sure. There are several churches and an old schools attraction, all in the centre area. Do you have a preference?
+What do you recommend?
+modified_conversation
+Hello, I am looking for a restaurant in Cambridge. I believe it is called Golden Wok.
+It is located at 191 Histon Road Chesterton
+Can you book me a table for 11:00 on Friday?
+Yes I can! Table for 1?
+Actually, for 4, please.
+Okay, your booking was successful! The reference number is MUFCMYFF . The table will be reserved for 15 minutes.
+Great, can you also get me information or architecture in the area
+Sure. There are several churches and an old schools attraction, all in the centre area. Do you have a preference?
+I don't know what you mean by that.

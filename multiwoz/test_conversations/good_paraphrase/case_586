@@ -1,0 +1,38 @@
+original_conversation
+Hi, I'm looking for a place to eat some indian food.
+Do you have a price range in mind?
+I would like it to be expensive.
+I have several great options. Did you have an area of town in mind?
+I'd like a place in the south, please.
+taj tandoori is the place you want to go. It meets all of your needs. Need a table?
+No, but can you give me the address, postcode, and phone number?
+Of course, the address is 64 Cherry Hinton Road Cherry Hinton and their postcode is cb17aa. Their phone number is 01223412299
+I would also like to go to some attractions in the same area as the restaurant.
+There are a number of attractions in the area. There's a cinema, a museum, a nightclub, some parks, a theatre... Do any of these appeal to you in particular?
+restaurant is what i am looking for, entrance fee and postcode please. get me a taxi from the attraction by 10.15, get me its contact number and car type.
+Just to clarify you are looking for another restaurant and not an attraction?
+Oh, yeah, I do want information on attractions! In the same area. After that, I will need a taxi.
+If you like parks the Wandlbury Country Park has free admission and is in the cb223ae postcode. Or I can tell you about the other attractions?
+That sounds wonderful, is it also in the South part of town? If so, I'd like a taxi from there to my hotel.
+Yes, Wandlebury Country Park is in the south. In order to help you book a taxi between the park and your hotel, I need to know what hotel you're at.
+I want a taxi from the restaurant that I am at
+Ok, so you'd like a taxi from the restaurant to the park? Could you please let me know your desired departure and arrival times?
+modified_conversation
+Hi, I'm looking for a place to eat some indian food.
+Do you have a price range in mind?
+I would like it to be expensive.
+I have several great options. Did you have an area of town in mind?
+I'd like a place in the south, please.
+taj tandoori is the place you want to go. It meets all of your needs. Need a table?
+No, but can you give me the address, postcode, and phone number?
+Of course, the address is 64 Cherry Hinton Road Cherry Hinton and their postcode is cb17aa. Their phone number is 01223412299
+I would also like to go to some attractions in the same area as the restaurant.
+There are a number of attractions in the area. There's a cinema, a museum, a nightclub, some parks, a theatre... Do any of these appeal to you in particular?
+restaurant is what i am looking for, entrance fee and postcode please. get me a taxi from the attraction by 10.15, get me its contact number and car type.
+Just to clarify you are looking for another restaurant and not an attraction?
+Oh, yeah, I do want information on attractions! In the same area. After that, I will need a taxi.
+If you like parks the Wandlbury Country Park has free admission and is in the cb223ae postcode. Or I can tell you about the other attractions?
+That sounds wonderful, is it also in the South part of town? If so, I'd like a taxi from there to my hotel.
+Yes, Wandlebury Country Park is in the south. In order to help you book a taxi between the park and your hotel, I need to know what hotel you're at.
+I want a taxi from the restaurant that I am at
+Ok, so you would like a taxi from the restaurant to the park?

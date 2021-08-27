@@ -1,0 +1,14 @@
+original_conversation
+Hi, I need to find a train to cambridge, please.
+Certainly. From where are you planning to depart, and when?
+I want to leave from Stevenage on Saturday.
+I have 10 trains available. Is there a certain time you would like to travel?
+Yes, I would like to arrive by 12:30.
+TR9024 will get you to Cambridge by 10:43. Would you like to book this train?
+modified_conversation
+Hi, I need to find a train to cambridge, please.
+Certainly. From where are you planning to depart, and when?
+I want to leave from Stevenage on Saturday.
+I have 10 trains available. Is there a certain time you would like to travel?
+Yes, I would like to arrive by 12:30.
+TR9024 will get you to cambridge by 10:43. Would you like to book this train?

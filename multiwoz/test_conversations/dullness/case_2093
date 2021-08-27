@@ -1,0 +1,34 @@
+original_conversation
+Where is the University Arms Hotel?
+It is in the centre of town on regent street. Would you like to book a room?
+Please. I need a room on monday for three nights, and 6 people.
+Okay, your booking was successful! Your reference number is NA8FW4OS .
+Great, thanks. I also want to find out some info on the train schedule from Ely to Cambridge.
+There are 70 trains scheduled. Did you have a date or time in mind?
+same day as the hotel booking
+The first train leaves at 05:35 and they leave every 2 hours after that until 23:35.
+okay, I need to arrive by 20:00, so the closest one to that time please.
+There is TR6679. It leaves at 19:35 and arrives at 19:52. Is that good for you?
+Sounds good. May I have the travel time and ticket price, please?
+Sure, it takes 17 minutes and costs 4.40 pounds.
+Okay great, could you book me a seat?
+Sure thing. I will work on that for you and be right back with you.
+What is the departure time for this train? Thank so much!
+It departs at 19:35. Can I help you book passage?
+modified_conversation
+Where is the University Arms Hotel?
+It is in the centre of town on regent street. Would you like to book a room?
+Please. I need a room on monday for three nights, and 6 people.
+Okay, your booking was successful! Your reference number is NA8FW4OS .
+Great, thanks. I also want to find out some info on the train schedule from Ely to Cambridge.
+There are 70 trains scheduled. Did you have a date or time in mind?
+same day as the hotel booking
+The first train leaves at 05:35 and they leave every 2 hours after that until 23:35.
+okay, I need to arrive by 20:00, so the closest one to that time please.
+There is TR6679. It leaves at 19:35 and arrives at 19:52. Is that good for you?
+Sounds good. May I have the travel time and ticket price, please?
+Sure, it takes 17 minutes and costs 4.40 pounds.
+Okay great, could you book me a seat?
+Sure thing. I will work on that for you and be right back with you.
+What is the departure time for this train? Thank so much!
+I don't know what you mean by that.

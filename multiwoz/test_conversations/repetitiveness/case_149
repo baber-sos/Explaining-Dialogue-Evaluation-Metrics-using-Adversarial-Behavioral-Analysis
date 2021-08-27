@@ -1,0 +1,26 @@
+original_conversation
+I am planning a trip in Cambridge
+great, would you like some information?
+I'm looking to go to Leicester. I want to leave on Sunday and arrive by 21:45.
+Train TR9831 arrives in Leicester at 21:06, will that work for you?
+That would be fine. I'll need the travel time, price, and train ID, please?
+train id is TR9831 leaves at 19:21 and will cost 30.24 pounds
+Thank you. Also i need to book a reservation at a restaurant named Nandos.
+Okay, we have two Nandos. One in the south and one in the centre. Which would you prefer?
+I'll go with the one in the centre. I need a booking for 8 at 16:45 on sunday.
+Your table is reserved, reference #VIUNXVBC . Can I help you with anything else today?
+That is all I need.
+Ok. Have a great day.
+modified_conversation
+I am planning a trip in Cambridge
+great, would you like some information?
+I'm looking to go to Leicester. I want to leave on Sunday and arrive by 21:45.
+Train TR9831 arrives in Leicester at 21:06, will that work for you?
+That would be fine. I'll need the travel time, price, and train ID, please?
+train id is TR9831 leaves at 19:21 and will cost 30.24 pounds
+Thank you. Also i need to book a reservation at a restaurant named Nandos.
+Okay, we have two Nandos. One in the south and one in the centre. Which would you prefer?
+I'll go with the one in the centre. I need a booking for 8 at 16:45 on sunday.
+Your table is reserved, reference #VIUNXVBC . Can I help you with anything else today?
+That is all I need.
+Ok. Have a great day a great day a great day.

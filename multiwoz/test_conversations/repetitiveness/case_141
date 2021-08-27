@@ -1,0 +1,18 @@
+original_conversation
+Can you help me find a train leaving on sunday arriving by 9:00?
+I have 36 trains that match what you are requesting. Where will you be traveling to?
+I'll be heading to Peterborough from Cambridge.
+There are 7 results. What time would you like to leave cambridge?
+I'm flexible, as long as I arrive by 9:00. Could you let me know the total travel time?
+All of the trains that day are 50 minutes travel time. Would you like to leave at 8:06, arriving at 8:56?
+Sure. Could you give me the ID for that train?
+Sure. Train ID TR0160, 50 minutes travel time will cost 13.20 pounds per ticket. What else can I help you with today?
+modified_conversation
+Can you help me find a train leaving on sunday arriving by 9:00?
+I have 36 trains that match what you are requesting. Where will you be traveling to?
+I'll be heading to Peterborough from Cambridge.
+There are 7 results. What time would you like to leave cambridge?
+I'm flexible, as long as I arrive by 9:00. Could you let me know the total travel time?
+All of the trains that day are 50 minutes travel time. Would you like to leave at 8:06, arriving at 8:56?
+Sure. Could you give me the ID for that train?
+Sure. Train ID TR0160 Train ID TR0160 Train ID TR0160 Train ID TR0160, 50 minutes travel time will cost 13.20 pounds per ticket. What else can I help you with today?

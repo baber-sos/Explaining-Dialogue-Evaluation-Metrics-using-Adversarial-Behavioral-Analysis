@@ -1,0 +1,14 @@
+original_conversation
+I want a train going to cambridge.
+Where are you leaving from and what day?
+I am departing from Ely on Wednesday.
+What time would you need to arrive? I have quite a few options to choose from.
+I want to go to Cambridge, leave after 17:00.
+Train TR8610 is departing from Ely to Cambridge. It is leaving Wednesday at 17:35. The price per ticket is 4.40 pounds. Should I book it for you?
+modified_conversation
+I want a train going to cambridge.
+Where are you leaving from and what day?
+I am departing from Ely on Wednesday.
+What time would you need to arrive? I have quite a few options to choose from.
+I want to go to Cambridge, leave after 17:00.
+Train TR8610 is departing from Ely to Bangkok City. It is leaving Wednesday at 17:35. The price per ticket is 4.40 pounds. Should I book it for you?

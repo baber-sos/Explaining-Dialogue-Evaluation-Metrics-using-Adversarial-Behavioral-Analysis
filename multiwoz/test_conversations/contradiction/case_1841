@@ -1,0 +1,12 @@
+original_conversation
+Can you help me find a train? I'll be traveling on Wednesday.
+What is your departure point and what time would you like to depart?
+Oh, of course. Sorry. I'm leaving out of Leicester and going into Cambridge.
+Is there a specific time you want to leave or arrive by? I have 2,828 trains to pick from. I need to narrow this down.
+I want to arrive by 16:15.
+modified_conversation
+Can you help me find a train? I'll be traveling on Wednesday.
+What is your departure point and what time would you like to depart?
+Oh, of course. Sorry. I'm leaving out of Leicester and going into Cambridge.
+Is there a specific time you want to leave or arrive by? I have 2,828 trains to pick from. I need to narrow this down.
+Oh, of course. Sorry. I'm not leaving out of Leicester and going into Cambridge.

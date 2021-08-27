@@ -1,0 +1,22 @@
+original_conversation
+I am looking for a nice restaurant with price range high and book a table for 4.
+I'm sorry, there seems to be an error. Can you please restate your request?
+i actually need a train
+What are your departure and destination locations?
+Departing from Cambridge and going to Leicester on Tuesday.
+TR6985 leaves at 09:21 and cost is 37.80. can we book?
+Yes, please, for 3 people.
+Your reservation on train ID TR6985 for a party of 3 was successful. Your Reference number is : DQP9UAPU .
+Thanks, can you also lookup a hotel for me? I think it's called the lovell lodge.
+They are a hotel that is moderately priced in the north. It is 2 star rated and offers free parking and wifi. Did you need a room?
+modified_conversation
+I am looking for a nice restaurant with price range high and book a table for 4.
+I'm sorry, there seems to be an error. Can you please restate your request?
+i actually need a train
+What are your departure and destination locations?
+Departing from Cambridge and going to Leicester on Tuesday.
+TR6985 leaves at 09:21 and cost is 37.80. can we book?
+Yes, please, for 3 people.
+Your reservation on train ID TR6985 for a party of 3 was successful. Your Reference number is : DQP9UAPU .
+Thanks, can you also lookup a hotel for me? I think it's called the lovell lodge.
+That is a good question.

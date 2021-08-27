@@ -1,0 +1,14 @@
+original_conversation
+Hi, I want to travel to Cambridge by train.
+Great, what time do you have in mind?
+I want to arrive by 17:30.
+And where are you leaving from?
+I'm leaving from Broxbourne on Sunday.
+The first train departs Broxbourne for Cambridge on Sunday at 05:32. Do you want to purchase this ticket or pick a later departure time?
+modified_conversation
+Hi, I want to travel to Cambridge by train.
+Great, what time do you have in mind?
+I want to arrive by 17:30.
+And where are you leaving from?
+I'm leaving from Broxbourne on Sunday.
+The first gearing departs Broxbourne for Cambridge on Sunday at 05:32. Do you want to purchase this ticket or pick a later departure time?

@@ -1,0 +1,16 @@
+original_conversation
+Where is the train that arrives at 11:00 and leaves to Cambridge?
+What day do you wish to travel and where are you departing from?
+I want to depart from Broxbourne on Friday .
+TR2145 arrives in Cambridge by 10:32 . Would that work for you?
+Yes . Please book for 6 people .
+Okay, tickets fro 6 have been booked! Your reference number is AUQ1WQY3 . Can I help you with anything else?
+Thank you . Now I would like to party all night at a good night club . Can you help with that?
+modified_conversation
+Where is the train that arrives at 11:00 and leaves to Cambridge?
+What day do you wish to travel and where are you departing from?
+I want to depart from Broxbourne on Friday .
+TR2145 arrives in Cambridge by 10:32 . Would that work for you?
+Yes . Please book for 6 people .
+Okay, tickets fro 6 have been booked! Your reference number is AUQ1WQY3 . Can I help you with anything else?
+Thank you . Now I would like to party all all all night at a good night club . Can you help with that?

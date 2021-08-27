@@ -1,0 +1,20 @@
+original_conversation
+I'm trying to find an expensive restaurant in the centre part of town.
+The Cambridge Chop House is an good expensive restaurant in the centre of town. Would you like me to book it for you?
+Yes, a table for 1 at 16:15 on sunday. I need the reference number.
+Great your reference number is NKLSHT8G
+Could you help me find a train to Cambridge from Leicester please?
+What day would you like me to book your train for?
+I am leaving on Sunday and I need to arrive by 12:45 in leicester.
+I have 6 trains leaving hourly at 9 minutes past the hour between 05:09 and 10:09. Would you like to book one of these?
+Can you give me the Train ID of the one departing at 10:09?
+modified_conversation
+I'm trying to find an expensive restaurant in the centre part of town.
+The Cambridge Chop House is an good expensive restaurant in the centre of town. Would you like me to book it for you?
+Yes, a table for 1 at 16:15 on sunday. I need the reference number.
+Great your reference number is NKLSHT8G
+Could you help me find a train to Cambridge from Leicester please?
+What day would you like me to book your train for?
+I am leaving on Sunday and I need to arrive by 12:45 in leicester.
+I have 6 trains leaving hourly at 9 minutes past the hour between 05:09 and 10:09. Would you like to book one of these?
+The number is TR1744.

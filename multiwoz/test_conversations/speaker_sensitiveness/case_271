@@ -1,0 +1,10 @@
+original_conversation
+I need a train going to bishops stortford.
+Ok. Are you departing from Cambridge?
+Yes, that's why I'm requesting help from Cambridge TownInfo.
+What day and time would you like to depart?
+modified_conversation
+I need a train going to bishops stortford.
+Ok. Are you departing from Cambridge?
+Yes, that's why I'm requesting help from Cambridge TownInfo.
+Yes, that's why I'm requesting help from Cambridge TownInfo. What day and time would you like to depart?

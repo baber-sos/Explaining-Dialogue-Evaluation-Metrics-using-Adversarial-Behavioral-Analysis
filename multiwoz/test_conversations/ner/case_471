@@ -1,0 +1,14 @@
+original_conversation
+I need to catch a train out of Cambridge after 15:45.
+Could you provide me with your destination?
+I'd like to go to Stevenage.
+What day do you need the train?
+I need to leave on Monday. Can you book me for 4 people and can I get the reference number?
+TR0254 leaves Cambridge at 17:21. The Booking was successful, the total fee is 51.2 GBP payable at the station . Reference number is : 5K1EMDSS .
+modified_conversation
+I need to catch a train out of Cambridge after 15:45.
+Could you provide me with your destination?
+I'd like to go to Stevenage.
+What day do you need the train?
+I need to leave on Monday. Can you book me for 4 people and can I get the reference number?
+TR0254 leaves Cheddars Lane at 17:21. The Booking was successful, the total fee is 51.2 GBP payable at the station . Reference number is : 5K1EMDSS .

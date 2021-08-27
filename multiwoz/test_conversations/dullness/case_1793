@@ -1,0 +1,20 @@
+original_conversation
+I travelling to Cambridge and am looking for a train to the London Kings Cross station leaving on Thursday.
+Where will you be traveling from on Thursday?
+I want to depart from Cambridge after 19:45 and arrive at london kings cross.
+TR0720 departs cambridge at 21:00 on Thursday, heading to london kings cross. How many tickets do you need?
+I would like to book 4. Can you tell me the price for each ticket before I book them?
+The cost for one ticket is 23.60 pounds.
+I would actually like to book 5 people and would like to know the reference number for the tickets and the address of La Tasca restaurant.
+Booking was successful, your reference number is D8JELRTU . La tasca is located at 14 -16 Bridge Street. Would you like a reservation?
+Yes please. Can I book a table for five people?
+modified_conversation
+I travelling to Cambridge and am looking for a train to the London Kings Cross station leaving on Thursday.
+Where will you be traveling from on Thursday?
+I want to depart from Cambridge after 19:45 and arrive at london kings cross.
+TR0720 departs cambridge at 21:00 on Thursday, heading to london kings cross. How many tickets do you need?
+I would like to book 4. Can you tell me the price for each ticket before I book them?
+The cost for one ticket is 23.60 pounds.
+I would actually like to book 5 people and would like to know the reference number for the tickets and the address of La Tasca restaurant.
+Booking was successful, your reference number is D8JELRTU . La tasca is located at 14 -16 Bridge Street. Would you like a reservation?
+I don't have a good answer to that.

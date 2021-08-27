@@ -1,0 +1,12 @@
+original_conversation
+Hi there. Can you help me find a restaurant in the centre?
+Yes, there are some great choices. Do you like a particular cuisine?
+Yes I would like it to serve asian oriental
+There are four options available that meet your criteria. I'd recommend the Yippee Noodle Bar. Would you like to book a table?
+No, but I would like the postcode for that restaurant please. I also need to find a place to stay. Could you help me with that?
+modified_conversation
+Hi there. Can you help me find a restaurant in the centre?
+Yes, there are some great choices. Do you like a particular cuisine?
+Yes I would like it to serve asian oriental
+There are four options available that meet your criteria. I'd recommend the Yippee Noodle Bar. Would you like to book a table?
+Yes, but please give me the postcode for this restaurant.I also need a place to stay.

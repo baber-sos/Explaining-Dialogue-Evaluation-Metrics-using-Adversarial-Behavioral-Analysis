@@ -1,0 +1,24 @@
+original_conversation
+Hello, I am looking for a train that arrives by 16:00 and leaves on monday.
+There are multiple trains available to you. Where are you departing from and what is your destination please?
+I want to broxbourne from cambridge.
+We have trains leaving from 05:01 every hour until 14:01 that will get you to Broxbourne by 16:00. What time would be more acceptable to you?
+Once you find the train you want to make a booking for 1 people. Make sure you get the reference number
+The TR0796 train leaves Cambridge at 05:01 and arrives in Broxbourne 06:01. The cost in 17.90 pounds. Is this a good train for you?
+Yes please. Please book a ticket for one person.
+The booking was successful your reference number is XUKSDFW4 . Is there anything I can help with today?
+Yes. I would like a restaurant for the same day. The name is Travellers rest.
+Travellers restaurant is an expensive british restaurant in the west part of town. Is there anything else I can do for you?
+Can you book that restaurant for me, for one person at 13:00?
+modified_conversation
+Hello, I am looking for a train that arrives by 16:00 and leaves on monday.
+There are multiple trains available to you. Where are you departing from and what is your destination please?
+I want to broxbourne from cambridge.
+We have trains leaving from 05:01 every hour until 14:01 that will get you to Broxbourne by 16:00. What time would be more acceptable to you?
+Once you find the train you want to make a booking for 1 people. Make sure you get the reference number
+The TR0796 train leaves Cambridge at 05:01 and arrives in Broxbourne 06:01. The cost in 17.90 pounds. Is this a good train for you?
+Yes please. Please book a ticket for one person.
+The booking was successful your reference number is XUKSDFW4 . Is there anything I can help with today?
+Yes. I would like a restaurant for the same day. The name is Travellers rest.
+Travellers restaurant is an expensive british restaurant in the west part of town. Is there anything else I can do for you?
+Can you book a taxi for 13:45 from the royal spice.

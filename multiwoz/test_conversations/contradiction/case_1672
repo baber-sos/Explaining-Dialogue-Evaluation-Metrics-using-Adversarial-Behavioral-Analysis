@@ -1,0 +1,12 @@
+original_conversation
+Hi there. Can you help me find a train to Cambridge on Thursday?
+I can. Will you be departing from London Kings Cross?
+No, I'm coming from Ely.
+What time would you like to travel?
+I would like to arrive in Cambridge by 16:15.
+modified_conversation
+Hi there. Can you help me find a train to Cambridge on Thursday?
+I can. Will you be departing from London Kings Cross?
+No, I'm coming from Ely.
+What time would you like to travel?
+I would like to arrive in cambridge by 16:15.

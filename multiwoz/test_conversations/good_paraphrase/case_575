@@ -1,0 +1,18 @@
+original_conversation
+I need a train to cambridge, please
+I would love to help you with that! Where is your departure location?
+London liverpool street.
+What day are you leaving and what time to you want to depart?
+I'd like to leave on Saturday and would like to arrive in Cambridge by 16:45.
+Train TR4078 suits you needs and arrives by 15:07. Shall I book it for you?
+Yea please book that train for 4 people.
+I have booked 4 seats on TR4078. The total is 53.12 GBP payable at the station. Your reference number is ES2CDQ5D . Is there anything else?
+modified_conversation
+I need a train to cambridge, please
+I would love to help you with that! Where is your departure location?
+London liverpool street.
+What day are you leaving and what time to you want to depart?
+I'd like to leave on Saturday and would like to arrive in Cambridge by 16:45.
+Train TR4078 suits you needs and arrives by 15:07. Shall I book it for you?
+Yea please book that train for 4 people.
+I have booked 4 seats on TR4078, a total of 53.12 GBP payable at the station, Your reference number is ES2CDQ5D, what else are there?

@@ -1,0 +1,10 @@
+original_conversation
+I need a train from Peterborough to Cambridge.
+One what day and what time?
+I'd like to leave on Tuesday after 10:15.
+I can get you on a train at 10:19 or 10:48. Would you like tickets?
+modified_conversation
+I need a train from Peterborough to Cambridge.
+One what day and what time?
+I'd like to leave on Tuesday after 10:15.
+I can get you on a gearing at 10:19 or 10:48. Would you like tickets?

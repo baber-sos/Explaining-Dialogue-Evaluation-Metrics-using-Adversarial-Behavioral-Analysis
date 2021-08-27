@@ -1,0 +1,14 @@
+original_conversation
+Can I get some information on a train?
+Sure, where is your destination?
+I'll be departing Cambridge, and heading to Broxbourne.
+What is the day of travel?
+I need to leave on Monday.
+Yes, there are 19 different trains. What time would you like to depart?
+modified_conversation
+Can I get some information on a train?
+Sure, where is your destination?
+I'll be departing Cambridge, and heading to Broxbourne.
+What is the day of travel?
+I need to leave on Monday.
+Yes, there are 19 different trains. What time would me like to depart?

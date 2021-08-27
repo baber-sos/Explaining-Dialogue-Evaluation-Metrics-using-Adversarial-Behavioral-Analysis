@@ -1,0 +1,12 @@
+original_conversation
+I'm looking for an expensive restaurant that serves gastropub type food.
+There are 3 restaurants that fit your criteria, Royal Standard, The Slug and Lettuce and Backstreet Bistro. Are you interested in any of these?
+Are any of these in the east part of town?
+Yes, the Royal Standard is in the east. I would be happy to book a table for you if you can tell me the day, time, and number of people.
+I want to book a table for 4 people at 16:00 on friday.
+modified_conversation
+I'm looking for an expensive restaurant that serves gastropub type food.
+There are 3 restaurants that fit your criteria, Royal Standard, The Slug and Lettuce and Backstreet Bistro. Are you interested in any of these?
+Are any of these in the east part of town?
+Yes, the Royal Standard is in the east. I would be happy to book a table for you if you can tell me the day, time, and number of people.
+I want to book a table for 4 people at 16:00 on a nice day.

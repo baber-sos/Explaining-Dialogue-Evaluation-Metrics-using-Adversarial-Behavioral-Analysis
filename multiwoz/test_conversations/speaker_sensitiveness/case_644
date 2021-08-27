@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for a train ticket, do you book those?
+Yes, where will you be leaving from and going to?
+I'm leaving from Cambridge and going to bishops stortford.
+On what day will you be traveling? Do you prefer a specific time as well?
+modified_conversation
+I'm looking for a train ticket, do you book those?
+Yes, where will you be leaving from and going to?
+I'm leaving from Cambridge and going to bishops stortford.
+I'm leaving from Cambridge and going to bishops stortford. On what day will you be traveling? Do you prefer a specific time as well?

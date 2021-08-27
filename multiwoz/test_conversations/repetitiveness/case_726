@@ -1,0 +1,10 @@
+original_conversation
+I need a train that leaves on wednesday after 12:30 .
+I'm happy to help! Could you let me know where you would like to depart from and what your destination is?
+I am departing from birmingham new street and my destination is cambridge .
+I have 12 trains that leave after 12:30 that day . Did you want to leave at about 13:40? That train arrives at 16:23 and costs 75.10 pounds a ticket.
+modified_conversation
+I need a train that leaves on wednesday after 12:30 .
+I'm happy to help! Could you let me know where you would like to depart from and what your destination is?
+I am departing from birmingham new street and my destination is cambridge .
+I I have 12 trains that leave after 12:30 that day . Did you want to leave at about 13:40? That train arrives at 16:23 and costs 75.10 pounds a ticket.

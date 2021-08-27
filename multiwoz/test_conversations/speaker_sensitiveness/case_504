@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a restaurant in the city centre.
+There are 69 results for restaurants in city centre. Could you be more specific on what type of food you're hungry for, or price range you'd like?
+I would like a restaurant that serves British food.
+There are 7 British restaurants in the centre. Do you have a preferred price range?
+No I do not, can you please find me the highest rated restaurant?
+I do not have access to restaurant ratings, however three of the restaurants serving British food are considered expensive. Would you like their information?
+Just one please, and only the address is necessary. I'd also like a place to go in town, a museum is good, it should be in the centre
+modified_conversation
+I'm looking for a restaurant in the city centre.
+There are 69 results for restaurants in city centre. Could you be more specific on what type of food you're hungry for, or price range you'd like?
+I would like a restaurant that serves British food.
+There are 7 British restaurants in the centre. Do you have a preferred price range?
+No I do not, can you please find me the highest rated restaurant?
+I do not have access to restaurant ratings, however three of the restaurants serving British food are considered expensive. Would you like their information?
+I do not have access to restaurant ratings, however three of the restaurants serving British food are considered expensive. Would you like their information? Just one please, and only the address is necessary. I'd also like a place to go in town, a museum is good, it should be in the centre

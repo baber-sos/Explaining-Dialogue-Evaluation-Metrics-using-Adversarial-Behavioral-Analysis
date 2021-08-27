@@ -1,0 +1,10 @@
+original_conversation
+Could really use some grub.
+Sure. Is there any part of town that you'd like to look for food in?
+Somewhere in the centre. I'm looking for some traditional food.
+I'm sorry, but there aren't any traditional restaurants in the centre. Would you like to try another cuisine?
+modified_conversation
+Could really use some grub.
+Sure. Is there any part of town that you'd like to look for food in?
+Somewhere in the centre. I'm looking for some traditional food.
+I'm sorry, but there aren't any traditional restaurants in the heart. Would you like to try another cuisine?

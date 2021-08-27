@@ -1,0 +1,14 @@
+original_conversation
+Can I get a train to Cambridge on Saturday?
+Sure, what is your departure station?
+I will leave Birminggam New Street.
+What time would you like to leave or arrive on saturday?
+I would like to arrive by 15:30.
+I have train TR8259 that leaves at 7:40 and arrives at 10:23. Would you like to make reservations?
+modified_conversation
+Can I get a train to Cambridge on Saturday?
+Sure, what is your departure station?
+I will leave Birminggam New Street.
+What time would you like to leave or arrive on saturday?
+I would like to arrive by 15:30.
+I have train the Tandoori Palace that leaves at 7:40 and arrives at 10:23. Would you like to make reservations?

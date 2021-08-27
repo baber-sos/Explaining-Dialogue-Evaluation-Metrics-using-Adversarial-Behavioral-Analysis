@@ -1,0 +1,26 @@
+original_conversation
+Can you help me find a train going to leicester that arrives by 15:15?
+Sure! What day are you traveling?
+I will be leaving on Thursday.
+Do you have a preference in departure time?
+I would like to catch an early train. What time does the first train depart?
+The first train departs at 5:21, but if you want to arrive at 15:15, the best train to take would be the TR1160 which will get there at 15:06.
+Okay how much is it per ticket?
+It will be 37.80 pounds per ticket. Would you like me to book you seats?
+Yes book one day
+Booking was successful, the total fee is 37.79 GBP payable at the station . Your reference number is 6SXPQRZJ . Can I help you with anything else?
+Yes, can you help me find a place to go to in town?
+Yes, what sort of place would you like to go to?
+modified_conversation
+Can you help me find a train going to leicester that arrives by 15:15?
+Sure! What day are you traveling?
+I will be leaving on Thursday.
+Do you have a preference in departure time?
+I would like to catch an early train. What time does the first train depart?
+The first train departs at 5:21, but if you want to arrive at 15:15, the best train to take would be the TR1160 which will get there at 15:06.
+Okay how much is it per ticket?
+It will be 37.80 pounds per ticket. Would you like me to book you seats?
+Yes book one day
+Booking was successful, the total fee is 37.79 GBP payable at the station . Your reference number is 6SXPQRZJ . Can I help you with anything else?
+Yes, can you help me find a place to go to in town?
+Yes, what sort of home would you like to go to?

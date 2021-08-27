@@ -1,0 +1,14 @@
+original_conversation
+I need to find a train going to Leicester that arrives by 4:45 PM . Do you know of one?
+There are many trains going to leicester at the time, where are you departing from and on what day?
+I am departing from Cambridge on Friday .
+TR0623 leaves at 14:21 and will arrive at leicester at 16:06 . The trip will take 105 minutes and will cost 37.80 pounds . Would you like to book?
+Yes, I need 8 tickets . Please send the Ref . No . When you're done .
+Your Booking was successful, the total fee is 302.39 GBP payable at the station . Your Reference number is FI1YOZNV . Is there anything else I can assist you with?
+modified_conversation
+I need to find a train going to Leicester that arrives by 4:45 PM . Do you know of one?
+There are many trains going to leicester at the time, where are you departing from and on what day?
+I am departing from Cambridge on Friday .
+TR0623 leaves at 14:21 and will arrive at leicester at 16:06 . The trip will take 105 minutes and will cost 37.80 pounds . Would you like to book?
+Yes, I need 8 tickets . Please send the Ref . No . When you're done .
+Your Booking was successful, the number fee is 302.39 GBP payable at the post . Your Reference total is FI1YOZNV . Is There anything else i can assistance you with?

@@ -1,0 +1,10 @@
+original_conversation
+Hi, I'd like to find a train from Cambridge to Leicester.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+I would like to travel on Saturday.
+I've got a full schedule of trains going that route on Saturday. Do you have a preferred time to leave or get there?
+modified_conversation
+Hi, I'd like to find a train from Cambridge to Leicester.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+I would like to travel on Saturday.
+I have a full schedule of trains going this route on Saturday Do you have a preferred time to leave or to get there?

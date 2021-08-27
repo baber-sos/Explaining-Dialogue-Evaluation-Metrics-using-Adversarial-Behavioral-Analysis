@@ -1,0 +1,32 @@
+original_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+I found 19 trains running between those 2 stations that day. Would you like to leave at a certain time?
+No but I need to arrive by 17:00.
+I have train TR7964 leaving at 5:11 and arriving at 5:58.
+How much travel time is involved with this train? I also need a Mexican restaurant in the expensive range.
+I can process one request at a time. The train is about an hour.
+I need the exact travel time please.
+The exact time is 47 minutes. Would you like to book this train?
+Thanks, I don't need to book a train just yet. Can you just help me find a high-end Mexican restaurant?
+Chiquito restaurant bar is in the south of town. It is expensive. The address is 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton, phone 01223400170. Would you like reservations?
+Can I get a table for 1, please? I know it sounds sad, but I just don't have any friends to travel with.
+It doesn't sound sad at all! Can you tell me what time and day you'd like the reservation for?
+Sure it'll be 13:30.
+modified_conversation
+Hey I'm trying to find a train that leaves on monday to Kings Lynn.
+Are you departing from Cambridge?
+Yes. I am departing from Cambridge.
+I found 19 trains running between those 2 stations that day. Would you like to leave at a certain time?
+No but I need to arrive by 17:00.
+I have train TR7964 leaving at 5:11 and arriving at 5:58.
+How much travel time is involved with this train? I also need a Mexican restaurant in the expensive range.
+I can process one request at a time. The train is about an hour.
+I need the exact travel time please.
+The exact time is 47 minutes. Would you like to book this train?
+Thanks, I don't need to book a train just yet. Can you just help me find a high-end Mexican restaurant?
+Chiquito restaurant bar is in the south of town. It is expensive. The address is 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton, phone 01223400170. Would you like reservations?
+Can I get a table for 1, please? I know it sounds sad, but I just don't have any friends to travel with.
+It doesn't sound sad at all! Can you tell me what time and day you'd like the reservation for?
+It doesn't sound sad at all! Can you tell me what time and day you'd like the reservation for? Sure it'll be 13:30.

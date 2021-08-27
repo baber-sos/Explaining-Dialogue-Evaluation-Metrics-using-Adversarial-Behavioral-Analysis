@@ -1,0 +1,46 @@
+original_conversation
+I'm looking for a train that leaves on tuesday to cambridge, please.
+kindly narrow down your specifications so that i can find you a train that suits you best, like time of arrive and departure
+I want to depart from Stevenage and would like to arrive in Cambridge by 16:30.
+What time would you like to leave at?
+I don't care about departure time as long as I get there before 16:30.
+Alright, TR1830 arrives by 14:43, does that suit your needs?
+Yes, I think that will work. Can I get the price and departure time for that train?
+It costs 12.80 pounds and it leaves at 13:54. Would you like me to book you seat?
+No thanks. No booking for today. Can you help me find a place to stay.. a hotel maybe?
+Do you have any other preferences?
+Yes, a hotel preferably with free parking.
+We have 8 hotels with free parking, such as the 4 star Huntingdon Marriott in the west. Is there any particular price range or location you need?
+I don't care about the location, but I would like to be in the moderate price range.
+That narrows it down to 2 choices. I have the Ashley Hotel and the Lovell Lodge. Both are hotels located in the north. Both have a 2 star rating.
+Please book Ashley for 7 people and 4 nights.
+From which day will you be needing the hotel?
+tuesday, get me the reference number please.
+I was unable to book the ashley hotel for those times. Would you like to try a different hotel?
+Yes please try the Lovell Lodge.
+I am unsuccessful with those days. Would you like to try a different number of days or another day?
+Can we try three nights?
+Yes, I was able to book the Lovell lodge for 3 nights. The reference number is M9TETW62 . Is there anything else I can help you with?
+modified_conversation
+I'm looking for a train that leaves on tuesday to cambridge, please.
+kindly narrow down your specifications so that i can find you a train that suits you best, like time of arrive and departure
+I want to depart from Stevenage and would like to arrive in Cambridge by 16:30.
+What time would you like to leave at?
+I don't care about departure time as long as I get there before 16:30.
+Alright, TR1830 arrives by 14:43, does that suit your needs?
+Yes, I think that will work. Can I get the price and departure time for that train?
+It costs 12.80 pounds and it leaves at 13:54. Would you like me to book you seat?
+No thanks. No booking for today. Can you help me find a place to stay.. a hotel maybe?
+Do you have any other preferences?
+Yes, a hotel preferably with free parking.
+We have 8 hotels with free parking, such as the 4 star Huntingdon Marriott in the west. Is there any particular price range or location you need?
+I don't care about the location, but I would like to be in the moderate price range.
+That narrows it down to 2 choices. I have the Ashley Hotel and the Lovell Lodge. Both are hotels located in the north. Both have a 2 star rating.
+Please book Ashley for 7 people and 4 nights.
+From which day will you be needing the hotel?
+tuesday, get me the reference number please.
+I was unable to book the ashley hotel for those times. Would you like to try a different hotel?
+Yes please try the Lovell Lodge.
+I am unsuccessful with those days. Would you like to try a different number of days or another day?
+Can we try three nights?
+I love that.

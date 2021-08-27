@@ -1,0 +1,10 @@
+original_conversation
+Hello, I am looking for information on a train.
+I can help you with that. Where are you headed?
+I'm headed to Cambridge from the Stansted Airport. Can you find information for Thursday please?
+I found 19 trains what time do you want to leave the airport?
+modified_conversation
+Hello, I am looking for information on a train.
+I can help you with that. Where are you headed?
+I'm headed to Cambridge from the Stansted Airport. Can you find information for Thursday please?
+I don't have a good answer to that.

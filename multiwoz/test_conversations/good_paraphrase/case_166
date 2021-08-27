@@ -1,0 +1,14 @@
+original_conversation
+I am looking for a train that should depart from cambridge and leave after 15:45.
+We have lots of those! What day are you traveling?
+i'm traveling on monday
+Where will you be traveling to?
+I'll be traveling to Stevenage.
+TR0254 departs at 17:21 and arrives by 18:10. Would you like a ticket?
+modified_conversation
+I am looking for a train that should depart from cambridge and leave after 15:45.
+We have lots of those! What day are you traveling?
+i'm traveling on monday
+Where will you be traveling to?
+I'll be traveling to Stevenage.
+TR0254 leaves at 17:21 and arrives at 18:10?

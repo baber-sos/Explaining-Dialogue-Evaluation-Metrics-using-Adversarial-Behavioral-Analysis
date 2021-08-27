@@ -1,0 +1,34 @@
+original_conversation
+I need information about a certain restaurant called charlie chan.
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763. Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db. May I help book a table?
+Maybe later. I also need to find a train to ely on Tuesday. Can you help with that?
+I can absolutely help! Where are you departing from and when would you like to arrive?
+I will be leaving from Cambridge and need to leave after 12:30 please.
+There is a train that fits that criteria leaving at 09:50 and arriving at 10:07, would that work?
+I really can't leave at that time. Like I said, I need something that leaves after 12:30.
+My apologies. How about this: TR3420 leaves Cambridge at 13:50 and arrives in Ely at 14:07. Would this be better?
+Yes I would like reservations on train TR3420.
+How many tickets will you need?
+One ticket please, thank you.
+Booking was successful, the total fee is 4.4 GBP payable at the station. Reference number is : CKPZRG81 .
+What is the travel time?
+You will be leaving at 13:50 and arriving by 14:07.
+modified_conversation
+I need information about a certain restaurant called charlie chan.
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763. Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db. May I help book a table?
+Maybe later. I also need to find a train to ely on Tuesday. Can you help with that?
+I can absolutely help! Where are you departing from and when would you like to arrive?
+I will be leaving from Cambridge and need to leave after 12:30 please.
+There is a train that fits that criteria leaving at 09:50 and arriving at 10:07, would that work?
+I really can't leave at that time. Like I said, I need something that leaves after 12:30.
+My apologies. How about this: TR3420 leaves Cambridge at 13:50 and arrives in Ely at 14:07. Would this be better?
+Yes I would like reservations on train TR3420.
+How many tickets will you need?
+One ticket please, thank you.
+Booking was successful, the total fee is 4.4 GBP payable at the station. Reference number is : CKPZRG81 .
+What is the travel time?
+You will be leaving at 13:50 and arriving by 05:01 every hour.

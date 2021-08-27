@@ -1,0 +1,16 @@
+original_conversation
+Find me a museum, please.
+There are 23 museums. Do you have an area as a preference?
+I just need the area and address for one of them.
+I have the broughton house gallery in the centre at 98 king street
+Thank you so much. I also need a place to dine in the centre that serves Chinese food.
+I have 10 place in the centre. Did you have a price range you were looking at?
+I would like the cheap price range.
+modified_conversation
+Find me a museum, please.
+There are 23 museums. Do you have an area as a preference?
+I just need the area and address for one of them.
+I have the broughton house gallery in the centre at 98 king street
+Thank you so much. I also need a place to dine in the centre that serves Chinese food.
+I have 10 place in the centre. Did you have a price range you were looking at?
+ do not thank you so much. I also need a place to dine in the centre that serves Chinese food.

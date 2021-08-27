@@ -1,0 +1,10 @@
+original_conversation
+I need to take a train out of cambridge after 19:00 please.
+how about the TR1006 , it leaves at 19:00.
+I need to travel on tuesday to london kings cross.
+TR4125 leaves cambridge for london kings cross on tuesday at 19:00. Would you like me to book it for you?
+modified_conversation
+I need to take a train out of cambridge after 19:00 please.
+how about the TR1006 , it leaves at 19:00.
+I need to travel on tuesday to london kings cross.
+TR4125 leaves cambridge for london queen cross on tuesday at 19:00. Would you like me to book it for you?

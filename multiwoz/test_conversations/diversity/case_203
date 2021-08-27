@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a train leaving on tuesday going to cambridge .
+Okay! From where are you departing?
+bishops stortford and leave after 08:15 on Tuesday
+what time is your arrival?
+I don't really care as long as I leave after 08:15 .
+There is a 09:29 that will arrive by 10:07 . How does that sound?
+Excellent . Please make a booking for six people, then give me the reference number.
+modified_conversation
+I'm looking for a train leaving on tuesday going to cambridge .
+Okay! From where are you departing?
+bishops stortford and leave after 08:15 on Tuesday
+what time is your arrival?
+I don't really care as long as I leave after 08:15 .
+There is a 09:29 that will arrive by 10:07 . How does that sound?
+Excellent . Please Have a booking for six people, then Have me the address total.

@@ -1,0 +1,16 @@
+original_conversation
+What is the address for Pizza Hut in Cherry Hinton?
+The address is G4 Cambridge Leisure Park Clifton Way Cherry Hinton.
+i need to reserve a table there.
+Ok, let's start with which day you would like to have this reservation?
+book a table for 8 people at 17:15 on sunday.
+Okay, I will work on getting that booked and get back with you shortly.
+I am in a hurry, this is odd. Hello? Can anyone help me? Can I speak with your supervisor?
+modified_conversation
+What is the address for Pizza Hut in Cherry Hinton?
+The address is G4 Cambridge Leisure Park Clifton Way Cherry Hinton.
+i need to reserve a table there.
+Ok, let's start with which day you would like to have this reservation?
+book a table for 8 people at 17:15 on sunday.
+Okay, I will work on getting that booked and get back with you shortly.
+he am in a hurry, you is odd. Hello? Can anyone help me? Can he speak with him supervisor?

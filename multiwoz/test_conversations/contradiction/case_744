@@ -1,0 +1,8 @@
+original_conversation
+I need a train that is leaving on Friday.
+I can help you with that. Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Friday. I need to arrive by 9:15.
+modified_conversation
+I need a train that is leaving on Friday.
+I can help you with that. Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Sunday. I need to arrive by 9:15.

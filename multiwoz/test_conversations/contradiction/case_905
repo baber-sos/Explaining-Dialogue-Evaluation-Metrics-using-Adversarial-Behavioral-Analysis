@@ -1,0 +1,8 @@
+original_conversation
+I am looking for a train that will depart on Sunday and arrive by 18:00.
+I have found the listings for the Sunday departures. What is your destination? Would you like me to book a trip?
+I am going to Cambridge from Leicester. And, yes, please book it for me.
+modified_conversation
+I am looking for a train that will depart on Sunday and arrive by 18:00.
+I have found the listings for the Sunday departures. What is your destination? Would you like me to book a trip?
+I am not looking for a train that will depart on Sunday and arrive by 18:00.

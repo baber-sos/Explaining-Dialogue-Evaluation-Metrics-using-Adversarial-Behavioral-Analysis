@@ -1,0 +1,10 @@
+original_conversation
+I need a train to arrive in cambridge by 19:30 on thursday.
+We should be able to help you, where will you be coming from?
+The train should go to london kings cross and should depart from cambridge at 19:30
+If you are indeed traveling from Cambridge to Kings Cross, I recommend TR1791. It will arrive in Kings Cross at 17:51 on Thursday.
+modified_conversation
+I need a train to arrive in cambridge by 19:30 on thursday.
+We should be able to help you, where will you be coming from?
+The train should go to london kings cross and should depart from cambridge at 19:30
+If you are indeed traveling from TR118 to gonville hotel, I recommend TR3948. It will arrive in 18:30 at 17:51 on Cambridge.

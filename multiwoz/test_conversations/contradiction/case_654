@@ -1,0 +1,12 @@
+original_conversation
+Hi, could you help me with my plans? I am looking for a train.
+I can help you with that. Where will be departing and where do you want to go?
+I will be departing from Cambridge and going into Ely on Saturday.
+Trains run that route every two hours throughout the day. Do you have a target departure or arrival time?
+I would like to arrive in Ely by 11:15. Could you please tell me the price and what the departure time is?
+modified_conversation
+Hi, could you help me with my plans? I am looking for a train.
+I can help you with that. Where will be departing and where do you want to go?
+I will be departing from Cambridge and going into Ely on Saturday.
+Trains run that route every two hours throughout the day. Do you have a target departure or arrival time?
+I would like to arrive in Kings Lynn by 11:15. Could you please tell me the price and what the departure time is?

@@ -1,0 +1,34 @@
+original_conversation
+Can I get some information on a train?
+Sure, where is your destination?
+I'll be departing Cambridge, and heading to Broxbourne.
+What is the day of travel?
+I need to leave on Monday.
+Yes, there are 19 different trains. What time would you like to depart?
+I just need to arrive by 16:15.
+train TR9022 departs at 15:01 and arrives at 16:01. would you like me to make you a reservation?
+No thank you. What is the travel time?
+Travel time is 60 minutes. What else can I do for you?
+Yes, I'm also looking for a Chinese restaurant that's located in the North part of town. Could you find one for me please?
+I found 3 chinese restaurants in the north area. Two are expensive price range and one is moderate. May I make a reservation for you?
+Hmm, doesn't matter. Can you reserve a table at your favorite one? There will be 3 of us at 11:15 the day we arrive.
+I have reserved you a table at The Hotpot, and the reference number is CLZSPXUK . Anything else for you today?
+Thanks for helping me. The train and restaurant are all I need for now. Goodbye.
+Thank you for calling. Goodbye.
+modified_conversation
+Can I get some information on a train?
+Sure, where is your destination?
+I'll be departing Cambridge, and heading to Broxbourne.
+What is the day of travel?
+I need to leave on Monday.
+Yes, there are 19 different trains. What time would you like to depart?
+I just need to arrive by 16:15.
+train TR9022 departs at 15:01 and arrives at 16:01. would you like me to make you a reservation?
+No thank you. What is the travel time?
+Travel time is 60 minutes. What else can I do for you?
+Yes, I'm also looking for a Chinese restaurant that's located in the North part of town. Could you find one for me please?
+I found 3 chinese restaurants in the north area. Two are expensive price range and one is moderate. May I make a reservation for you?
+Hmm, doesn't matter. Can you reserve a table at your favorite one? There will be 3 of us at 11:15 the day we arrive.
+I have reserved you a table at The Hotpot, and the reference number is CLZSPXUK . Anything else for you today?
+Thanks for helping me. The train and restaurant are all I need for now. Goodbye.
+There are potentially 7 trains that fit your needs. When do you wish to depart London Liverpool?

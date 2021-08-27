@@ -1,0 +1,12 @@
+original_conversation
+I'd like to take a train from Cambridge on Sunday. Can you please show me the times?
+What is your destination?
+I am going to london kings cross, and would like to arrive by 15:15.
+TR7447 will get you there by 13:51. Do you need some seats booked?
+Yes. Can you please book 2 seats?
+modified_conversation
+I'd like to take a train from Cambridge on Sunday. Can you please show me the times?
+What is your destination?
+I am going to london kings cross, and would like to arrive by 15:15.
+TR7447 will get you there by 13:51. Do you need some seats booked?
+I am not going to london kings cross, and would like to arrive by 15:15.

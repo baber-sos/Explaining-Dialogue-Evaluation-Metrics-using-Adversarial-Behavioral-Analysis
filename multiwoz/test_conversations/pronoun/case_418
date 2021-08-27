@@ -1,0 +1,26 @@
+original_conversation
+I would like a train to Cambridge that leaves after 17:00.
+There are very many trains that fit your requirements, where are you leaving from and what day would you like to leave?
+I'd like to leave on Monday from Stansted Airport.
+Ok, there are 7 trains that fit those requirements, can you tell me what time you would like to arrive by?
+I don't mind we can get there any time.
+TR4096 leaves at 17:24 and arrives by 17:52, would you like me to book a seat for you?
+Yes can you give me the travel time?
+Sure, I was able to book your seat and your reference number is 4EIV9UFN which is payable at the station. The travel time is 28 minutes.
+Thanks! Also, could you tell me if there are any places in the center of town that serve british food? Something expensive would be great.
+There are 3. How about fitzbillies restaurant? Should I book you a table?
+Yes that sounds great, I need a table for 8 at 20:45 on Monday please.
+Unfortunately that time is not available do you have another time you'd like to try?
+modified_conversation
+I would like a train to Cambridge that leaves after 17:00.
+There are very many trains that fit your requirements, where are you leaving from and what day would you like to leave?
+I'd like to leave on Monday from Stansted Airport.
+Ok, there are 7 trains that fit those requirements, can you tell me what time you would like to arrive by?
+I don't mind we can get there any time.
+TR4096 leaves at 17:24 and arrives by 17:52, would you like me to book a seat for you?
+Yes can you give me the travel time?
+Sure, I was able to book your seat and your reference number is 4EIV9UFN which is payable at the station. The travel time is 28 minutes.
+Thanks! Also, could you tell me if there are any places in the center of town that serve british food? Something expensive would be great.
+There are 3. How about fitzbillies restaurant? Should I book you a table?
+Yes that sounds great, I need a table for 8 at 20:45 on Monday please.
+Unfortunately that time is not available do he have another time you'd like to try?

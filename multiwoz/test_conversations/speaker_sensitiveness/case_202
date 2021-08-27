@@ -1,0 +1,18 @@
+original_conversation
+I am looking for a mexican restaurant in the centre.
+I'm sorry, there aren't any Mexican restaurants in the centre of town. Would you like to try a different cuisine?
+How about an Indian restaurant then?
+There is the curry garden which serves indian food in the centre. Would you like to make a booking?
+Oh, no, but I do need the postcode address and number.
+Curry Garden's phone number is 01223302330. They are located at 106 Regent Street City Centre. The postcode is cb21dp. Would you like me to book you a table?
+No really, I don't need a booking.
+No problem. Is there anything else I can help you with today?
+modified_conversation
+I am looking for a mexican restaurant in the centre.
+I'm sorry, there aren't any Mexican restaurants in the centre of town. Would you like to try a different cuisine?
+How about an Indian restaurant then?
+There is the curry garden which serves indian food in the centre. Would you like to make a booking?
+Oh, no, but I do need the postcode address and number.
+Curry Garden's phone number is 01223302330. They are located at 106 Regent Street City Centre. The postcode is cb21dp. Would you like me to book you a table?
+No really, I don't need a booking.
+No really, I don't need a booking. No problem. Is there anything else I can help you with today?

@@ -1,0 +1,14 @@
+original_conversation
+Is there a restaurant that serves italian food in the expensive price bracket?
+Yes, there are 5 such places . 4 are in the centre and 1 is in the south . Would you like to book at one?
+Absolutely! Thank you!
+Which area of town would you prefer?
+How about the center?
+Great, how about don pasquale pizzeria? May I book this for you?
+modified_conversation
+Is there a restaurant that serves italian food in the expensive price bracket?
+Yes, there are 5 such places . 4 are in the centre and 1 is in the south . Would you like to book at one?
+Absolutely! Thank you!
+Which area of town would you prefer?
+How about the center?
+Great, how about don pasquale pizzeria? May one book this for you?

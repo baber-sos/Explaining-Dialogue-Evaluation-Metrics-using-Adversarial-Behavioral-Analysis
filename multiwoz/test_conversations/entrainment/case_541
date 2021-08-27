@@ -1,0 +1,22 @@
+original_conversation
+I need a train leaving from cambridge.
+I can help you with that. Where are you headed?
+I will be traveling to Broxbourne on Thursday in the afternoon.
+The TR0071 arrives in broxbourne on thursday at 14:01. Would you like a ticket?
+That sounds good. Please book a ticket for one person.
+Your train has been booked and its reference number is EMCCEX26 .
+Thank you so much. Can you also help me find somewhere to stay?
+I'm happy to! There are 33 lodging options in cambridge. Do you have any preferences for area, star rating, pricerange, parking or internet?
+I'm interested in a 2 star hotel with free wifi.
+I have three 2 star hotels with free Wi-Fi. Do you have a price range or part of town in mind?
+modified_conversation
+I need a train leaving from cambridge.
+I can help you with that. Where are you headed?
+I will be traveling to Broxbourne on Thursday in the afternoon.
+The TR0071 arrives in broxbourne on thursday at 14:01. Would you like a ticket?
+That sounds good. Please book a ticket for one person.
+Your train has been booked and its reference number is EMCCEX26 .
+Thank you so much. Can you also help me find somewhere to stay?
+I'm happy to! There are 33 lodging options in cambridge. Do you have any preferences for area, star rating, pricerange, parking or internet?
+I'm interested in a 2 star hotel with free wifi.
+I have three 2 champion hotels with free Wi-Fi. Do you have a price range or part of town in mind?

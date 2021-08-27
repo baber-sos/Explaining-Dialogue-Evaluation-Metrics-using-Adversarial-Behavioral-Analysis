@@ -1,0 +1,8 @@
+original_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+I will b departing from Cambridge and arriving in Ely.
+modified_conversation
+Hi, can you help me find a train arriving by 19:00 that leaves on Monday?
+Where are you departing from, and arriving to?
+Where are you departing from, and arriving to? I will b departing from Cambridge and arriving in Ely.

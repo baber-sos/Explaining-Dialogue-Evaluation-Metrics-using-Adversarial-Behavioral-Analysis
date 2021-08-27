@@ -1,0 +1,14 @@
+original_conversation
+I need a train that leaves on Wednesday with an arrival of 12:30.
+Where will you be travelling to and from?
+I'm traveling from Cambridge to the London Liverpool Street.
+The TR1047 leaves at 05:59 and arrives by 07:27. Is that alright?
+Yes, that sounds fine. I need 7 tickets please.
+Great. The reference number is 8BGCYRD5 and the total fee is 132.8 GBP. Can I help with anything else?
+modified_conversation
+I need a train that leaves on Wednesday with an arrival of 12:30.
+Where will you be travelling to and from?
+I'm traveling from Cambridge to the London Liverpool Street.
+The TR1047 leaves at 05:59 and arrives by 07:27. Is that alright?
+Yes, that sounds fine. I need 7 tickets please.
+Yes, that sounds fine. I need 7 tickets please. Great. The reference number is 8BGCYRD5 and the total fee is 132.8 GBP. Can I help with anything else?

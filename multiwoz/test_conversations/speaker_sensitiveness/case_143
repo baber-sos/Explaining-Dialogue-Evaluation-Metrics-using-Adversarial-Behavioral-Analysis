@@ -1,0 +1,14 @@
+original_conversation
+I am planning a trip in Cambridge.
+sure, what can i help you find?
+I need a train from Norwich to Cambridge on Friday, please. I need to get there at about 10:30.
+TR3293 will arrive by 9:35. Would you like to book a seat?
+Can you book it for me and get a reference number ?
+How many tickets do you need?
+modified_conversation
+I am planning a trip in Cambridge.
+sure, what can i help you find?
+I need a train from Norwich to Cambridge on Friday, please. I need to get there at about 10:30.
+TR3293 will arrive by 9:35. Would you like to book a seat?
+Can you book it for me and get a reference number ?
+Can you book it for me and get a reference number ? How many tickets do you need?

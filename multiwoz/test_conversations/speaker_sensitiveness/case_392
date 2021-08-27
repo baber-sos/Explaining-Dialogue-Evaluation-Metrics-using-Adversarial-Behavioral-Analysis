@@ -1,0 +1,10 @@
+original_conversation
+Hello, I would like to find a hotel that includes free parking.
+Most of the hotels in town offer free parking. Is there a certain area you'd like to stay in, or do you have a price range in mind?
+Yes. The centre would be nice and also free wifi.
+The University Arms is an expensive, 4 star hotel with free wifi. Comparatively, the Alexander Bed and Breakfast is a cheaply priced guesthouse, also 4 stars.
+modified_conversation
+Hello, I would like to find a hotel that includes free parking.
+Most of the hotels in town offer free parking. Is there a certain area you'd like to stay in, or do you have a price range in mind?
+Yes. The centre would be nice and also free wifi.
+Yes. The centre would be nice and also free wifi. The University Arms is an expensive, 4 star hotel with free wifi. Comparatively, the Alexander Bed and Breakfast is a cheaply priced guesthouse, also 4 stars.

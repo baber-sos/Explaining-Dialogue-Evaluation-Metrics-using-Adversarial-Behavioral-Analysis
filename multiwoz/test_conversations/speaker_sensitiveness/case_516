@@ -1,0 +1,14 @@
+original_conversation
+Hi, I'm looking for a hotel by the name of Acorn Guest House.
+Sure, what would you like to know about it?
+I would like to know if it is available for 8 people for 4 nights starting Saturday
+Booking was successful. Reference number is : ZZPP7K9D . Is there anything else I can help you with today?
+Thank you. I now need help with a train from Cambridge to birmingham new street, please.
+Absolutely. What day would you like, and when would you like to depart?
+modified_conversation
+Hi, I'm looking for a hotel by the name of Acorn Guest House.
+Sure, what would you like to know about it?
+I would like to know if it is available for 8 people for 4 nights starting Saturday
+Booking was successful. Reference number is : ZZPP7K9D . Is there anything else I can help you with today?
+Thank you. I now need help with a train from Cambridge to birmingham new street, please.
+Thank you. I now need help with a train from Cambridge to birmingham new street, please. Absolutely. What day would you like, and when would you like to depart?

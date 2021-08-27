@@ -1,0 +1,22 @@
+original_conversation
+Hello, I would like information on an attraction named the Regency Gallery, thank you.
+Regency Gallery is a museum in the center of town. What information do you need?
+Just need to know what area it's in.
+The Regency Gallery is in the Centre. The Address is 39 fitzroy Street. Would you like to know any other information?
+I need to book a train that will arrive in Cambridge by 9:15.
+Not a problem. What day would you like to travel?
+I would like to travel on Friday.
+Where will you be traveling from?
+I'll be coming from Leicester.
+There are 3 trains that arrive before 9:15, one arriving at 6:54, one at 7:54, and one at 8:54. Would you like me to book one of those for you?
+modified_conversation
+Hello, I would like information on an attraction named the Regency Gallery, thank you.
+Regency Gallery is a museum in the center of town. What information do you need?
+Just need to know what area it's in.
+The Regency Gallery is in the Centre. The Address is 39 fitzroy Street. Would you like to know any other information?
+I need to book a train that will arrive in Cambridge by 9:15.
+Not a problem. What day would you like to travel?
+I would like to travel on Friday.
+Where will you be traveling from?
+I'll be coming from Leicester.
+There are 3 gears that come before 9:15 , one getting at 6:54 , one at 7:54 , and one at 8:54 . Would you care me to reserve one of those for you ? 

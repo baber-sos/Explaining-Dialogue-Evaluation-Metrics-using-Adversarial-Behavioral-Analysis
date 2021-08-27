@@ -1,0 +1,26 @@
+original_conversation
+Hi, I'd like to find a train from Cambridge to Leicester.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+I would like to travel on Saturday.
+I've got a full schedule of trains going that route on Saturday. Do you have a preferred time to leave or get there?
+I'd like to arrive by 13:45.
+I have a train that arrives at 13:06. Will this do for you?
+Yes that would be perfect. Could I have the price and departure time?
+Yes the departure time is 11:21 and the cost of the journey will be 30.24 pounds.
+Great, thanks for your help!
+Not a problem! Do you need anything else?
+No thanks. I appreciate the help. Have a good day.
+You as well! Goodbye!
+modified_conversation
+Hi, I'd like to find a train from Cambridge to Leicester.
+Certainly, there are many trains going that route. Can you specify which day you'd like to travel?
+I would like to travel on Saturday.
+I've got a full schedule of trains going that route on Saturday. Do you have a preferred time to leave or get there?
+I'd like to arrive by 13:45.
+I have a train that arrives at 13:06. Will this do for you?
+Yes that would be perfect. Could I have the price and departure time?
+Yes the departure time is 11:21 and the cost of the journey will be 30.24 pounds.
+Great, thanks for your help!
+Not a problem! Do you need anything else?
+No thanks. I appreciate the help. Have a good day.
+No thanks. I appreciate the help. Have a good day. You as well! Goodbye!

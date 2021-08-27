@@ -1,0 +1,12 @@
+original_conversation
+Hi, I'm looking for a train departing from Stansted Airport. I'd like it to arrive at the destination by 9:15.
+Sure! It looks like we have four morning trains daily the are early enough for you. What day are you planning to travel?
+I need to leave on Thursday.
+We only have trains going to Cambridge then, is that your destination?
+Yes, I want to go to cambridge. Can you make a booking for 7 people and give me the reference number?
+modified_conversation
+Hi, I'm looking for a train departing from Stansted Airport. I'd like it to arrive at the destination by 9:15.
+Sure! It looks like we have four morning trains daily the are early enough for you. What day are you planning to travel?
+I need to leave on Thursday.
+We only have trains going to Cambridge then, is that your destination?
+I  do not need to leave on Thursday.

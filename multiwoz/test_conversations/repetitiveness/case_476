@@ -1,0 +1,40 @@
+original_conversation
+I would like to book a room in a hotel, please .
+Do you prefer a particular area of town or price range?
+Yes, I would like a hotel in the north please .
+There are two hotels in the north, Ashley Hotel and Lovell Lodge which would you like?
+i would like to hear about the ashley hotel please
+The Ashley Hotel in the north is located at 74 chesterton road and offers free internet and parking, moderately priced, and has a rating of 2 stars .
+Sounds promising . Do tell, what would be the Ashley's phone number and postcode?
+Their phone number is 01223350059 and their postcode is cb41er . Can I help with anything else today?
+Yes you can help me find a train from Kings Lynn to Cambridge
+Sure, when are you hoping to travel?
+I would like to depart on saturday and arrive by 16:30 . What is the exact departure time, price, and train ID?
+TR0305 leaves at 05:11 and arrives at 05:58 . The price is 7.84 pounds per person . Would you like me to book seats?
+Yes please book those seats . Could you please provide me with the train ID?
+Ok, I'll make reservations for TR0305 . How many tickets do you need?
+No! The train needs to arrive by 16:30, not 5:58
+that is the train that will arrive earliest sorry . can it be of help?
+All I need is the departure time, price, and train ID . Thanks
+Sorry, this is the manager, its training day, I have TR1031 for you . It leaves at 15:11, arrives at 15:58, 7.84 pounds per person, does that work?
+Thanks so much for stepping in . I was about to lose it . Yes, this is all the information I need . Thanks . Goodbye.
+modified_conversation
+I would like to book a room in a hotel, please .
+Do you prefer a particular area of town or price range?
+Yes, I would like a hotel in the north please .
+There are two hotels in the north, Ashley Hotel and Lovell Lodge which would you like?
+i would like to hear about the ashley hotel please
+The Ashley Hotel in the north is located at 74 chesterton road and offers free internet and parking, moderately priced, and has a rating of 2 stars .
+Sounds promising . Do tell, what would be the Ashley's phone number and postcode?
+Their phone number is 01223350059 and their postcode is cb41er . Can I help with anything else today?
+Yes you can help me find a train from Kings Lynn to Cambridge
+Sure, when are you hoping to travel?
+I would like to depart on saturday and arrive by 16:30 . What is the exact departure time, price, and train ID?
+TR0305 leaves at 05:11 and arrives at 05:58 . The price is 7.84 pounds per person . Would you like me to book seats?
+Yes please book those seats . Could you please provide me with the train ID?
+Ok, I'll make reservations for TR0305 . How many tickets do you need?
+No! The train needs to arrive by 16:30, not 5:58
+that is the train that will arrive earliest sorry . can it be of help?
+All I need is the departure time, price, and train ID . Thanks
+Sorry, this is the manager, its training day, I have TR1031 for you . It leaves at 15:11, arrives at 15:58, 7.84 pounds per person, does that work?
+Thanks so much for stepping in . I was about to lose it . Yes, this this this this is all the information I need . Thanks . Goodbye.

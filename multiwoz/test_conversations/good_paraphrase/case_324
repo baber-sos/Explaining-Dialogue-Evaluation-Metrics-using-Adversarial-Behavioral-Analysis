@@ -1,0 +1,20 @@
+original_conversation
+I need to get to London Kings Cross. Can you help me find a train?
+I have 70 trains matching your request. Is there a specific day and time when you would like to travel?
+The train should arrive by 15:45 and should leave on Friday from Cambridge.
+There are 5 trains. Would you like to leave at 5:00?
+Sure, that would work. How much would that cost, and how long would the travel time be?
+The price is 23.60 pounds, and the duration is 51 minutes. Would you like to book this train?
+Yes please! Can you also recommend some places to go in the west?
+There are 5 attractions in the west. What type of attractions were you looking for?
+Any type is fine can I just get the address of one please?
+modified_conversation
+I need to get to London Kings Cross. Can you help me find a train?
+I have 70 trains matching your request. Is there a specific day and time when you would like to travel?
+The train should arrive by 15:45 and should leave on Friday from Cambridge.
+There are 5 trains. Would you like to leave at 5:00?
+Sure, that would work. How much would that cost, and how long would the travel time be?
+The price is 23.60 pounds, and the duration is 51 minutes. Would you like to book this train?
+Yes please! Can you also recommend some places to go in the west?
+There are 5 attractions in the west. What type of attractions were you looking for?
+Any type is fine, could I get the address of only one?

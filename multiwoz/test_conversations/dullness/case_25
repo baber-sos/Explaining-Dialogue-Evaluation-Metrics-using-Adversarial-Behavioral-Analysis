@@ -1,0 +1,20 @@
+original_conversation
+I need a train that will be in Cambridge by 3:00
+What day will you be travelling?
+I will be travelling on Wednesday.
+Alright, where will you be departing?
+I'm leaving out of London King's Cross.
+What time do you need to be there by? Is it 13:00?
+No, I need to arrive by 14:00.
+I have only one train that would be close to those traveling times. It leaves London Kings Cross at 11:17 and arrives in Cambridge at 12:08.
+Can I get a ticket for 1 person and the reference number please.
+modified_conversation
+I need a train that will be in Cambridge by 3:00
+What day will you be travelling?
+I will be travelling on Wednesday.
+Alright, where will you be departing?
+I'm leaving out of London King's Cross.
+What time do you need to be there by? Is it 13:00?
+No, I need to arrive by 14:00.
+I have only one train that would be close to those traveling times. It leaves London Kings Cross at 11:17 and arrives in Cambridge at 12:08.
+No, I need to arrive by 14:00.

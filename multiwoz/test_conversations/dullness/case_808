@@ -1,0 +1,12 @@
+original_conversation
+i am looking for a train from cambridge that should arrive by 08:00
+Sure, where would you like to travel to, and which day?
+I am trying to get to london liverpool street on saturday.
+The TR2895 leaves Cambridge at 05:59 on Saturday and arrives at London, Liverpool Street at 07:27. Would you like to book a seat on this train, or keep looking?
+No, that will be all. Thanks, goodbye.
+modified_conversation
+i am looking for a train from cambridge that should arrive by 08:00
+Sure, where would you like to travel to, and which day?
+I am trying to get to london liverpool street on saturday.
+The TR2895 leaves Cambridge at 05:59 on Saturday and arrives at London, Liverpool Street at 07:27. Would you like to book a seat on this train, or keep looking?
+I am trying to get to london liverpool street on saturday.

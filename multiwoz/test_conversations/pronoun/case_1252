@@ -1,0 +1,14 @@
+original_conversation
+Hello, I would like to book a train, leaving Cambridge and going to Stansted Airport.
+Ok, when would you like to leave and what time would you like to leave at?
+I just want to arrive in stansted airport on tuesday before 11:00.
+TR1951 leaves Cambridge at 06:40 and arrives at the airport at 07:08. Would that work?
+It's a little early in the morning, but it will do, I'll just set my alarm extra loud. Departure time is 06:40?
+Sounds great, I can go ahead and book that. How many tickets will you be needing?
+modified_conversation
+Hello, I would like to book a train, leaving Cambridge and going to Stansted Airport.
+Ok, when would you like to leave and what time would you like to leave at?
+I just want to arrive in stansted airport on tuesday before 11:00.
+TR1951 leaves Cambridge at 06:40 and arrives at the airport at 07:08. Would that work?
+It's a little early in the morning, but it will do, I'll just set my alarm extra loud. Departure time is 06:40?
+Sounds great, he can go ahead and book that. How many tickets will he be needing?

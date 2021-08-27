@@ -1,0 +1,12 @@
+original_conversation
+I need information about a certain restaurant called charlie chan .
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763 . Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db . May I help book a table?
+Maybe later . I also need to find a train to ely on Tuesday . Can you help with that?
+modified_conversation
+I need information about a certain restaurant called charlie chan .
+Charlie Chan serves Chinese food and is located in Regent Street City Centre (centre area). The phone number is 01223361763 . Do you have any other questions?
+Yes, could you please give me the specific address of the restaurant?
+Yes, it's located at Regent Street City Centre cb21db . May I help book a table?
+Maybe later . I also need to find a a a a a train to ely on Tuesday . Can you help with that?

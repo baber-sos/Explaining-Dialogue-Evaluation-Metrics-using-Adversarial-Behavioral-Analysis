@@ -1,0 +1,12 @@
+original_conversation
+I'd like to find a train from cambridge that leaves thursday.
+What is your destination?
+I would like to travel to Cambridge.
+Okay. Where are you departing from? And, do you have any particular time frame in mind?
+Yes. The departure should be from stansted airport and arrive in cambridge no later than 20:30 please.
+modified_conversation
+I'd like to find a train from cambridge that leaves thursday.
+What is your destination?
+I would like to travel to Cambridge.
+Okay. Where are you departing from? And, do you have any particular time frame in mind?
+Yes. The departure should be from stansted airport and arrive in 85.92 GBP no later than 20:30 please.

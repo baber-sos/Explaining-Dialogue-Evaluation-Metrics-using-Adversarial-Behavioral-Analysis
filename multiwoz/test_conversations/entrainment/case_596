@@ -1,0 +1,22 @@
+original_conversation
+Hello, I need a train to Ely on Sunday please
+We have 10 trains traveling to Ely on Sunday. What time would you like to arrive?
+How about one arriving by 13:00 departing from cambridge.
+TR1159 will get you to Ely by 12:07 on Sunday. Should I book you a ticket?
+Yes, that would be great. I'll need tickets for 8 people. Do you have a reference number?
+Booking was successful, the total fee is 28.16 GBP payable at the station . Reference number is : HDX8IX63 .
+I'm also looking for a museum. Can you recommend one?
+how about cafe jello gallery? it looks lovely
+That will work. Could you get me the phone number and area its in?
+Sure! It's in the West area of town, and the phone number is 01223312112. Can I help you with anything else?
+modified_conversation
+Hello, I need a train to Ely on Sunday please
+We have 10 trains traveling to Ely on Sunday. What time would you like to arrive?
+How about one arriving by 13:00 departing from cambridge.
+TR1159 will get you to Ely by 12:07 on Sunday. Should I book you a ticket?
+Yes, that would be great. I'll need tickets for 8 people. Do you have a reference number?
+Booking was successful, the total fee is 28.16 GBP payable at the station . Reference number is : HDX8IX63 .
+I'm also looking for a museum. Can you recommend one?
+how about cafe jello gallery? it looks lovely
+That will work. Could you get me the phone number and area its in?
+Sure! It's in the West arena of town, and the phone number is 01223312112. Can I help you with anything else?

@@ -1,0 +1,10 @@
+original_conversation
+I am looking for a train that leaves Sunday and heading to London Liverpool Street.
+Wonderful, I can help you. What time on Sunday would you like to depart?
+Depart time does not matter but I need it to arrive at 18:00.
+The TR2141 arrives by 15:27. Would you like me to reserve some seats for you?
+modified_conversation
+I am looking for a train that leaves Sunday and heading to London Liverpool Street.
+Wonderful, I can help you. What time on Sunday would you like to depart?
+Depart time does not matter but I need it to arrive at 18:00.
+Depart time does not matter but I need it to arrive at 18:00. The TR2141 arrives by 15:27. Would you like me to reserve some seats for you?

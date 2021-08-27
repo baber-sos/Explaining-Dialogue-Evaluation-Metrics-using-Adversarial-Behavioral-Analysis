@@ -1,0 +1,24 @@
+original_conversation
+I am looking for a train to cambridge from norwich.
+What date and time would you like to depart?
+Sunday, sometime after 12:00
+The TR5225 leaves at 12:16. Would you like to book it?
+Yes, I want to book for 7 people.
+Reference number is : 29KZ568T . Anything else?
+Terrific, thanks. I'm also looking for an expensive place to dine in the south.
+What kind of cuisine are you looking for?
+If you suggest a place that is good and will impress others.
+Okay, would you like to eat italian, indian, mexican, or chinese food?
+Italian food will be fine.
+modified_conversation
+I am looking for a train to cambridge from norwich.
+What date and time would you like to depart?
+Sunday, sometime after 12:00
+The TR5225 leaves at 12:16. Would you like to book it?
+Yes, I want to book for 7 people.
+Reference number is : 29KZ568T . Anything else?
+Terrific, thanks. I'm also looking for an expensive place to dine in the south.
+What kind of cuisine are you looking for?
+If you suggest a place that is good and will impress others.
+Okay, would you like to eat italian, indian, mexican, or chinese food?
+If you  do not suggest a place that is good and will impress others.

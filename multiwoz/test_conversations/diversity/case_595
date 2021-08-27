@@ -1,0 +1,14 @@
+original_conversation
+I am trying to find out about trains that arrive in Cambridge
+There are quite a few trains coming into Cambridge . Where will you be departing from?
+I want to arrive by 16:15
+Okay . First, let's find out you're departing from .
+I will be departing from stevenage and going to cambridge .
+There's a train running every day leaving at 13:54 and arriving at 14:43 . Did you have a particular day in mind?
+modified_conversation
+I am trying to find out about trains that arrive in Cambridge
+There are quite a few trains coming into Cambridge . Where will you be departing from?
+I want to arrive by 16:15
+Okay . First, let's find out you're departing from .
+I will be departing from stevenage and going to cambridge .
+There's a trains running every day going at 13:54 and arriving at 14:43 . Did you let a details day in mind?

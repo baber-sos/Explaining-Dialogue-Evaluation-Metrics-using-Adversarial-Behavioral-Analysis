@@ -1,0 +1,12 @@
+original_conversation
+I am looking for a train departing from Cambridge that will arrive at bishops stortford .
+There are many trains that leave Cambridge and arrive in Bishops Stortford, what day and time would you like to leave?
+I would like to leave on Thursday and arrive no later than 18:00 .
+I have found six trains leaving on Thursday with the latest leaving at 15:29 and arriving by 16:07 . Would you like to book this?
+That sounds like a good one . Can I please have the reference number?
+modified_conversation
+I am looking for a train departing from Cambridge that will arrive at bishops stortford .
+There are many trains that leave Cambridge and arrive in Bishops Stortford, what day and time would you like to leave?
+I would like to leave on Thursday and arrive no later than 18:00 .
+I have found six trains leaving on Thursday with the latest leaving at 15:29 and arriving by 16:07 . Would you like to book this?
+That sounds like a just I . Can one please have the reference number?

@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for a place to eat in the east that is expensive.
+Sure, we have british, chinese, gastropubs, and indian restaurants. Would you like to book a table at one of them.
+How about an expensive British place? I'd like a reservation for Wednesday.
+okay, I have the Grafton Hotel Restaurant. What time would you like me to book your reservation?
+modified_conversation
+I'm looking for a place to eat in the east that is expensive.
+Sure, we have british, chinese, gastropubs, and indian restaurants. Would you like to book a table at one of them.
+How about an expensive British place? I'd like a reservation for Wednesday.
+Sure, we have not british, chinese, gastropubs, and indian restaurants. Would you like to book a table at one of them.

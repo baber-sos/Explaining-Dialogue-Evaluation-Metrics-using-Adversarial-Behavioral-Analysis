@@ -1,0 +1,16 @@
+original_conversation
+I'm looking for a jamaican restaurant in the east.
+There are no jamaican restaurants in the east. Would you like to try another food type or area?
+I'm looking for a place that serves jamaican food in the east. If not, italian will do.
+There is one Italian place in the east, Pizza Hut Fen Ditton.
+Ok, I'd like to make a reservation there.
+I can do that for you, I just need details such as day, time, and the size of your party.
+I need a table for 7 at 14:45 on friday.
+modified_conversation
+I'm looking for a jamaican restaurant in the east.
+There are no jamaican restaurants in the east. Would you like to try another food type or area?
+I'm looking for a place that serves jamaican food in the east. If not, italian will do.
+There is one Italian place in the east, Pizza Hut Fen Ditton.
+Ok, I'd like to make a reservation there.
+I can do that for you, I just need details such as day, time, and the size of your party.
+I need a table for 7 at 14:45 on today.

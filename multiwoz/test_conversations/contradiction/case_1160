@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for colleges in the centre.
+Great! There are thirteen to choose from in that area!
+Could you suggest one and give me the address and postcode, please?
+Christ's College. Saint Andrew's Street, cb23bu. Is there anything else you need?
+modified_conversation
+I'm looking for colleges in the centre.
+Great! There are thirteen to choose from in that area!
+Could you suggest one and give me the address and postcode, please?
+Great! There are not thirteen to choose from in that area!

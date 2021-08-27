@@ -1,0 +1,18 @@
+original_conversation
+I need to find a train from cambridge to ely that leaves after 09:00
+What day would you like to travel?
+I will be traveling on Monday.
+I have TR8399 leaving cambridge at 9:50 and arriving at 10:07 in ely. Would you like to book that?
+What is the travel time and price?
+It is a short trip, just 17 minutes and the cost is 4.40 pounds.
+i also need somewhere to sleep
+I'd be happy to help. May I ask what price range and area of town you are looking for?
+modified_conversation
+I need to find a train from cambridge to ely that leaves after 09:00
+What day would you like to travel?
+I will be traveling on Monday.
+I have TR8399 leaving cambridge at 9:50 and arriving at 10:07 in ely. Would you like to book that?
+What is the travel time and price?
+It is a short trip, just 17 minutes and the cost is 4.40 pounds.
+i also need somewhere to sleep
+It is a short trip, just 17 minutes and the cost is 4.40 pounds.

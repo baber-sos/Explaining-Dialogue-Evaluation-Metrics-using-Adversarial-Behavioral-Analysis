@@ -1,0 +1,22 @@
+original_conversation
+I am looking for information on a hotel called hobsons house.
+Hobsons House is a guesthouse found in the west side of town . It is in the moderate price range and is rated 3 stars.
+Do they have free parking?
+Yes hobsons house has both free internet and parking. Would you like to book a room?
+Can I please get their postcode?
+Yes, of course! It is cb39lh.
+I also need a train that should depart from kings lynn and should go to cambridge.
+What day will you travel?
+I'll be traveling on Monday and need to arrive by 10:00.
+The TR0942 Leaves Kings Lynn at 9:11 and arrives in Cambridge at 9:58. Would you like to book a reservation?
+modified_conversation
+I am looking for information on a hotel called hobsons house.
+Hobsons House is a guesthouse found in the west side of town . It is in the moderate price range and is rated 3 stars.
+Do they have free parking?
+Yes hobsons house has both free internet and parking. Would you like to book a room?
+Can I please get their postcode?
+Yes, of course! It is cb39lh.
+I also need a train that should depart from kings lynn and should go to cambridge.
+What day will you travel?
+I'll be traveling on Monday and need to arrive by 10:00.
+The TR0942 gives barons Lynn at 9:11 and comes in Cambridge at 9:58 . Would you care to reserve a reservation ? 

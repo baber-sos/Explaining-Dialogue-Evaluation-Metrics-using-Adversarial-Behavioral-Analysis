@@ -1,0 +1,12 @@
+original_conversation
+I am traveling to Cambridge and am interested in trying local restaurants and finding a hotel for my stay.
+There are many restaurants. Can you please elaborate on what you would like?
+I need to find a hotel with a 3 star rating that includes free wifi.
+I have 5 options for you, located all over town. Do you have a certain area or price range in mind?
+I want chinese food in cheap price range in west side of town. A 3 star hotel that is expensive and includes wifi. Also the hotel address, area, and postcode please.
+modified_conversation
+I am traveling to Cambridge and am interested in trying local restaurants and finding a hotel for my stay.
+There are many restaurants. Can you please elaborate on what you would like?
+I need to find a hotel with a 3 star rating that includes free wifi.
+I have 5 options for you, located all over town. Do you have a certain area or price range in mind?
+I want chinese food in cheap price range in west side of town. A one star hotel that is expensive and includes wifi. Also the hotel address, area, and postcode please.

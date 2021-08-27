@@ -1,0 +1,26 @@
+original_conversation
+I'm looking for a train that leaves on Saturday and arrives by 10.30
+Where are you traveling to and from?
+I am going to cambridge from birmingham new street.
+There are 5 trains available, may I book one for you that leaves at 7:40 and arrives at 10:23?
+What is the train ID?
+The train ID is TR8259.
+Yes, that train sounds good. Please book it for me. Could you also find me a hotel with a moderate price that offers internet?
+Before we start on the hotel, did you need tickets for the train?
+No thank you, I was just pre-planning a route.
+There are 17 hotels listed. What part of town would you like to stay in?
+The north part of town please, preferably in a guesthouse.
+Cambridge has 8 moderately priced guesthouses in the north. I would suggest Acorn Guest House, with a star rating of 4. Would you like me to book it?
+modified_conversation
+I'm looking for a train that leaves on Saturday and arrives by 10.30
+Where are you traveling to and from?
+I am going to cambridge from birmingham new street.
+There are 5 trains available, may I book one for you that leaves at 7:40 and arrives at 10:23?
+What is the train ID?
+The train ID is TR8259.
+Yes, that train sounds good. Please book it for me. Could you also find me a hotel with a moderate price that offers internet?
+Before we start on the hotel, did you need tickets for the train?
+No thank you, I was just pre-planning a route.
+There are 17 hotels listed. What part of town would you like to stay in?
+The north part of town please, preferably in a guesthouse.
+Cambridge has 8 moderately priced guesthouses in the north. you would suggest Acorn Guest House, with a star rating of 4. Would me like him to book it?

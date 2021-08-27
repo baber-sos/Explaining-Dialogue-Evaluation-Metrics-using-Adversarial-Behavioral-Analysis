@@ -1,0 +1,18 @@
+original_conversation
+I am looking for a museum to go to in Cambridge.
+You're in luck! Cambridge has a great number of museums. Did you have an area in mind?
+Perhaps the center of town. Can you provide me with information regarding the entrance fee and a telephone number too?
+The broughton house gallery is located in the centre is free to enter and the phone number is 01223314960. Can I help you with anything else?
+Yes, I need help finding a place to eat. I would like it to be expensive.
+Cambridge is full of expensive restaurants? What is your favorite cuisine?
+I would prefer a restaurant that serves creative food in the centre of town.
+I did not find any expensive restaurants that serve creative food in the centre of town. Would you like a different type of food, area, or price range?
+modified_conversation
+I am looking for a museum to go to in Cambridge.
+You're in luck! Cambridge has a great number of museums. Did you have an area in mind?
+Perhaps the center of town. Can you provide me with information regarding the entrance fee and a telephone number too?
+The broughton house gallery is located in the centre is free to enter and the phone number is 01223314960. Can I help you with anything else?
+Yes, I need help finding a place to eat. I would like it to be expensive.
+Cambridge is full of expensive restaurants? What is your favorite cuisine?
+I would prefer a restaurant that serves creative food in the centre of town.
+I did not find any expensive restaurants that serve originative food in the centre of town. Would you like a different type of food, area, or price range?

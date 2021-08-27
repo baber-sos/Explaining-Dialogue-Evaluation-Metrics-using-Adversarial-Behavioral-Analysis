@@ -1,0 +1,18 @@
+original_conversation
+I need a train going to bishops stortford.
+Ok. Are you departing from Cambridge?
+Yes, that's why I'm requesting help from Cambridge TownInfo.
+What day and time would you like to depart?
+I will be traveling on Sunday.
+Alright, and what time would you like to leave or arrive by?
+I would like to arrive by 10:00.
+Okay. TR6572 departs at 05:29. Would you like me to book that for you?
+modified_conversation
+I need a train going to bishops stortford.
+Ok. Are you departing from Cambridge?
+Yes, that's why I'm requesting help from Cambridge TownInfo.
+What day and time would you like to depart?
+I will be traveling on Sunday.
+Alright, and what time would you like to leave or arrive by?
+I would like to arrive by 10:00.
+Okay, TR6572 departs at 05:29. Would you like me to book that for you?

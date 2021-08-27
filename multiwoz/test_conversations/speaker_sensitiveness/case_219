@@ -1,0 +1,38 @@
+original_conversation
+I'm planning a trip to Pembroke College.
+Great! Pembroke College is in town. What information can I help you with?
+I'd like to know what type of attraction it is, the entrance fee, and what area it's in, please.
+It is a college in the centre of town. There is no entrance fee. May I help you with anything else?
+I'm looking for a train to Cambridge leaving after 19:30.
+What day of the week are you traveling and what is your departure station?
+I want to depart from Norwich on Friday.
+TrainID TR5291 departs at 20:16. Their price is 17.60 pounds. Would you like to book this train?
+What time does the train arrive?
+The TR5291 arrives by 21:35.
+That sounds perfect. Can you go ahead and book that for me?
+Certainly! Are you traveling by yourself or would you need more than one ticket?
+I just need the travel time and price please
+The travel time is 79 minutes and it is 17.60 pounds.
+That is all I need. Thank you.
+Are you certain you don't need further assistance?
+Yes. Have a nice day.
+It has been my pleasure. Feel free to contact us if you need any assistance.
+modified_conversation
+I'm planning a trip to Pembroke College.
+Great! Pembroke College is in town. What information can I help you with?
+I'd like to know what type of attraction it is, the entrance fee, and what area it's in, please.
+It is a college in the centre of town. There is no entrance fee. May I help you with anything else?
+I'm looking for a train to Cambridge leaving after 19:30.
+What day of the week are you traveling and what is your departure station?
+I want to depart from Norwich on Friday.
+TrainID TR5291 departs at 20:16. Their price is 17.60 pounds. Would you like to book this train?
+What time does the train arrive?
+The TR5291 arrives by 21:35.
+That sounds perfect. Can you go ahead and book that for me?
+Certainly! Are you traveling by yourself or would you need more than one ticket?
+I just need the travel time and price please
+The travel time is 79 minutes and it is 17.60 pounds.
+That is all I need. Thank you.
+Are you certain you don't need further assistance?
+Yes. Have a nice day.
+Yes. Have a nice day. It has been my pleasure. Feel free to contact us if you need any assistance.

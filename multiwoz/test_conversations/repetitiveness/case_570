@@ -1,0 +1,34 @@
+original_conversation
+I need a train that is leaving on Friday .
+I can help you with that . Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Friday . I need to arrive by 9:15 .
+I have 4 trains available . Do you have a preferred departure time?
+No, I don't . Can you give me the earliest departure out of the 4 trains?
+TR7213 leaves cambridge at 05:40 and arrives at the airport by 06:08, does this suit your needs?
+Yes, that sounds great . Can you book that for me?
+Definitely! How many tickets do you need?
+Actually I have all the information I need but I would like to find a type of multiple sports attraction on the east side .
+there are none in that side . can we change location?
+Are there any theatres?
+There are also no theatres on the east side . Is there anything else I could help you find attraction wise?
+Are there any churches or museums on the east side?
+Yes, I highly suggest Saint Barnabas Press Gallery . Would you like more information?
+Scratch that, I'd like to see some multiple sports venues
+The Cherry Hinton Village Centre is a Multiple Sports venue in the East . Does that work for you?
+modified_conversation
+I need a train that is leaving on Friday .
+I can help you with that . Can you give me the departure/destination locations and a preferred timeframe?
+I am traveling from Cambridge to Stansted Airport on Friday . I need to arrive by 9:15 .
+I have 4 trains available . Do you have a preferred departure time?
+No, I don't . Can you give me the earliest departure out of the 4 trains?
+TR7213 leaves cambridge at 05:40 and arrives at the airport by 06:08, does this suit your needs?
+Yes, that sounds great . Can you book that for me?
+Definitely! How many tickets do you need?
+Actually I have all the information I need but I would like to find a type of multiple sports attraction on the east side .
+there are none in that side . can we change location?
+Are there any theatres?
+There are also no theatres on the east side . Is there anything else I could help you find attraction wise?
+Are there any churches or museums on the east side?
+Yes, I highly suggest Saint Barnabas Press Gallery . Would you like more information?
+Scratch that, I'd like to see some multiple sports venues
+The Cherry Hinton Village Village Village Village Centre is a Multiple Sports venue in the East . Does that work for you?

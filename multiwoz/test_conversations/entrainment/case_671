@@ -1,0 +1,20 @@
+original_conversation
+Hello, I'd like some information on a restaurant.
+Do you have a certain cuisine or area in mind?
+I want british food. In the east, please.
+The Graffton Hotel Restaurant is in the east and serves British food. It's location is 619 Newmarket Rd. Fen Ditton.
+I will need it for Saturday, 7 people at 17:45 please.
+I have successfully booked a table for 7 on Saturday at 17:45 for you. The table will be reserved for 15 minutes and your reference number is R8CV0HU9 .
+I am also looking for a train on sunday.
+I can help you with that. Can you please tell me what station you will be leaving from and your destination. Also a time preference.
+I'll be leaving Sunday from Cambridge and heading to Birmingham New Street. I need to arrive by 19:15. I need to book this for 7 people. Rererence number?
+modified_conversation
+Hello, I'd like some information on a restaurant.
+Do you have a certain cuisine or area in mind?
+I want british food. In the east, please.
+The Graffton Hotel Restaurant is in the east and serves British food. It's location is 619 Newmarket Rd. Fen Ditton.
+I will need it for Saturday, 7 people at 17:45 please.
+I have successfully booked a table for 7 on Saturday at 17:45 for you. The table will be reserved for 15 minutes and your reference number is R8CV0HU9 .
+I am also looking for a train on sunday.
+I can help you with that. Can you please tell me what station you will be leaving from and your destination. Also a time preference.
+I'll be departing Sunday from Cambridge and heading to Birmingham New Street. I need to arrive by 19:15. I need to book this for 7 people. Rererence number?

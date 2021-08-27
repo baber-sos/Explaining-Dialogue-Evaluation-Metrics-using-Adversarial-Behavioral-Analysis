@@ -1,0 +1,12 @@
+original_conversation
+Can you give me information about museums in the centre of town?
+I found 11 museums in the centre. What would you like to know?
+Which is your favorite, and how much is the entrance fee?
+I enjoy visiting the whipple museum of the history of science, and best of all it's free to get in. Would you like the address?
+No that isn't necessary. Could you help me find a train going to cambridge?
+modified_conversation
+Can you give me information about museums in the centre of town?
+I found 11 museums in the centre. What would you like to know?
+Which is your favorite, and how much is the entrance fee?
+I enjoy visiting the whipple museum of the history of science, and best of all it's free to get in. Would you like the address?
+No that isn't necessary. Could you help me find a train going to Chiquito?

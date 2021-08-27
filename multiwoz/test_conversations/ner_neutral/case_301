@@ -1,0 +1,18 @@
+original_conversation
+I need a train leaving from london kings cross.
+I can help you with that what day are you wanting to leave?
+I want to leave on a Tuesday.
+Where will you be travelling to?
+I will be traveling to cambridge.
+What time do you need to depart?
+whatever time that will get me there closest to 14:00.
+TR7850 leaves Tuesday at 11:17 and arrives at 12:08. Will this one work for you?
+modified_conversation
+I need a train leaving from london kings cross.
+I can help you with that what day are you wanting to leave?
+I want to leave on a Tuesday.
+Where will you be travelling to?
+I will be traveling to cambridge.
+What time do you need to depart?
+whatever time that will get me there closest to 14:00.
+TR7850 leaves a Tuesday at 11:17 and arrives at 12:08. Will this one work for you?

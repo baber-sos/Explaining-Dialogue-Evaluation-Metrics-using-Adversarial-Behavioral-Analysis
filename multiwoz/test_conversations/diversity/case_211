@@ -1,0 +1,12 @@
+original_conversation
+I need to book a train ticket going to Cambridge any day but has to arrive by 18:30, can you assist me with that?
+I will be glad to help you with that . Where will you be departing from?
+I will be leaving london kings cross on sunday .
+Awesome . Will it be just you that wants to book this?
+Actually, I decided not to book it just now . However, what's the travel time for that route?
+modified_conversation
+I need to book a train ticket going to Cambridge any day but has to arrive by 18:30, can you assist me with that?
+I will be glad to help you with that . Where will you be departing from?
+I will be leaving london kings cross on sunday .
+Awesome . Will it be just you that wants to book this?
+Actually, one decided not to booking it just now . However, what's the going time for that route?

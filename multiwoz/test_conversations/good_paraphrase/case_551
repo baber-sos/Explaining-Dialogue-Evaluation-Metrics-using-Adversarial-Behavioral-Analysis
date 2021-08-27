@@ -1,0 +1,14 @@
+original_conversation
+I want to find a nightclub.
+There are 6 nightclubs in the centre. Would you like a recommendation?
+May I please have the postcode, and entrance fees for the nightclubs?
+My favorite is Club Salsa. It is located in postcode cb12jb and costs 5 pounds to enter. Can I help you further today?
+Actually, yes. I'm looking for a train from ely.
+Okay, where is your destination?
+modified_conversation
+I want to find a nightclub.
+There are 6 nightclubs in the centre. Would you like a recommendation?
+May I please have the postcode, and entrance fees for the nightclubs?
+My favorite is Club Salsa. It is located in postcode cb12jb and costs 5 pounds to enter. Can I help you further today?
+Actually, yes. I'm looking for a train from ely.
+Where is your destination?

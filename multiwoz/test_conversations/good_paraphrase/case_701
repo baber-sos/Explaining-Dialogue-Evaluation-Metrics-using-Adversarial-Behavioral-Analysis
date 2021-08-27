@@ -1,0 +1,12 @@
+original_conversation
+Hi, can you please give me information on a restaurant called Midsummer House Restaurant located in Cambridge?
+This is a British restaurant found in the center of town that is in the expensive price range. What other information do you need?
+Can you book this restaurant for 3 people on Wednesday at 15:45?
+I booked it for you- the reference number is 5CWU2U98 . Is there anything else?
+I would like to do a little site seeing. Do you have any good attractions in the east?
+modified_conversation
+Hi, can you please give me information on a restaurant called Midsummer House Restaurant located in Cambridge?
+This is a British restaurant found in the center of town that is in the expensive price range. What other information do you need?
+Can you book this restaurant for 3 people on Wednesday at 15:45?
+I booked it for you- the reference number is 5CWU2U98 . Is there anything else?
+I would like to do some site seeing, do you have any good attractions in the east?

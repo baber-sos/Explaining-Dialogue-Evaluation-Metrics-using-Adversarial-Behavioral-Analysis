@@ -1,0 +1,14 @@
+original_conversation
+Are there any trains on Wednesday that travel from Norwich to Cambridge?
+There are several trains traveling from Norwich to Cambridge on Wednesday. Is there any particular time you are looking for? The earliest is 5:16.
+The train should arrive by 14:30 please.
+The TR118 arrives at 10:35. Does that work for you?
+I think that will work. What is the departure time of that train?
+That train leaves at 9:16. Would you care to book passage?
+modified_conversation
+Are there any trains on Wednesday that travel from Norwich to Cambridge?
+There are several trains traveling from Norwich to Cambridge on Wednesday. Is there any particular time you are looking for? The earliest is 5:16.
+The train should arrive by 14:30 please.
+The TR118 arrives at 10:35. Does that work for you?
+I think that will work. What is the departure time of that train?
+That train leaves at 9:16. Would you care to book passage book passage book passage book passage?

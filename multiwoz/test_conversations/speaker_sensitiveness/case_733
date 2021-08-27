@@ -1,0 +1,10 @@
+original_conversation
+I'm looking for a train to cambridge.
+What day will you be traveling?
+I would like to leave on Friday.
+Okay I have several. What time are you leaving, and how many tickets would you like?
+modified_conversation
+I'm looking for a train to cambridge.
+What day will you be traveling?
+I would like to leave on Friday.
+I would like to leave on Friday. Okay I have several. What time are you leaving, and how many tickets would you like?

@@ -1,0 +1,18 @@
+original_conversation
+Hello! I need to take a train on Monday, from Kings Lynn .
+There area a number of departures on Monday starting at 5:11 in the morning . Was there a particular time of day you wanted to depart?
+Any time after 13:15 would be fine .
+TR2257 leaves at 14:11 . Would you like to purchase a ticket?
+I just need the arrival time and price at this moment .
+Train TR2257 arrives by 14:58 and cost is 9.80 pounds .
+I also need an attraction that has a boat .
+I can help with that . What area would you like me to check out for you?
+modified_conversation
+Hello! I need to take a train on Monday, from Kings Lynn .
+There area a number of departures on Monday starting at 5:11 in the morning . Was there a particular time of day you wanted to depart?
+Any time after 13:15 would be fine .
+TR2257 leaves at 14:11 . Would you like to purchase a ticket?
+I just need the arrival time and price at this moment .
+Train TR2257 arrives by 14:58 and cost is 9.80 pounds .
+I also need an attraction that has a boat .
+I can help with with with with that . What area would you like me to check out for you?
