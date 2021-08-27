@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hello!
+User: How was your party last week?
+System: It was really fun! We are a bunch of turkey
+User: haha... you ate Turkeys' or you like calling your bunch Turkey?
+System: *ate 
+User: Haha... thought so! But it was funny eitherways
+System: So much turkey leftovers
+User: did you cook it at home, or got it from outside?
+System: We cooked it at a friends house. I brought the mashed potatos haha
+modified_conversation
+System: So much turkey leftovers
+User: did you cook it at home, or got it from outside?
+System: We cooked it at a friends house. I brought the mashed potatos haha
+System: Hello!
+User: Haha... thought so! But it was funny eitherways
+User: Hi!
+System: It was really fun! We are a bunch of turkey
+User: haha... you ate Turkeys' or you like calling your bunch Turkey?
+User: How was your party last week?
+System: *ate 

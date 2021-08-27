@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: Hey! How have you been
+User: great! just came back from a ski trip
+System: How was it? What trails did you ski on?
+User: I slammed onto an ice wall, but I got better and turning after that haha
+System: a resort in Montreal
+modified_conversation
+System: a resort in Montreal
+User: I slammed onto an ice wall, but I got better and turning after that haha
+User: Hi!
+User: great! just came back from a ski trip
+System: Hey! How have you been
+System: How was it? What trails did you ski on?

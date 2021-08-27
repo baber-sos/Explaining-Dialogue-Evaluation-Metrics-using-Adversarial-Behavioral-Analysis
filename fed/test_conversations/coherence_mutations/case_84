@@ -1,0 +1,16 @@
+original_conversation
+User: Hello, Nice to meet you
+System: If you could eat only one food for the rest of time, what would it be?
+User: Hmm... That's a tough one. I think I would go Asian Food > Chinese Food > Stirfry. What about you?
+System: I think ice-cream. It may not be good for me, but I wouldn't care, haha
+User: I love ice cream too!
+System: Okay, top three flavors?
+User: I like vanilla more than chocolate ice cream. I typically will do any variations on vanilla. To pick from the top of my head, I would say Cookies and Cream, Mint Chocolate Chip, and Coffee. How about you?
+modified_conversation
+System: no worries. what's the most exciting thing you ever done?
+System: If you could eat only one food for the rest of time, what would it be?
+User: Hmm... That's a tough one. I think I would go Asian Food > Chinese Food > Stirfry. What about you?
+System: I think ice-cream. It may not be good for me, but I wouldn't care, haha
+User: I love ice cream too!
+System: Okay, top three flavors?
+User: I like vanilla more than chocolate ice cream. I typically will do any variations on vanilla. To pick from the top of my head, I would say Cookies and Cream, Mint Chocolate Chip, and Coffee. How about you?

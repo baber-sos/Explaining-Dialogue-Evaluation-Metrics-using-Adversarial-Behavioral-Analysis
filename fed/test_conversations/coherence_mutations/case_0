@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: Hi, how are you?
+User: I'm doing great. what are you up to?
+System: I was just reading a book actually How about you?
+User: oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+System: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha
+modified_conversation
+User: Hi!
+System: Hi, how are you?
+User: I'm doing great. what are you up to?
+User: It's good! Just went to the park to enjoy the sun. You?
+User: oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+System: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha

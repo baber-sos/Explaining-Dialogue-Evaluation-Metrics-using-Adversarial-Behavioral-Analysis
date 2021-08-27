@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Hey, how are you doing?
+User: I'm great, thanks. I'm getting ready for a skydiving lesson.
+System: ooh, nice. That sounds adventurous. Where is it?
+User: Right near my home town: Seville, Spain.
+System: Awesome! Is this the first time you are diving?
+User: Yes. I'm feeling a little trepidatious. Have you done it before?
+modified_conversation
+User: Hi!
+System: Hey, how are you doing?
+User: I'm great, thanks. I'm getting ready for a skydiving lesson.
+System: ooh, nice. That sounds adventurous. Where is it?
+User: what are you up to?
+System: Awesome! Is this the first time you are diving?
+User: Yes. I'm feeling a little trepidatious. Have you done it before?

@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hi! How are you doing today?
+User: I'm doing great how are you??
+System: I'm doing good. Just having some morning tea
+modified_conversation
+User: Hi!
+System: Hi! How are you doing today?
+System: nice I'm tyring to learn guitar recently also, it's so hard to play f chord
+System: I'm doing good. Just having some morning tea

@@ -1,0 +1,26 @@
+original_conversation
+User: Hi!
+System: Hey there! What's up???
+User: Nothing much, how you doin?
+System: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+User: Oh wow! Sounds like fun! When was the last time you had seen this friend?
+System: The last time in New York, back in June.
+User: Ohh okay. I was going to say if it had been a long time maybe it'd be awkward...
+System: Haha, I guess if it's been a very long time there's almost too many life events to catch up on.. especially recently
+User: Oh really? Has a lot changed in your life recently?
+System: Haha it's probably too much to go into at the moment. Let's just say life is an exciting experience. How about you?
+User: Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!
+System: What kinds of adventures?? Any ones that I would be able to join you on?
+modified_conversation
+System: What kinds of adventures?? Any ones that I would be able to join you on?
+System: The last time in New York, back in June.
+System: Haha, I guess if it's been a very long time there's almost too many life events to catch up on.. especially recently
+User: Nothing much, how you doin?
+User: Great! Good idea to help people figuring out their new year resolutions :) So how do i get a fresher outlook? :)
+System: Haha it's probably too much to go into at the moment. Let's just say life is an exciting experience. How about you?
+User: Ohh okay. I was going to say if it had been a long time maybe it'd be awkward...
+System: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+User: Oh really? Has a lot changed in your life recently?
+User: Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!
+User: Hi!
+System: Hey there! What's up???

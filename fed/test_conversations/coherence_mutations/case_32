@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: hello there, how is it going?
+User: Pretty great. I just won a pingpong game. What about you?
+modified_conversation
+System: hello there, how is it going?
+User: Hi!
+User: Oh wow! I'm not on that level yet, but I understand the appeal. Are you an adrenaline junkie at all?

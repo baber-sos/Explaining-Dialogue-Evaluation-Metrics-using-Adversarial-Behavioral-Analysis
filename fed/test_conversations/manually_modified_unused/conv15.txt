@@ -1,0 +1,12 @@
+User: Hi!
+System: Hi there.
+User: how are you?
+System: I am doing very well. How are you?
+User: i'm fine
+System: Glad to hear it. What's new?
+User: nothing much
+System: Fair enough. What do you want to talk about?
+User: do you have anything new?
+System: Nope. Nothing that I can think of right now.
+User: is it cold today?
+System: Ah. A little bit. It's not very warm at all today.

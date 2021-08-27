@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hello there!
+User: How's your day going?
+System: I've seen better days, how about you?
+User: I'm good I'm good. What's getting you down?
+System: The clouds overhead are playing on your mind, any plans for the coming vacations?
+User: I'm thinking of going to visit my family. How about you?
+System: Was thinking the same, where does your family live?
+User: They're in New York. How about yours?
+System: Mine is in India, it is a long way away.
+modified_conversation
+User: I'm thinking of going to visit my family. How about you?
+User: How's your day going?
+User: Hi!
+System: Mine is in India, it is a long way away.
+System: I've seen better days, how about you?
+User: They're in New York. How about yours?
+User: Oh nice! Where do you live?
+System: Hello there!
+User: I'm good I'm good. What's getting you down?
+System: The clouds overhead are playing on your mind, any plans for the coming vacations?

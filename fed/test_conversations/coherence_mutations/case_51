@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: hello there, how is it going?
+User: All good. Planning to head home soon. How about you?
+System: I'm quite tired. There are a lot of things I need to finish before the end of the year.
+User: oh... sorry to hear that. But after that it will be a hard earned vacation
+System: yeah, looking forward to it. Hope I don't get pinged during the holidays. Are you going to travel these dates?
+User: I have some tentative plans, but if that doesn't pan out, will just chill at home.
+System: staying at home is always nice during the holidays
+modified_conversation
+User: oh... sorry to hear that. But after that it will be a hard earned vacation
+System: I'm quite tired. There are a lot of things I need to finish before the end of the year.
+User: Hi!
+System: hello there, how is it going?
+System: yeah, looking forward to it. Hope I don't get pinged during the holidays. Are you going to travel these dates?
+User: All good. Planning to head home soon. How about you?
+System: staying at home is always nice during the holidays
+User: I have some tentative plans, but if that doesn't pan out, will just chill at home.

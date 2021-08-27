@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: What was the most difficult thing you experienced this past year?
+User: I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?
+System: I just released a book on REDACTED_TERM to help people process the past 12 months and start the new year with a fresh outlook :)
+User: Great! Good idea to help people figuring out their new year resolutions :) So how do i get a fresher outlook? :)
+System: Well, in my book, I took inspiration for the 24 days of Advent, and put together a workbook that you fill out each day for 24 days. It goes through accomplishments, passions, understanding, forgiveness, with each day a different theme.
+modified_conversation
+System: Well, in my book, I took inspiration for the 24 days of Advent, and put together a workbook that you fill out each day for 24 days. It goes through accomplishments, passions, understanding, forgiveness, with each day a different theme.
+User: I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?
+User: Great! Good idea to help people figuring out their new year resolutions :) So how do i get a fresher outlook? :)
+System: I just released a book on REDACTED_TERM to help people process the past 12 months and start the new year with a fresh outlook :)
+System: What was the most difficult thing you experienced this past year?
+User: Hi!

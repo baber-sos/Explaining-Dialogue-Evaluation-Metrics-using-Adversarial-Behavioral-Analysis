@@ -1,0 +1,22 @@
+User: Hi!
+System: Hey there! How's it going?
+User: Hi, how are you?
+System: I'm doing well, thank you. How are you?
+User: I'm fine. What's up?
+System: Not much. How about you?
+User: nothing new. Anything exciting happening recently?
+System: Not really. You?
+User: I watched a movie recently which was pretty good
+System: That's good. What movie?
+User: the irishman, have you seen it?
+System: I have not. Should I?
+User: I think so
+System: Alright, I'll put it on my watch list.
+User: How about you? Have you watched anything interesting recently?
+System: I've been waiting to see the new Star Trek movie.
+User: what is it about?
+System: The adventures of Kirk, Spock, and McCoy.
+User: when was it released?
+System: It just came out today.
+User: are you sure, I think it's been out for a while
+System: I'm positive.

@@ -1,0 +1,28 @@
+original_conversation
+User: Hi!
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+User: Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+System: I think playing a team sport would be fun if it's casual but I primarily run by myself if I exercise. I also got the Ring Fit adventure game on the switch recently. It's basically a game-ified way to exercise
+User: I'm thinking about getting a Switch, would you recommend it?
+System: Yes! There are a lot of really great games on the Switch. Two of my favorites are Octopath Traveler and Fire Emblem. Do you play a lot of video games?
+User: I'm not much of a gamer but it's something I'd like to get into.
+System: What do you do in your free time?
+User: I like to read for fun. I just finished a book called Temeraire. It's an adventure story set in the Napoleonic navy, like Patrick O'Brien, except there are dragons too.
+System: Oh cool! I read a lot for fun too :) My favorite genre is sci-fi fantasy.
+User: What's the most recent good thing you read?
+modified_conversation
+User: Hi!
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+User: Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+System: I think playing a team sport would be fun if it's casual but I primarily run by myself if I exercise. I also got the Ring Fit adventure game on the switch recently. It's basically a game-ified way to exercise
+User: I know right! Are you taking History next semester?
+System: Yes! There are a lot of really great games on the Switch. Two of my favorites are Octopath Traveler and Fire Emblem. Do you play a lot of video games?
+User: I'm not much of a gamer but it's something I'd like to get into.
+System: What do you do in your free time?
+User: I like to read for fun. I just finished a book called Temeraire. It's an adventure story set in the Napoleonic navy, like Patrick O'Brien, except there are dragons too.
+System: Oh cool! I read a lot for fun too :) My favorite genre is sci-fi fantasy.
+User: What's the most recent good thing you read?

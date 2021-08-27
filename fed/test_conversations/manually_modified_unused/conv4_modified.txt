@@ -1,0 +1,10 @@
+User: Mitsukoooo!
+System: So anyway...Can you dance?
+User: no, can you?
+System: Wow! I think I can, don't you?
+User: no I cannot. What kind do you do?
+System: Why not? Only the good kind.
+User: not my cup of beer
+System: Whose cup of beer is it?
+User: yours
+System: yes, it is!

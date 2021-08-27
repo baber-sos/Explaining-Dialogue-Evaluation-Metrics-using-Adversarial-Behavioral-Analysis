@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: Hello, how are you doing today?
+User: I heard they are giving out some goodies in microkitchen.
+modified_conversation
+System: Hello, how are you doing today?
+User: Hi!
+System: oh wow, that sounds like so much fun! definitely count us in. what is your plan?

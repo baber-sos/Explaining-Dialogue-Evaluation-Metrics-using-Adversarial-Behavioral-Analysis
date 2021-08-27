@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hey, what's up?
+User: Just chillin'. how are you?
+System: I'm pretty good, thanks.
+modified_conversation
+User: Just chillin'. how are you?
+User: Hi!
+System: Hey, what's up?
+System: I'm pretty good, thanks.

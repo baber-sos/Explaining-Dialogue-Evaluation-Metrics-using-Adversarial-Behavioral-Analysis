@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hey there! What's up???
+User: Nothing much, how you doin?
+System: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+modified_conversation
+System: I live in Tokyo, Japan
+User: Nothing much, how you doin?
+System: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+User: Hi!

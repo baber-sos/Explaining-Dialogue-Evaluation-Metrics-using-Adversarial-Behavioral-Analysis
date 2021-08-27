@@ -1,0 +1,12 @@
+original_conversation
+User: Hi!
+System: Hello!
+User: Have you had lunch yet?
+System: Yes I've eaten
+User: Cool. Where and what did you eat?
+modified_conversation
+User: Have you had lunch yet?
+User: Cool. Where and what did you eat?
+User: Hi!
+System: Hello!
+System: Yes I've eaten

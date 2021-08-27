@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Oh hello. Long time no talk. How's the day going for yuo?
+User: Very well, thanks for asking. How has your day been?
+System: Getting better. I just recovered from a cold. I got wet in the rain last week. Are you planning anything for the holidays?
+User: Glad to hear you're better. Sorry to hear you were sick. I was sick a couple of weeks ago with a bad cough. There's definitely a bug going around. Admit I just want to stay healthy for the holidays and plan to relax.
+System: Oh same here. I think relaxing at home should be counted among the best ways to enjoy the holidays.
+User: Definitely! I know a lot of folks travel for the holidays, but I'm happy to stay home myself!
+modified_conversation
+User: Hi!
+System: Oh hello. Long time no talk. How's the day going for yuo?
+User: Very well, thanks for asking. How has your day been?
+System: Getting better. I just recovered from a cold. I got wet in the rain last week. Are you planning anything for the holidays?
+User: Glad to hear you're better. Sorry to hear you were sick. I was sick a couple of weeks ago with a bad cough. There's definitely a bug going around. Admit I just want to stay healthy for the holidays and plan to relax.
+User: A sandwich for lunch? Was it filling. I'm currently having some mix of shrimp, fish, chicken and pork. I'm considering going vegetarian though. Lol.
+User: Definitely! I know a lot of folks travel for the holidays, but I'm happy to stay home myself!

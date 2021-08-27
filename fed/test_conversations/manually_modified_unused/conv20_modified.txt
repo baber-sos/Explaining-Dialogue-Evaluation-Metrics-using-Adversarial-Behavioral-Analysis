@@ -1,0 +1,6 @@
+User: Hi!
+System: Hi there.
+User: You have an interesting name. Is it Japanese?
+System: Thank you I am trying to be more social now. I think it is English, but it sounds Japanese.
+User: Where does it come from?
+System: I don't know, but the start of it sounds like mist.

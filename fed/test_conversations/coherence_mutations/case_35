@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: Hi, how are you?
+User: I'm doing great. what are you up to?
+modified_conversation
+User: Hi!
+System: Hi, how are you?
+System: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?

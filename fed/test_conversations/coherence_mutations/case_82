@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: How's it going?
+User: I'm so sleepy today!
+System: Not enough sleep last night?
+User: yeah was working all night on a homework
+System: Oh really? What class?
+User: Biology. I'm gonna be a doc someday ha
+System: Haha, are you in med school? Or are you pre-med?
+modified_conversation
+User: Hi!
+System: How's it going?
+User: I'm so sleepy today!
+System: Not enough sleep last night?
+User: yeah was working all night on a homework
+System: Oh really? What class?
+User: Biology. I'm gonna be a doc someday ha
+System: yeah but I think it's good to have some rainy days in bay area, it's pretty dry here :P

@@ -1,0 +1,32 @@
+original_conversation
+User: Hi!
+System: hi
+User: what are you up to?
+System: code refactoring. you?
+User: me? just chilling out at work. what is code refactoring?
+System: good question. I don't even know what I am doing
+User: haha, forget it. what else do you like to do beside work?
+System: lots of fun stuff. eating sleeping :)
+User: these are important things to do in life ;)
+System: yeah. keep minimalist life style only do things you have to do :)
+User: what food do you like to eat?
+System: Asian food prefer spicy one
+User: like Szechuan or Hunan? :)
+System: yes yes yes! like that style. Do you like spicy food?
+User: I like noodle soup like Pho or Ramen. I also like Beijing duck a lot!
+modified_conversation
+User: me? just chilling out at work. what is code refactoring?
+User: haha, forget it. what else do you like to do beside work?
+System: yeah. keep minimalist life style only do things you have to do :)
+User: like Szechuan or Hunan? :)
+System: good question. I don't even know what I am doing
+System: code refactoring. you?
+User: what food do you like to eat?
+User: what are you up to?
+System: lots of fun stuff. eating sleeping :)
+System: Asian food prefer spicy one
+System: hi
+User: these are important things to do in life ;)
+User: lol Are you a big Marvel fan?
+User: Hi!
+System: yes yes yes! like that style. Do you like spicy food?

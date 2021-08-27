@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: hey
+User: is it raining pretty bad today?
+System: yeah, can walk too far to see all the foodtruck options
+User: surprising that the rain started early this year... I don't like them too much. They make days gloomy
+System: yeah but I think it's good to have some rainy days in bay area, it's pretty dry here :P
+User: Where I grew up, we had lots of water trouble too...
+System: yeah like wise, I've seen a pretty bad snowstorm when I was at my undergrad school, all flights canceled and traffics went down
+User: Haha... I don't think I can survive in that weather ever. Just the rains at 50 degrees make me want to sit in heated rroms
+System: yeah how do you like it in bay area though? I think we need more rain here
+modified_conversation
+User: Hi!
+System: hey
+User: is it raining pretty bad today?
+System: yeah, can walk too far to see all the foodtruck options
+User: surprising that the rain started early this year... I don't like them too much. They make days gloomy
+System: yeah but I think it's good to have some rainy days in bay area, it's pretty dry here :P
+User: Where I grew up, we had lots of water trouble too...
+System: they go into space and they live there
+User: Haha... I don't think I can survive in that weather ever. Just the rains at 50 degrees make me want to sit in heated rroms
+System: yeah how do you like it in bay area though? I think we need more rain here

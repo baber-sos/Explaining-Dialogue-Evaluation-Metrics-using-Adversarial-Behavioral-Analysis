@@ -1,0 +1,28 @@
+original_conversation
+User: Hi!
+System: Hey sup
+User: not much. any plans this weekend?
+System: I'm going to try that thing where you hang from a wire as you go down. do you know what is it called?
+User: ziplining?
+System: that's the one! have you ever tried it?
+User: i have a couple years ago. it's quite a unique experience
+System: where did you do it?
+User: i forgot where it was, it wasn't local i don't think though
+System: no worries. what's the most exciting thing you ever done?
+User: that's a hard question and i'm tired so i'm going to go. see you
+System: sure. are you just going home now?
+User: no, i'm going to get a massage first
+modified_conversation
+User: no, i'm going to get a massage first
+User: that's a hard question and i'm tired so i'm going to go. see you
+System: that's the one! have you ever tried it?
+User: ziplining?
+User: Hi!
+User: Same! I guess the roller coaster wasn't so bad because I trust the engineering haha
+System: Hey sup
+User: i forgot where it was, it wasn't local i don't think though
+System: sure. are you just going home now?
+System: I'm going to try that thing where you hang from a wire as you go down. do you know what is it called?
+User: i have a couple years ago. it's quite a unique experience
+System: where did you do it?
+System: no worries. what's the most exciting thing you ever done?

@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: Hi there.
+User: What is the capital of Brazil?
+System: I think the capital of Brazil is called "Brasilia".
+User: How many people live there?
+System: Is unknown a country? I only know countries, not towns or cities.
+modified_conversation
+User: Hi!
+System: Hi there.
+User: What is the capital of Brazil?
+System: I think the capital of Brazil is called "Brasilia".
+User: How many people live there?
+System: approximately 4 and a quarter million.

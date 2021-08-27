@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hey, what's up?
+User: Just chillin'. how are you?
+System: I'm pretty good, thanks.
+modified_conversation
+System: Hey, what's up?
+User: Just chillin'. how are you?
+User: The flu has been hitting hard as well. I had several folks in the house down at one point.
+System: I'm pretty good, thanks.

@@ -1,0 +1,20 @@
+original_conversation
+User: Hi!
+System: Hello, how are you doing today?
+User: I heard they are giving out some goodies in microkitchen.
+System: I love pop ups! What kind of goodies are they giving away?
+User: I guess its a jacket! Very much needed that in the cold :)
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+User: Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+System: Me too! I moved here a few years ago to get out of the extreme cold. I do not care for bundling up and having to wear so many layers just to go buy eggs at the store.
+User: Oh nice! Where did you live before?
+modified_conversation
+User: Hi!
+User: oh... sorry to hear that. But after that it will be a hard earned vacation
+User: I heard they are giving out some goodies in microkitchen.
+System: I love pop ups! What kind of goodies are they giving away?
+User: I guess its a jacket! Very much needed that in the cold :)
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+User: Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+System: Me too! I moved here a few years ago to get out of the extreme cold. I do not care for bundling up and having to wear so many layers just to go buy eggs at the store.
+User: Oh nice! Where did you live before?

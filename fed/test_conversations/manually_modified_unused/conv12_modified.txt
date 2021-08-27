@@ -1,0 +1,10 @@
+User: Hi!
+System: Hello! How are you today?
+User: Great
+System: That's great to hear! :)
+User: I'm thinking of buying some stocks, do you have any tips?
+System: What kind of stocks are you thinking about?
+User: Technology
+System: Hmm.. I have no experience with that. Sorry!
+User: That's okay. What's your favorite software company?
+System: Google!

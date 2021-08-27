@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: How's it going?
+User: I'm so sleepy today!
+System: Not enough sleep last night?
+User: yeah was working all night on a homework
+System: Oh really? What class?
+User: Biology. I'm gonna be a doc someday ha
+modified_conversation
+User: Hi!
+System: How's it going?
+User: I'm so sleepy today!
+System: Not enough sleep last night?
+User: Ahhh sounds exciting indeed! My life is pretty bland. I like routine, but sometimes I wish I had more time for adventures!
+System: Oh really? What class?
+User: Biology. I'm gonna be a doc someday ha

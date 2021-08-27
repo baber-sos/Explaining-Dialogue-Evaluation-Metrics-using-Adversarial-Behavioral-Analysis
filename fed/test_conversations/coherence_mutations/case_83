@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: hey, what's up?
+User: How was the trip last weekend?
+System: it was really fun. I had a great time with my family.
+User: Nice, what all places did you cover?
+System: Vietnam and Hongkong :) did you go any where last weekend?
+modified_conversation
+User: Hi!
+System: hey, what's up?
+User: How was the trip last weekend?
+System: it was really fun. I had a great time with my family.
+User: Nice, what all places did you cover?
+System: I ate about an hour ago and had a sandwich the rain didn't make me want to travel far haha

@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: Hi there.
+User: what's your favorite food?
+System: . I require only kebabs.
+User: chicken? beef? which is your favorite?
+System: Why did the chicken cross the road? Beef tastes like a dead cow to me. My favourite what?
+modified_conversation
+User: Hi!
+System: Hi there.
+User: what's your favorite food?
+System: . I require only kebabs.
+User: chicken? beef? which is your favorite?
+System: I think I like beef better.

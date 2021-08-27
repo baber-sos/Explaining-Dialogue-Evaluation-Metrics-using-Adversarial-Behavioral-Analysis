@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hey
+User: How's your day going?
+System: pretty good. yours?
+User: Ehh it's fine. I didn't do so well on that history test, actually..
+System: oh what happened?
+User: Apparently Christopher Columbus didn't fight in the Civil War :')
+System: hahah wait for real?
+User: I know right! Are you taking History next semester?
+System: No I'm not in school anymore
+modified_conversation
+System: hahah wait for real?
+System: No I'm not in school anymore
+User: How's your day going?
+System: Hey
+System: oh what happened?
+User: I know right! Are you taking History next semester?
+System: pretty good. yours?
+User: Ehh it's fine. I didn't do so well on that history test, actually..
+User: Apparently Christopher Columbus didn't fight in the Civil War :')
+User: Hi!

@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: Hello. How's your week coming along?
+User: It's great, thanks. I'm trying to learn how to make croissants.
+modified_conversation
+User: I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+System: Hello. How's your week coming along?
+User: It's great, thanks. I'm trying to learn how to make croissants.

@@ -1,0 +1,12 @@
+original_conversation
+User: Hi!
+System: hey, whats up?
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+System: well, I'm not sure I'm the best for the job, but I can try!
+User: I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+modified_conversation
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+User: Hi!
+System: hey, whats up?
+User: I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+System: well, I'm not sure I'm the best for the job, but I can try!

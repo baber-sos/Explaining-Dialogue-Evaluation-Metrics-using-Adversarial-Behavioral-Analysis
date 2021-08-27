@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: hello there, how is it going?
+User: Pretty great. I just won a pingpong game. What about you?
+System: that's nice. I am just working on some documentation. Do you play pingpong often?
+User: No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+System: thats very impressive then, congrats!
+modified_conversation
+System: thats very impressive then, congrats!
+System: that's nice. I am just working on some documentation. Do you play pingpong often?
+System: hello there, how is it going?
+User: Pretty great. I just won a pingpong game. What about you?
+User: No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+User: Hi!

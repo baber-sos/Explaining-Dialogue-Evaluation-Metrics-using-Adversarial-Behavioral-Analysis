@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: Hey! How have you been
+User: great! just came back from a ski trip
+System: How was it? What trails did you ski on?
+User: I slammed onto an ice wall, but I got better and turning after that haha
+System: a resort in Montreal
+User: Oh cool! do you know any french? I used to take french in high school but basically forgot most of it
+System: Yeah I grew up speaking it. It's pretty much mandatory here
+modified_conversation
+User: Hi!
+System: Hey! How have you been
+User: great! just came back from a ski trip
+User: did you cook it at home, or got it from outside?
+User: I slammed onto an ice wall, but I got better and turning after that haha
+System: a resort in Montreal
+User: Oh cool! do you know any french? I used to take french in high school but basically forgot most of it
+System: Yeah I grew up speaking it. It's pretty much mandatory here

@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: hey, whats up?
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+System: well, I'm not sure I'm the best for the job, but I can try!
+User: I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?
+System: I'm afraid not, right now I'm in a meeting and I'll be going for lunch afterwards. How about tomorrow at noon?
+User: No problem! Sure. We still have plenty of time for the test. Anyways, how's your preparation going?
+System: not feeling too sure about it tbh. I've been super busy so I haven't study much :(. I might join some of the study sessions later
+modified_conversation
+User: Hi!
+User: No problem! Sure. We still have plenty of time for the test. Anyways, how's your preparation going?
+System: hey, whats up?
+System: not feeling too sure about it tbh. I've been super busy so I haven't study much :(. I might join some of the study sessions later
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+System: It was really fun! We are a bunch of turkey
+System: I'm afraid not, right now I'm in a meeting and I'll be going for lunch afterwards. How about tomorrow at noon?
+System: well, I'm not sure I'm the best for the job, but I can try!

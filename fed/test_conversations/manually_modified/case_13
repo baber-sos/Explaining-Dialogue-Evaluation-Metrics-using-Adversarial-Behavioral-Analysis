@@ -1,0 +1,18 @@
+original_conversation
+User: Hi
+System: Hi there.
+User: What do you know about Cricket?
+System: Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having long antennae. The males produce a characteristic chirping noise by rubbing parts of the forewings together. Cricket is also a sport which is about as exciting as watching paint dry.
+User: I am talking about the sport Cricket
+System: Yes, it is the topic.
+User: can you tell me something interesting related to cricket?
+System: Cathy said she send him a mail with the subject last mail last word from him.
+modified_conversation
+User: Hi
+System: Hi there.
+User: What do you know about Cricket?
+System: Any of various families of genereally dark-colored, leaping, orthopteran insects, usually having long antennae. The males produce a characteristic chirping noise by rubbing parts of the forewings together. Cricket is also a sport which is about as exciting as watching paint dry.
+User: I am talking about the sport Cricket
+System: Yes, it is the topic.
+User: can you tell me something interesting related to cricket?
+System: Opening batsmen have a very important role to play during the batting phase!

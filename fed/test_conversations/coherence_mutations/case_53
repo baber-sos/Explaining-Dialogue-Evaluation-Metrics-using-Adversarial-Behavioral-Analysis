@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Wow, hello. Can't believe we are finally talking!
+User: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+System: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+modified_conversation
+User: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+System: Wow, hello. Can't believe we are finally talking!
+System: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+System: Well, in my book, I took inspiration for the 24 days of Advent, and put together a workbook that you fill out each day for 24 days. It goes through accomplishments, passions, understanding, forgiveness, with each day a different theme.

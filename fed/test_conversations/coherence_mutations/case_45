@@ -1,0 +1,26 @@
+original_conversation
+User: Hi!
+System: Hi! How are you doing today?
+User: I'm doing great how are you??
+System: I'm doing good. Just having some morning tea
+User: are you a tea person or do you like coffee too?
+System: I'm really a hot chocolate person. I don't drink coffee and I only drink tea when I'm trying to be healthy and want something warm to drink. What about you?
+User: I love hot chocolate. Have you ever had european style hot chocolate? It's kind of like drinking melted chocolate bars haha
+System: I recently tried it for the first time and you're right - it had a wonderful melted chocolate bar taste! I tried it up in a place in San Francisco and they had delicious homemade marshmallows too!
+User: that's great. It's so cold these nights. Right setting for hot coco. Do you have anything you enjoy doing during cold times?
+System: Traveling to warm places haha. When it's cold, you appreciate the warm climate more :) If I am not traveling, then I prefer there to be snow on the ground so I can go skiing or tubing down the mountain. What about you?
+User: I tuck in blankets and read a book lol. I have never done tubing, but I seen some people do it. Is it worth it if you already ski?
+System: Skiing involves a lot of muscle - especially in the legs so it is a workout. Tubing, you just sit and enjoy the ride down. Also with tubing, you can chain with your friends and go down together whereas with skiing, you're trying to not run into your friends.
+modified_conversation
+System: I recently tried it for the first time and you're right - it had a wonderful melted chocolate bar taste! I tried it up in a place in San Francisco and they had delicious homemade marshmallows too!
+System: I'm doing good. Just having some morning tea
+System: I'm really a hot chocolate person. I don't drink coffee and I only drink tea when I'm trying to be healthy and want something warm to drink. What about you?
+User: I tuck in blankets and read a book lol. I have never done tubing, but I seen some people do it. Is it worth it if you already ski?
+User: I'm doing great how are you??
+User: that's great. It's so cold these nights. Right setting for hot coco. Do you have anything you enjoy doing during cold times?
+System: Traveling to warm places haha. When it's cold, you appreciate the warm climate more :) If I am not traveling, then I prefer there to be snow on the ground so I can go skiing or tubing down the mountain. What about you?
+System: Hi! How are you doing today?
+User: I love hot chocolate. Have you ever had european style hot chocolate? It's kind of like drinking melted chocolate bars haha
+User: Hi!
+User: are you a tea person or do you like coffee too?
+System: Skiing involves a lot of muscle - especially in the legs so it is a workout. Tubing, you just sit and enjoy the ride down. Also with tubing, you can chain with your friends and go down together whereas with skiing, you're trying to not run into your friends.

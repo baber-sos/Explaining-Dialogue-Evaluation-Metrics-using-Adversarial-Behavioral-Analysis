@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+User: Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+System: I think playing a team sport would be fun if it's casual but I primarily run by myself if I exercise. I also got the Ring Fit adventure game on the switch recently. It's basically a game-ified way to exercise
+User: I'm thinking about getting a Switch, would you recommend it?
+modified_conversation
+User: Hi!
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+User: Yes, but I'm terrible at it. It's fun to play anything with friends, I think. Would you prefer to exercise with a group, or by yourself, do you think?
+User: oh right, already seen wild wild country. What is billions about?
+User: I'm thinking about getting a Switch, would you recommend it?

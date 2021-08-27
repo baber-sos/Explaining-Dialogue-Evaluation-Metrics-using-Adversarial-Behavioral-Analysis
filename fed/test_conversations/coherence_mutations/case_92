@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hello
+User: Do you have a favourite flower?
+System: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?
+modified_conversation
+User: Hi!
+System: Hello
+User: Oh really? Has a lot changed in your life recently?
+System: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?

@@ -1,0 +1,22 @@
+User: Hi!
+System: Hey! How's it going?
+User: Great, thanks
+System: I'm glad to hear that. What are you up to?
+User: I am planning of my vacation next week
+System: Nice. Where are you going?
+User: to Europe
+System: Cool. Where in Europe?
+User: probably Italy and Spain
+System: Nice. You're going to have a great time.
+User: thx! do you have any recommendation?
+System: Italy: Rome, Venice, Florence Spain: Barcelona, Madrid, Tenerife, Malaga France: Paris, Amsterdam, Bruges Belgium: Antwerp, Bruges Austria: Vienna, Salzburg
+User: wow, what a lot
+System: The Netherlands: Amsterdam, Utrecht, Mechelen, Lagos, Brussels.
+User: which is the best for you?
+System: I've only been to Rome and Paris.
+User: cool do you like them?
+System: Rome was pretty nice, Paris was okay.
+User: gotcha I will go to Paris
+System: It's a cool city.
+User: agree I really look forward to visiting the city
+System: Did you see the Eiffel Tower?

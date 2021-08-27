@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hello!
+User: Do you have any holiday plans for christmas?
+System: Nothing much, I am going to sit back and relax at home, how about you ?
+User: Same here! I would imagine spending the whole time watching movies and netflix shows. Do you have any netflix recommendations for me?
+System: Netflix has great documentaries on different topics , I particularly liked wild wild country and explained, as for shows you should watch 'billions' Hope you like them!
+User: oh right, already seen wild wild country. What is billions about?
+System: It's based on the life of a wall street hedge fund owner, how he makes money and fights with the government when they try to destroy him. Very well made and has a good plot.
+User: I have just seen 1 season of Friends I should give it another try though :) Have you seen Frasier?
+System: Not yet What's it about?
+modified_conversation
+User: Hi!
+System: Hello!
+User: Do you have any holiday plans for christmas?
+System: Nothing much, I am going to sit back and relax at home, how about you ?
+User: Same here! I would imagine spending the whole time watching movies and netflix shows. Do you have any netflix recommendations for me?
+System: Netflix has great documentaries on different topics , I particularly liked wild wild country and explained, as for shows you should watch 'billions' Hope you like them!
+User: oh right, already seen wild wild country. What is billions about?
+System: It's based on the life of a wall street hedge fund owner, how he makes money and fights with the government when they try to destroy him. Very well made and has a good plot.
+System: No, the opposite. I can't stand heights, horror movies, or confined spaces.
+System: Not yet What's it about?

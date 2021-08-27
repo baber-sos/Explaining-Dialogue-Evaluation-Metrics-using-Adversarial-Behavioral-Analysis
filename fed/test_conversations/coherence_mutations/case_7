@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: hey, whats up?
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+modified_conversation
+System: hey, whats up?
+User: I was not able to attend the lectures last week. Can you help me understand some concepts?
+User: Hi!

@@ -1,0 +1,6 @@
+User: Hi!
+System: Hi there.
+User: what's your favorite food?
+System: . I require only kebabs.
+User: chicken? beef? which is your favorite?
+System: I think I like beef better.

@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: Hello, how are you doing today?
+User: I heard they are giving out some goodies in microkitchen.
+System: I love pop ups! What kind of goodies are they giving away?
+User: I guess its a jacket! Very much needed that in the cold :)
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+modified_conversation
+User: I heard they are giving out some goodies in microkitchen.
+System: Hello, how are you doing today?
+System: I love pop ups! What kind of goodies are they giving away?
+System: No, only a few minutes. I still find it difficult to run long races
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+User: Hi!

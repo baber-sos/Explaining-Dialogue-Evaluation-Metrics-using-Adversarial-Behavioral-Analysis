@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hello! What are you up to today?
+User: Do you like sushi?
+System: I love sushi! What kind of rolls do you enjoy?
+User: I like tuna roll of course
+System: Tuna Rolls are the best! How do you feel about spicy tuna rolls?
+User: They're great
+System: Spicy tuna rolls are the best! What kind of rolls do you like best?
+User: I already told you. What do you like?
+System: I like spicy tuna rolls! Do you like spicy tuna rolls?
+modified_conversation
+User: Hi!
+System: Hello! What are you up to today?
+User: Do you like sushi?
+System: I love sushi! What kind of rolls do you enjoy?
+User: I like tuna roll of course
+System: Tuna Rolls are the best! How do you feel about spicy tuna rolls?
+User: They're great
+System: Spicy tuna rolls are the best! What kind of rolls do you like best?
+User: I already told you. What do you like?
+System: I like spicy tuna rolls!

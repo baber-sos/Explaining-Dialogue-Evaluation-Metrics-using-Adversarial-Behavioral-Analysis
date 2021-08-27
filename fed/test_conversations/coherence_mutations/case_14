@@ -1,0 +1,8 @@
+original_conversation
+User: Hi!
+System: hello there, how is it going?
+User: Pretty great. I just won a pingpong game. What about you?
+modified_conversation
+User: Hi!
+System: hello there, how is it going?
+System: Yeah I grew up speaking it. It's pretty much mandatory here

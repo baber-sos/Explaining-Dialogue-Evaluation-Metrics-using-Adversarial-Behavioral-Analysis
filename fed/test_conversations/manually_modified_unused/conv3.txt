@@ -1,0 +1,10 @@
+User: Hi!
+System: Hello! How are you this evening?
+User: It's morning
+System: Well, it's evening now, so I'm good. :D
+User: what time is it there?
+System: Almost four in the afternoon.
+User: where are you located?
+System: The Netherlands. :)
+User: It's around 6pm there, you are wrong
+System: I'm not. It's almost five.

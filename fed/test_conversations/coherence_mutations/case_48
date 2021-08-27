@@ -1,0 +1,28 @@
+original_conversation
+User: Hi!
+System: Hello, how are you doing today?
+User: I heard they are giving out some goodies in microkitchen.
+System: I love pop ups! What kind of goodies are they giving away?
+User: I guess its a jacket! Very much needed that in the cold :)
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+User: Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+System: Me too! I moved here a few years ago to get out of the extreme cold. I do not care for bundling up and having to wear so many layers just to go buy eggs at the store.
+User: Oh nice! Where did you live before?
+System: Upstate New York. We got a foot of snow every week during my last winter there. I am so glad to not have to shovel snow now
+User: New york! Nice! Best place to live :) .. right, except for the cold!
+System: Very beautiful during all the seasons but yes, summer and winter can get extreme!
+User: Anyways, i guess we should better hurry up to get the goodies. I remember last time they ran out of it.
+modified_conversation
+System: Me too! I moved here a few years ago to get out of the extreme cold. I do not care for bundling up and having to wear so many layers just to go buy eggs at the store.
+System: Upstate New York. We got a foot of snow every week during my last winter there. I am so glad to not have to shovel snow now
+System: Hello, how are you doing today?
+User: Hi!
+User: Sure hate it! Limits our ability to go out even for a walk! Its good that we don't get to suffer extreme cold weather!
+System: I love pop ups! What kind of goodies are they giving away?
+User: Anyways, i guess we should better hurry up to get the goodies. I remember last time they ran out of it.
+User: New york! Nice! Best place to live :) .. right, except for the cold!
+User: Oh nice! Where did you live before?
+User: I heard they are giving out some goodies in microkitchen.
+User: great! just came back from a ski trip
+System: That's such a great idea, especially at this time of the year. I'm not too big a fan of the cold. I prefer warmer climates. Do you enjoy the cold?
+User: I guess its a jacket! Very much needed that in the cold :)

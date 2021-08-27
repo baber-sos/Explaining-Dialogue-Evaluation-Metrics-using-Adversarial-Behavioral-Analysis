@@ -1,0 +1,24 @@
+original_conversation
+User: Hi!
+System: Hello
+User: Do you have a favourite flower?
+System: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?
+User: I'm working on a theory. Why does the lotus spring to mind?
+System: Nice! Lotus looks pretty cool and It has some delightful vibe. So what is this research about?
+User: Oh, it's not research! Just a personal theory. I think that flower preferences are more revealing of personality than people appreciate.
+System: Interesting! Whats your favorite flower?
+User: The gerbera. It's like a cartoon flower. As if you drew "flower" with a crayon and then it came to life.
+System: Nice, i would love know more about your theory. Like how you can deduce personality from flower preference.
+User: Ok, step 1 is, you ask someone what their favourite flower is. Pretty much like what we just did. Does that make sense so far?
+modified_conversation
+System: oh have you been?
+System: Hello
+User: Do you have a favourite flower?
+System: hmm, I haven't thought about that much, but i think lotus should be one of my favorites. Why do you ask?
+User: I'm working on a theory. Why does the lotus spring to mind?
+System: Nice! Lotus looks pretty cool and It has some delightful vibe. So what is this research about?
+User: Oh, it's not research! Just a personal theory. I think that flower preferences are more revealing of personality than people appreciate.
+System: Interesting! Whats your favorite flower?
+User: The gerbera. It's like a cartoon flower. As if you drew "flower" with a crayon and then it came to life.
+System: Nice, i would love know more about your theory. Like how you can deduce personality from flower preference.
+User: Ok, step 1 is, you ask someone what their favourite flower is. Pretty much like what we just did. Does that make sense so far?

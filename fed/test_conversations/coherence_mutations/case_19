@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: Hey how's it going
+User: It's good it's good. How are you?
+System: good. it's really hot today. I think I'm going to the pool
+User: Oh nice! Where do you live?
+System: I live in Tokyo, Japan
+User: Ahh yes, Japan is hot during the summer. Last time I was in Kyoto it was 114 degrees....
+System: oh have you been?
+modified_conversation
+User: Hi!
+System: Hey how's it going
+User: It's good it's good. How are you?
+System: good. it's really hot today. I think I'm going to the pool
+User: Oh nice! Where do you live?
+User: Yes! We set up an eco-friendly (i.e. fake) Christmas tree and put up some colorful LED lights which is very festive.
+User: Ahh yes, Japan is hot during the summer. Last time I was in Kyoto it was 114 degrees....
+System: oh have you been?

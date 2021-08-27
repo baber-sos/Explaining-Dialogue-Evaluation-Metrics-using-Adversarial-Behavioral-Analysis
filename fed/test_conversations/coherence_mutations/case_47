@@ -1,0 +1,20 @@
+original_conversation
+User: Hi!
+System: Hi, how are you?
+User: I'm doing great. what are you up to?
+System: I was just reading a book actually How about you?
+User: oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+System: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha
+User: that seems like a good book. does it have good tips on how to sleep better?
+System: I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?
+User: I read lots of papers, but do poorly on books :( a recent book that I like is Zero to One by Peter Thiel
+modified_conversation
+User: Hi!
+User: Something Deeply Hidden by Sean Carroll REDACTED_LINK
+User: I'm doing great. what are you up to?
+System: I was just reading a book actually How about you?
+User: oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?
+System: I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha
+User: that seems like a good book. does it have good tips on how to sleep better?
+System: I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?
+User: I read lots of papers, but do poorly on books :( a recent book that I like is Zero to One by Peter Thiel

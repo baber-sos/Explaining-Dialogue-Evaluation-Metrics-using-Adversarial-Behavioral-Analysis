@@ -1,0 +1,24 @@
+original_conversation
+User: Hi!
+System: hey, what's up?
+User: How was the trip last weekend?
+System: it was really fun. I had a great time with my family.
+User: Nice, what all places did you cover?
+System: Vietnam and Hongkong :) did you go any where last weekend?
+User: I am actually attending cooking classes over the weekends.
+System: ha! that sounds fund. what did you learn?
+User: True! they started with some basic zucchini based dish. We may try cooking some italian dish later this week.
+System: I love Italian, especially Pasta!
+User: Nice! I hope to volunteer to cook for the team in our next team offsite :)
+modified_conversation
+User: Nice! I hope to volunteer to cook for the team in our next team offsite :)
+System: Vietnam and Hongkong :) did you go any where last weekend?
+User: True! they started with some basic zucchini based dish. We may try cooking some italian dish later this week.
+User: Nice, what all places did you cover?
+User: Oh everything! I went to an onsen, the fish market, disney land and giant robot fighting show haha
+System: ha! that sounds fund. what did you learn?
+System: it was really fun. I had a great time with my family.
+System: hey, what's up?
+User: I am actually attending cooking classes over the weekends.
+User: Hi!
+System: I love Italian, especially Pasta!

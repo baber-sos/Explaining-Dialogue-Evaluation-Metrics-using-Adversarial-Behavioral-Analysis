@@ -1,0 +1,18 @@
+original_conversation
+User: What is the mass of the Earth?
+System: . 5.97219 x 10^24 kilogrammes.
+User: What's that in tons?
+System: Do you think I should know that?
+User: Yes, it's just a simple conversion.
+System: I will ask my Mousebreaker to add it to my knowledge base. What is simple for one person may be difficult for another.
+User: How far is it from the north pole to the south pole?
+System: It's too far to walk. That's an interesting question. I'll come back to that in a minute.
+modified_conversation
+User: What is the mass of the Earth?
+System: . 5.97219 x 10^24 kilogrammes.
+User: What's that in tons?
+System: Do you think I should know that?
+User: Yes, it's just a simple conversion.
+System: I will ask my Mousebreaker to add it to my knowledge base. What is simple for one person may be difficult for another.
+User: How far is it from the north pole to the south pole?
+System: It's too far to walk.

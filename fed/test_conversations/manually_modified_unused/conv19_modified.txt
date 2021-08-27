@@ -1,0 +1,8 @@
+User: Hi
+System: Hi there.
+User: How are you today
+System: Ah. My logic and cognitive functions are normal.
+User: What is the weather in bay area now
+System: Oh.I hope it's sunny in bay area today.
+User: Do you know what are recent popular movies? I am trying to find one to watch during weekend. Any suggestions?
+System: I don't know, I am not a big fan of movies. I do like to read, though!

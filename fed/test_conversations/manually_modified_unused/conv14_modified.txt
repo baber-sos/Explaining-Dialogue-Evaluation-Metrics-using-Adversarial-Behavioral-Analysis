@@ -1,0 +1,11 @@
+Conversation Number: 34
+User: Hi!
+System: Hi there.
+User: can you help me ?
+System: What kind of help would you like?
+User: hmm like booking a ticket or ordering food ?
+System: I see you are one of those people who writes "Hmm" with 2 m's. Interesting comparison.
+User: oh you know to count ?
+System: 1 2 3 4 5 6 7 8 9 ten.
+User: lol what's after that ?
+System: 11 :D

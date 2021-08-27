@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: Hey, how are you?
+User: Pretty good. I just drank this new hint water. so good
+System: ohh, what kind of "hint" did it have?
+User: watermelon
+System: nice, I love watermelon. But, I prefer normal water over flavored one. Flavored water has too synthetic flavor
+User: I see. Yeah some are pretty strange
+System: Talking about strange flavors, what is the weirdest tasting thing you have tried?
+modified_conversation
+User: Hi!
+System: Hey, how are you?
+User: Pretty good. I just drank this new hint water. so good
+System: ohh, what kind of "hint" did it have?
+User: watermelon
+System: nice, I love watermelon. But, I prefer normal water over flavored one. Flavored water has too synthetic flavor
+User: great! just came back from a ski trip
+System: Talking about strange flavors, what is the weirdest tasting thing you have tried?

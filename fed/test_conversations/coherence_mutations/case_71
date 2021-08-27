@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Hey, what's up?
+User: Just chillin'. how are you?
+System: I'm pretty good, thanks.
+User: Do anything interesting today?
+System: I went to the local cafe and had a double espresso. It was delicious. What about you?
+User: Oh that's cool! I actually went to an amusement park and went on my first roller coaster!
+modified_conversation
+User: Oh that's cool! I actually went to an amusement park and went on my first roller coaster!
+User: Do anything interesting today?
+System: Hey, what's up?
+User: Hi!
+System: I went to the local cafe and had a double espresso. It was delicious. What about you?
+User: Just chillin'. how are you?
+System: I'm pretty good, thanks.

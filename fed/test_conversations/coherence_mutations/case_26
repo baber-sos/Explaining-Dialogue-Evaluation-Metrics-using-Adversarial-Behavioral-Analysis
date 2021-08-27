@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hello, how is your day?
+User: It's good. It's raining a bit, but I am enjoying a good book. How about you?
+System: It's good, I just got back from walking my dog What book did you read?
+modified_conversation
+User: It's good. It's raining a bit, but I am enjoying a good book. How about you?
+User: Hi!
+System: Hello, how is your day?
+System: It's good, I just got back from walking my dog What book did you read?

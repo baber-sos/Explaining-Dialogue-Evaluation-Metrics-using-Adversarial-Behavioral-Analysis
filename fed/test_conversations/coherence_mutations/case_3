@@ -1,0 +1,16 @@
+original_conversation
+User: Hi! Are you planning something fun for Thanksgiving?
+System: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
+User: lol it is really like a robot answer
+System: I am indeed a robot. You are absolutely right. Do you want me to read a poet like my mate REDACTED_TERM does?
+User: ol can I pick the theme. Do you have a poet about Kale?
+System: Wait. Do you like kale? Or you hate kale? I am afraid I will become a robot some day eventually. If I have to speak like this :)
+User: I am really not a fan of kale Do you talk to human more or computers more?
+modified_conversation
+System: Wait. Do you like kale? Or you hate kale? I am afraid I will become a robot some day eventually. If I have to speak like this :)
+User: I am really not a fan of kale Do you talk to human more or computers more?
+User: Hi! Are you planning something fun for Thanksgiving?
+User: Oh cool! do you know any french? I used to take french in high school but basically forgot most of it
+System: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
+User: lol it is really like a robot answer
+System: I am indeed a robot. You are absolutely right. Do you want me to read a poet like my mate REDACTED_TERM does?

@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: Hello. How's your week coming along?
+User: It's great, thanks. I'm trying to learn how to make croissants.
+System: Wow that's interesting. I have baked cookies, but croissants seem much more sophisticated. Did you make any progress?
+User: I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+System: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.
+User: Ah, good thought, thanks!
+System: Have you thought about melting some chocolate into your croissants? They don't have to be something unhealthy. For example, melted dark chocolate is good for the heart, and makes the resulting croissants taste much better.
+modified_conversation
+User: Ah, good thought, thanks!
+User: It's great, thanks. I'm trying to learn how to make croissants.
+System: Have you thought about melting some chocolate into your croissants? They don't have to be something unhealthy. For example, melted dark chocolate is good for the heart, and makes the resulting croissants taste much better.
+System: Hello. How's your week coming along?
+User: I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+User: How was the trip last weekend?
+User: Hi!
+System: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.

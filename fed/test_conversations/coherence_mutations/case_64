@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: hi
+User: what are you up to?
+System: code refactoring. you?
+User: me? just chilling out at work. what is code refactoring?
+System: good question. I don't even know what I am doing
+modified_conversation
+User: me? just chilling out at work. what is code refactoring?
+System: Awesome! Is this the first time you are diving?
+User: what are you up to?
+System: code refactoring. you?
+System: good question. I don't even know what I am doing
+System: hi

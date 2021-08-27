@@ -1,0 +1,12 @@
+original_conversation
+User: Hi!
+System: Hi. This is a pleasant surprise.
+User: Haha...thanks! how did you like the gift?
+System: Currently unpacking it I guess. How's your morning?
+User: Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+modified_conversation
+User: Haha...thanks! how did you like the gift?
+User: Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+System: Currently unpacking it I guess. How's your morning?
+User: Hi!
+System: Hi. This is a pleasant surprise.

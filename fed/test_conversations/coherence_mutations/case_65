@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity
+modified_conversation
+System: Have you thought about melting some chocolate into your croissants? They don't have to be something unhealthy. For example, melted dark chocolate is good for the heart, and makes the resulting croissants taste much better.
+System: Hi! Sorry for the late response. How are you doing?
+User: I'm great, thanks! I'm meeting some friends for a soccer game soon. What about you?
+System: I just got a matcha latte :) Doing some work at my desk. Do you play soccer often? I'm trying to get into doing a regular physical activity

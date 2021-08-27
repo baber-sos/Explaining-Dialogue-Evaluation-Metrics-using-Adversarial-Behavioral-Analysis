@@ -1,0 +1,18 @@
+original_conversation
+User: Hi!
+System: hey, what's up?
+User: How was the trip last weekend?
+System: it was really fun. I had a great time with my family.
+User: Nice, what all places did you cover?
+System: Vietnam and Hongkong :) did you go any where last weekend?
+User: I am actually attending cooking classes over the weekends.
+System: ha! that sounds fund. what did you learn?
+modified_conversation
+System: Vietnam and Hongkong :) did you go any where last weekend?
+User: I am actually attending cooking classes over the weekends.
+System: Nope, that would be extreme. May be just putting some balance between the two options.
+System: it was really fun. I had a great time with my family.
+System: ha! that sounds fund. what did you learn?
+User: Hi!
+User: How was the trip last weekend?
+System: hey, what's up?

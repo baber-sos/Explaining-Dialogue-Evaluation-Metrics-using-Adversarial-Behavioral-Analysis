@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Hi. This is a pleasant surprise.
+User: Haha...thanks! how did you like the gift?
+System: Currently unpacking it I guess. How's your morning?
+User: Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+System: I think I traveled too much the last couple of months so no holiday for me. But I'm okay with that. Going anywhere exciting?
+User: Yes
+modified_conversation
+User: Hope you like it! Morning is good. Busy finishing up stuff before the holidays.
+User: Hi!
+User: Haha...thanks! how did you like the gift?
+User: Yes
+User: Oh everything! I went to an onsen, the fish market, disney land and giant robot fighting show haha
+System: Hi. This is a pleasant surprise.
+System: I think I traveled too much the last couple of months so no holiday for me. But I'm okay with that. Going anywhere exciting?

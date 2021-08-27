@@ -1,0 +1,12 @@
+original_conversation
+User: Hi!
+System: Hey!
+User: How's your day going?
+System: Having fun, but have a bit of a headache How about you?
+User: I'm good! Just getting ready to watch a basketball game. Hope your headache goes away!
+modified_conversation
+User: Hehe! How long was the stay?
+System: Having fun, but have a bit of a headache How about you?
+User: Hi!
+System: Hey!
+User: How's your day going?

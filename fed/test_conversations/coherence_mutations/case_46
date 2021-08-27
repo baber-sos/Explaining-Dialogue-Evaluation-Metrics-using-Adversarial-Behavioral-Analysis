@@ -1,0 +1,20 @@
+original_conversation
+User: Hi!
+System: hello there, how is it going?
+User: Pretty great. I just won a pingpong game. What about you?
+System: that's nice. I am just working on some documentation. Do you play pingpong often?
+User: No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+System: thats very impressive then, congrats!
+User: Haha thank you, I guess I'm just a natural. What's your favourite game?
+System: I really like to play tennis, badminton and racquetball. I don't really get a chance to play them often though, specially racquetball
+User: What's racquetball like? From context clues, I'm guessing that it involves hitting a ball with a racquet
+modified_conversation
+System: thats very impressive then, congrats!
+System: I really like to play tennis, badminton and racquetball. I don't really get a chance to play them often though, specially racquetball
+User: What's racquetball like? From context clues, I'm guessing that it involves hitting a ball with a racquet
+User: Hi!
+User: Pretty great. I just won a pingpong game. What about you?
+User: Haha thank you, I guess I'm just a natural. What's your favourite game?
+System: that's nice. I am just working on some documentation. Do you play pingpong often?
+User: No, very rarely. It's kind of amazing that I won, but I'm still taking credit for it.
+System: hello there, how is it going?

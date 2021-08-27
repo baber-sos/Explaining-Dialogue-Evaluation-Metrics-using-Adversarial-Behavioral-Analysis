@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Oh hey. How's your day been?
+User: It's good! Just went to the park to enjoy the sun. You?
+System: The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire.
+User: Haha, beach season is coming! You need to look tan! What did you do indoors all day?
+System: I mostly work. Sometimes I try looking at at beach photos and pretending that I'm actually going to the beach.
+User: hahahaha, that's pretty funny. Ever thought of bringing your work things to the beach??
+modified_conversation
+System: I mostly work. Sometimes I try looking at at beach photos and pretending that I'm actually going to the beach.
+User: Haha, beach season is coming! You need to look tan! What did you do indoors all day?
+User: hahahaha, that's pretty funny. Ever thought of bringing your work things to the beach??
+System: Oh hey. How's your day been?
+System: The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire.
+User: It's good! Just went to the park to enjoy the sun. You?
+User: Hi!

@@ -1,0 +1,10 @@
+original_conversation
+User: Hi!
+System: Oh hey. How's your day been?
+User: It's good! Just went to the park to enjoy the sun. You?
+System: The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire.
+modified_conversation
+User: It's good! Just went to the park to enjoy the sun. You?
+User: Great! Good idea to help people figuring out their new year resolutions :) So how do i get a fresher outlook? :)
+System: Oh hey. How's your day been?
+System: The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire.

@@ -1,0 +1,8 @@
+original_conversation
+User: Hi! Are you planning something fun for Thanksgiving?
+System: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
+User: lol it is really like a robot answer
+modified_conversation
+User: Hi! Are you planning something fun for Thanksgiving?
+System: Not yet. I always made my last minute schedule planning. Probably you can try to ask me again next week.
+System: not feeling too sure about it tbh. I've been super busy so I haven't study much :(. I might join some of the study sessions later

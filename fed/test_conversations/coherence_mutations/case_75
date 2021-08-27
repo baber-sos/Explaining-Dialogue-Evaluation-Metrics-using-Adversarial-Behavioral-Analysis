@@ -1,0 +1,30 @@
+original_conversation
+User: Hi!
+System: Have you seen any good movies lately?
+User: Last weekend I saw "The Parasite." Ever heard of it?
+System: No. Why did you pick that movie?
+User: My friend wanted to see it. It has great reviews on IMDB and Rotten Tomatoes! What did you do last weekend?
+System: I played music and worked on some side projects. I also started watching the new Disney service.
+User: Oooo the Mandalorian?!?!
+System: Mostly, the deleted scenes from Avengers.. lol
+User: lol Are you a big Marvel fan?
+System: I loved the X-Men as a kid, and even collected the comic cards. Recently, I got very into the Marvel Cinematic Universe movies. How many Avengers movies have you seen?
+User: I've only seen Spiderman. Honestly it was a little too scary and so I don't think I can bring myself to watch the other Marvel movies! haha
+System: Oh!-- I have a friend who looks like the actor who plays Spiderman.
+User: Oh really? To be honest I think the actor is not that good looking, so not so surprising! haha
+System: Yea. I think Loki is the most handsome :D
+modified_conversation
+User: Hi!
+System: Have you seen any good movies lately?
+User: Last weekend I saw "The Parasite." Ever heard of it?
+System: No. Why did you pick that movie?
+User: My friend wanted to see it. It has great reviews on IMDB and Rotten Tomatoes! What did you do last weekend?
+System: I played music and worked on some side projects. I also started watching the new Disney service.
+User: It's great, thanks. I'm trying to learn how to make croissants.
+System: Mostly, the deleted scenes from Avengers.. lol
+User: lol Are you a big Marvel fan?
+System: I loved the X-Men as a kid, and even collected the comic cards. Recently, I got very into the Marvel Cinematic Universe movies. How many Avengers movies have you seen?
+User: I've only seen Spiderman. Honestly it was a little too scary and so I don't think I can bring myself to watch the other Marvel movies! haha
+System: Oh!-- I have a friend who looks like the actor who plays Spiderman.
+User: Oh really? To be honest I think the actor is not that good looking, so not so surprising! haha
+System: Yea. I think Loki is the most handsome :D

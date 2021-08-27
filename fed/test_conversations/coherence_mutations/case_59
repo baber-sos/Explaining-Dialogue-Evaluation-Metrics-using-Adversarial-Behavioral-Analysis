@@ -1,0 +1,16 @@
+original_conversation
+User: Hi!
+System: Hello. How's your week coming along?
+User: It's great, thanks. I'm trying to learn how to make croissants.
+System: Wow that's interesting. I have baked cookies, but croissants seem much more sophisticated. Did you make any progress?
+User: I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+System: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.
+User: Ah, good thought, thanks!
+modified_conversation
+User: Hi!
+User: It's great, thanks. I'm trying to learn how to make croissants.
+User: I've done them once or twice so far, but they haven't been flakey enough. I'm trying to figure out why. What kind of cookies have you made?
+System: Wow that's interesting. I have baked cookies, but croissants seem much more sophisticated. Did you make any progress?
+System: Hello. How's your week coming along?
+System: Mint chocolate chips. I think your croissants not being flakey could have something to do with your oven's temperature.
+User: Ah, good thought, thanks!

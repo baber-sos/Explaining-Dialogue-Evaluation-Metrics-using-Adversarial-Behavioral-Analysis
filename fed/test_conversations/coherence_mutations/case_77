@@ -1,0 +1,12 @@
+original_conversation
+User: Hi!
+System: Wow, hello. Can't believe we are finally talking!
+User: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+System: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+User: Great! Vietnam is still in my TODO bucket list. Did you also visit cambodia and other neighboring places?
+modified_conversation
+User: Hi!
+System: Yes! There are a lot of really great games on the Switch. Two of my favorites are Octopath Traveler and Fire Emblem. Do you play a lot of video games?
+User: Yeah, sorry for the long gap! I heard you took a break and were travelling around the world. How was the travel?
+System: It was an interesting trip. I got to see some exotic places. For example, I hiked the Son Doong cave in Vietnam. It's the biggest and deepest cave in the world.
+User: Great! Vietnam is still in my TODO bucket list. Did you also visit cambodia and other neighboring places?

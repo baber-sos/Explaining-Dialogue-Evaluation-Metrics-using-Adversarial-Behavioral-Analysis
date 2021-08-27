@@ -1,0 +1,14 @@
+original_conversation
+User: Hi!
+System: What is your favorite holiday?
+User: one where I get to meet lots of different people.
+System: What was the most number of people you have ever met during a holiday?
+User: Hard to keep a count. Maybe 25.
+System: Which holiday was that?
+modified_conversation
+User: Hard to keep a count. Maybe 25.
+System: Which holiday was that?
+User: Last weekend I saw "The Parasite." Ever heard of it?
+User: Hi!
+User: one where I get to meet lots of different people.
+System: What is your favorite holiday?

@@ -1,0 +1,22 @@
+original_conversation
+User: Hi!
+System: Hello, how is your day?
+User: It's good. It's raining a bit, but I am enjoying a good book. How about you?
+System: It's good, I just got back from walking my dog What book did you read?
+User: I'm reading the Three Body Problem. Ever heard of it?
+System: No, what is it about?
+User: It's a sci-fi book about aliens and a type of virtual reality. Pique your interest at all?
+System: Slightly, I typically read fiction but I can curious what type of virtual reality is discussed in the book
+User: Cool. This virtual reality is a based on life on an alien planet. There is a twist though. Do you want me to spoil it for you?
+System: Yes!
+modified_conversation
+System: Slightly, I typically read fiction but I can curious what type of virtual reality is discussed in the book
+User: It's a sci-fi book about aliens and a type of virtual reality. Pique your interest at all?
+System: Yes!
+User: hmm.... okay. Climate change talk this morning was pretty darn interesting. did you see it?
+User: Cool. This virtual reality is a based on life on an alien planet. There is a twist though. Do you want me to spoil it for you?
+User: It's good. It's raining a bit, but I am enjoying a good book. How about you?
+User: Hi!
+System: Hello, how is your day?
+System: It's good, I just got back from walking my dog What book did you read?
+User: I'm reading the Three Body Problem. Ever heard of it?

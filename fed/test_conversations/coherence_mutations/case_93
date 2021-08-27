@@ -1,0 +1,28 @@
+original_conversation
+User: Hi!
+System: How's it going?
+User: I'm so sleepy today!
+System: Not enough sleep last night?
+User: yeah was working all night on a homework
+System: Oh really? What class?
+User: Biology. I'm gonna be a doc someday ha
+System: Haha, are you in med school? Or are you pre-med?
+User: no high school actually haha
+System: haha, very ambitious for a high schooler! Do you know what kind of medicine you want to practice?
+User: I wanna be a brain surgeon!!
+System: Ooof! VERY ambitious. Do you have steady hands?
+User: Kind of I think
+modified_conversation
+User: I wanna be a brain surgeon!!
+System: How's it going?
+User: Kind of I think
+System: Ooof! VERY ambitious. Do you have steady hands?
+User: Hi!
+System: Oh really? What class?
+User: I'm so sleepy today!
+User: yeah was working all night on a homework
+System: haha, very ambitious for a high schooler! Do you know what kind of medicine you want to practice?
+User: Biology. I'm gonna be a doc someday ha
+System: Not enough sleep last night?
+User: no high school actually haha
+System: Haha, are you in med school? Or are you pre-med?

@@ -1,0 +1,6 @@
+User: Hi!
+System: Hi there.
+User: You must be new around here!
+System: Not really. I am ten years old.
+User: Oh, I meant this neighborhood, not the planet earth! haha
+System: Hmmm. I moved in 2 years ago.
