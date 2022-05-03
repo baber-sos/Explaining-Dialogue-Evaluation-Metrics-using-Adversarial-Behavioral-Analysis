@@ -4,7 +4,7 @@ There is an increasing trend in using neural methods for dialogue model evaluati
 
 # URL to the paper
 
-The URL to our paper can be found at this link.
+To be added.
 
 # Repository Structure
 
