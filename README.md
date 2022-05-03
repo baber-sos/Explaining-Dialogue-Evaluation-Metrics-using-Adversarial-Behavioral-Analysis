@@ -10,7 +10,8 @@ To be added.
 
 ### Adversarial Conversation Generator
 The code to our mutation generator is in the directory _adversary_generator_. 
-The code for generating adversarial conversations resides in "generate_mutations.py". Please run the following to obtain the available runtime options:
+The code for generating adversarial conversations resides in "generate_mutations.py". Please run the following to obtain the available runtime options:  
+
 python generate_mutations.py --help  
 
 The adversarial generator expects a conversation sampler. An example implementation is in the "sample.py" file.  
