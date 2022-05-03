@@ -8,7 +8,19 @@ To be added.
 
 # Repository Structure
 
-The code to our mutation generator is in the directory _adversary_generator_. The main files are 
+### Adversarial Conversation Generator
+The code to our mutation generator is in the directory _adversary_generator_. 
+The code for generating adversarial conversations resides in "generate_mutations.py". Please run the following to obtain the available runtime options:
+python generate_mutations.py --help  
+
+The adversarial generator expects a conversation sampler. An example implementation is in the "sample.py" file.  
+
+### Score Comparison
+Some utilities to run a metric on both adversarial and ground-truth conversations is present in the "compare_conversations.py" file. It expects a file containing implementaion of a conversation_scorer class which is an abstraction representing a metric under investigation. An example can be found in "repo_root/DialogRPT/score.py".  
+
+python compare_conversations.py --help  
+This can be run to look at the available options for running the script.
+
 
 # Python Version
 
